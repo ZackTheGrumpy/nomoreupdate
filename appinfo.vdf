@@ -1,0 +1,230 @@
+"appid" "2216040"
+"common"
+{
+	"name" "How We Know We\'re Alive"
+	"type" "Game"
+	"icon" "3b921df6177fe690c63ea31e128d23be07a6df95"
+	"clienttga" "cda7eb083b568996d3d9b25d338b0ac27d063c7a"
+	"clienticon" "7ad1b8da8172138c6a85bf3a21f26bd3685bf270"
+	"clienticns" "62f697488e9ec6435d5cfae09d8faf7ead34c262"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "76.94994179278231"
+			"height_pct" "89.51555450011872"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "76.94994179278231"
+				"height_pct" "89.51555450011872"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1674546867"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Motvind Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Motvind Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1683286441"
+	"community_hub_visible" "1"
+	"gameid" "2216040"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "11014"
+		"2" "5900"
+		"3" "3871"
+		"4" "3964"
+		"5" "4252"
+		"6" "4166"
+		"7" "5608"
+		"8" "5716"
+		"9" "15277"
+		"10" "7208"
+		"11" "7250"
+		"12" "6971"
+		"13" "4182"
+		"14" "113"
+	}
+	"review_score" "8"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Motvind Studios"
+	"publisher" "Motvind Studios"
+	"isfreeapp" "1"
+	"listofdlc" "2249820"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "How We Know We\'re Alive"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HOW WE KNOW WE\'RE ALIVE.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "HWKWA_macOS.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "1"
+	"2249829"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "930715618377644120"
+				"size" "290949140"
+				"download" "96644352"
+			}
+		}
+	}
+	"2249828"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7303178928039625698"
+				"size" "314037487"
+				"download" "103948032"
+			}
+		}
+	}
+	"2249820"
+	{
+		"dlcappid" "2249820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8965031388505193926"
+				"size" "446820456"
+				"download" "431634704"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11174453"
+			"timeupdated" "1683455674"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26227019"
+"_sha" "b3de69f2788d5c48721c2fdace8ae55e5304e38c"
+"_size" "3514"
