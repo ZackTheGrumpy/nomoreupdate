@@ -1,0 +1,224 @@
+"appid" "2232100"
+"common"
+{
+	"name" "Towards the Unknown"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "754faf446af78738f6aa15852a551cab83b4a575"
+	"clienticon" "ae644b59d203cd91747b6464c0e6cffe80e847e3"
+	"icon" "473972c4f8f1f7ef7d2ebeb2c54a5564a8e841ee"
+	"releasestate" "released"
+	"clienticns" "ae644b59d203cd91747b6464c0e6cffe80e847e3"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1715299200"
+		"tested_build_id" "10632370"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1677096468"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TTU Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TTU Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"french"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1677221807"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2232100"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "42804"
+		"2" "14139"
+		"3" "5851"
+		"4" "4325"
+		"5" "9"
+		"6" "113"
+		"7" "492"
+		"8" "1708"
+		"9" "5716"
+		"10" "4182"
+	}
+	"review_score" "7"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "TTU Games"
+	"publisher" "TTU Games"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "TowardsTheUnknown"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Towards The Unknown.exe"
+		}
+	}
+}
+"depots"
+{
+	"2232101"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "245725686795519721"
+				"size" "1431689409"
+				"download" "210722912"
+			}
+		}
+	}
+	"baselanguages" "english,french"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10632370"
+			"timeupdated" "1677266405"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27266377"
+"_sha" "196ead04134d5c7869620738df017bb6e136afb3"
+"_size" "3761"
