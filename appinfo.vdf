@@ -1,0 +1,261 @@
+"appid" "2897240"
+"common"
+{
+	"name" "Puffin Planes"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "767986505ae30d81339ca02ffeb6db3172da1f92"
+	"clienticon" "ebeb60de969ee87d67e11f735253f63b71467d26"
+	"clienttga" "c2889cada9b46e018de8d4f8b3364b02141d2af4"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1727222400"
+		"tested_build_id" "15623083"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "57.76753023884306"
+			"height_pct" "38.45863347317871"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "57.76753023884306"
+				"height_pct" "38.45863347317871"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731889557"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CATINRAIN LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CATINRAIN LLC"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1725454236"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2897240"
+	"store_tags"
+	{
+		"0" "10383"
+		"1" "3810"
+		"2" "597"
+		"3" "9"
+		"4" "16689"
+		"5" "599"
+		"6" "492"
+		"7" "12472"
+		"8" "3843"
+		"9" "4191"
+		"10" "4252"
+		"11" "3859"
+		"12" "4182"
+		"13" "15045"
+	}
+	"review_score" "8"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "CATINRAIN LLC"
+	"publisher" "CATINRAIN LLC"
+}
+"config"
+{
+	"installdir" "Puffin Planes"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Puffin Planes.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2897241"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1154810789474934108"
+				"size" "628295842"
+				"download" "195404880"
+			}
+			"preview"
+			{
+				"gid" "2987919611858641988"
+				"size" "630505509"
+				"download" "195779344"
+			}
+			"legacy"
+			{
+				"gid" "4888001769942715505"
+				"size" "616867686"
+				"download" "187179408"
+			}
+			"originalgame"
+			{
+				"gid" "812925127942085086"
+				"size" "250984322"
+				"download" "85975488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16546163"
+			"timeupdated" "1732690760"
+		}
+		"preview"
+		{
+			"buildid" "17417384"
+			"description" "For previewing the next update and giving feedback"
+			"timeupdated" "1739940329"
+		}
+		"legacy"
+		{
+			"buildid" "15623083"
+			"description" "The previous version of the game"
+			"timeupdated" "1731988326"
+		}
+		"originalgame"
+		{
+			"buildid" "13781313"
+			"description" "Want to know what this game was like early on in development\? This is a snapshot from March 2024."
+			"timeupdated" "1720592001"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27547533"
+"_sha" "cac807aea0f221cba765eec6868c271394835785"
+"_size" "4552"
