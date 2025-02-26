@@ -1,0 +1,369 @@
+"appid" "3313930"
+"common"
+{
+	"name" "Galactic Simulator"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "557aeac99be3926b06a23b25a89c9e27aec36f6b"
+	"clienticon" "dd024d4f85f606883d550962ac53dbd1615dfce9"
+	"clienttga" "b81ba923371531e4d2533f629e839608f70ef9be"
+	"name_localized"
+	{
+		"schinese" "银河模拟器"
+		"tchinese" "銀河模擬器"
+	}
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "8f69156259d7c40b963dbf3264cb0aaf05267225/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "350e1550ea82349dd75adbf09f93bc3a0d948024/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "350e1550ea82349dd75adbf09f93bc3a0d948024/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "6772f8b7a844464064787ac6fe7586fbef7da4e7/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "6772f8b7a844464064787ac6fe7586fbef7da4e7/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "6772f8b7a844464064787ac6fe7586fbef7da4e7/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "b345949f03079892927985e764abac206798549c/logo.png"
+			}
+			"image2x"
+			{
+				"english" "b345949f03079892927985e764abac206798549c/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f42a315070495d7e07d661f75e68a5176a71698a/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f42a315070495d7e07d661f75e68a5176a71698a/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736418300"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PENGCHENG ZHAO"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PENGCHENG ZHAO"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738051293"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3313930"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "379975"
+		"2" "615955"
+		"3" "16598"
+		"4" "1755"
+		"5" "3843"
+		"6" "3859"
+		"7" "597"
+		"8" "1685"
+		"9" "4175"
+		"10" "3810"
+		"11" "9204"
+		"12" "4791"
+		"13" "3942"
+		"14" "4295"
+		"15" "9"
+		"16" "4191"
+		"17" "29363"
+		"18" "1654"
+		"19" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "PENGCHENG ZHAO"
+	"publisher" "PENGCHENG ZHAO"
+}
+"config"
+{
+	"installdir" "GalacticSimulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GalacticSimulator.exe"
+		}
+	}
+}
+"depots"
+{
+	"3313931"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6641396212309591294"
+				"size" "8824345914"
+				"download" "4361279232"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17250721"
+			"timeupdated" "1738754179"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "9000000000"
+	"maxnumfiles" "9000"
+}
+"_missing_token" "False"
+"_change_number" "27575637"
+"_sha" "e2b253ce61453de4b5b36b83a7a69e6c9fa17b13"
+"_size" "6161"
