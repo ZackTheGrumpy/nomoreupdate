@@ -1,0 +1,217 @@
+"appid" "2201260"
+"common"
+{
+	"name" "Fiend Heart"
+	"type" "Game"
+	"icon" "26fd1e3c19bf246ded0f408e0ffeba49817e205f"
+	"clienttga" "623d0797bb286f7bb7d18789f6188fcd10b2d4a3"
+	"clienticon" "7c0bf9c076db062ee4350e6b015758c8ab16e4ae"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1670238471"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RM120"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RM120"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1670849760"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2201260"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "4026"
+		"1" "5379"
+		"2" "113"
+		"3" "4726"
+		"4" "4136"
+		"5" "4182"
+		"6" "3798"
+		"7" "4234"
+		"8" "19"
+		"9" "3871"
+		"10" "4085"
+		"11" "1719"
+		"12" "9541"
+		"13" "492"
+		"14" "21"
+		"15" "5611"
+		"16" "9130"
+		"17" "4018"
+		"18" "6650"
+		"19" "7208"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "RM120"
+	"publisher" "RM120"
+	"isfreeapp" "1"
+	"listofdlc" "2223210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fiend Heart"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fiend Heart.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"2201261"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "472960044666451626"
+				"size" "176058371"
+				"download" "104044144"
+			}
+		}
+	}
+	"2223210"
+	{
+		"dlcappid" "2223210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8113400081912228001"
+				"size" "120959326"
+				"download" "115861216"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13441499"
+			"timeupdated" "1707815927"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27040069"
+"_sha" "f09a8089a3226794d101a480ec367e2aa660734b"
+"_size" "3223"
