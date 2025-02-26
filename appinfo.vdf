@@ -1,0 +1,238 @@
+"appid" "2294670"
+"common"
+{
+	"name" "INSOMNIA"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a36e802c8a61244fa32150bed171ac763644d2d2"
+	"clienttga" "55ddc4e3bc0b3833878eece2499fc77c78cc8688"
+	"clienticns" "711eb2962b744aab25eef2b2d7271dbb69d42821"
+	"linuxclienticon" "17daa74191de5fcfdd09d9387eb3654e0d9e8e03"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "d40c4cfeeafd8828564fd2bd6cf270ed7503183c"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "77.83194151789522"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "77.83194151789522"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1722471089"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Memento Mori Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Memento Mori Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1722611417"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2294670"
+	"store_tags"
+	{
+		"0" "3978"
+		"1" "19"
+		"2" "1667"
+		"3" "4145"
+		"4" "3839"
+		"5" "4182"
+		"6" "4191"
+		"7" "4345"
+		"8" "4667"
+		"9" "10808"
+		"10" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Memento Mori Games"
+	"publisher" "Memento Mori Games"
+	"homepage" "https://linktr.ee/insomnia_indie"
+}
+"config"
+{
+	"installdir" "INSOMNIA"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "INSOMNIA.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2294671"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8956114237652984747"
+				"size" "9062487413"
+				"download" "8735881584"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16620721"
+			"timeupdated" "1733262993"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27370544"
+"_sha" "c2ae00de6b5b6374699b9eb4948540c92403014b"
+"_size" "3684"
