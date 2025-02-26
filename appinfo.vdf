@@ -73,7 +73,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "446c40525ddd50ae3ae3abcc9ccdbd25514374c1/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -98,11 +98,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "f8ceb953e3c739716841a90427717c9f378e10a1/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "f8ceb953e3c739716841a90427717c9f378e10a1/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -129,15 +129,15 @@
 		{
 			"image"
 			{
-				"english" "31d206bcca7f463ef93b6aa9c3ca8dcaaea0b776/library_header.jpg"
+				"english" "cf3f59202b7c2f78a75b64a9b578da668aa64259/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "31d206bcca7f463ef93b6aa9c3ca8dcaaea0b776/library_header_2x.jpg"
+				"english" "cf3f59202b7c2f78a75b64a9b578da668aa64259/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1733105343"
+	"store_asset_mtime" "1740582314"
 	"associations"
 	{
 		"0"
@@ -183,78 +183,122 @@
 		"english"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"german"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"french"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"spanish"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"italian"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"japanese"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"koreana"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"polish"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"brazilian"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"portuguese"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"russian"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"schinese"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"thai"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"tchinese"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"turkish"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"indonesian"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"czech"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"latam"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"ukrainian"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1692378060"
@@ -340,9 +384,9 @@
 		{
 			"public"
 			{
-				"gid" "3885013739286937291"
-				"size" "464681088"
-				"download" "107354912"
+				"gid" "1429493452503395868"
+				"size" "464991408"
+				"download" "107338928"
 			}
 			"alpha12p29"
 			{
@@ -362,9 +406,9 @@
 		{
 			"public"
 			{
-				"gid" "1052780773819798989"
-				"size" "434933848"
-				"download" "112375088"
+				"gid" "1761873465454258292"
+				"size" "435024968"
+				"download" "112376064"
 			}
 			"alpha12p29"
 			{
@@ -384,9 +428,9 @@
 		{
 			"public"
 			{
-				"gid" "4412429941987422968"
-				"size" "462295710"
-				"download" "106148528"
+				"gid" "2115149626190312402"
+				"size" "462347982"
+				"download" "106147968"
 			}
 			"alpha12p29"
 			{
@@ -401,8 +445,8 @@
 	{
 		"public"
 		{
-			"buildid" "17494472"
-			"timeupdated" "1740458971"
+			"buildid" "17517213"
+			"timeupdated" "1740585602"
 		}
 		"alpha12p29"
 		{
@@ -454,6 +498,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27649208"
-"_sha" "a4d4db96f18c30e09286c5f04dabdd9b030b07d4"
-"_size" "7541"
+"_change_number" "27678657"
+"_sha" "85bdff8ac430695b699f47b7426aec1f19aa074c"
+"_size" "8693"
