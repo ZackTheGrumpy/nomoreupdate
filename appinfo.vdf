@@ -1,0 +1,283 @@
+"appid" "2010210"
+"common"
+{
+	"name" "Sunwave Hotel"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "82a9c698f55c373ba5cc5c96106627369fbc26e2"
+	"clienttga" "8bf007aef782daf1fbf010ff7ee4875266664d6b"
+	"clienticon" "f7d9d71b51ce9ff6931caf5a89cc9cf9bb7664a6"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "5"
+		"3" "4"
+	}
+	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1697760000"
+		"tested_build_id" "12378165"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1696254273"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gladius Writing"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TinyHat Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "TinyHat Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1696266045"
+	"community_hub_visible" "1"
+	"gameid" "2010210"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "3942"
+		"2" "1742"
+		"3" "1698"
+		"4" "24904"
+		"5" "4182"
+		"6" "6971"
+		"7" "4115"
+		"8" "3871"
+		"9" "6426"
+		"10" "9130"
+		"11" "21"
+		"12" "4486"
+		"13" "6815"
+		"14" "4295"
+		"15" "122"
+		"16" "6650"
+		"17" "4726"
+		"18" "492"
+		"19" "597"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Gladius Writing"
+	"publisher" "TinyHat Studios"
+}
+"config"
+{
+	"installdir" "Sunwave Hotel"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sunwave Hotel.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2010211"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4435511755068857596"
+				"size" "6430523336"
+				"download" "1666598240"
+			}
+		}
+	}
+	"2010212"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1909265949747390359"
+				"size" "4242895689"
+				"download" "1172845264"
+			}
+		}
+	}
+	"2010213"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8281768747605792937"
+				"size" "4614387661"
+				"download" "1276393856"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17415059"
+			"timeupdated" "1739925061"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27571957"
+"_sha" "fa32ba73c6a71260abf47aba942acbbece2e7ae1"
+"_size" "4608"
