@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "458703492527058271"
-				"size" "15258049968"
-				"download" "7430436512"
+				"gid" "3384199034763672847"
+				"size" "15260817391"
+				"download" "7435263312"
 			}
 			"previous_version"
 			{
@@ -347,9 +347,9 @@
 			}
 			"test_edition"
 			{
-				"gid" "458703492527058271"
-				"size" "15258049968"
-				"download" "7430436512"
+				"gid" "3384199034763672847"
+				"size" "15260817391"
+				"download" "7435263312"
 			}
 		}
 	}
@@ -409,8 +409,8 @@
 	{
 		"public"
 		{
-			"buildid" "17172722"
-			"timeupdated" "1738248862"
+			"buildid" "17489326"
+			"timeupdated" "1740585146"
 		}
 		"previous_version"
 		{
@@ -420,9 +420,9 @@
 		}
 		"test_edition"
 		{
-			"buildid" "17172722"
+			"buildid" "17489326"
 			"description" "Try out new versions early"
-			"timeupdated" "1738248778"
+			"timeupdated" "1740426961"
 		}
 	}
 	"privatebranches" "1"
@@ -461,9 +461,19 @@
 			"path" "sins2/settings"
 			"pattern" "input_bindings.json"
 		}
+		"3"
+		{
+			"root" "WinAppDataLocal"
+			"path" "sins2/saved_games"
+			"pattern" "most_recent.sins2_save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27236789"
-"_sha" "8a69586699be76c3bf7b57d17f07b0dd3a2319bb"
-"_size" "7738"
+"_change_number" "27678507"
+"_sha" "d7bdf6a2808638052995f67996675bd5727ba407"
+"_size" "7907"
