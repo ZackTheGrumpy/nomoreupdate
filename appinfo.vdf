@@ -1,0 +1,200 @@
+"appid" "2241860"
+"common"
+{
+	"name" "World of Fate"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "e50bf03d614ea5519b9336f212fbab5a1631f1b5"
+	"clienticon" "202fd427047dc10d5aa5aff5d13b9d3167ec5a4d"
+	"clienttga" "bc4c205dad68bdf39ba8d10fff02da825381d572"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "81.61589388117582"
+			"height_pct" "35.0360683820181"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "81.61589388117582"
+				"height_pct" "35.0360683820181"
+			}
+		}
+	}
+	"store_asset_mtime" "1671941961"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NIK"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NIK"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1671883729"
+	"community_hub_visible" "1"
+	"gameid" "2241860"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1773"
+		"2" "26921"
+		"3" "4791"
+		"4" "12472"
+		"5" "7332"
+		"6" "493"
+		"7" "3859"
+		"8" "599"
+	}
+	"review_score" "4"
+	"review_percentage" "27"
+}
+"extended"
+{
+	"developer" "NIK"
+	"publisher" "NIK"
+}
+"config"
+{
+	"installdir" "WorldofFate"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WorldGame.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2241861"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2168942255545299288"
+				"size" "511843485"
+				"download" "274227968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10240174"
+			"timeupdated" "1672600835"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10"
+	"maxnumfiles" "10"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27676056"
+"_sha" "06061af703de6f590be57855eaeb1fab950372de"
+"_size" "2975"
