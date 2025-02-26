@@ -1,0 +1,281 @@
+"appid" "2163160"
+"common"
+{
+	"name" "OVRLRD"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controllervr"
+	{
+		"oculus" "1"
+		"kbm" "1"
+		"steamvr" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"openvr_action_manifest_path" "OVRLRD_Data\\StreamingAssets\\SteamVR\\actions.json"
+	"icon" "626b8c9859d196fc96865090e6c5ec3c826a6b4b"
+	"clienticon" "f32f6732a4bf04aee18b99743cb5638823c12cc1"
+	"clienttga" "e6453ee33fb93d24b26c7bff1e1044bc5b07ed03"
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "82.78879813302218"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "82.78879813302218"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725901839"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Niall Slater"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Niall Slater"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_52" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_51" "1"
+		"category_30" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1725912142"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2163160"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "21978"
+		"2" "4821"
+		"3" "4182"
+		"4" "1669"
+		"5" "11104"
+		"6" "5752"
+		"7" "5179"
+		"8" "8122"
+		"9" "19"
+		"10" "1708"
+		"11" "1678"
+		"12" "9204"
+		"13" "3839"
+		"14" "4684"
+		"15" "4168"
+		"16" "3993"
+		"17" "1100687"
+		"18" "1695"
+		"19" "493"
+	}
+	"review_score" "7"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"vrheadsetstreaming" "0"
+	"developer" "Niall Slater"
+	"publisher" "Niall Slater"
+	"homepage" "https://niall.codes/ovrlrd/index.html"
+	"gamemanualurl" "https://store.steampowered.com/manual/2163160/"
+}
+"config"
+{
+	"installdir" "OVRLRD"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "OVRLRD.exe"
+			"arguments" "-steamvr"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "OVRLRD"
+			}
+			"description" "OVRLRD"
+		}
+		"3"
+		{
+			"executable" "OVRLRD.exe"
+			"arguments" "-novr"
+			"description_loc"
+			{
+				"english" "Launch OVRLRD in non-VR mode"
+			}
+			"description" "Launch OVRLRD in non-VR mode"
+		}
+	}
+}
+"depots"
+{
+	"2163161"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2355350804931886259"
+				"size" "3669860938"
+				"download" "1034544208"
+			}
+			"old-version"
+			{
+				"gid" "3979658505952782803"
+				"size" "3556119801"
+				"download" "959991296"
+			}
+			"public-testing"
+			{
+				"gid" "7742964754118339734"
+				"size" "3670679638"
+				"download" "1034805056"
+			}
+			"very-old-version"
+			{
+				"gid" "3379153061006338530"
+				"size" "2939893074"
+				"download" "883328736"
+			}
+		}
+	}
+	"workshopdepot" "2163160"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17083787"
+			"timeupdated" "1737500561"
+		}
+		"old-version"
+		{
+			"buildid" "16441499"
+			"description" "The previous version of OVRLRD, in case of issues."
+			"timeupdated" "1736833912"
+		}
+		"public-testing"
+		{
+			"buildid" "17415549"
+			"description" "For trying out experimental features."
+			"timeupdated" "1739928572"
+		}
+		"very-old-version"
+		{
+			"buildid" "15642113"
+			"description" "A very old version of OVRLRD, for fun."
+			"timeupdated" "1729813753"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "128"
+}
+"_missing_token" "False"
+"_change_number" "27545326"
+"_sha" "f95e1ed996bd1029da38f834fef4fc13029a5e37"
+"_size" "4761"
