@@ -1,0 +1,337 @@
+"appid" "247830"
+"common"
+{
+	"name" "Aerena"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" ""
+	"logo" "9ad5927dda09bbca2e2f2fc1f05abe49099bb0b6"
+	"logo_small" "9ad5927dda09bbca2e2f2fc1f05abe49099bb0b6_thumb"
+	"clienticon" "c2de4d73b246cffa13011eddedcfb33af1aeba3f"
+	"clienttga" "de0a1dffe169f1087be2ab9d0b3f2028ca036ebf"
+	"icon" "007aedb334528f226df12e134ba9fea4a5d7457f"
+	"clienticns" "a5b0f6154135b418cc7e3e90bd29ae7fe9c746a5"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "247830_eula_0"
+			"name" "Aerena EULA"
+			"url" "http://store.steampowered.com/eula/247830_eula_0"
+		}
+	}
+	"metacritic_name" "Aerena"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_64eacf73e408618f435237d84776da0e27c79b58.jpg"
+	"store_asset_mtime" "1414669860"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cliffhanger Productions"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cliffhanger Productions"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+		"1" "23"
+		"2" "29"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_27" "1"
+		"category_2" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1399481400"
+	"community_hub_visible" "1"
+	"gameid" "247830"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "113"
+		"2" "1677"
+		"3" "492"
+		"4" "1777"
+		"5" "3859"
+		"6" "1775"
+		"7" "1741"
+		"8" "1708"
+		"9" "122"
+		"10" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Cliffhanger Productions"
+	"publisher" "Cliffhanger Productions"
+	"homepage" "http://www.aerena.net"
+	"isfreeapp" "1"
+	"listofdlc" "277580,277581,294300,294301,294302,294303,294304"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Aerena"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "game.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Aerena.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"247831"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4476776056318260476"
+				"size" "223910762"
+				"download" "127652960"
+			}
+		}
+	}
+	"247832"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1360634581125691069"
+				"size" "228422070"
+				"download" "129138672"
+			}
+		}
+	}
+	"247833"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8777475457613766587"
+				"size" "173820"
+				"download" "37904"
+			}
+		}
+	}
+	"247834"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8254043018193782014"
+				"size" "173820"
+				"download" "37904"
+			}
+		}
+	}
+	"247835"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2790876943194909420"
+				"size" "172223"
+				"download" "34416"
+			}
+		}
+	}
+	"247836"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4669430164094136352"
+				"size" "172223"
+				"download" "34416"
+			}
+		}
+	}
+	"247837"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+	}
+	"247838"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+	}
+	"247839"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+	}
+	"247840"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+	}
+	"247841"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+	}
+	"247842"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"247843"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+	}
+	"247844"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "519748"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "1c36aaff5c72a171c8b4550e5339e7a9030c7023"
+"_size" "4820"
