@@ -241,18 +241,24 @@
 	{
 		"0" "701"
 		"1" "28444"
-		"2" "3859"
-		"3" "4747"
-		"4" "599"
-		"5" "4191"
-		"6" "1695"
-		"7" "4175"
-		"8" "7481"
-		"9" "4182"
-		"10" "3843"
-		"11" "1773"
-		"12" "1685"
-		"13" "19"
+		"2" "4175"
+		"3" "3859"
+		"4" "4182"
+		"5" "1695"
+		"6" "30358"
+		"7" "3968"
+		"8" "4747"
+		"9" "4191"
+		"10" "1697"
+		"11" "7481"
+		"12" "4166"
+		"13" "599"
+		"14" "492"
+		"15" "19"
+		"16" "3843"
+		"17" "1685"
+		"18" "1773"
+		"19" "21978"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -304,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "7807586337078469035"
-				"size" "22015286930"
-				"download" "13145427536"
+				"gid" "8925527010672089358"
+				"size" "22315103016"
+				"download" "13349447216"
 			}
 			"steamdeck"
 			{
@@ -327,45 +333,6 @@
 				"download" "12307437232"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"develop"
-			{
-				"gid" "76294B6DD6D795B58B371CADEB97989F"
-				"size" "D7A7B44AEBF472215FC1A993684A3454"
-				"download" "F3437CFE6034A80C3A06BEDA4FD66D03"
-			}
-			"directorscut"
-			{
-				"gid" "6D1C5D6985A63F2757E61ACC89E0C6E2"
-				"size" "735845DFBF0DB63B21281BD5A7B8139D"
-				"download" "50258E933573E3F5A72BC0E7728A910C"
-			}
-			"fsr3"
-			{
-				"gid" "876EC214622F97BB5BA51BD4C7E7E9DE"
-				"size" "FBC694B0262F46617E49AA261C34A03F"
-				"download" "BFD903F9BA78747B5F3E07294E77410D"
-			}
-			"patch195"
-			{
-				"gid" "E8866E98B6239A19974D1CE3B6E77356"
-				"size" "55BA43F59411273A348843924136423C"
-				"download" "5EA0819F9F8BE729D2593AAE469F8435"
-			}
-			"privatebeta"
-			{
-				"gid" "A5456ECFE907FEA2494C80DCD3DB96E9"
-				"size" "89ADFE3C536A0778C8E7B1002FA3DB30"
-				"download" "9EEEF5D0991F717A8510C6B2882304B2"
-			}
-			"topush"
-			{
-				"gid" "6DA97E0041AACD26FD3647C9F457A697"
-				"size" "7E92B4C7D7990D1751C44567059CD888"
-				"download" "F2CB6C4AC3C9DB301E77213831630BF3"
-			}
-		}
 	}
 	"1874172"
 	{
@@ -379,8 +346,8 @@
 	{
 		"public"
 		{
-			"buildid" "16656490"
-			"timeupdated" "1734188899"
+			"buildid" "17434863"
+			"timeupdated" "1740598168"
 		}
 		"steamdeck"
 		{
@@ -388,41 +355,11 @@
 			"description" "if the main branch doesn\'t work, use this one"
 			"timeupdated" "1701213417"
 		}
-		"develop"
-		{
-			"buildid" "16656490"
-			"pwdrequired" "1"
-			"timeupdated" "1733488844"
-		}
-		"directorscut"
-		{
-			"buildid" "16463769"
-			"pwdrequired" "1"
-			"timeupdated" "1732099894"
-		}
-		"fsr3"
-		{
-			"buildid" "16656490"
-			"pwdrequired" "1"
-			"timeupdated" "1733488460"
-		}
-		"patch195"
-		{
-			"buildid" "15992007"
-			"pwdrequired" "1"
-			"timeupdated" "1728551003"
-		}
 		"previous_version"
 		{
 			"buildid" "16463769"
 			"description" "Pre Current patch version of the game"
 			"timeupdated" "1734188853"
-		}
-		"privatebeta"
-		{
-			"buildid" "16463769"
-			"pwdrequired" "1"
-			"timeupdated" "1732099904"
 		}
 		"public_beta"
 		{
@@ -430,13 +367,8 @@
 			"description" "For Public beta builds prior to release"
 			"timeupdated" "1714653498"
 		}
-		"topush"
-		{
-			"buildid" "16463769"
-			"pwdrequired" "1"
-			"timeupdated" "1732302157"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -458,6 +390,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26643433"
-"_sha" "74825cb75170c24bd718bfd8896ee8455f58f0af"
-"_size" "8952"
+"_change_number" "27682151"
+"_sha" "2f91df551d024b5c654e3145ba1943b7548fb71d"
+"_size" "7366"
