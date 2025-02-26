@@ -1,0 +1,139 @@
+"appid" "2297890"
+"common"
+{
+	"name" "RPG Maker MZ - KR Alien Worlds Tileset"
+	"type" "DLC"
+	"parent" "1096900"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_033b85ab7e0658567353a0c16602475e5458d1e8.jpg"
+	"store_asset_mtime" "1675362010"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kokoro Reflections"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KOMODO"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "53"
+		"2" "59"
+	}
+	"category"
+	{
+		"category_18" "1"
+		"category_30" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1675960857"
+	"gameid" "2297890"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "84"
+		"2" "1038"
+	}
+}
+"extended"
+{
+	"dlcforappid" "1096900"
+	"mustownapptopurchase" "1096900"
+	"developer" "Kokoro Reflections"
+	"publisher" "KOMODO"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2297890"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2850758329837557556"
+				"size" "4335875"
+				"download" "4330128"
+			}
+		}
+		"dlcappid" "2297890"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10499733"
+			"timeupdated" "1675800740"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "2855d8aa8e667c84e501f5e1b417a236a19cfd41"
+"_size" "1950"
