@@ -123,6 +123,7 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_48" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -132,7 +133,23 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
+	"steam_release_date" "1739293216"
 	"community_hub_visible" "1"
 	"gameid" "3436970"
 	"store_tags"
@@ -163,6 +180,7 @@
 {
 	"developer" "Fround Interactive"
 	"publisher" "Fround Interactive"
+	"homepage" "https://mournight.com/"
 }
 "config"
 {
@@ -201,9 +219,9 @@
 		{
 			"public"
 			{
-				"gid" "3965670234638521558"
-				"size" "6903691275"
-				"download" "6609902208"
+				"gid" "7585055923459167039"
+				"size" "6926340079"
+				"download" "6632906448"
 			}
 		}
 	}
@@ -211,12 +229,13 @@
 	{
 		"public"
 		{
-			"buildid" "17365178"
-			"timeupdated" "1739529744"
+			"buildid" "17516035"
+			"timeupdated" "1740584556"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27477398"
-"_sha" "5aa3fd862bdfad69c1bd3ca3fa903fbcbc16c2a3"
-"_size" "3742"
+"_change_number" "27678333"
+"_sha" "0fe79c44b1c07114cccf3dc8caba84bf3be673d4"
+"_size" "4079"
