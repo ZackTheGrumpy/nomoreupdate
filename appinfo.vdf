@@ -1,0 +1,296 @@
+"appid" "298160"
+"common"
+{
+	"name" "Eldevin"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"icon" "6998c5ce36e04ecaf5b5a94ccc910bb78384638d"
+	"logo" "dccc2ee4e5605fdb8931d62aba307c8dd0108571"
+	"logo_small" "dccc2ee4e5605fdb8931d62aba307c8dd0108571_thumb"
+	"clienticon" "b4b6868acf4b02aa20b54ad5569873617a87fa4b"
+	"clienttga" "7556fe0e1ed85efd138c30b085dc0be56eceadf9"
+	"clienticns" "02206f9ff124612a1d2b814593565c142a24dd0f"
+	"linuxclienticon" "42afee34a7322a7cc1fdfb7de18b59cf3e2249f7"
+	"eulas"
+	{
+		"1"
+		{
+			"id" "298160_eula_1"
+			"name" "Eldevin EULA 1"
+			"url" "http://store.steampowered.com//eula/298160_eula_1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1671148800"
+		"tested_build_id" "4555700"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Eldevin"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_31dd5d9adaaed8d2c354d40b5588e7e531eaad0c.jpg"
+	"store_asset_mtime" "1578587994"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hunted Cow Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hunted Cow Games"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "4"
+		"1" "37"
+		"2" "23"
+		"3" "29"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_20" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1415260797"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "298160"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "122"
+		"2" "128"
+		"3" "1754"
+		"4" "492"
+		"5" "1695"
+		"6" "597"
+		"7" "21"
+		"8" "1684"
+		"9" "1702"
+		"10" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Hunted Cow Games"
+	"publisher" "Hunted Cow Games"
+	"homepage" "http://www.eldevin.com"
+	"isfreeapp" "1"
+	"listofdlc" "315050,337400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Eldevin"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Eldevin.exe"
+			"arguments" "steam"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Eldevin.app"
+			"arguments" "steam"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"298161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5785261077605401401"
+				"size" "4463817"
+				"download" "4149456"
+			}
+		}
+	}
+	"298162"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8701035525822415250"
+				"size" "117022118"
+				"download" "34451360"
+			}
+		}
+	}
+	"298163"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7303932826906998166"
+				"size" "130743147"
+				"download" "36415888"
+			}
+		}
+	}
+	"298164"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8124786608086543325"
+				"size" "142755744"
+				"download" "49190816"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4555700"
+			"timeupdated" "1578595523"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27104397"
+"_sha" "1c98f96b3301b45abea047c0ed5dc6b53a78de51"
+"_size" "5157"
