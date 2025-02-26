@@ -1,0 +1,262 @@
+"appid" "2281300"
+"common"
+{
+	"name" "沃瑞尔"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "9667cf13cad46bdc3a7c68bd573d771743e3de9d"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"clienticon" "bb327dfad8ad5ab4e79b5d78844ba01e32c744f0"
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1697068800"
+		"tested_build_id" "10582387"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "zh-cn,en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "30.04667444574097"
+			"height_pct" "38.601282355734966"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "library_hero_schinese.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "30.04667444574097"
+				"height_pct" "38.601282355734966"
+			}
+		}
+	}
+	"store_asset_mtime" "1676702340"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "storm"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "storm"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "37"
+		"4" "23"
+		"5" "3"
+		"6" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1676363556"
+	"community_hub_visible" "1"
+	"gameid" "2281300"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "42804"
+		"2" "14139"
+		"3" "597"
+		"4" "13382"
+		"5" "4191"
+		"6" "29363"
+		"7" "4046"
+		"8" "4325"
+		"9" "4236"
+		"10" "113"
+		"11" "9"
+		"12" "19"
+		"13" "21"
+		"14" "492"
+		"15" "3942"
+		"16" "3993"
+		"17" "1685"
+		"18" "3859"
+		"19" "17770"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "storm"
+	"publisher" "storm"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Warrior"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Client.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2281304"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4727069670940430599"
+				"size" "4862013090"
+				"download" "4703344480"
+			}
+		}
+	}
+	"2281305"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "518073105643969103"
+				"size" "230828"
+				"download" "228848"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10582387"
+			"timeupdated" "1676708781"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "ef24edaa1723dcc209dc385463d6798b15cb0c3c"
+"_size" "4217"
