@@ -39,6 +39,35 @@
 	}
 	"openvr_action_manifest_path" "Project Demigod - Early Access_Data\\StreamingAssets\\SteamVR\\actions.json"
 	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1739404800"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"english" "2f27c334b0c0fba4a4482e1fd7877ee8026e8e79/capsule_231x87.jpg"
@@ -113,7 +142,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728992798"
+	"store_asset_mtime" "1734535700"
 	"associations"
 	{
 		"0"
@@ -146,6 +175,30 @@
 		{
 			"supported" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1706810382"
 	"community_hub_visible" "1"
@@ -175,7 +228,7 @@
 		"19" "15045"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -211,18 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "8911457923534406907"
-				"size" "5517671343"
-				"download" "4610681936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta-test-branch"
-			{
-				"gid" "E3BA73E180A4C5F24F77268765B1EEA4"
-				"size" "CFA7BBAF305B3E9CEB94DF13CC2B0CF1"
-				"download" "90F558ADA3F80A38E5596214BCF000EE"
+				"gid" "4022386772573671481"
+				"size" "6498089616"
+				"download" "5470756864"
 			}
 		}
 	}
@@ -237,18 +281,13 @@
 	{
 		"public"
 		{
-			"buildid" "16780982"
-			"timeupdated" "1734490015"
-		}
-		"beta-test-branch"
-		{
-			"buildid" "16780982"
-			"pwdrequired" "1"
-			"timeupdated" "1734489510"
+			"buildid" "17518504"
+			"timeupdated" "1740592873"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26687933"
-"_sha" "42e38e88a3a672490a0422717f898456801890f2"
-"_size" "4303"
+"_change_number" "27680788"
+"_sha" "16ea1ad171aed082484c7934530fefde6b44561a"
+"_size" "5006"
