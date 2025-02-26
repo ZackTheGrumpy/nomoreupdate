@@ -1,0 +1,195 @@
+"appid" "324470"
+"common"
+{
+	"name" "SinaRun"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"clienticon" "bcdc08d03943751fff07dc2d215d3da967751ecc"
+	"clienttga" "8c0890b788cc8e40cce05c4e0b2b74a6960d9ec8"
+	"icon" "c552d6e33f0cc94030c78d56fe4bee374f4960e8"
+	"clienticns" "eb190e2956efa070d24cd5fe3d7b6025f0560932"
+	"linuxclienticon" "427b014a04d5d36b911dd4c10a121da942262dd8"
+	"logo" "d0831e68bff7c404907fdf1366cb4f537ed6bef6"
+	"logo_small" "d0831e68bff7c404907fdf1366cb4f537ed6bef6_thumb"
+	"metacritic_name" "SinaRun"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_f7193d108c44938a475175483d884dbaae05e48d.jpg"
+	"store_asset_mtime" "1432588566"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Princesseuh"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Princesseuh"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "9"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1445878748"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "324470"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "699"
+		"2" "493"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Princesseuh"
+	"publisher" "Princesseuh"
+	"homepage" "https://princesseuh.dev/games/sinarun/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SinaRun"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SinaRun.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SinaRun.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "SinaRun.x86"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigfileids" "554384243"
+}
+"depots"
+{
+	"324471"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3578825712091214994"
+				"size" "84149219"
+				"download" "54716464"
+			}
+		}
+	}
+	"324472"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3583013526433990816"
+				"size" "88030181"
+				"download" "55367648"
+			}
+		}
+	}
+	"324473"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "56009762104975838"
+				"size" "90572710"
+				"download" "56462928"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1258068"
+			"timeupdated" "1470145134"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26262231"
+"_sha" "98288d387af5a01fc75263052ee10dca0dd9ac23"
+"_size" "3100"
