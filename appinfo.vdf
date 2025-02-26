@@ -1,0 +1,121 @@
+"appid" "2261230"
+"common"
+{
+	"name" "iVRy for SteamVR (Pico App Installer)"
+	"type" "DLC"
+	"parent" "992490"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_575abe76f801d0eb03b52e2dcac0f53699d81e9f.jpg"
+	"store_asset_mtime" "1676462563"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mediator Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mediator Software"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "57"
+	}
+	"category"
+	{
+		"category_35" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1677705207"
+	"gameid" "2261230"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "87"
+	}
+}
+"extended"
+{
+	"dlcforappid" "992490"
+	"mustownapptopurchase" "992490"
+	"developer" "Mediator Software"
+	"publisher" "Mediator Software"
+	"homepage" "https://twitter.com/iVRy_VR"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2261232"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3179243784109583080"
+				"size" "19114930"
+				"download" "7084528"
+			}
+			"previous-app-version"
+			{
+				"gid" "8666161467268369814"
+				"size" "18852081"
+				"download" "7030448"
+			}
+			"previous-release"
+			{
+				"gid" "8666161467268369814"
+				"size" "18852081"
+				"download" "7030448"
+			}
+		}
+		"dlcappid" "2261230"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16735649"
+			"timeupdated" "1734095484"
+		}
+		"previous-app-version"
+		{
+			"buildid" "12158748"
+			"description" "Previous version of mobile app"
+			"timeupdated" "1728205319"
+		}
+		"previous-release"
+		{
+			"buildid" "12158748"
+			"description" "Previous Release"
+			"timeupdated" "1724496143"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26629921"
+"_sha" "e507bebc7f1235336850a66833e32b2ac064d8ae"
+"_size" "2015"
