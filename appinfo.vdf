@@ -1,0 +1,310 @@
+"appid" "1465860"
+"common"
+{
+	"name" "*NEW* EPIC SCUFFED BHOP SIMULATOR 2023 (POG CHAMP)"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"logo" "2e972380100e65cead3bcdbecc0ffecec221f2bc"
+	"logo_small" "2e972380100e65cead3bcdbecc0ffecec221f2bc_thumb"
+	"icon" "183572df37e6549a1e5a5c91fea8bc294130fc58"
+	"clienticon" "410bdd59c1c70bfe71c23562081bcf1c0c71f1fe"
+	"clienttga" "00c99c76437700b24196ceca8af21d1355c87aaf"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.400756218641426"
+			"height_pct" "68.08822864444812"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.400756218641426"
+				"height_pct" "68.08822864444812"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1710939335"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Scuffed Development"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "shanaz game studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Scuffed"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+		"5" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_35" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1606377600"
+	"steam_release_date" "1606526636"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1465860"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "19"
+		"2" "599"
+		"3" "1625"
+		"4" "1695"
+		"5" "5395"
+		"6" "10397"
+		"7" "1721"
+		"8" "3877"
+		"9" "3839"
+		"10" "4191"
+		"11" "1719"
+		"12" "5350"
+		"13" "1775"
+		"14" "3859"
+		"15" "4182"
+		"16" "9130"
+		"17" "113"
+		"18" "4036"
+		"19" "3843"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Scuffed Development"
+	"publisher" "shanaz game studios"
+	"homepage" "https://scuffed.dev/"
+	"isfreeapp" "1"
+	"listofdlc" "1492920,1500080,1504530"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "NEW EPIC SCUFFED BHOP SIMULATOR 2023 (POG CHAMP)"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bhop.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "macOS.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Linux.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1465862"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "499552258401927287"
+				"size" "1195323502"
+				"download" "983077440"
+			}
+			"beta"
+			{
+				"gid" "499552258401927287"
+				"size" "1195323502"
+				"download" "983077440"
+			}
+			"oldbhop"
+			{
+				"gid" "3596062516994705562"
+				"size" "353573722"
+				"download" "101390944"
+			}
+		}
+	}
+	"1465864"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1146309660838659306"
+				"size" "1213040520"
+				"download" "997611888"
+			}
+			"beta"
+			{
+				"gid" "1146309660838659306"
+				"size" "1213040520"
+				"download" "997611888"
+			}
+			"oldbhop"
+			{
+				"gid" "2458100998947760802"
+				"size" "354208447"
+				"download" "101256688"
+			}
+		}
+	}
+	"1465861"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2028561736834390010"
+				"size" "1361471290"
+				"download" "1099605280"
+			}
+			"beta"
+			{
+				"gid" "2028561736834390010"
+				"size" "1361471290"
+				"download" "1099605280"
+			}
+			"oldbhop"
+			{
+				"gid" "442769430703266118"
+				"size" "353573722"
+				"download" "101360400"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13835254"
+			"timeupdated" "1711258778"
+		}
+		"beta"
+		{
+			"buildid" "13835254"
+			"description" "v7.3"
+			"timeupdated" "1711258662"
+		}
+		"oldbhop"
+		{
+			"buildid" "5986465"
+			"description" "Version 1 - Bhop Sim"
+			"timeupdated" "1631523946"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "353acfb4aa1b312d4a20dc7e91b9ecd436b850eb"
+"_size" "5063"
