@@ -1,0 +1,225 @@
+"appid" "2215410"
+"common"
+{
+	"name" "Anime City"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "06cf220e3dccec7ae364f2c2af6bd49e4aa0fc07"
+	"clienticon" "91a2d2318f9df132186ea591b74734b3e87248a4"
+	"clienttga" "8920f04eab19ff3a2d5befd036fd5af01388ebf9"
+	"releasestate" "released"
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "df1a7a416e36b7c3a4c13b5346587ab60640a200/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.16091954022989"
+			"height_pct" "72.5299225533912"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "c33e99edbf951a2e8d1b9d87afd263b3358c13d7/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "c33e99edbf951a2e8d1b9d87afd263b3358c13d7/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.16091954022989"
+				"height_pct" "72.5299225533912"
+			}
+			"image"
+			{
+				"english" "6c25dfffe61fe4821c9c174682c877b7a6283019/logo.png"
+			}
+			"image2x"
+			{
+				"english" "6c25dfffe61fe4821c9c174682c877b7a6283019/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "682c53d3bd3067b193c3cdc1a616a900fe1a0881/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "682c53d3bd3067b193c3cdc1a616a900fe1a0881/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732884300"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shoujo City Developer"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Shoujo City Developer"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1734268422"
+	"community_hub_visible" "1"
+	"gameid" "2215410"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "4085"
+		"2" "4726"
+		"3" "6426"
+		"4" "3799"
+		"5" "599"
+		"6" "4947"
+		"7" "9551"
+		"8" "4182"
+		"9" "3834"
+		"10" "4191"
+		"11" "3920"
+		"12" "9204"
+		"13" "4747"
+		"14" "1702"
+		"15" "1662"
+		"16" "493"
+		"17" "44868"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Shoujo City Developer"
+	"publisher" "Shoujo City Developer"
+	"homepage" "https://shoujocity.com"
+}
+"config"
+{
+	"installdir" "Anime City"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Anime City.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "AnimeCity.app\\Contents\\MacOS\\Anime City"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2215411"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4168955691983404721"
+				"size" "2545272538"
+				"download" "1434539392"
+			}
+		}
+	}
+	"2215412"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4347935372518513571"
+				"size" "2579242437"
+				"download" "1446199984"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17440142"
+			"timeupdated" "1740060025"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27575379"
+"_sha" "27b0f00bf93034222419ed8fc93c4d535a7ca6e5"
+"_size" "3755"
