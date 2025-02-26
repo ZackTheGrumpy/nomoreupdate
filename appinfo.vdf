@@ -184,7 +184,7 @@
 	"gameid" "3444530"
 	"exfgls" "9"
 	"review_score" "5"
-	"review_percentage" "60"
+	"review_percentage" "57"
 }
 "extended"
 {
@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "5547547687185342028"
-				"size" "10016122392"
-				"download" "8110946144"
+				"gid" "3807896528958682118"
+				"size" "10015079060"
+				"download" "8111087552"
 			}
 		}
 	}
@@ -277,8 +277,8 @@
 	{
 		"public"
 		{
-			"buildid" "17420946"
-			"timeupdated" "1740058093"
+			"buildid" "17502084"
+			"timeupdated" "1740582035"
 		}
 	}
 	"privatebranches" "1"
@@ -303,6 +303,6 @@
 	"appidredirect" "1296400"
 }
 "_missing_token" "False"
-"_change_number" "27594364"
-"_sha" "3fec64a2dd5b573b32b0fc40530cc82c2467592d"
+"_change_number" "27677589"
+"_sha" "db39273b8da8015c9364e2632b6761f096b90bbc"
 "_size" "5203"
