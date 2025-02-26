@@ -1,0 +1,139 @@
+"appid" "2271660"
+"common"
+{
+	"name" "RPG Maker MZ - Winlu Fantasy Tileset -  Interior"
+	"type" "DLC"
+	"parent" "1096900"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_937f49bcab83730edba72ade7023b1cde3181869.jpg"
+	"store_asset_mtime" "1673548389"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Winlu"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KOMODO"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "53"
+		"2" "59"
+	}
+	"category"
+	{
+		"category_18" "1"
+		"category_30" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1674148908"
+	"gameid" "2271660"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "84"
+		"2" "1038"
+	}
+}
+"extended"
+{
+	"dlcforappid" "1096900"
+	"mustownapptopurchase" "1096900"
+	"developer" "Winlu"
+	"publisher" "KOMODO"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2271660"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1844434991594364770"
+				"size" "17461388"
+				"download" "9111040"
+			}
+		}
+		"dlcappid" "2271660"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15732307"
+			"timeupdated" "1726595096"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "2ef7474e7872b3bde9ae3a39ff25df911aa3de3f"
+"_size" "1935"
