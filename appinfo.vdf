@@ -1,0 +1,160 @@
+"appid" "336670"
+"common"
+{
+	"name" "HIT"
+	"type" "Game"
+	"oslist" "windows"
+	"logo" "1934cbc460cd220845606c0436a05567e1c1f7a9"
+	"logo_small" "1934cbc460cd220845606c0436a05567e1c1f7a9_thumb"
+	"icon" "8075bc4997930dfc4c0ecb012be59afa4b96a471"
+	"clienttga" "58151a61ae19f03fc73b0e2bac39ff8e84c1d426"
+	"clienticns" "e4746e555dbec0a056bb21b6a30067c6b517dcc5"
+	"linuxclienticon" "e6eafaa9ae1d8c0355a3ce4c1038c655a327636c"
+	"clienticon" "1880ab9b13c141e716ce16b47f10f41f77aaf69f"
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"metacritic_name" "HIT"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_fa1cf84520d7efe0cc43f15c0aae8f30d676dfe3.jpg"
+	"store_asset_mtime" "1421966612"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shifty Chair Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Shifty Chair Games"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1423503545"
+	"community_hub_visible" "1"
+	"gameid" "336670"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "3859"
+		"2" "4136"
+		"3" "19"
+		"4" "1774"
+		"5" "1663"
+		"6" "1719"
+		"7" "3814"
+		"8" "1685"
+		"9" "1695"
+		"10" "4345"
+		"11" "3839"
+		"12" "1662"
+		"13" "7481"
+		"14" "597"
+	}
+	"review_score" "4"
+	"review_percentage" "38"
+}
+"extended"
+{
+	"developer" "Shifty Chair Games"
+	"publisher" "Shifty Chair Games"
+	"homepage" "http://www.playhitgame.com"
+	"isfreeapp" "1"
+	"listofdlc" "346870"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "HIT"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Hit\\Binaries\\Win64\\Hit.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"usemms" "1"
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"336671"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "695026709502682572"
+				"size" "2528902658"
+				"download" "694062096"
+			}
+		}
+	}
+	"346870"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"dlcappid" "346870"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "527355"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "55a1fd5a841e45cc2ed652d164856bb104052092"
+"_size" "2664"
