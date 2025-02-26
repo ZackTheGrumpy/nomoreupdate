@@ -138,7 +138,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725000255"
+	"store_asset_mtime" "1738137029"
 	"associations"
 	{
 		"0"
@@ -237,7 +237,7 @@
 	"developer" "KAMITSUBAKI STUDIO"
 	"publisher" "KAMITSUBAKI STUDIO"
 	"homepage" "https://ensemble.kamitsubaki.jp/"
-	"listofdlc" "3063310,3063320,3063330,3063340,3063350,3063360,3063560,3063570,3063580,3063590,3466910,3466920"
+	"listofdlc" "3063310,3063320,3063330,3063340,3063350,3063360,3063560,3063570,3063580,3063590,3466910,3466920,3511140,3511150"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -269,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "8303602806876078572"
-				"size" "10573246272"
-				"download" "9659801264"
+				"gid" "8263294573116033456"
+				"size" "11515447090"
+				"download" "10612102288"
 			}
 		}
 	}
@@ -279,8 +279,8 @@
 	{
 		"public"
 		{
-			"buildid" "17140402"
-			"timeupdated" "1738174942"
+			"buildid" "17419456"
+			"timeupdated" "1740580285"
 		}
 	}
 	"privatebranches" "1"
@@ -306,6 +306,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27222703"
-"_sha" "094d60351977e4df50100a9e14a946d0a63cd412"
-"_size" "6630"
+"_change_number" "27677118"
+"_sha" "a6a068b8356a9b950ad4d38a5ce94a07a3459c66"
+"_size" "6647"
