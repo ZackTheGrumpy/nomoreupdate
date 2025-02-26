@@ -1,0 +1,117 @@
+"appid" "1473700"
+"common"
+{
+	"name" "RPG Maker MZ - Odyssey of Fantasy: BattleBackground"
+	"type" "DLC"
+	"parent" "1096900"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "RPGツクールMZ　オデッセイ オブ ファンタジーシリーズ バトルバックグラウンド素材集"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1611041526"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ENTACL GRAPHICXXX"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Gotcha Gotcha Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gotcha Gotcha Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Maker"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "53"
+		"2" "59"
+	}
+	"category"
+	{
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1613030400"
+	"steam_release_date" "1613091631"
+	"gameid" "1473700"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "84"
+		"2" "1038"
+		"3" "3871"
+		"4" "3964"
+		"5" "4004"
+		"6" "5379"
+	}
+}
+"extended"
+{
+	"dlcforappid" "1096900"
+	"mustownapptopurchase" "1096900"
+	"developer" "ENTACL GRAPHICXXX"
+	"publisher" "Gotcha Gotcha Games"
+	"homepage" "https://www.rpgmakerweb.com/"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1473700"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7765074245050362613"
+				"size" "58098003"
+				"download" "58443184"
+			}
+		}
+		"dlcappid" "1473700"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6232695"
+			"timeupdated" "1613158622"
+		}
+	}
+}
