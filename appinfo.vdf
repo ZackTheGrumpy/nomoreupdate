@@ -19,35 +19,30 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1729123200"
-		"tested_build_id" "15791231"
+		"category" "3"
+		"test_timestamp" "1740009600"
+		"tested_build_id" "17392944"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"4"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -55,12 +50,12 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-3RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -256,54 +251,9 @@
 		{
 			"public"
 			{
-				"gid" "5950097282507360417"
-				"size" "7593722521"
-				"download" "3173016256"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development_demo"
-			{
-				"gid" "B1F5596D3D5F791A64E24989AF7A7F8F"
-				"size" "B354A4B12B6EFED3960D6ADCCEA0E9F4"
-				"download" "0547494BE933BCDB97E0DBA4BB2CA238"
-			}
-			"development"
-			{
-				"gid" "CD0AC8E4C4DFD9940348647B3061C05B"
-				"size" "C1B2E980511D46E4159E2A1A04E11699"
-				"download" "A48CE286BCFF615362E16DCA9AEF6806"
-			}
-			"development_debug"
-			{
-				"gid" "E3BA4C013DC7318BE3B2EBAEC9F388ED"
-				"size" "D62794E10970FE3EEEB45C293CDB1B55"
-				"download" "3E92EA027253A8606F2678EEDE455FAF"
-			}
-			"development_demo2"
-			{
-				"gid" "2E43190CB62D2C43BE9816C710275AFE"
-				"size" "8989422474A547C940C9766C83409995"
-				"download" "F803E2E896482F12CF49A6FD6121FA5E"
-			}
-			"development_saves"
-			{
-				"gid" "5745DEF448F515A285E51322A3F9FBD8"
-				"size" "6E474B831BE8C1CEF1825C03AC3AB7BD"
-				"download" "E5600585661AE39B86DF62A6ED71EEE6"
-			}
-			"presave"
-			{
-				"gid" "8C1F2A81BE0234F138F3900CBDCB1D6D"
-				"size" "AD5C5A3E406EF537FF3E020904F569AF"
-				"download" "AEC5F6B1A386B35A1EF44EF2D2EDA4FD"
-			}
-			"preview"
-			{
-				"gid" "3BC1055100B9D5E55D0A21D02B7D1554"
-				"size" "78882E8BCE94F5D9139AD74373F1430B"
-				"download" "482B4C5A7B89E608B55A33017334EEFA"
+				"gid" "793492875713920554"
+				"size" "7745404550"
+				"download" "3236396208"
 			}
 		}
 	}
@@ -311,52 +261,11 @@
 	{
 		"public"
 		{
-			"buildid" "16841073"
-			"timeupdated" "1735029189"
-		}
-		"development_demo"
-		{
-			"buildid" "13817168"
-			"pwdrequired" "1"
-			"timeupdated" "1711071161"
-		}
-		"development"
-		{
-			"buildid" "16841073"
-			"pwdrequired" "1"
-			"timeupdated" "1735023834"
-		}
-		"development_debug"
-		{
-			"buildid" "16567728"
-			"pwdrequired" "1"
-			"timeupdated" "1732822909"
-		}
-		"development_demo2"
-		{
-			"buildid" "14642408"
-			"pwdrequired" "1"
-			"timeupdated" "1717778306"
-		}
-		"development_saves"
-		{
-			"buildid" "14805601"
-			"pwdrequired" "1"
-			"timeupdated" "1719078167"
-		}
-		"presave"
-		{
-			"buildid" "14496668"
-			"pwdrequired" "1"
-			"timeupdated" "1716689354"
-		}
-		"preview"
-		{
-			"buildid" "14722741"
-			"pwdrequired" "1"
-			"timeupdated" "1718391648"
+			"buildid" "17508198"
+			"timeupdated" "1740592876"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -387,6 +296,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26771303"
-"_sha" "566ac27bd5a5cfdd3ae423e4f77b15e038599698"
-"_size" "7250"
+"_change_number" "27680759"
+"_sha" "40d900918a7ebedbaffea3525be87870a7ddb69a"
+"_size" "5076"
