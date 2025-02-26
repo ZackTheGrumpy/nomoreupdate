@@ -271,8 +271,8 @@
 		"3" "9"
 		"4" "3810"
 		"5" "8945"
-		"6" "12472"
-		"7" "1654"
+		"6" "1654"
+		"7" "12472"
 		"8" "4166"
 		"9" "4695"
 		"10" "1643"
@@ -280,8 +280,8 @@
 		"12" "4182"
 		"13" "220585"
 		"14" "7332"
-		"15" "1662"
-		"16" "1695"
+		"15" "1695"
+		"16" "1662"
 		"17" "1676"
 		"18" "6426"
 		"19" "493"
@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "1604174191267771512"
-				"size" "5779841302"
-				"download" "2747416128"
+				"gid" "8069443070975866247"
+				"size" "5781320722"
+				"download" "2747796624"
 			}
 			"early_access_1_9"
 			{
@@ -350,15 +350,15 @@
 			}
 			"modding_preview"
 			{
-				"gid" "6584419463777985134"
-				"size" "5779839776"
-				"download" "2747631552"
+				"gid" "3263523747586528887"
+				"size" "5781286373"
+				"download" "2740164736"
 			}
 			"previous_build"
 			{
-				"gid" "8024458237907853665"
-				"size" "5779844838"
-				"download" "2747564496"
+				"gid" "1604174191267771512"
+				"size" "5779841302"
+				"download" "2747416128"
 			}
 		}
 	}
@@ -373,9 +373,9 @@
 		{
 			"public"
 			{
-				"gid" "5118978044172454584"
-				"size" "21108400"
-				"download" "9951680"
+				"gid" "8199326432290963373"
+				"size" "21109576"
+				"download" "9952400"
 			}
 			"early_access_1_9"
 			{
@@ -385,9 +385,9 @@
 			}
 			"modding_preview"
 			{
-				"gid" "5118978044172454584"
-				"size" "21108400"
-				"download" "9951680"
+				"gid" "8199326432290963373"
+				"size" "21109576"
+				"download" "9952400"
 			}
 			"previous_build"
 			{
@@ -401,8 +401,8 @@
 	{
 		"public"
 		{
-			"buildid" "17447127"
-			"timeupdated" "1740161739"
+			"buildid" "17490850"
+			"timeupdated" "1740585401"
 		}
 		"early_access_1_9"
 		{
@@ -412,15 +412,15 @@
 		}
 		"modding_preview"
 		{
-			"buildid" "17355288"
+			"buildid" "17506095"
 			"description" "Modding Preview 1.0"
-			"timeupdated" "1739475023"
+			"timeupdated" "1740585431"
 		}
 		"previous_build"
 		{
-			"buildid" "17426891"
+			"buildid" "17447127"
 			"description" "[Previous Build] If sometings goes wrong with the default build"
-			"timeupdated" "1740161771"
+			"timeupdated" "1740585379"
 		}
 	}
 	"privatebranches" "1"
@@ -431,6 +431,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27600627"
-"_sha" "e7cbbf8cc56263157b18c6ffac0d938959ca5ca7"
+"_change_number" "27678609"
+"_sha" "6456ed47e6ea9c279ef92f2ee6c933d81e4750ac"
 "_size" "8055"
