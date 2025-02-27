@@ -1,0 +1,199 @@
+"appid" "531540"
+"common"
+{
+	"name" "Hidden Dimensions 3"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "cb1033f604f604a4f9767def10a2a1e63b7bc382"
+	"clienttga" "d5dbe4ac8efbfe9677b52370f1c7954086ba0200"
+	"icon" "fdfdc6a510573f4ffa77eeaa7e570f672755235c"
+	"logo" "ff507ecdec1d1d1e6bb4fba3ed64ea0c023fa013"
+	"logo_small" "ff507ecdec1d1d1e6bb4fba3ed64ea0c023fa013_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676937600"
+		"tested_build_id" "1954622"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Hidden Dimensions 3"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_b80d43126f1eade65c3eb5ae2acfcaff1a273137.jpg"
+	"store_asset_mtime" "1474361037"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stijn Van Cauter"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stijn Van Cauter"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1476256641"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "531540"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "113"
+		"2" "1666"
+		"3" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Stijn Van Cauter"
+	"publisher" "Stijn Van Cauter"
+	"homepage" "http://nulll-void.com/games/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Hidden Dimensions 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HD3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"531541"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1700518192923122784"
+				"size" "211350072"
+				"download" "115780336"
+			}
+		}
+	}
+	"533840"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8354759117585323704"
+				"size" "217936148"
+				"download" "211288528"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1954622"
+			"timeupdated" "1499852852"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26267273"
+"_sha" "361e8c5e3a3156ce61ef9129ecb66e54c3cff970"
+"_size" "3566"
