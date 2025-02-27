@@ -17,6 +17,7 @@
 	"icon" "fe29a4d9306c9101d8fd1374a44bbe8eddbb317c"
 	"clienticon" "6ce1a1cc2cb6de291ec220a0b65ee043f29c6289"
 	"releasestate" "released"
+	"exfgls" "1"
 	"content_descriptors"
 	{
 		"0" "5"
@@ -167,12 +168,12 @@
 		"2" "1718"
 		"3" "1775"
 		"4" "3843"
-		"5" "3814"
-		"6" "176981"
-		"7" "4191"
-		"8" "3835"
-		"9" "21"
-		"10" "128"
+		"5" "176981"
+		"6" "3814"
+		"7" "3835"
+		"8" "4191"
+		"9" "128"
+		"10" "21"
 		"11" "493"
 		"12" "4175"
 		"13" "5673"
@@ -180,8 +181,8 @@
 		"15" "13906"
 		"16" "3978"
 	}
-	"review_score" "5"
-	"review_percentage" "64"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -264,15 +265,15 @@
 		{
 			"public"
 			{
-				"gid" "5968539148756118654"
-				"size" "26427158682"
-				"download" "22979422368"
+				"gid" "2378503080192749329"
+				"size" "26427238153"
+				"download" "22979553568"
 			}
 			"development"
 			{
-				"gid" "5968539148756118654"
-				"size" "26427158682"
-				"download" "22979422368"
+				"gid" "2378503080192749329"
+				"size" "26427238153"
+				"download" "22979553568"
 			}
 		}
 	}
@@ -280,18 +281,18 @@
 	{
 		"public"
 		{
-			"buildid" "17456858"
-			"timeupdated" "1740180539"
+			"buildid" "17514309"
+			"timeupdated" "1740613007"
 		}
 		"development"
 		{
-			"buildid" "17456858"
+			"buildid" "17514309"
 			"description" "Development version for internal testing"
-			"timeupdated" "1740150384"
+			"timeupdated" "1740571467"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27604734"
-"_sha" "51aa467f26993ba803913b6d47416643a3fe3519"
-"_size" "5209"
+"_change_number" "27685624"
+"_sha" "4ed1fb68851f01007a0a3853de704d1ac7b564f6"
+"_size" "5225"
