@@ -1,0 +1,251 @@
+"appid" "1018680"
+"common"
+{
+	"name" "Screenbits - Screen Recorder"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "c2ffb1df367538c18c773ee6041c73d7ab1fa23e"
+	"clienticon" "5f6a52425b48651d3ca1317c2c5af2535c2c0f6d"
+	"clienttga" "d5baab633ffc5390e36192ed343745cd3335dd99"
+	"logo" "944340d2c7e7af900fddb9aef509c1cfa92199f8"
+	"logo_small" "944340d2c7e7af900fddb9aef509c1cfa92199f8_thumb"
+	"small_capsule"
+	{
+		"english" "4fe68f49f7a3c308e0a3d644b21222cb759aab29/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1736676774"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CHEHRAZ"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CHEHRAZ"
+		}
+	}
+	"primary_genre" "58"
+	"genres"
+	{
+		"0" "52"
+		"1" "56"
+		"2" "57"
+		"3" "58"
+		"4" "59"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1550257257"
+	"community_hub_visible" "1"
+	"gameid" "1018680"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "784"
+		"2" "1445"
+		"3" "1027"
+		"4" "1038"
+		"5" "8013"
+		"6" "1036"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "CHEHRAZ"
+	"publisher" "CHEHRAZ"
+	"homepage" "https://www.screenbits.com/"
+}
+"config"
+{
+	"installdir" "Screenbits"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Screenbits.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1018681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8598808705261439570"
+				"size" "5985216"
+				"download" "1623808"
+			}
+		}
+	}
+	"1018682"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4383116292114821765"
+				"size" "5646272"
+				"download" "1549648"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17117606"
+			"timeupdated" "1738262048"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27281197"
+"_sha" "80d254378d0f3c0beea56aed80dabd0f4e2dfee3"
+"_size" "3822"
