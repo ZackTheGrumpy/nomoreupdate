@@ -86,7 +86,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737173304"
+	"store_asset_mtime" "1740631221"
 	"associations"
 	{
 		"0"
@@ -95,11 +95,6 @@
 			"name" "Xiaming Game"
 		}
 		"1"
-		{
-			"type" "publisher"
-			"name" "Mammorize"
-		}
-		"2"
 		{
 			"type" "publisher"
 			"name" "Xiaming Game"
@@ -160,7 +155,7 @@
 {
 	"demoofappid" "2179370"
 	"developer" "Xiaming Game"
-	"publisher" "Mammorize"
+	"publisher" "Xiaming Game"
 }
 "config"
 {
@@ -211,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "3425307098926376495"
-				"size" "3198638758"
-				"download" "2911741408"
+				"gid" "410622519821607562"
+				"size" "3198814442"
+				"download" "2912254912"
 			}
 		}
 	}
@@ -224,8 +219,8 @@
 	{
 		"public"
 		{
-			"buildid" "17482687"
-			"timeupdated" "1740397670"
+			"buildid" "17530438"
+			"timeupdated" "1740657413"
 		}
 	}
 }
@@ -249,6 +244,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27632455"
-"_sha" "2ff3bb5d08be213f2e240b462310627cfd1f3541"
-"_size" "4163"
+"_change_number" "27695467"
+"_sha" "dbf6366d46169fd54ca59d10c632fa6392d73a0f"
+"_size" "4100"
