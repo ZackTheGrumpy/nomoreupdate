@@ -1,0 +1,277 @@
+"appid" "2516360"
+"common"
+{
+	"name" "Nonsensical Video Generator"
+	"type" "Application"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "be3d3d4f2946c46bcfc8c51c34f57b3af177267f"
+	"clienttga" "e36c53a276a3bf44be585f447068dc4d976fd233"
+	"icon" "5d4b0c183b99f545bf19e097964ef4c9b57d3906"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.07867282443985"
+			"height_pct" "38.010775433151636"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.07867282443985"
+				"height_pct" "38.010775433151636"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f1a827fa896af3675998e52df44a6e691476f566/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f1a827fa896af3675998e52df44a6e691476f566/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727747622"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KiwifruitDev"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KiwifruitDev"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nonsensical Video Generator"
+		}
+	}
+	"primary_genre" "58"
+	"genres"
+	{
+		"0" "58"
+	}
+	"category"
+	{
+		"category_30" "1"
+		"category_23" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1690135216"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2516360"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "784"
+		"1" "4136"
+		"2" "1669"
+		"3" "8013"
+		"4" "3964"
+	}
+	"review_score" "8"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"enablegameoverlayforapp" "1"
+	"developer" "KiwifruitDev"
+	"publisher" "KiwifruitDev"
+	"homepage" "https://github.com/KiwifruitDev/NonsensicalVideoGenerator"
+}
+"config"
+{
+	"installdir" "NonsensicalVideoGenerator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NonsensicalVideoGenerator.exe"
+			"arguments" "-nopath"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "NonsensicalVideoGenerator.exe"
+			"arguments" "-nopath -console"
+			"description_loc"
+			{
+				"english" "Open console.txt"
+			}
+			"description" "Open console.txt"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"workshopdepot" "2516360"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2516361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "204049683408082940"
+				"size" "220144222"
+				"download" "167279984"
+			}
+			"previous"
+			{
+				"gid" "8992292805875985888"
+				"size" "220445546"
+				"download" "167975232"
+			}
+			"desktopgl"
+			{
+				"gid" "3412914912868732087"
+				"size" "126308206"
+				"download" "87537920"
+			}
+			"precompliance"
+			{
+				"gid" "4772348803428612794"
+				"size" "141684556"
+				"download" "96467072"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16845750"
+			"timeupdated" "1735081883"
+		}
+		"previous"
+		{
+			"buildid" "16807205"
+			"description" "Previous build rollback"
+			"timeupdated" "1735081842"
+		}
+		"desktopgl"
+		{
+			"buildid" "12238994"
+			"description" "Milestone 3 Hotfix 2 (v1.0.0.11) (DesktopGL)"
+			"timeupdated" "1716589663"
+		}
+		"precompliance"
+		{
+			"buildid" "11785658"
+			"description" "Milestone 1 Hotfix 3 (v1.0.0.5)"
+			"timeupdated" "1690403651"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "Options.json"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "PluginSettings.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26799958"
+"_sha" "d88a609f8ed02a8c9b446ac88692a95f0a3cc355"
+"_size" "4669"
