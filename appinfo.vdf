@@ -110,7 +110,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739874209"
+	"store_asset_mtime" "1739877382"
 	"associations"
 	{
 		"0"
@@ -213,27 +213,29 @@
 	"gameid" "1902960"
 	"store_tags"
 	{
-		"0" "6691"
+		"0" "44868"
 		"1" "6426"
 		"2" "7208"
-		"3" "6971"
-		"4" "5716"
-		"5" "1742"
-		"6" "4166"
-		"7" "11014"
-		"8" "4191"
-		"9" "4252"
+		"3" "6691"
+		"4" "1742"
+		"5" "5716"
+		"6" "6971"
+		"7" "4166"
+		"8" "11014"
+		"9" "4191"
 		"10" "1697"
-		"11" "44868"
+		"11" "4252"
 		"12" "4145"
-		"13" "30358"
-		"14" "5186"
-		"15" "4947"
-		"16" "1710"
-		"17" "9592"
-		"18" "15172"
-		"19" "21"
+		"13" "4947"
+		"14" "30358"
+		"15" "5186"
+		"16" "9592"
+		"17" "21"
+		"18" "1710"
+		"19" "15172"
 	}
+	"review_score" "8"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -1220,7 +1222,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu1_co"
+				"betakey" "buildsystem_ep1_tu2.1_co"
 			}
 			"description_loc"
 			{
@@ -1235,7 +1237,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu1_co"
+				"betakey" "buildsystem_ep1_tu2.1_co"
 			}
 			"description_loc"
 			{
@@ -1250,7 +1252,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu1_pc"
+				"betakey" "buildsystem_ep1_tu2.1_pc"
 			}
 			"description_loc"
 			{
@@ -1265,7 +1267,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu1_pc"
+				"betakey" "buildsystem_ep1_tu2.1_pc"
 			}
 			"description_loc"
 			{
@@ -1281,7 +1283,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu1_pc"
+				"betakey" "buildsystem_ep1_tu2.1_pc"
 			}
 			"description_loc"
 			{
@@ -1297,7 +1299,8 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu1_pc_shipping"
+				"osarch" "64"
+				"betakey" "buildsystem_ep1_tu2.1_pc_ship"
 			}
 			"description_loc"
 			{
@@ -1330,7 +1333,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "buildsystem_ep1_tu1_pc"
+				"betakey" "buildsystem_ep1_tu2.1_pc"
 			}
 			"description_loc"
 			{
@@ -1510,9 +1513,9 @@
 		{
 			"public"
 			{
-				"gid" "1481791977721265479"
-				"size" "46301844517"
-				"download" "42337549792"
+				"gid" "3859862536567523014"
+				"size" "46301859859"
+				"download" "42319419840"
 			}
 		}
 	}
@@ -1524,8 +1527,8 @@
 	{
 		"public"
 		{
-			"buildid" "17370633"
-			"timeupdated" "1739859774"
+			"buildid" "17518988"
+			"timeupdated" "1740612387"
 		}
 	}
 	"privatebranches" "1"
@@ -1611,6 +1614,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27531981"
-"_sha" "164458c499e47cd2b0b4ebe3dd623268b34c30f8"
-"_size" "34818"
+"_change_number" "27685820"
+"_sha" "669072909739b0e69bdf7e6e0c9770bc03d7a861"
+"_size" "34898"
