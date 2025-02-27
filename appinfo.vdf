@@ -41,6 +41,7 @@
 			}
 		}
 	}
+	"store_screenshot" "ss_1cca9a1deaf9670eedc4900363a0c7d9d4976089.jpg"
 	"store_asset_mtime" "1724741844"
 	"associations"
 	{
@@ -96,7 +97,7 @@
 		"4" "10383"
 	}
 	"review_score" "7"
-	"review_percentage" "93"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -115,18 +116,9 @@
 		{
 			"public"
 			{
-				"gid" "5936950414224254787"
-				"size" "252072816"
-				"download" "255492416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "44F7FA822E1DA8184AD63D99E1EAE619"
-				"size" "95CD4A9A316CAB033D80F24724F5E059"
-				"download" "8EF5329705F455D57AB8279C09DAE428"
+				"gid" "4467959629009084866"
+				"size" "252617088"
+				"download" "256021632"
 			}
 		}
 		"dlcappid" "2210720"
@@ -142,29 +134,19 @@
 				"download" "22590671568"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "28F47FA11822302072D96A3BB9A5EC90"
-				"size" "D30FA57224A79ED9D43BB1FE4EB54548"
-				"download" "2593818A1C4A7C3A24E0A29AE3DB65EB"
-			}
-		}
 		"dlcappid" "2210720"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15738274"
-			"timeupdated" "1727156761"
-		}
-		"testplay"
-		{
-			"buildid" "15738274"
-			"pwdrequired" "1"
-			"timeupdated" "1726639639"
+			"buildid" "17525863"
+			"timeupdated" "1740646464"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27692335"
+"_sha" "7a348506c56d8c2b85010e0992e4a0d9238ce326"
+"_size" "2544"
