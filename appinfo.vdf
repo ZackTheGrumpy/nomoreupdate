@@ -1,0 +1,253 @@
+"appid" "1820690"
+"common"
+{
+	"name" "One Line"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "826867415ca8099bcc2b2650b67baf2480dc7167"
+	"logo_small" "826867415ca8099bcc2b2650b67baf2480dc7167_thumb"
+	"clienticon" "ecc1616a7ced566bea5085d4eb590e06bf030e2e"
+	"clienttga" "1168cdf19d08ad281b25e6df4db6ddb715f19106"
+	"icon" "b4949c5a979a66a16b203d2161734e23d350947b"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticns" "ecd1f10e0af43018aad31c01a587909b2d2bc73b"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "54.651162790697754"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "54.651162790697754"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1702480542"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "New Dawn Game Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "New Dawn Game Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "New Dawn Game Studio"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1639591392"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1820690"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "11123"
+		"2" "4400"
+		"3" "6129"
+		"4" "4094"
+		"5" "13782"
+		"6" "7569"
+		"7" "1654"
+		"8" "4234"
+		"9" "13070"
+		"10" "1036"
+		"11" "4026"
+		"12" "17389"
+		"13" "7250"
+		"14" "5350"
+		"15" "1698"
+		"16" "492"
+		"17" "4182"
+		"18" "597"
+		"19" "3871"
+	}
+	"review_score" "8"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "New Dawn Game Studio"
+	"publisher" "New Dawn Game Studio"
+}
+"config"
+{
+	"installdir" "One Line"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "One Line.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,spanish,schinese,brazilian"
+	"hasdepotsindlc" "0"
+	"1820691"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7878681173558504070"
+				"size" "190423131"
+				"download" "79385184"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8986997"
+			"timeupdated" "1655911193"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "OneLine/User Data/Default/IndexedDB"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26307269"
+"_sha" "b831431a9f0cc229541e97fcb39d56260ac7895d"
+"_size" "4068"
