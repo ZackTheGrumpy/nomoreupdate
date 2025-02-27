@@ -162,26 +162,6 @@
 		{
 			"supported" "true"
 		}
-		"schinese"
-		{
-			"supported" "true"
-		}
-		"tchinese"
-		{
-			"supported" "true"
-		}
-		"latam"
-		{
-			"supported" "true"
-		}
-		"russian"
-		{
-			"supported" "true"
-		}
-		"turkish"
-		{
-			"supported" "true"
-		}
 		"french"
 		{
 			"supported" "true"
@@ -202,7 +182,19 @@
 		{
 			"supported" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
 		"danish"
+		{
+			"supported" "true"
+		}
+		"latam"
 		{
 			"supported" "true"
 		}
@@ -219,6 +211,10 @@
 			"supported" "true"
 		}
 		"hungarian"
+		{
+			"supported" "true"
+		}
+		"indonesian"
 		{
 			"supported" "true"
 		}
@@ -246,6 +242,10 @@
 		{
 			"supported" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+		}
 		"swedish"
 		{
 			"supported" "true"
@@ -255,6 +255,10 @@
 			"supported" "true"
 		}
 		"czech"
+		{
+			"supported" "true"
+		}
+		"turkish"
 		{
 			"supported" "true"
 		}
@@ -270,7 +274,295 @@
 		{
 			"supported" "true"
 		}
-		"indonesian"
+		"afrikaans"
+		{
+			"supported" "true"
+		}
+		"albanian"
+		{
+			"supported" "true"
+		}
+		"amharic"
+		{
+			"supported" "true"
+		}
+		"armenian"
+		{
+			"supported" "true"
+		}
+		"assamese"
+		{
+			"supported" "true"
+		}
+		"azerbaijani"
+		{
+			"supported" "true"
+		}
+		"basque"
+		{
+			"supported" "true"
+		}
+		"bangla"
+		{
+			"supported" "true"
+		}
+		"belarusian"
+		{
+			"supported" "true"
+		}
+		"bosnian"
+		{
+			"supported" "true"
+		}
+		"kannada"
+		{
+			"supported" "true"
+		}
+		"catalan"
+		{
+			"supported" "true"
+		}
+		"kazakh"
+		{
+			"supported" "true"
+		}
+		"cherokee"
+		{
+			"supported" "true"
+		}
+		"sinhala"
+		{
+			"supported" "true"
+		}
+		"konkani"
+		{
+			"supported" "true"
+		}
+		"croatian"
+		{
+			"supported" "true"
+		}
+		"dari"
+		{
+			"supported" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+		}
+		"slovenian"
+		{
+			"supported" "true"
+		}
+		"estonian"
+		{
+			"supported" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+		}
+		"galician"
+		{
+			"supported" "true"
+		}
+		"welsh"
+		{
+			"supported" "true"
+		}
+		"georgian"
+		{
+			"supported" "true"
+		}
+		"gujarati"
+		{
+			"supported" "true"
+		}
+		"hausa"
+		{
+			"supported" "true"
+		}
+		"hebrew"
+		{
+			"supported" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+		}
+		"igbo"
+		{
+			"supported" "true"
+		}
+		"yoruba"
+		{
+			"supported" "true"
+		}
+		"irish"
+		{
+			"supported" "true"
+		}
+		"icelandic"
+		{
+			"supported" "true"
+		}
+		"khmer"
+		{
+			"supported" "true"
+		}
+		"latvian"
+		{
+			"supported" "true"
+		}
+		"lithuanian"
+		{
+			"supported" "true"
+		}
+		"luxembourgish"
+		{
+			"supported" "true"
+		}
+		"macedonian"
+		{
+			"supported" "true"
+		}
+		"malayalam"
+		{
+			"supported" "true"
+		}
+		"malay"
+		{
+			"supported" "true"
+		}
+		"maltese"
+		{
+			"supported" "true"
+		}
+		"maori"
+		{
+			"supported" "true"
+		}
+		"marathi"
+		{
+			"supported" "true"
+		}
+		"mongolian"
+		{
+			"supported" "true"
+		}
+		"nepali"
+		{
+			"supported" "true"
+		}
+		"odia"
+		{
+			"supported" "true"
+		}
+		"gurmukhi"
+		{
+			"supported" "true"
+		}
+		"shahmukhi"
+		{
+			"supported" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+		}
+		"kiche"
+		{
+			"supported" "true"
+		}
+		"kinyarwanda"
+		{
+			"supported" "true"
+		}
+		"kyrgyz"
+		{
+			"supported" "true"
+		}
+		"quechua"
+		{
+			"supported" "true"
+		}
+		"sotho"
+		{
+			"supported" "true"
+		}
+		"sindhi"
+		{
+			"supported" "true"
+		}
+		"sorani"
+		{
+			"supported" "true"
+		}
+		"swahili"
+		{
+			"supported" "true"
+		}
+		"serbian"
+		{
+			"supported" "true"
+		}
+		"tajik"
+		{
+			"supported" "true"
+		}
+		"tigrinya"
+		{
+			"supported" "true"
+		}
+		"tswana"
+		{
+			"supported" "true"
+		}
+		"turkmen"
+		{
+			"supported" "true"
+		}
+		"tatar"
+		{
+			"supported" "true"
+		}
+		"tamil"
+		{
+			"supported" "true"
+		}
+		"telugu"
+		{
+			"supported" "true"
+		}
+		"uyghur"
+		{
+			"supported" "true"
+		}
+		"wolof"
+		{
+			"supported" "true"
+		}
+		"urdu"
+		{
+			"supported" "true"
+		}
+		"uzbek"
+		{
+			"supported" "true"
+		}
+		"valencian"
+		{
+			"supported" "true"
+		}
+		"xhosa"
+		{
+			"supported" "true"
+		}
+		"zulu"
+		{
+			"supported" "true"
+		}
+		"scots"
 		{
 			"supported" "true"
 		}
@@ -348,21 +640,15 @@
 		{
 			"public"
 			{
-				"gid" "4220463322583569683"
-				"size" "2559934551"
-				"download" "662541488"
-			}
-			"old_version"
-			{
-				"gid" "7768391271536550475"
-				"size" "102422406"
-				"download" "24283488"
+				"gid" "3102949403101788339"
+				"size" "409447083"
+				"download" "99701264"
 			}
 			"pre_release"
 			{
-				"gid" "4220463322583569683"
-				"size" "2559934551"
-				"download" "662541488"
+				"gid" "3102949403101788339"
+				"size" "409447083"
+				"download" "99701264"
 			}
 		}
 	}
@@ -388,19 +674,13 @@
 	{
 		"public"
 		{
-			"buildid" "15570668"
-			"timeupdated" "1725308596"
-		}
-		"old_version"
-		{
-			"buildid" "8973371"
-			"description" "old_version"
-			"timeupdated" "1670058493"
+			"buildid" "17522290"
+			"timeupdated" "1740663283"
 		}
 		"pre_release"
 		{
-			"buildid" "15570668"
-			"timeupdated" "1725308317"
+			"buildid" "17522290"
+			"timeupdated" "1740613087"
 		}
 	}
 }
@@ -420,6 +700,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25047952"
-"_sha" "1df69b7ee93b999efb9bcfd9e2db34e5ce4fd7d9"
-"_size" "6842"
+"_change_number" "27697052"
+"_sha" "7c18677f9efd4ee1b419786dad89f5efe22aa07e"
+"_size" "10024"
