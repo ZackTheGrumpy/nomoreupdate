@@ -1,0 +1,96 @@
+"appid" "1324590"
+"common"
+{
+	"name" "GGG Homebase"
+	"type" "DLC"
+	"parent" "1105480"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_69d892980bac4d18e6fc346808950ddf8e3cdd9d.jpg"
+	"store_asset_mtime" "1589893682"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GGG"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "4"
+		"1" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1590754039"
+	"gameid" "1324590"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "597"
+		"2" "19"
+		"3" "492"
+	}
+}
+"extended"
+{
+	"dlcforappid" "1105480"
+	"mustownapptopurchase" "1105480"
+	"developer" "GGG"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1324590"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3694833212335433517"
+				"size" "3939507"
+				"download" "1698960"
+			}
+		}
+		"dlcappid" "1324590"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5347990"
+			"timeupdated" "1596052785"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "022bcb55ea507f9a415b5d2e12db7dee5173af93"
+"_size" "1344"
