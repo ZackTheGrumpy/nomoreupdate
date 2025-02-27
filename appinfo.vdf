@@ -214,7 +214,6 @@
 		}
 	}
 	"steam_release_date" "1738169828"
-	"steam_deck_blog_url" "https://steamcommunity.com/games/1656930/partnerevents/preview/524206779663385342"
 	"metacritic_score" "75"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/coridden\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
@@ -282,9 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "6394292946804791444"
-				"size" "6720458530"
-				"download" "3363805328"
+				"gid" "6520530595567457835"
+				"size" "15009339223"
+				"download" "6600614064"
 			}
 		}
 	}
@@ -294,8 +293,8 @@
 	{
 		"public"
 		{
-			"buildid" "17517917"
-			"timeupdated" "1740665612"
+			"buildid" "17516489"
+			"timeupdated" "1740675319"
 		}
 	}
 	"privatebranches" "1"
@@ -319,6 +318,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27697827"
-"_sha" "5811cecfe3955e6fd889327897c48a549f1c1ad1"
-"_size" "5929"
+"_change_number" "27700864"
+"_sha" "b3a39ef73410b05885b7ed3703e3748d13b42762"
+"_size" "5821"
