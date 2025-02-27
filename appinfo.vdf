@@ -65,7 +65,7 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "0cd76e2e9279a65069866697f0eaf47adc77d2a7/header.jpg"
 	}
 	"library_assets"
 	{
@@ -75,7 +75,7 @@
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "CenterCenter"
+			"pinned_position" "BottomLeft"
 			"width_pct" "40.646651270207855"
 			"height_pct" "74.92401332106135"
 		}
@@ -86,11 +86,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "419440d3860ebe9050261e1147cff84582383647/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "419440d3860ebe9050261e1147cff84582383647/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -108,28 +108,32 @@
 		{
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "fb0f9717e964b69159264a669e88076cc074e0fb/logo_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "CenterCenter"
+				"pinned_position" "BottomLeft"
 				"width_pct" "40.646651270207855"
 				"height_pct" "74.92401332106135"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "fb0f9717e964b69159264a669e88076cc074e0fb/logo.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "0cd76e2e9279a65069866697f0eaf47adc77d2a7/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0cd76e2e9279a65069866697f0eaf47adc77d2a7/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1726071689"
+	"store_asset_mtime" "1740610776"
 	"associations"
 	{
 		"0"
@@ -293,17 +297,17 @@
 		"5" "198631"
 		"6" "1759"
 		"7" "492"
-		"8" "3871"
-		"9" "4026"
+		"8" "4026"
+		"9" "3871"
 		"10" "5125"
 		"11" "4711"
 		"12" "3964"
 		"13" "4325"
 		"14" "1684"
-		"15" "21"
-		"16" "4791"
-		"17" "4236"
-		"18" "4182"
+		"15" "4791"
+		"16" "21"
+		"17" "4182"
+		"18" "4236"
 		"19" "1702"
 	}
 	"review_score" "9"
@@ -362,15 +366,15 @@
 		{
 			"public"
 			{
-				"gid" "6859728305127275044"
-				"size" "121870288"
-				"download" "104076688"
+				"gid" "3554003082058242685"
+				"size" "123006387"
+				"download" "105189712"
 			}
 			"beta"
 			{
-				"gid" "3062773328205090580"
-				"size" "122617173"
-				"download" "104807952"
+				"gid" "3554003082058242685"
+				"size" "123006387"
+				"download" "105189712"
 			}
 		}
 	}
@@ -384,15 +388,15 @@
 		{
 			"public"
 			{
-				"gid" "4623159189941074465"
-				"size" "127140238"
-				"download" "103150592"
+				"gid" "5851941787262728797"
+				"size" "128276146"
+				"download" "103275840"
 			}
 			"beta"
 			{
-				"gid" "8196713918213927007"
-				"size" "127885194"
-				"download" "103870624"
+				"gid" "5851941787262728797"
+				"size" "128276146"
+				"download" "103275840"
 			}
 		}
 	}
@@ -406,15 +410,15 @@
 		{
 			"public"
 			{
-				"gid" "495117244601353812"
-				"size" "133920213"
-				"download" "106863424"
+				"gid" "5160272811439516155"
+				"size" "135059711"
+				"download" "107972080"
 			}
 			"beta"
 			{
-				"gid" "401555904275417547"
-				"size" "134672156"
-				"download" "107593264"
+				"gid" "5160272811439516155"
+				"size" "135059711"
+				"download" "107972080"
 			}
 		}
 	}
@@ -422,14 +426,14 @@
 	{
 		"public"
 		{
-			"buildid" "15983942"
-			"timeupdated" "1728506316"
+			"buildid" "17518024"
+			"timeupdated" "1740675297"
 		}
 		"beta"
 		{
-			"buildid" "17093809"
+			"buildid" "17518024"
 			"description" "Get access to updates early, but in a rougher state."
-			"timeupdated" "1737563448"
+			"timeupdated" "1740588867"
 		}
 	}
 	"privatebranches" "1"
@@ -483,6 +487,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27115323"
-"_sha" "7f1200ff754c362784829192a6498bde4e6452ed"
-"_size" "8459"
+"_change_number" "27700850"
+"_sha" "9b6ed5fbd0b58a3de4cf79565733dc454a498e6d"
+"_size" "8810"
