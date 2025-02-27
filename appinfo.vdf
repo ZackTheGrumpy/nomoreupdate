@@ -60,9 +60,9 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "68da135eec25cdc8348a163b1f068e0004528b77/capsule_231x87.jpg"
-		"japanese" "613869e376c7a72b4641b64500855c7f7724c991/capsule_231x87_japanese.jpg"
-		"tchinese" "9e34ba8b5f96cc86ff917beaa570bb8ea77d026f/capsule_231x87_tchinese.jpg"
+		"english" "251501d00242f8d836446340c9021aa5f458bcd4/capsule_231x87.jpg"
+		"japanese" "b22cb6a8e1b4cacbef255d4d74a1869fc8b4dfa3/capsule_231x87_japanese.jpg"
+		"tchinese" "7d7c4becd201488f7c3256e9b4daec7f7e093565/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
@@ -132,7 +132,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1735065792"
+	"store_asset_mtime" "1740188056"
 	"associations"
 	{
 		"0"
@@ -252,8 +252,8 @@
 		"10" "3859"
 		"11" "4172"
 		"12" "1702"
-		"13" "4166"
-		"14" "4057"
+		"13" "4057"
+		"14" "4166"
 		"15" "599"
 		"16" "1775"
 		"17" "3920"
@@ -408,9 +408,9 @@
 		{
 			"public"
 			{
-				"gid" "1156383467294082623"
-				"size" "80726585395"
-				"download" "77462156912"
+				"gid" "8475864999485822148"
+				"size" "80917812460"
+				"download" "77648936944"
 			}
 		}
 	}
@@ -432,9 +432,9 @@
 		{
 			"public"
 			{
-				"gid" "3119587524348422522"
-				"size" "80005023915"
-				"download" "76277659216"
+				"gid" "3904123666570924926"
+				"size" "80200487528"
+				"download" "76468424448"
 			}
 		}
 	}
@@ -443,8 +443,8 @@
 	{
 		"public"
 		{
-			"buildid" "17437191"
-			"timeupdated" "1740049843"
+			"buildid" "17524178"
+			"timeupdated" "1740624188"
 		}
 	}
 	"privatebranches" "1"
@@ -455,6 +455,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27572560"
-"_sha" "904188ecb3e672fed4ea7ae373cc9301057a81f6"
+"_change_number" "27687961"
+"_sha" "fd29a7493110f2a2cca2e74fca7ea8c54d17f2b2"
 "_size" "8650"
