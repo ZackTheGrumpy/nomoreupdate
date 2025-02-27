@@ -192,6 +192,12 @@
 		{
 			"public"
 			{
+				"gid" "808021462748200687"
+				"size" "313288121"
+				"download" "96038704"
+			}
+			"1.0.0-preview.5"
+			{
 				"gid" "6250883147276527834"
 				"size" "282688773"
 				"download" "87497984"
@@ -215,6 +221,12 @@
 		{
 			"public"
 			{
+				"gid" "7129178779466827326"
+				"size" "281012146"
+				"download" "90954960"
+			}
+			"1.0.0-preview.5"
+			{
 				"gid" "5228368975516622244"
 				"size" "253224950"
 				"download" "82799616"
@@ -231,8 +243,14 @@
 	{
 		"public"
 		{
+			"buildid" "17534096"
+			"timeupdated" "1740675776"
+		}
+		"1.0.0-preview.5"
+		{
 			"buildid" "15868209"
-			"timeupdated" "1727636893"
+			"description" "Use only for existing bot compatibility reasons."
+			"timeupdated" "1740675704"
 		}
 		"old-versions"
 		{
@@ -251,6 +269,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27186546"
-"_sha" "7d3827d4025960d6eac62d649b3e2479f48115eb"
-"_size" "4249"
+"_change_number" "27701038"
+"_sha" "7e45e9836244411eed1e3cfed4af3cadbb2f37d0"
+"_size" "4649"
