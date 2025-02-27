@@ -1,0 +1,223 @@
+"appid" "1828410"
+"common"
+{
+	"name" "survive the island"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+	}
+	"logo" "e1d0e5356504f4a241f5f503cbb5c232103fdfab"
+	"logo_small" "e1d0e5356504f4a241f5f503cbb5c232103fdfab_thumb"
+	"icon" "1e4132bc51c1e1997915e5497845516e4b4a1e1e"
+	"clienttga" "2e9eb30b4da532653dba772be71b29c44383f263"
+	"clienticon" "da12c164c4f8ab3c2875b85ef8c71f67b38d5508"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"restricted_countries" "DE"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1714335055"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PhantomCore Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PhantomCore PUBLISHING"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PhantomCore PUBLISHING"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "PhantomCore Studio"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_47" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_44" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1639505580"
+	"community_hub_visible" "1"
+	"gameid" "1828410"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "122"
+		"2" "3810"
+		"3" "4231"
+		"4" "4191"
+		"5" "1643"
+		"6" "1697"
+		"7" "1662"
+		"8" "113"
+		"9" "1702"
+		"10" "7332"
+		"11" "1695"
+		"12" "3993"
+		"13" "3859"
+		"14" "4182"
+		"15" "6730"
+		"16" "1663"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"developer" "PhantomCore Studio"
+	"publisher" "PhantomCore PUBLISHING"
+	"isfreeapp" "1"
+	"listofdlc" "1828420,1833600,1836810,1884110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "survive_the_island"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "survive_the_island\\Binaries\\Win64\\survive_the_island-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"1828411"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8445436936226763041"
+				"size" "4954436959"
+				"download" "607255360"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7812543"
+			"timeupdated" "1644378727"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27496398"
+"_sha" "5d7d4ef98fd7460afc612be738db095cfa26ae99"
+"_size" "3519"
