@@ -1,0 +1,232 @@
+"appid" "1293040"
+"common"
+{
+	"name" "风中之烛"
+	"type" "Game"
+	"name_localized"
+	{
+		"english" "candle flame in the wind"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "9acbf67ce209e94db3322ef93c48ba34a4fbdcab"
+	"logo_small" "9acbf67ce209e94db3322ef93c48ba34a4fbdcab_thumb"
+	"icon" "fcd7d26496d65d485bf2318d338f9f40e53cab95"
+	"clienttga" "840af9ac3e9d7b5bd73f7d4194ab8d31edc34d5d"
+	"clienticns" "2a770fedc3847aabb5f898e39dadb4e7dc9b4b7a"
+	"clienticon" "92e60e9bbb4980e60cdd1c066ec1b7d0bd4d2831"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1714003200"
+		"tested_build_id" "5046892"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "48.18642561467584"
+			"height_pct" "63.51911996804429"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "48.18642561467584"
+				"height_pct" "63.51911996804429"
+			}
+		}
+	}
+	"store_asset_mtime" "1588580799"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "秃鹰组长"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "秃鹰组长"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "37"
+		"3" "23"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1589772646"
+	"community_hub_visible" "1"
+	"gameid" "1293040"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "122"
+		"2" "492"
+		"3" "21"
+		"4" "597"
+		"5" "5577"
+		"6" "1667"
+		"7" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "秃鹰组长"
+	"publisher" "秃鹰组长"
+	"isfreeapp" "1"
+	"listofdlc" "1307420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "candle flame in the wind"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "\\风中之烛.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "schinese"
+	"1293041"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8007136317023120708"
+				"size" "580460756"
+				"download" "459327008"
+			}
+		}
+	}
+	"1293042"
+	{
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"1307420"
+	{
+		"dlcappid" "1307420"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5046892"
+			"timeupdated" "1589860970"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26828590"
+"_sha" "102b09fc80b9419fd80a7a55a1c8641eddaabc94"
+"_size" "3961"
