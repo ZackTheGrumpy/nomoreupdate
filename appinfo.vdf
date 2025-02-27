@@ -81,6 +81,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1670318274"
 	"associations"
 	{
@@ -128,26 +166,6 @@
 		{
 			"supported" "true"
 		}
-		"schinese"
-		{
-			"supported" "true"
-		}
-		"tchinese"
-		{
-			"supported" "true"
-		}
-		"latam"
-		{
-			"supported" "true"
-		}
-		"russian"
-		{
-			"supported" "true"
-		}
-		"turkish"
-		{
-			"supported" "true"
-		}
 		"french"
 		{
 			"supported" "true"
@@ -168,7 +186,19 @@
 		{
 			"supported" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
 		"danish"
+		{
+			"supported" "true"
+		}
+		"latam"
 		{
 			"supported" "true"
 		}
@@ -185,6 +215,10 @@
 			"supported" "true"
 		}
 		"hungarian"
+		{
+			"supported" "true"
+		}
+		"indonesian"
 		{
 			"supported" "true"
 		}
@@ -212,6 +246,10 @@
 		{
 			"supported" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+		}
 		"swedish"
 		{
 			"supported" "true"
@@ -221,6 +259,10 @@
 			"supported" "true"
 		}
 		"czech"
+		{
+			"supported" "true"
+		}
+		"turkish"
 		{
 			"supported" "true"
 		}
@@ -236,7 +278,295 @@
 		{
 			"supported" "true"
 		}
-		"indonesian"
+		"afrikaans"
+		{
+			"supported" "true"
+		}
+		"albanian"
+		{
+			"supported" "true"
+		}
+		"amharic"
+		{
+			"supported" "true"
+		}
+		"armenian"
+		{
+			"supported" "true"
+		}
+		"assamese"
+		{
+			"supported" "true"
+		}
+		"azerbaijani"
+		{
+			"supported" "true"
+		}
+		"basque"
+		{
+			"supported" "true"
+		}
+		"bangla"
+		{
+			"supported" "true"
+		}
+		"belarusian"
+		{
+			"supported" "true"
+		}
+		"bosnian"
+		{
+			"supported" "true"
+		}
+		"kannada"
+		{
+			"supported" "true"
+		}
+		"catalan"
+		{
+			"supported" "true"
+		}
+		"kazakh"
+		{
+			"supported" "true"
+		}
+		"cherokee"
+		{
+			"supported" "true"
+		}
+		"sinhala"
+		{
+			"supported" "true"
+		}
+		"konkani"
+		{
+			"supported" "true"
+		}
+		"croatian"
+		{
+			"supported" "true"
+		}
+		"dari"
+		{
+			"supported" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+		}
+		"slovenian"
+		{
+			"supported" "true"
+		}
+		"estonian"
+		{
+			"supported" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+		}
+		"galician"
+		{
+			"supported" "true"
+		}
+		"welsh"
+		{
+			"supported" "true"
+		}
+		"georgian"
+		{
+			"supported" "true"
+		}
+		"gujarati"
+		{
+			"supported" "true"
+		}
+		"hausa"
+		{
+			"supported" "true"
+		}
+		"hebrew"
+		{
+			"supported" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+		}
+		"igbo"
+		{
+			"supported" "true"
+		}
+		"yoruba"
+		{
+			"supported" "true"
+		}
+		"irish"
+		{
+			"supported" "true"
+		}
+		"icelandic"
+		{
+			"supported" "true"
+		}
+		"khmer"
+		{
+			"supported" "true"
+		}
+		"latvian"
+		{
+			"supported" "true"
+		}
+		"lithuanian"
+		{
+			"supported" "true"
+		}
+		"luxembourgish"
+		{
+			"supported" "true"
+		}
+		"macedonian"
+		{
+			"supported" "true"
+		}
+		"malayalam"
+		{
+			"supported" "true"
+		}
+		"malay"
+		{
+			"supported" "true"
+		}
+		"maltese"
+		{
+			"supported" "true"
+		}
+		"maori"
+		{
+			"supported" "true"
+		}
+		"marathi"
+		{
+			"supported" "true"
+		}
+		"mongolian"
+		{
+			"supported" "true"
+		}
+		"nepali"
+		{
+			"supported" "true"
+		}
+		"odia"
+		{
+			"supported" "true"
+		}
+		"gurmukhi"
+		{
+			"supported" "true"
+		}
+		"shahmukhi"
+		{
+			"supported" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+		}
+		"kiche"
+		{
+			"supported" "true"
+		}
+		"kinyarwanda"
+		{
+			"supported" "true"
+		}
+		"kyrgyz"
+		{
+			"supported" "true"
+		}
+		"quechua"
+		{
+			"supported" "true"
+		}
+		"sotho"
+		{
+			"supported" "true"
+		}
+		"sindhi"
+		{
+			"supported" "true"
+		}
+		"sorani"
+		{
+			"supported" "true"
+		}
+		"swahili"
+		{
+			"supported" "true"
+		}
+		"serbian"
+		{
+			"supported" "true"
+		}
+		"tajik"
+		{
+			"supported" "true"
+		}
+		"tigrinya"
+		{
+			"supported" "true"
+		}
+		"tswana"
+		{
+			"supported" "true"
+		}
+		"turkmen"
+		{
+			"supported" "true"
+		}
+		"tatar"
+		{
+			"supported" "true"
+		}
+		"tamil"
+		{
+			"supported" "true"
+		}
+		"telugu"
+		{
+			"supported" "true"
+		}
+		"uyghur"
+		{
+			"supported" "true"
+		}
+		"wolof"
+		{
+			"supported" "true"
+		}
+		"urdu"
+		{
+			"supported" "true"
+		}
+		"uzbek"
+		{
+			"supported" "true"
+		}
+		"valencian"
+		{
+			"supported" "true"
+		}
+		"xhosa"
+		{
+			"supported" "true"
+		}
+		"zulu"
+		{
+			"supported" "true"
+		}
+		"scots"
 		{
 			"supported" "true"
 		}
@@ -269,7 +599,7 @@
 		"19" "9271"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -314,21 +644,15 @@
 		{
 			"public"
 			{
-				"gid" "7375682617848234207"
-				"size" "2041990630"
-				"download" "528049776"
-			}
-			"old_version"
-			{
-				"gid" "937632242725278473"
-				"size" "424816739"
-				"download" "55391744"
+				"gid" "8843677634356103234"
+				"size" "409448107"
+				"download" "99682016"
 			}
 			"pre_release"
 			{
-				"gid" "7375682617848234207"
-				"size" "2041990630"
-				"download" "528049776"
+				"gid" "8843677634356103234"
+				"size" "409448107"
+				"download" "99682016"
 			}
 		}
 	}
@@ -338,15 +662,15 @@
 		{
 			"public"
 			{
-				"gid" "6483836625157000989"
-				"size" "146851848"
-				"download" "45408768"
+				"gid" "698020134270456685"
+				"size" "146853032"
+				"download" "45409584"
 			}
 			"pre_release"
 			{
-				"gid" "6483836625157000989"
-				"size" "146851848"
-				"download" "45408768"
+				"gid" "698020134270456685"
+				"size" "146853032"
+				"download" "45409584"
 			}
 		}
 	}
@@ -354,19 +678,13 @@
 	{
 		"public"
 		{
-			"buildid" "14993754"
-			"timeupdated" "1720648148"
-		}
-		"old_version"
-		{
-			"buildid" "8973102"
-			"description" "Old Version"
-			"timeupdated" "1670172623"
+			"buildid" "17522404"
+			"timeupdated" "1740663215"
 		}
 		"pre_release"
 		{
-			"buildid" "14993754"
-			"timeupdated" "1720645624"
+			"buildid" "17522404"
+			"timeupdated" "1740613122"
 		}
 	}
 }
@@ -386,6 +704,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24312168"
-"_sha" "04cbb3e711baca553494e4bc23f28328d197a751"
-"_size" "6417"
+"_change_number" "27697031"
+"_sha" "d2b96609a9f14b318710245fd3bd16dffbc91bbd"
+"_size" "10130"
