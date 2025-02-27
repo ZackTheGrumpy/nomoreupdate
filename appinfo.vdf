@@ -1,0 +1,362 @@
+"appid" "2444470"
+"common"
+{
+	"name" "Terminal 81"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "60d7a9ad21e54c6e840b3c297eb044b49f667d76"
+	"clienticon" "81cd05fc7f1defee99db0ae4c454e1e26607a6dd"
+	"clienttga" "30f4d0a52d9fc0ccd7cb3fa763b076936f458b1f"
+	"linuxclienticon" "3c9f569db7579bd545f53e26a1efd8cc97e1d077"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692144000"
+		"tested_build_id" "11907244"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.057043073341084"
+			"height_pct" "72.03752077891238"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.057043073341084"
+				"height_pct" "72.03752077891238"
+			}
+		}
+	}
+	"store_asset_mtime" "1690540432"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "David Pateti"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "David Pateti"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Terminal 81"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1690540118"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2444470"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "35079"
+		"2" "5716"
+		"3" "1721"
+		"4" "4004"
+		"5" "597"
+		"6" "6052"
+		"7" "8369"
+		"8" "1695"
+		"9" "1667"
+		"10" "6426"
+		"11" "4106"
+		"12" "9204"
+		"13" "4191"
+		"14" "3839"
+		"15" "4845"
+		"16" "5608"
+		"17" "5673"
+		"18" "1662"
+		"19" "3978"
+	}
+	"review_score" "8"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "David Pateti"
+	"publisher" "David Pateti"
+}
+"config"
+{
+	"installdir" "Terminal 81"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Terminal 81.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Terminal 81.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2444471"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4907831960830843051"
+				"size" "1218069576"
+				"download" "471698464"
+			}
+		}
+	}
+	"2444472"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2637775195445682588"
+				"size" "1444169861"
+				"download" "674599088"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15664394"
+			"timeupdated" "1726060013"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "David Pateti/Terminal 81"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "unity3d/David Pateti/Terminal 81"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27459771"
+"_sha" "579e662cead0fe998e6a3614bc466d08f849c669"
+"_size" "5905"
