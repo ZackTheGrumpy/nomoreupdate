@@ -267,33 +267,6 @@
 				"download" "13106220240"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"baseline"
-			{
-				"gid" "B6DDD2E7DACE34AD114798DB6BDA96B6"
-				"size" "5AEBDBB81E17014666C29C5D61781073"
-				"download" "EA7AEA5FA4F67111528CB5E2DDC5B015"
-			}
-			"playtesting"
-			{
-				"gid" "4BBAEF854C625A4524DA9E1D0EF47414"
-				"size" "BC74187F0301238F2395CD708F2E387F"
-				"download" "2ACC89C63261A35F4A7FF7BA2E613D77"
-			}
-			"presscode"
-			{
-				"gid" "326059090C6378FD1C933FB2B7EA0C71"
-				"size" "9F53CFF8CA65A84B182B17DC5847C7D1"
-				"download" "44349FAC364C6B9267F4C2BAFCD2B3CC"
-			}
-			"testbranch"
-			{
-				"gid" "E94703440475DC1C58B2CEC771A27F77"
-				"size" "FA70A1F49A24E5EB6757AF27E81E941B"
-				"download" "41C3708D88D86E692CC9E8805D03C0F7"
-			}
-		}
 	}
 	"438850"
 	{
@@ -304,15 +277,6 @@
 				"gid" "7457236076738245629"
 				"size" "2840"
 				"download" "2080"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testbranch"
-			{
-				"gid" "F4867CA98EA7DDD302143DC7412059F6"
-				"size" "77A3DEEBB5A9F725EFC256DC1FA542EF"
-				"download" "B39F7BBD8E3833101746F19B05B5D017"
 			}
 		}
 		"dlcappid" "438850"
@@ -328,15 +292,6 @@
 				"download" "2080"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testbranch"
-			{
-				"gid" "FEBCA4BFB09BED0A3C11C99C2315FEAD"
-				"size" "77A3DEEBB5A9F725EFC256DC1FA542EF"
-				"download" "B39F7BBD8E3833101746F19B05B5D017"
-			}
-		}
 		"dlcappid" "438860"
 	}
 	"438870"
@@ -348,15 +303,6 @@
 				"gid" "4934028255841431571"
 				"size" "1002"
 				"download" "992"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testbranch"
-			{
-				"gid" "EB9AF6FF5DB18236216436C498FBC983"
-				"size" "6D03ED8289ACEA6EEB18E2D262586AE6"
-				"download" "3ED14C8F9B7B0738B31BB3CC59AF6DBF"
 			}
 		}
 		"dlcappid" "438870"
@@ -372,28 +318,8 @@
 			"buildid" "3661167"
 			"timeupdated" "1554104754"
 		}
-		"baseline"
-		{
-			"buildid" "1014092"
-			"pwdrequired" "1"
-		}
-		"playtesting"
-		{
-			"buildid" "948775"
-			"pwdrequired" "1"
-		}
-		"presscode"
-		{
-			"buildid" "1014092"
-			"pwdrequired" "1"
-		}
-		"testbranch"
-		{
-			"buildid" "3661167"
-			"pwdrequired" "1"
-			"timeupdated" "1553007501"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -415,6 +341,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "f9591be2ed56ceef630ec759abbf1125f117e2ca"
-"_size" "7402"
+"_change_number" "27209232"
+"_sha" "935f00b9193940f5b7363a37f98f08864aacd361"
+"_size" "5736"
