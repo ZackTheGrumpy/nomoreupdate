@@ -33,14 +33,14 @@
 		"norwegian" "Command & Conquer™ 4 Tiberian Twilight"
 		"polish" "Command & Conquer™ 4 Tyberyjski zmierzch"
 		"portuguese" "Command & Conquer™ 4 Tiberian Twilight"
-		"russian" "Command & Conquer™ 4 Tiberian Twilight"
+		"russian" "Command & Conquer 4: Эпилог"
 		"spanish" "Command & Conquer™ 4 Tiberian Twilight"
 		"swedish" "Command & Conquer™ 4 Tiberian Twilight"
 		"turkish" "Command & Conquer™ 4 Tiberian Twilight"
 		"brazilian" "Command & Conquer™ 4 Tiberian Twilight"
 		"tchinese" "《終極動員令 4：泰伯倫暮光》"
 		"japanese" "Command & Conquer™ 4 Tiberian Twilight"
-		"koreana" "Command & Conquer™ 4 Tiberian Twilight"
+		"koreana" "커맨드 & 컨커 4 타이베리안 트와일라잇"
 		"schinese" "《命令与征服 4：泰伯利亚暮光》"
 		"czech" "Command & Conquer™ 4 Tiberian Twilight"
 		"latam" "Command & Conquer™ 4 Tiberian Twilight"
@@ -95,6 +95,45 @@
 			"height_pct" "78.4714498847145"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "78.4714498847145"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_8bd0c0396ccda854906e993a26aa9d761350d9a7.jpg"
 	"store_asset_mtime" "1709739260"
 	"associations"
 	{
@@ -111,7 +150,7 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "Command and Conquer"
+			"name" "Command &amp; Conquer"
 		}
 	}
 	"primary_genre" "2"
@@ -123,6 +162,8 @@
 	{
 		"category_2" "1"
 		"category_1" "1"
+		"category_23" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -180,12 +221,23 @@
 		"3" "3942"
 		"4" "1685"
 		"5" "18594"
-		"6" "1721"
-		"7" "7332"
+		"6" "7332"
+		"7" "1721"
 		"8" "4182"
+		"9" "1718"
+		"10" "1719"
+		"11" "6650"
+		"12" "21"
+		"13" "9551"
+		"14" "3813"
+		"15" "1643"
+		"16" "4295"
+		"17" "1667"
+		"18" "3843"
+		"19" "5350"
 	}
 	"review_score" "1"
-	"review_percentage" "17"
+	"review_percentage" "16"
 	"mastersubs_granting_app" "1289670"
 }
 "extended"
@@ -218,6 +270,15 @@
 		"0"
 		{
 			"executable" "CNC4.exe"
+		}
+		"2"
+		{
+			"executable" "Data\\WorldBuilder.exe"
+			"description_loc"
+			{
+				"english" "Launch World Builder"
+			}
+			"description" "Launch World Builder"
 		}
 	}
 }
@@ -266,24 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "5434872587793490233"
-				"size" "5273724860"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "83064429FDD739246931C4A8B7560941"
-				"size" "9049C212663F69A3F441241F4557EA86"
-				"download" "B472094EBDE1411700665D470D03B606"
-			}
-			"eacc"
-			{
-				"gid" "935D6A90F22B5CFD2DD2902C7D3331CB"
-				"size" "47777BC3E5F92ADE107F27B0FD929C96"
-				"download" "A2DB38DB18C36D4B2EC45EBBF9B3E11E"
+				"gid" "2929786535565922730"
+				"size" "5378320354"
+				"download" "4508911104"
 			}
 		}
 	}
@@ -299,22 +345,7 @@
 			{
 				"gid" "2580216501899749595"
 				"size" "648167234"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "B17D39BDB1317BB2F681B7F59D9D8EC0"
-				"size" "1D8FB74FBE42F1A8902E08A8C2894939"
-				"download" "C1EF593A9A59178C5D6CE182A706D9A9"
-			}
-			"eacc"
-			{
-				"gid" "8E560D5C4763DF31865A1BDDE40A329E"
-				"size" "3C0DF76A865B2AEA79F0E3ED988CAEF5"
-				"download" "94EF23FB0EB58895789BEF59AE34DA6E"
+				"download" "495950528"
 			}
 		}
 	}
@@ -330,22 +361,7 @@
 			{
 				"gid" "6095080611219493786"
 				"size" "1674356201"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "657A9C812ACDA286CF1BA4A995AB8D7F"
-				"size" "CA4C24A284A657ABF617CB8385B83783"
-				"download" "1FDA97DA8069D1989B7CEA1B069E0E25"
-			}
-			"eacc"
-			{
-				"gid" "CD253195DE8EAB14A828F05E9782D48B"
-				"size" "E193086E1C85397C0EB68408D991EB1C"
-				"download" "F309D2DE47FF4F9A4525CCFCB40BBA91"
+				"download" "1499515040"
 			}
 		}
 	}
@@ -361,22 +377,7 @@
 			{
 				"gid" "5512095443216822365"
 				"size" "1548902721"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "659C90C3F7B14B2B9D62612FEE2113C3"
-				"size" "0F89182A207FFEEF14AF19F8566A5D8C"
-				"download" "98788335D7AF154ADB06B578F61CF1E9"
-			}
-			"eacc"
-			{
-				"gid" "5DF2CB967138202D36C7AE87D12EE97E"
-				"size" "80399DD21676667D56A432C32E1C4942"
-				"download" "179BE57411B13064CC3ABBF32A2677F1"
+				"download" "1371004144"
 			}
 		}
 	}
@@ -392,22 +393,7 @@
 			{
 				"gid" "8160761308974933108"
 				"size" "666039798"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "EA41B2D3774FC88223258F7D7017F1AC"
-				"size" "DB62FF5DF6011BE0A9FAD29A7A777041"
-				"download" "A5C5779BDE096E2666339D035F957D84"
-			}
-			"eacc"
-			{
-				"gid" "90BA898823CFA7BD37FBBD46005E3223"
-				"size" "3745892156CF1056B4BFCCF56145A266"
-				"download" "2DEF2CD4C852EE455F589CFB54512F84"
+				"download" "498338544"
 			}
 		}
 	}
@@ -423,22 +409,7 @@
 			{
 				"gid" "2773365297300221730"
 				"size" "1684708488"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "C7C45A229528867897EF37EDBB8E69D6"
-				"size" "53ED5BD59AE0D1BEF1A4106580D58464"
-				"download" "0D8F25C230509B30DC145C7AB8DFFCFE"
-			}
-			"eacc"
-			{
-				"gid" "0CF55AD2187B3C9B04FD4A7A4BDCE83E"
-				"size" "54C1C97AD93EEA8C86284233B4F97EF9"
-				"download" "07DCAF89826CFD343670A1D2F07795EA"
+				"download" "1509530848"
 			}
 		}
 	}
@@ -454,22 +425,7 @@
 			{
 				"gid" "6733658226664045823"
 				"size" "665175751"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "D0AD1E8612076AD877FEBA9BAF43B965"
-				"size" "30C5CD460FC84B4B14AE4541D24A94A4"
-				"download" "CC1DC4E950305308ECED61DDE38A4F85"
-			}
-			"eacc"
-			{
-				"gid" "73E9E9E2AC5016B8B98D22A64F06D713"
-				"size" "76BEDFE6FF744CD71ED2427BBD182FB8"
-				"download" "6875427AB9A8F9BF6B006075888AAF27"
+				"download" "497542144"
 			}
 		}
 	}
@@ -485,48 +441,24 @@
 			{
 				"gid" "7545106313584588200"
 				"size" "672606682"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "0A508E83339DDEEE3C54F8C0D66F7BF9"
-				"size" "5C1F355445D1D50375DD77D3C0534DF9"
-				"download" "59F5AB096CC19A3A34F14A8729857C03"
-			}
-			"eacc"
-			{
-				"gid" "D0D67DBFD6E47658975763BCB8F3933B"
-				"size" "FAAE0187E2B9125C3427B7E00CE08B8B"
-				"download" "3A7DEB45C07885096DE4C72950FC13DB"
+				"download" "504523312"
 			}
 		}
 	}
 	"overridescddb" "1"
 	"baselanguages" "english,french,german,polish,russian,tchinese,koreana"
+	"workshopdepot" "47700"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "21471"
-		}
-		"age_ratings"
-		{
-			"buildid" "13210796"
-			"pwdrequired" "1"
-			"timeupdated" "1706111120"
-		}
-		"eacc"
-		{
-			"buildid" "13210796"
-			"pwdrequired" "1"
-			"timeupdated" "1705602974"
+			"buildid" "17459716"
+			"timeupdated" "1740672372"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "23166499"
-"_sha" "38873036488e986650c0b32797371edad18ab8ed"
-"_size" "10883"
+"_change_number" "27700109"
+"_sha" "fd74efcb6b8aa79023251f184d2c2156e19941d6"
+"_size" "8800"
