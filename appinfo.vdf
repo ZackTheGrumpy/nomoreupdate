@@ -20,6 +20,7 @@
 		"0" "5"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "c7e0b3499d25a390dd977143cf201f1975455c52/capsule_231x87.jpg"
@@ -126,6 +127,8 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_28" "1"
+		"category_59" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -141,6 +144,11 @@
 			"supported" "true"
 			"subtitles" "true"
 			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1734109691"
@@ -194,30 +202,30 @@
 		"3429849300"
 		{
 			"controller_type" "controller_ps4"
-			"enabled_branches" "beta"
+			"enabled_branches" "default,beta"
 			"use_action_block" "false"
 		}
 		"3429850468"
 		{
 			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "beta"
+			"enabled_branches" "default,beta"
 			"use_action_block" "false"
 		}
 		"3429851390"
 		{
 			"controller_type" "controller_xboxone"
-			"enabled_branches" "beta"
+			"enabled_branches" "default,beta"
 			"use_action_block" "false"
 		}
 		"3432072139"
 		{
 			"controller_type" "controller_neptune"
-			"enabled_branches" "beta"
+			"enabled_branches" "default,beta"
 			"use_action_block" "false"
 		}
 	}
 	"steamdecktouchscreen" "0"
-	"steamconfigurator3rdpartynative" "65527"
+	"steamconfigurator3rdpartynative" "65535"
 }
 "depots"
 {
@@ -245,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "8969428241060889086"
-				"size" "4583547383"
-				"download" "4406723008"
+				"gid" "4551160554510974144"
+				"size" "4572472008"
+				"download" "4394098928"
 			}
 		}
 	}
@@ -255,13 +263,13 @@
 	{
 		"public"
 		{
-			"buildid" "16984986"
-			"timeupdated" "1736759325"
+			"buildid" "17522443"
+			"timeupdated" "1740645566"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27675669"
-"_sha" "7aa3e53c9aaaad039991c03ca17f9ecd34003543"
-"_size" "4672"
+"_change_number" "27692293"
+"_sha" "9234603b9271a9f35e07a649d585a69284bfae0d"
+"_size" "4849"
