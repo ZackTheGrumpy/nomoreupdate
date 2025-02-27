@@ -15,6 +15,7 @@
 	"osarch" ""
 	"osextended" ""
 	"metacritic_name" "Just Deserts"
+	"controllertagwizard" "1"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -127,23 +128,26 @@
 	"gameid" "488660"
 	"store_tags"
 	{
-		"0" "9"
-		"1" "492"
-		"2" "597"
-		"3" "4085"
-		"4" "599"
-		"5" "9551"
-		"6" "3799"
-		"7" "4325"
-		"8" "12095"
-		"9" "4168"
-		"10" "6650"
-		"11" "1673"
-		"12" "3942"
-		"13" "4726"
-		"14" "1677"
-		"15" "6971"
-		"16" "8945"
+		"0" "4085"
+		"1" "9551"
+		"2" "3799"
+		"3" "492"
+		"4" "4168"
+		"5" "4325"
+		"6" "4947"
+		"7" "6971"
+		"8" "4726"
+		"9" "1742"
+		"10" "597"
+		"11" "9"
+		"12" "6426"
+		"13" "4182"
+		"14" "3942"
+		"15" "1677"
+		"16" "6650"
+		"17" "12095"
+		"18" "8945"
+		"19" "1673"
 	}
 	"review_score" "6"
 	"review_percentage" "72"
@@ -281,18 +285,9 @@
 		{
 			"public"
 			{
-				"gid" "646522617765591097"
-				"size" "1167560069"
-				"download" "917026544"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C7BA2AA5C6DDE12856B903A1D078D98E"
-				"size" "CFB866F738B221D403FB06A729042B4C"
-				"download" "E501014374B0F55973562AA9B3CF887F"
+				"gid" "183787400797425103"
+				"size" "1098565030"
+				"download" "900148064"
 			}
 		}
 	}
@@ -307,18 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "7810642422196367034"
-				"size" "8152139"
+				"gid" "8032262648281524169"
+				"size" "8152101"
 				"download" "8094512"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "6757B8CE607FB9652A154000611DB48D"
-				"size" "62193CF3E6C54C697DAD813ECC63F68C"
-				"download" "A3FBEFEF89E06AC72AA1150580468F24"
 			}
 		}
 	}
@@ -333,18 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "5826581950456746385"
-				"size" "9280768"
+				"gid" "8270076267241714669"
+				"size" "9280730"
 				"download" "9228048"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "71388E2A07EA83173692BD8EC9462C79"
-				"size" "D25526171114047042E423FF4914AE0E"
-				"download" "559402996633AFD9212E2AA818CDA198"
 			}
 		}
 	}
@@ -359,18 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "1279074070028211535"
-				"size" "9709101"
-				"download" "9670240"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C90844248B8FFFB682E471EC2C1B7F0B"
-				"size" "CBCBB9F88B0042F9F8F8BACDB70BE99B"
-				"download" "7E43645475EB0559934EB18D2F318308"
+				"gid" "3713550758812235732"
+				"size" "9709063"
+				"download" "9670224"
 			}
 		}
 	}
@@ -385,18 +353,9 @@
 		{
 			"public"
 			{
-				"gid" "6983630254700076855"
-				"size" "473064530"
-				"download" "249799856"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "0E9B606E3D83CD094D0E27A739A339B2"
-				"size" "E1B411235FB45CF829788C454E5CD96B"
-				"download" "BFC459306092998D88CBDB5735C4EB80"
+				"gid" "7168490469574235898"
+				"size" "404026301"
+				"download" "232673312"
 			}
 		}
 	}
@@ -405,16 +364,11 @@
 	{
 		"public"
 		{
-			"buildid" "7112195"
-			"timeupdated" "1627638444"
-		}
-		"beta"
-		{
-			"buildid" "7112195"
-			"pwdrequired" "1"
-			"timeupdated" "1627633594"
+			"buildid" "17433870"
+			"timeupdated" "1740676356"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -516,3 +470,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27701219"
+"_sha" "cd9f19f10785be8572ea3ae1bc56d9fb9ebf757c"
+"_size" "7996"
