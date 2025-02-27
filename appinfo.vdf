@@ -1,7 +1,7 @@
 "appid" "24790"
 "common"
 {
-	"name" "Command & Conquer 3 Tiberium Wars™"
+	"name" "Command & Conquer 3: Tiberium Wars™"
 	"clienticon" "19b12985712053fc25930c1fde73019f373a1bcd"
 	"clienttga" "e1a376b1ae03f1bccaf1f12a35093c3c99bc66ff"
 	"icon" "6e07f2f006ff6960d9089804817ed454c18260ee"
@@ -22,28 +22,28 @@
 	"osextended" ""
 	"name_localized"
 	{
-		"danish" "Command & Conquer 3 Tiberium Wars™"
-		"dutch" "Command & Conquer 3 Tiberium Wars™"
-		"finnish" "Command & Conquer 3 Tiberium Wars™"
-		"french" "Command & Conquer 3 Les Guerres du Tiberium"
-		"german" "Command & Conquer 3 Tiberium Wars™"
-		"italian" "Command & Conquer 3 Tiberium Wars™"
-		"norwegian" "Command & Conquer 3 Tiberium Wars™"
-		"polish" "Command & Conquer 3 Wojny o tyberium"
-		"portuguese" "Command & Conquer 3 Tiberium Wars™"
-		"russian" "Command & Conquer 3 Tiberium Wars™"
-		"spanish" "Command & Conquer 3 Tiberium Wars™"
-		"swedish" "Command & Conquer 3 Tiberium Wars™"
-		"turkish" "Command & Conquer 3 Tiberium Wars™"
-		"brazilian" "Command & Conquer 3 Tiberium Wars™"
+		"danish" "Command & Conquer 3: Tiberium Wars™"
+		"dutch" "Command & Conquer 3: Tiberium Wars™"
+		"finnish" "Command & Conquer 3: Tiberium Wars™"
+		"french" "Command & Conquer 3: Les Guerres du Tiberium"
+		"german" "Command & Conquer 3: Tiberium Wars™"
+		"italian" "Command & Conquer 3: Tiberium Wars™"
+		"norwegian" "Command & Conquer 3: Tiberium Wars™"
+		"polish" "Command & Conquer 3: Wojny o tyberium"
+		"portuguese" "Command & Conquer 3: Tiberium Wars™"
+		"russian" "Command & Conquer 3: Tiberium Wars™"
+		"spanish" "Command & Conquer 3: Tiberium Wars™"
+		"swedish" "Command & Conquer 3: Tiberium Wars™"
+		"turkish" "Command & Conquer 3: Tiberium Wars™"
+		"brazilian" "Command & Conquer 3: Tiberium Wars™"
 		"tchinese" "《終極動員令3：泰伯倫戰爭》"
-		"japanese" "Command & Conquer™ 3 Tiberium Wars"
-		"koreana" "Command & Conquer 3 Tiberium Wars™"
+		"japanese" "Command & Conquer™ 3: Tiberium Wars"
+		"koreana" "커맨드 앤 컨커 3: 타이베리움 워"
 		"schinese" "《命令与征服3：泰伯利亚战争》"
-		"czech" "Command & Conquer 3 Tiberium Wars™"
-		"latam" "Command & Conquer 3 Tiberium Wars™"
-		"thai" "Command & Conquer 3 Tiberium Wars™"
-		"ukrainian" "Command & Conquer 3 Tiberium Wars™"
+		"czech" "Command & Conquer 3: Tiberium Wars™"
+		"latam" "Command & Conquer 3: Tiberium Wars™"
+		"thai" "Command & Conquer 3: Tiberium Wars™"
+		"ukrainian" "Command & Conquer 3: Tiberium Wars™"
 	}
 	"type" "game"
 	"steam_deck_compatibility"
@@ -116,6 +116,51 @@
 			"height_pct" "58"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "27"
+				"height_pct" "58"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1709209872"
 	"associations"
 	{
@@ -132,7 +177,7 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "Command and Conquer"
+			"name" "Command &amp; Conquer"
 		}
 	}
 	"primary_genre" "2"
@@ -143,6 +188,8 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -202,6 +249,26 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
 	}
 	"original_release_date" "1175065200"
 	"metacritic_score" "85"
@@ -218,15 +285,18 @@
 		"5" "4182"
 		"6" "19"
 		"7" "18594"
-		"8" "1693"
-		"9" "4166"
-		"10" "3835"
-		"11" "1678"
-		"12" "1742"
+		"8" "4166"
+		"9" "3835"
+		"10" "1678"
+		"11" "1742"
+		"12" "1723"
 		"13" "4295"
-		"14" "1723"
-		"15" "1756"
-		"16" "7782"
+		"14" "4328"
+		"15" "1673"
+		"16" "5350"
+		"17" "8122"
+		"18" "1693"
+		"19" "1756"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -260,15 +330,6 @@
 		{
 			"executable" "CNC3.exe"
 		}
-		"1"
-		{
-			"executable" "WorldBuilder.exe"
-			"description_loc"
-			{
-				"english" "Launch World Builder"
-			}
-			"description" "Launch World Builder"
-		}
 		"2"
 		{
 			"executable" "Support\\EA Help\\Electronic_Arts_Technical_Support.htm"
@@ -277,6 +338,15 @@
 				"english" "View Support Information"
 			}
 			"description" "View Support Information"
+		}
+		"3"
+		{
+			"executable" "WorldBuilder\\WorldBuilder.exe"
+			"description_loc"
+			{
+				"english" "Launch World Builder"
+			}
+			"description" "Launch World Builder"
 		}
 	}
 	"externalregistrationurl"
@@ -296,6 +366,8 @@
 }
 "depots"
 {
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,polish,dutch,swedish,hungarian,czech"
 	"228981"
 	{
 		"config"
@@ -314,8 +386,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"overridescddb" "1"
-	"baselanguages" "english,german,french,italian,spanish,russian,polish,dutch,swedish,hungarian"
 	"24791"
 	{
 		"systemdefined" "1"
@@ -323,24 +393,9 @@
 		{
 			"public"
 			{
-				"gid" "214785292560683027"
-				"size" "6250963672"
-				"download" "5321177888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "A9EEC532D9B33C98A5A12A9FF2D08263"
-				"size" "A0222CE8CB03418D79C398D7724E6FBB"
-				"download" "49F09C66B0FA918087E56879E6ECCF43"
-			}
-			"eacc"
-			{
-				"gid" "B297CEB8A7BD4B6E8B53E016541158AC"
-				"size" "1A3E4635A58166EBD6385F2FDBAD450C"
-				"download" "0319CE9A945F6029E5E9B161FBD7BCE6"
+				"gid" "8282387924058803507"
+				"size" "6532675215"
+				"download" "5484014880"
 			}
 		}
 	}
@@ -354,24 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "5202151940914163891"
-				"size" "1567526861"
-				"download" "1365233776"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "E24FF9F9E2402AE818831DD70525C32D"
-				"size" "F17E0E1A14B4F7EC7F8C5B076955DB3C"
-				"download" "A686FE96D3826A16ED0602E40E09D0C9"
-			}
-			"eacc"
-			{
-				"gid" "835FFF3DC238DF953E3DBA96758AB638"
-				"size" "4AD2E3FC05D693ED400BD240D1D679A0"
-				"download" "E134CEC7E7C1217A9EFDC73227CF89FF"
+				"gid" "2071670355210635214"
+				"size" "1567530245"
+				"download" "1365235536"
 			}
 		}
 	}
@@ -385,24 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "8898314300100924957"
-				"size" "1689087981"
-				"download" "1384882608"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "B949CADB8B90653E8C30621A2AAF42A9"
-				"size" "D9A5346D89861D7AA99192C1FD191787"
-				"download" "2A3FEA4F651E8AE31892BE07E270B4CB"
-			}
-			"eacc"
-			{
-				"gid" "B864C99E31A9BD9BE939C843B943FFEF"
-				"size" "D053F421F71E53210DFF4EC8F8294948"
-				"download" "3E2E3B35ACDF0C407F1D4491ADAC8702"
+				"gid" "4185816549539358116"
+				"size" "1689427527"
+				"download" "1385039664"
 			}
 		}
 	}
@@ -416,24 +441,9 @@
 		{
 			"public"
 			{
-				"gid" "4396895369499003679"
-				"size" "1717300094"
-				"download" "1404418192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "90B1CF3FA20E4D9A73A1AE49EB97A6D5"
-				"size" "EAA4677CE5A97578836BD933F29036D2"
-				"download" "692364D5FBDF4FD800548A007155E785"
-			}
-			"eacc"
-			{
-				"gid" "2241FB6E745D4609748C4D804371DE08"
-				"size" "8A414384DCDE4C497A8E0647202E9C04"
-				"download" "A14CB5317E901776FCD72F14BE8B2C98"
+				"gid" "8759684118031657107"
+				"size" "1717303468"
+				"download" "1404419952"
 			}
 		}
 	}
@@ -447,24 +457,9 @@
 		{
 			"public"
 			{
-				"gid" "8591450089921287619"
-				"size" "1570553741"
-				"download" "1368741296"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "B5E875BD826D98CB53B2EF82EF954BC7"
-				"size" "A670410D827F306A7BDB74FC73F3DC5C"
-				"download" "DEF2729AA1737AE7A54881050B81DEDE"
-			}
-			"eacc"
-			{
-				"gid" "E33F2C733FDC29D879CC33D2FA72C5AE"
-				"size" "F131B088351FB234D76EF83ECA00AFB8"
-				"download" "488B4E1551E52C4A10031FA760B46566"
+				"gid" "3408976303338164587"
+				"size" "1570557125"
+				"download" "1368743056"
 			}
 		}
 	}
@@ -478,24 +473,9 @@
 		{
 			"public"
 			{
-				"gid" "321264007602147755"
-				"size" "1566820778"
-				"download" "1358656928"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "460804A12BE6E20D3F6833A1D767650A"
-				"size" "D568CA482F578D30A0740914CB24600B"
-				"download" "9DD03DE1FC779F3711DE76616B72FBB9"
-			}
-			"eacc"
-			{
-				"gid" "FB5280826A72F7CF5A2DA65FAC3B0882"
-				"size" "235AC7F302BFB98A774B85E4C9869EAA"
-				"download" "D2FFCA18E5170F1CA2394DE0A0FD6BDF"
+				"gid" "2019642398940122838"
+				"size" "1567160274"
+				"download" "1358813952"
 			}
 		}
 	}
@@ -509,24 +489,9 @@
 		{
 			"public"
 			{
-				"gid" "716004620259289290"
-				"size" "4716688"
-				"download" "2847552"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "1760691692245D1ED4E903B2CFB3E1B1"
-				"size" "485E9B30B4E3AF1BD2232DAD0F2C7EB4"
-				"download" "DD8CC8A3168C1FECDC0788477FF7277A"
-			}
-			"eacc"
-			{
-				"gid" "2B80F89F9CA7DD4E0609CF57E1EC0831"
-				"size" "3C31187961C7565573A919C2E9421764"
-				"download" "29DC77794F55846B6A9DBEB9A6993DBC"
+				"gid" "6022883659270534367"
+				"size" "5056164"
+				"download" "3004512"
 			}
 		}
 	}
@@ -540,24 +505,9 @@
 		{
 			"public"
 			{
-				"gid" "5213454257922330758"
-				"size" "4808732"
-				"download" "2885520"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "8E09FFF6752F687993FEEB138DC96D26"
-				"size" "6BB7011EB3630DF0BD47C53DACA7B70D"
-				"download" "57CCA5253FFA9AE88F8829C8B35EF6C5"
-			}
-			"eacc"
-			{
-				"gid" "FA56B2BB89D2A8F9DA4E7F95D5C23221"
-				"size" "3AAF1063D09A148D6791A351AA5FF37A"
-				"download" "704F1D4072FA904440DE1CB427617D1F"
+				"gid" "7538443436712974727"
+				"size" "5148228"
+				"download" "3042512"
 			}
 		}
 	}
@@ -571,24 +521,9 @@
 		{
 			"public"
 			{
-				"gid" "7702318754467784967"
-				"size" "146395450"
-				"download" "33073456"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "39DF460F681CBA14098DE514E96D4FC2"
-				"size" "70DA53152583214F0EE1F828B68A09A6"
-				"download" "8D8749B9697F22454177330F69B46290"
-			}
-			"eacc"
-			{
-				"gid" "A8A9FD5A082DC15E499A6D22DF462DFD"
-				"size" "2FF2C6B548D93BC9DE164E80FA6D8E73"
-				"download" "8E4CFDAAD0945473BD69700247928DF7"
+				"gid" "7225578428164936881"
+				"size" "146734936"
+				"download" "33230448"
 			}
 		}
 	}
@@ -602,41 +537,102 @@
 		{
 			"public"
 			{
-				"gid" "2099348954154569587"
-				"size" "4883200"
-				"download" "2675120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "E860DB96904C5C574EFA5901A28DA94D"
-				"size" "4F60A4722EFC7DEE0C1D9CFFC8742AFD"
-				"download" "4D7E907492C18E8DEB371C12B0245361"
+				"gid" "6733906258479099175"
+				"size" "5222716"
+				"download" "2832272"
 			}
 		}
 	}
+	"2845531"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6081229847570936084"
+				"size" "5526511"
+				"download" "3172912"
+			}
+		}
+	}
+	"2845532"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7106255837992898163"
+				"size" "18247350"
+				"download" "6324992"
+			}
+		}
+	}
+	"2845533"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5514696877215106726"
+				"size" "15620822"
+				"download" "6933072"
+			}
+		}
+	}
+	"2845534"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1308969293214177155"
+				"size" "5321935"
+				"download" "2931952"
+			}
+		}
+	}
+	"2845535"
+	{
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "959442281722387711"
+				"size" "5188882"
+				"download" "2787984"
+			}
+		}
+	}
+	"workshopdepot" "24790"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13686146"
-			"timeupdated" "1709986386"
-		}
-		"age_ratings"
-		{
-			"buildid" "13223898"
-			"pwdrequired" "1"
-			"timeupdated" "1706110993"
-		}
-		"eacc"
-		{
-			"buildid" "13686146"
-			"pwdrequired" "1"
-			"timeupdated" "1709935437"
+			"buildid" "17447444"
+			"timeupdated" "1740672266"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -679,6 +675,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23166499"
-"_sha" "23aa5d95a4065cc768a49c3de59f0e7d4fcf329f"
-"_size" "14056"
+"_change_number" "27700061"
+"_sha" "a73d05d0e1c0e40b0915bc56a256648006f7f958"
+"_size" "12302"
