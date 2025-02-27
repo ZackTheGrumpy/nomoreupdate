@@ -214,9 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "19923411963486095"
-				"size" "24543507202"
-				"download" "14048582080"
+				"gid" "6555198927267419246"
+				"size" "12268007762"
+				"download" "10209770656"
 			}
 			"1.0.11"
 			{
@@ -262,15 +262,15 @@
 			}
 			"fast_version"
 			{
-				"gid" "2093937877238139958"
-				"size" "24557833857"
-				"download" "10239632448"
+				"gid" "2075988561775980166"
+				"size" "12266450638"
+				"download" "10209550112"
 			}
 			"open_beta"
 			{
-				"gid" "19923411963486095"
-				"size" "24543507202"
-				"download" "14048582080"
+				"gid" "6555198927267419246"
+				"size" "12268007762"
+				"download" "10209770656"
 			}
 		}
 	}
@@ -281,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "17502068"
-			"timeupdated" "1740499074"
+			"buildid" "17520059"
+			"timeupdated" "1740605405"
 		}
 		"1.0.11"
 		{
@@ -328,15 +328,15 @@
 		}
 		"fast_version"
 		{
-			"buildid" "17498647"
+			"buildid" "17523409"
 			"description" "In case the game crashes on mainmenu"
-			"timeupdated" "1740482559"
+			"timeupdated" "1740618501"
 		}
 		"open_beta"
 		{
-			"buildid" "17502068"
+			"buildid" "17520059"
 			"description" "Open Beta Branch"
-			"timeupdated" "1740498878"
+			"timeupdated" "1740599165"
 		}
 	}
 	"privatebranches" "1"
@@ -349,6 +349,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "27658910"
-"_sha" "bd2fad55e5c7348f61b1cff146cdc480030dc7d7"
-"_size" "6166"
+"_change_number" "27686832"
+"_sha" "e22b9778e843f4fc24c5ab1f1e6cab79a9427a33"
+"_size" "6170"
