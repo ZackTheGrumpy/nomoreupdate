@@ -1,0 +1,295 @@
+"appid" "2317540"
+"common"
+{
+	"name" "Ocean Man"
+	"type" "Game"
+	"icon" "91a6eae320d65238da1ee4ee5769a6ee855bccd4"
+	"clienttga" "0086a089db6cff88e547d048fa16269a0a543f7a"
+	"clienticns" "67bc816de3440ae881069826385048826d78cf74"
+	"linuxclienticon" "67bc816de3440ae881069826385048826d78cf74"
+	"clienticon" "876cd121e1ad7c46c84d8b27231d4f24bc59e670"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "出海超人"
+		"tchinese" "出海超人"
+		"english" "Ocean Man"
+	}
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,zh-tw"
+		"library_hero" "en,zh-tw,zh-cn"
+		"library_logo" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "84.4217525528378"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "84.4217525528378"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1676436003"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ST Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ST Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Ocean Man"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "37"
+		"3" "23"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1720944202"
+	"community_hub_visible" "1"
+	"gameid" "2317540"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "122"
+		"2" "1741"
+		"3" "3834"
+		"4" "4191"
+		"5" "4726"
+		"6" "13577"
+		"7" "1717"
+		"8" "4325"
+		"9" "597"
+		"10" "113"
+		"11" "492"
+		"12" "1695"
+		"13" "1775"
+		"14" "4182"
+		"15" "17770"
+		"16" "5395"
+		"17" "29363"
+		"18" "4562"
+		"19" "4195"
+	}
+	"review_score" "7"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "ST Studio"
+	"publisher" "ST Studio"
+	"isfreeapp" "1"
+	"listofdlc" "2318750,2318751,2318752,2318753"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ocean Man"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ocean Man.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"2317541"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4735281540123700998"
+				"size" "345469342"
+				"download" "237180576"
+			}
+		}
+	}
+	"2318752"
+	{
+		"dlcappid" "2318752"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4271667333338927876"
+				"size" "360629"
+				"download" "359360"
+			}
+		}
+	}
+	"2318751"
+	{
+		"dlcappid" "2318751"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "640769853438863253"
+				"size" "456733"
+				"download" "456048"
+			}
+		}
+	}
+	"2318753"
+	{
+		"dlcappid" "2318753"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2742495654864843244"
+				"size" "363988"
+				"download" "363136"
+			}
+		}
+	}
+	"2318750"
+	{
+		"dlcappid" "2318750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7813525041658551783"
+				"size" "371394"
+				"download" "370112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15033599"
+			"timeupdated" "1721029491"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "d66c971662b02acac206a600890480799bc85f0e"
+"_size" "4952"
