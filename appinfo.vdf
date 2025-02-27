@@ -20,6 +20,7 @@
 			"version" "1"
 		}
 	}
+	"exfgls" "1"
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -175,7 +176,7 @@
 	{
 		"0"
 		{
-			"executable" "ProjectHonorClient.exe"
+			"executable" "start_protected_game.exe"
 			"config"
 			{
 				"oslist" "windows"
@@ -302,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "4266541834561687894"
-				"size" "17761080370"
-				"download" "16166551136"
+				"gid" "4484688889536387787"
+				"size" "17777909677"
+				"download" "16183340320"
 			}
 		}
 	}
@@ -312,13 +313,13 @@
 	{
 		"public"
 		{
-			"buildid" "17429201"
-			"timeupdated" "1740009552"
+			"buildid" "17527175"
+			"timeupdated" "1740679795"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27669504"
-"_sha" "e63ce6400b197aa28e587301fba580cd963c9939"
-"_size" "5635"
+"_change_number" "27702439"
+"_sha" "c528f6a70566a4c66a1c95a9630fb8618b91ace0"
+"_size" "5653"
