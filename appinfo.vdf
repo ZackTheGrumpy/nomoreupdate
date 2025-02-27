@@ -1,0 +1,164 @@
+"appid" "1042570"
+"common"
+{
+	"name" "Human Rights"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"icon" "acd96958e26bb3a8033012af519782c850aa9e6d"
+	"logo" "e6117855542285af73f5901ba583a1d23b9cf9a6"
+	"logo_small" "e6117855542285af73f5901ba583a1d23b9cf9a6_thumb"
+	"clienticon" "9243437d7b00869ffbcfe22bfcb19a89ed566447"
+	"clienttga" "a78bb044c80478372df61b86b2ec236a470e2de6"
+	"clienticns" "e04f2ff6a228838222827d7dc2a8efe0b1e7f2ea"
+	"restricted_countries" "DE"
+	"metacritic_name" "Human Rights"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_10014c2e2365a576a34b2dc637a234e41c4e8c46.jpg"
+	"store_asset_mtime" "1552184666"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Things For Humans"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Things For Humans"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1554382999"
+	"community_hub_visible" "1"
+	"gameid" "1042570"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "44868"
+	}
+	"review_score" "7"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Things For Humans"
+	"publisher" "Things For Humans"
+	"homepage" "http://www.monstermansion.io"
+	"isfreeapp" "1"
+	"listofdlc" "1042580"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Human Rights"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Human_Rights.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Human_Rights.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"1042571"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5887220108309630462"
+				"size" "140817604"
+				"download" "24466096"
+			}
+		}
+	}
+	"1042572"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2454376039938921216"
+				"size" "158006064"
+				"download" "29766016"
+			}
+		}
+	}
+	"1042580"
+	{
+		"dlcappid" "1042580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "347522444485332309"
+				"size" "15766911"
+				"download" "15799872"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3709088"
+			"timeupdated" "1554384032"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "28a6d2433c040093e3ddfb3fe4ac369cabcac440"
+"_size" "2657"
