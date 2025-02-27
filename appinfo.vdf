@@ -1,0 +1,222 @@
+"appid" "1854180"
+"common"
+{
+	"name" "Nociception 1 ~ Voltaic Marketplace"
+	"type" "Game"
+	"logo" "5807118749ddb9d493fe540dcb90c5c7414f61c5"
+	"logo_small" "5807118749ddb9d493fe540dcb90c5c7414f61c5_thumb"
+	"icon" "ea8043e5d33e5902c1cf03fa7be662190d279ea2"
+	"clienttga" "690f1489651149e79f178581927a10fbfc84cc02"
+	"clienticon" "f3b4f31526c29ace7c82128262084286a85f995c"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1727481600"
+		"tested_build_id" "12657502"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1696990924"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ethereal Airport"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Sawney Arnett"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nociception"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699677300"
+	"community_hub_visible" "1"
+	"gameid" "1854180"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "597"
+		"2" "1773"
+		"3" "1774"
+		"4" "4885"
+		"5" "4255"
+		"6" "4195"
+		"7" "4305"
+		"8" "4252"
+		"9" "1673"
+		"10" "1684"
+		"11" "4136"
+		"12" "4295"
+		"13" "44868"
+		"14" "3942"
+		"15" "1755"
+		"16" "1710"
+		"17" "7208"
+		"18" "7250"
+		"19" "6971"
+	}
+}
+"extended"
+{
+	"developer" "Ethereal Airport"
+	"publisher" "Sawney Arnett"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Nociception 1 ~ Voltaic Marketplace Content"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "th_dnh_ph3sx.exe"
+		}
+		"1"
+		{
+			"executable" "config_ph3sx.exe"
+			"type" "config"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"1854181"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6234736655919048388"
+				"size" "375788734"
+				"download" "334818512"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12657502"
+			"timeupdated" "1699508262"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25609014"
+"_sha" "03d7c07c604cf912431d5f5bec01518b88182030"
+"_size" "3720"
