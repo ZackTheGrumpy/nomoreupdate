@@ -1,0 +1,282 @@
+"appid" "458750"
+"common"
+{
+	"name" "FireAlpaca SE"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"logo" "f4a3905075dc5be478dcf237a81f5bc13c7d54ab"
+	"logo_small" "f4a3905075dc5be478dcf237a81f5bc13c7d54ab_thumb"
+	"clienticon" "4c568242f89b973d377f301b4e297d64522a7ff7"
+	"clienttga" "ccada8cbe0693dbad51da96e3a485814623ae45c"
+	"icon" "f2528b91e8b8b6cd0f3f3c89e648b7d5a8573300"
+	"clienticns" "78359d968c8b0652a429cf3507e2e2c009599ed0"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1669852800"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "FireAlpaca SE"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "65.57488804287408"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "65.57488804287408"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1738720232"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PGN Inc"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PGN Inc"
+		}
+	}
+	"primary_genre" "53"
+	"genres"
+	{
+		"0" "53"
+		"1" "55"
+	}
+	"category"
+	{
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1463972630"
+	"community_hub_visible" "1"
+	"gameid" "458750"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "84"
+		"1" "809"
+		"2" "8013"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "PGN Inc"
+	"publisher" "PGN Inc"
+	"homepage" "https://firealpaca.com/en/se/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "FireAlpaca SE"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FireAlpacaSteam.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "FireAlpacaSE.app\\Contents\\MacOS\\FireAlpacaSE"
+			"arguments" "fire"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"458751"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6515002182516052709"
+				"size" "148321446"
+				"download" "67994416"
+			}
+		}
+	}
+	"458752"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8593298783211710551"
+				"size" "131954255"
+				"download" "65115104"
+			}
+		}
+	}
+	"458753"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4156224567133080707"
+				"size" "123604434"
+				"download" "58889168"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17300935"
+			"timeupdated" "1739153633"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27393046"
+"_sha" "f68d302f4e8a675552a86d9d4bba97aca4f0c3de"
+"_size" "4528"
