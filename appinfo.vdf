@@ -12,6 +12,55 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739318400"
+		"tested_build_id" "17221724"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"metacritic_name" "Coridden"
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -85,7 +134,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738589917"
+	"store_asset_mtime" "1739973419"
 	"associations"
 	{
 		"0"
@@ -123,7 +172,6 @@
 		"category_28" "1"
 		"category_38" "1"
 		"category_22" "1"
-		"category_60" "1"
 		"category_23" "1"
 		"category_55" "1"
 		"category_56" "1"
@@ -167,7 +215,7 @@
 	}
 	"steam_release_date" "1738169828"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/1656930/partnerevents/preview/524206779663385342"
-	"metacritic_score" "74"
+	"metacritic_score" "75"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/coridden\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -196,7 +244,7 @@
 		"19" "19"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -234,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "8482563444344345400"
-				"size" "15193702777"
-				"download" "6662599216"
+				"gid" "6394292946804791444"
+				"size" "6720458530"
+				"download" "3363805328"
 			}
 		}
 	}
@@ -246,8 +294,8 @@
 	{
 		"public"
 		{
-			"buildid" "17304988"
-			"timeupdated" "1739364071"
+			"buildid" "17517917"
+			"timeupdated" "1740665612"
 		}
 	}
 	"privatebranches" "1"
@@ -271,6 +319,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27439164"
-"_sha" "b37eeb1f2bdcea98b30bbce9feaf0c7d7cbfe23b"
-"_size" "4720"
+"_change_number" "27697827"
+"_sha" "5811cecfe3955e6fd889327897c48a549f1c1ad1"
+"_size" "5929"
