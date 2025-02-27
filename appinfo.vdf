@@ -1,0 +1,196 @@
+"appid" "1561060"
+"common"
+{
+	"name" "Love Colors"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "6a50c7628fcd850fad43315390b734cb8a3c0bbd"
+	"logo_small" "6a50c7628fcd850fad43315390b734cb8a3c0bbd_thumb"
+	"icon" "195321a99bff154acfdf76573335b710053a9079"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "fe47c93e51175f2236ce5553149fdff6810740dc"
+	"clienttga" "717095aaa4cbaae60693e54c4e519fdc6f7adb4c"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.767981438515065"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.767981438515065"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1631536876"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vixa Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Vixa Games"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_43" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1631894460"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1561060"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "84"
+		"1" "1664"
+		"2" "5350"
+		"3" "3964"
+		"4" "1654"
+		"5" "4305"
+		"6" "597"
+		"7" "3871"
+		"8" "4726"
+		"9" "10816"
+		"10" "492"
+		"11" "113"
+		"12" "6815"
+		"13" "4136"
+		"14" "4562"
+		"15" "4195"
+		"16" "4182"
+		"17" "4840"
+		"18" "1685"
+		"19" "3841"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Vixa Games"
+	"publisher" "Vixa Games"
+	"homepage" "https://vixagames.com/"
+	"isfreeapp" "1"
+	"listofdlc" "1569300,1569301,1569304,1946730,1946731"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Love Colors"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Love Colors.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65526"
+}
+"depots"
+{
+	"1561061"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3676874163719398190"
+				"size" "111460414"
+				"download" "22377424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8449828"
+			"timeupdated" "1649336543"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27281199"
+"_sha" "96373ae69f0016ed19b5b34c62ec77547a024e41"
+"_size" "3275"
