@@ -1,0 +1,394 @@
+"appid" "1858060"
+"common"
+{
+	"name" "ImmaterialAI"
+	"type" "Application"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "ce6d036d4bcaf2a88469b91db8cce7e58fd46c80"
+	"logo_small" "ce6d036d4bcaf2a88469b91db8cce7e58fd46c80_thumb"
+	"icon" "362f040d4ef717c0087d95008cdc2ae9e4e51aa3"
+	"clienttga" "bb802f208f9784bbe1956e346baeec021b084869"
+	"clienticon" "535e8859a4b7bf3080237426da6adde5d36bedef"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1674675772"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Futuresoup"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Futuresoup"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "51"
+		"1" "53"
+		"2" "54"
+		"3" "57"
+	}
+	"category"
+	{
+		"category_44" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1650884400"
+	"community_hub_visible" "1"
+	"gameid" "1858060"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "872"
+		"2" "1036"
+		"3" "84"
+		"4" "113"
+		"5" "492"
+		"6" "599"
+		"7" "1685"
+		"8" "1734"
+		"9" "3968"
+		"10" "15277"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"enablegameoverlayforapp" "1"
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Futuresoup"
+	"publisher" "Futuresoup"
+	"homepage" "https://immaterialai.live"
+	"isfreeapp" "1"
+	"listofdlc" "1870060,2123220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ImmaterialAI"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "immaterial_multiplat.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "immaterial_multiplat.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "4"
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"1858061"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6297715936466631107"
+				"size" "101362806"
+				"download" "27548432"
+			}
+			"test"
+			{
+				"gid" "6297715936466631107"
+				"size" "101362806"
+				"download" "27548432"
+			}
+		}
+	}
+	"1858063"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6971317192531386120"
+				"size" "88819491"
+				"download" "39774624"
+			}
+			"test"
+			{
+				"gid" "6971317192531386120"
+				"size" "88819491"
+				"download" "39774624"
+			}
+		}
+	}
+	"1870060"
+	{
+		"dlcappid" "1870060"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5493936661877486135"
+				"size" "101362806"
+				"download" "27548416"
+			}
+			"test"
+			{
+				"gid" "5493936661877486135"
+				"size" "101362806"
+				"download" "27548416"
+			}
+		}
+	}
+	"1858062"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"dlcappid" "1870060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8710680430666535495"
+				"size" "88786563"
+				"download" "39766496"
+			}
+			"test"
+			{
+				"gid" "8710680430666535495"
+				"size" "88786563"
+				"download" "39766496"
+			}
+		}
+	}
+	"2123220"
+	{
+		"dlcappid" "2123220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6390012560293667555"
+				"size" "101362806"
+				"download" "27549248"
+			}
+			"test"
+			{
+				"gid" "6390012560293667555"
+				"size" "101362806"
+				"download" "27549248"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13816506"
+			"timeupdated" "1711065545"
+		}
+		"test"
+		{
+			"buildid" "13816516"
+			"description" "join it to try the latest features ahead of the full release"
+			"timeupdated" "1711065595"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "*.sqlite"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "*.sqlite"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26315656"
+"_sha" "2d5dfecd2fed4dcc32fb1314e69dc4f06f05941c"
+"_size" "6107"
