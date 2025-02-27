@@ -1,7 +1,7 @@
 "appid" "2477010"
 "common"
 {
-	"name" "Ticket to Ride"
+	"name" "Ticket to Ride®"
 	"type" "Game"
 	"oslist" "windows,macos"
 	"osarch" ""
@@ -312,9 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "1591847605403087734"
-				"size" "2191475356"
-				"download" "798724880"
+				"gid" "9139539727767158281"
+				"size" "2230969466"
+				"download" "822511760"
 			}
 		}
 	}
@@ -328,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "6936597332873122011"
-				"size" "1577433794"
-				"download" "754071536"
+				"gid" "5234758378941143900"
+				"size" "1589722359"
+				"download" "774262256"
 			}
 		}
 	}
@@ -338,8 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "16598852"
-			"timeupdated" "1733845570"
+			"buildid" "17422338"
+			"timeupdated" "1740668096"
 		}
 	}
 	"privatebranches" "1"
@@ -371,6 +371,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27674270"
-"_sha" "eb7893595d6fe1f32d25721096ca9e74606533c7"
-"_size" "7621"
+"_change_number" "27700153"
+"_sha" "81f7cec8a9d0dcd14705d9038d82fa1518f21531"
+"_size" "7623"
