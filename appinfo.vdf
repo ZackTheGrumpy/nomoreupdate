@@ -1,0 +1,211 @@
+"appid" "2522350"
+"common"
+{
+	"name" "Game Designer & Maker"
+	"type" "Application"
+	"icon" "0e26130fcc65b298a0a7779e08754ac0798560e5"
+	"clienticon" "d3e32791695bf5116b27e917daa6769d23476e2d"
+	"clienttga" "21bead961fa169c18dac52a2c22a79532e5903c6"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "游戏制作创意齿轮"
+		"tchinese" "遊戲制作創意齒輪"
+	}
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"schinese" "3635653db6c5ada2f24fe9f02b543c06b19a8c42/capsule_231x87_schinese.jpg"
+		"english" "7aa1fa64603992a502a2f97bee5c5c8a0c8a0196/capsule_231x87.jpg"
+		"tchinese" "3635653db6c5ada2f24fe9f02b543c06b19a8c42/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.670945157526248"
+			"height_pct" "47.94585609118974"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.670945157526248"
+				"height_pct" "47.94585609118974"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1724927092"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "JiangZhi"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "JiangZhi"
+		}
+	}
+	"primary_genre" "60"
+	"genres"
+	{
+		"0" "23"
+		"1" "60"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692068246"
+	"community_hub_visible" "1"
+	"gameid" "2522350"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "13906"
+		"2" "87"
+		"3" "84"
+		"4" "872"
+		"5" "1036"
+		"6" "1445"
+		"7" "8013"
+	}
+	"review_score" "5"
+	"review_percentage" "56"
+}
+"extended"
+{
+	"developer" "JiangZhi"
+	"publisher" "JiangZhi"
+	"homepage" "https://space.bilibili.com/345574419"
+}
+"config"
+{
+	"installdir" "Game Designer & Maker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "winLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "macLauncher"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,schinese"
+	"2522352"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6727005745010143213"
+				"size" "43223477"
+				"download" "26804656"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15528501"
+			"timeupdated" "1724918338"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26287339"
+"_sha" "a32ced984b28d237e5cdceabf2b9198513ae460e"
+"_size" "3761"
