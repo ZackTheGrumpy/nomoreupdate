@@ -1,0 +1,255 @@
+"appid" "1875890"
+"common"
+{
+	"name" "Illusion：Trust test"
+	"type" "DLC"
+	"parent" "1875610"
+	"releasestate" "released"
+	"clienttga" "1e141267f9ff480081300853b47f7adfc33ffaa5"
+	"clienticon" "173242b74c675214ccabd77bcbacbbec184ee251"
+	"icon" "b66f9e77f400ee57aef080f3ad75fca967dd7459"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_b065a34c5b576f58b61a5229038c63fe3a7cc154.jpg"
+	"store_asset_mtime" "1666984552"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Animalclaw Of Dreams"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Refrigerator game lovers"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Dream gear"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Animalclaw Of Dreams"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Jam Cafe"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Dream gear"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1645505483"
+	"gameid" "1875890"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "113"
+		"2" "122"
+		"3" "492"
+		"4" "597"
+	}
+}
+"extended"
+{
+	"dlcforappid" "1875610"
+	"mustownapptopurchase" "1875610"
+	"developer" "Animalclaw Of Dreams"
+	"publisher" "Animalclaw Of Dreams"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1875891"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3460510817963408463"
+				"size" "314483338"
+				"download" "170543136"
+			}
+		}
+		"dlcappid" "1875890"
+	}
+	"1875892"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6875050654705264740"
+				"size" "314454666"
+				"download" "170454176"
+			}
+		}
+		"dlcappid" "1875890"
+	}
+	"1875893"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6509307108134424713"
+				"size" "318947978"
+				"download" "171092512"
+			}
+		}
+		"dlcappid" "1875890"
+	}
+	"1875894"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8345161205093643285"
+				"size" "314585738"
+				"download" "170536176"
+			}
+		}
+		"dlcappid" "1875890"
+	}
+	"1875899"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7346749360528031782"
+				"size" "314790538"
+				"download" "170667248"
+			}
+		}
+		"dlcappid" "1875890"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13529063"
+			"timeupdated" "1708592810"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "2a6e13065fa870bf4fb9025509053ef92925eef5"
+"_size" "3816"
