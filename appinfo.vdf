@@ -1,0 +1,299 @@
+"appid" "1875610"
+"common"
+{
+	"name" "Illusion"
+	"type" "Game"
+	"clienttga" "95ee1796594789420cbe694bfb375703d984f0e0"
+	"clienticon" "34f1af2495fbdbc5ee830026b4f7b61d35a16fc4"
+	"icon" "1cf108ab9b8ad28a36fd9ed0ff42429ba237350b"
+	"logo" "6eaf7f6558a99bb355e55112c92a35d26a4f7fed"
+	"logo_small" "6eaf7f6558a99bb355e55112c92a35d26a4f7fed_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+	}
+	"restricted_countries" "DE"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "63.298503918309194"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "63.298503918309194"
+			}
+		}
+	}
+	"store_asset_mtime" "1648648430"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Animalclaw Of Dreams"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Refrigerator game lovers"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Dream gear"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Refrigerator game lovers"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Jam Cafe"
+		}
+		"5"
+		{
+			"type" "publisher"
+			"name" "Dream gear"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1646104635"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1875610"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "113"
+		"2" "597"
+		"3" "492"
+		"4" "122"
+		"5" "4434"
+		"6" "5379"
+		"7" "3834"
+		"8" "3871"
+		"9" "1654"
+		"10" "4182"
+		"11" "6971"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Animalclaw Of Dreams"
+	"publisher" "Refrigerator game lovers"
+	"isfreeapp" "1"
+	"listofdlc" "1875890"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Illusion"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"arguments" "-windows"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,russian,japanese"
+	"hasdepotsindlc" "1"
+	"1875611"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1997151203835380406"
+				"size" "314483338"
+				"download" "170541376"
+			}
+		}
+	}
+	"1875612"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5957211059704866793"
+				"size" "314454666"
+				"download" "170454944"
+			}
+		}
+	}
+	"1875613"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1300102517593835515"
+				"size" "318947978"
+				"download" "171093632"
+			}
+		}
+	}
+	"1875614"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "563561889713946844"
+				"size" "314585738"
+				"download" "170537168"
+			}
+		}
+	}
+	"1875619"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2176758892377935617"
+				"size" "314790538"
+				"download" "170668320"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13529025"
+			"timeupdated" "1708592629"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27221585"
+"_sha" "83f126857fce9f13f99e4a4b7dfa50559f1cd327"
+"_size" "4576"
