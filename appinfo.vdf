@@ -27,6 +27,55 @@
 		"schinese" "晨曦族人"
 		"tchinese" "晨曦族人"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1740528000"
+		"tested_build_id" "17435881"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -139,6 +188,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_60" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -296,9 +346,17 @@
 			}
 			"description_loc"
 			{
-				"english" "Dawnfolk (compatibility mode GLES2)"
+				"english" "Dawnfolk (use this if stuck on black screen)"
+				"german" "Dawnfolk (verwenden Sie dies, wenn der Bildschirm schwarz bleibt)"
+				"french" "Dawnfolk (à utiliser si vous êtes bloqué sur un écran noir)"
+				"schinese" "Dawnfolk（如果卡在黑屏，请使用此方法）"
+				"tchinese" "Dawnfolk（如果卡在黑屏，请使用此方法）"
+				"russian" "Dawnfolk (используйте это, если застряли на черном экране)"
+				"japanese" "Dawnfolk（ブラックスクリーンで動かなくなった場合は、これを使用してください）"
+				"polish" "Dawnfolk (użyj tego, jeśli utkniesz na czarnym ekranie)"
+				"brazilian" "Dawnfolk (use isso se ficar preso na tela preta)"
 			}
-			"description" "Dawnfolk (compatibility mode GLES2)"
+			"description" "Dawnfolk (use this if stuck on black screen)"
 		}
 	}
 	"app_mappings"
@@ -321,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "8942470181644946241"
-				"size" "1116298402"
-				"download" "256212688"
+				"gid" "507240412683822705"
+				"size" "1116356050"
+				"download" "256217520"
 			}
 		}
 	}
@@ -331,8 +389,8 @@
 	{
 		"public"
 		{
-			"buildid" "17467829"
-			"timeupdated" "1740239438"
+			"buildid" "17530335"
+			"timeupdated" "1740656886"
 		}
 	}
 	"privatebranches" "1"
@@ -379,6 +437,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27611690"
-"_sha" "d841992fd8808e022a19cf3ca9ba399d4fb9be7f"
-"_size" "6307"
+"_change_number" "27695323"
+"_sha" "8fe7fa07eef2723498ec014bf9ba89b193d46ce7"
+"_size" "8276"
