@@ -1,0 +1,304 @@
+"appid" "2393900"
+"common"
+{
+	"name" "无限之书：侠之章 Story Of Infinity: Xia"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Story Of Infinity: Xia"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "e76f2c8a489b3bf48f1ee33cbf3ad734bda79446"
+	"clienticon" "2770c393f638ad0895d27c832984b8de5227f46f"
+	"clienttga" "97003d1ffe1034f9546daa2a235b6b01c4631111"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1721088000"
+		"tested_build_id" "12267870"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1686645410"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CHONGQING YOUGU TECHNOLOGY CO.,LTD"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CHONGQING YOUGU TECHNOLOGY CO.,LTD"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1686844680"
+	"community_hub_visible" "1"
+	"gameid" "2393900"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1716"
+		"2" "42804"
+		"3" "3959"
+		"4" "3834"
+		"5" "4195"
+		"6" "4791"
+		"7" "4562"
+		"8" "4252"
+		"9" "1684"
+		"10" "113"
+		"11" "492"
+		"12" "21"
+		"13" "122"
+		"14" "6915"
+		"15" "3993"
+		"16" "7481"
+		"17" "4182"
+	}
+	"review_score" "7"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "CHONGQING YOUGU TECHNOLOGY CO.,LTD"
+	"publisher" "CHONGQING YOUGU TECHNOLOGY CO.,LTD"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "StoryOfInfinityXia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StoryOfInfinity.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "9"
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2393901"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "936120194441325261"
+				"size" "1019111930"
+				"download" "840608288"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12267870"
+			"timeupdated" "1695554787"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "2"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StoryOfInfinity/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27149885"
+"_sha" "b891fbe6343c0ed7dd7d8be57d4318e4c10092e5"
+"_size" "5419"
