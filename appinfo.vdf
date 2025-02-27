@@ -176,7 +176,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "EA Los Angeles"
+			"name" "EA Pacific"
 		}
 		"1"
 		{
@@ -273,7 +273,7 @@
 }
 "extended"
 {
-	"developer" "EA Los Angeles"
+	"developer" "EA Pacific"
 	"publisher" "Electronic Arts"
 	"homepage" "https://www.ea.com/games/command-and-conquer"
 }
@@ -319,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "1620673903237505765"
-				"size" "1257905506"
-				"download" "779406960"
+				"gid" "1205576529857006500"
+				"size" "1277620579"
+				"download" "782755968"
 			}
 		}
 	}
@@ -474,8 +474,8 @@
 	{
 		"public"
 		{
-			"buildid" "13685961"
-			"timeupdated" "1709986146"
+			"buildid" "17435253"
+			"timeupdated" "1740672350"
 		}
 	}
 	"privatebranches" "1"
@@ -500,6 +500,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27100437"
-"_sha" "4ce7e5976108486baa991cf3231006bb94f534e9"
-"_size" "8733"
+"_change_number" "27699944"
+"_sha" "3f70516ed637515a80d69959acce653558c3c060"
+"_size" "8725"
