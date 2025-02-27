@@ -233,6 +233,21 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1720746173"
 	"community_visible_stats" "1"
@@ -313,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "7334936572019494216"
-				"size" "3617621108"
-				"download" "693780288"
+				"gid" "3847099506536158639"
+				"size" "3619337364"
+				"download" "697963232"
 			}
 		}
 	}
@@ -330,9 +345,9 @@
 		{
 			"public"
 			{
-				"gid" "2906017267904967519"
-				"size" "3611070682"
-				"download" "691223808"
+				"gid" "6675177557496951832"
+				"size" "3612751328"
+				"download" "695413168"
 			}
 		}
 	}
@@ -340,8 +355,8 @@
 	{
 		"public"
 		{
-			"buildid" "15788097"
-			"timeupdated" "1727034944"
+			"buildid" "17522072"
+			"timeupdated" "1740611422"
 		}
 	}
 }
@@ -378,6 +393,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27583339"
-"_sha" "ffab9317dd603080eeb3628e945c2c77e99667f1"
-"_size" "6498"
+"_change_number" "27685310"
+"_sha" "10984ce3e87050aabd3938c4aefb585c5ec877e9"
+"_size" "6716"
