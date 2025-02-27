@@ -66,7 +66,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "2dcbf199a25e9973201da1a481f34c74a0df14e8/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -77,6 +77,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -125,8 +126,19 @@
 				"height_pct" "59.11897411541202"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "28e41ffcdef02180f2faff906593afae5aca3fcc/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "28e41ffcdef02180f2faff906593afae5aca3fcc/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1629481293"
+	"store_asset_mtime" "1731030155"
 	"associations"
 	{
 		"0"
@@ -199,7 +211,7 @@
 		"13" "4434"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -258,33 +270,6 @@
 				"download" "1694043328"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "1BE66C5333C74F0AFD7117E0722FD7D1"
-				"size" "4B03F6DFBC09AE830D31B2C59673637B"
-				"download" "D0396E6C347AC47C63AEABADC73B9EDD"
-			}
-			"debug"
-			{
-				"gid" "328DDEC0725B0719F415ADE157E8EFC1"
-				"size" "88334C519B1B7F50AB500B1BC608FDA6"
-				"download" "70B941FE4D5A97C05242F84EDE5ED684"
-			}
-			"gold"
-			{
-				"gid" "61635B9F8F47999B25F6484450378F27"
-				"size" "719AA5AA82B0AA3D26E3BE0BCB5976F2"
-				"download" "34FCF99C44BFC3F59D382371783D8805"
-			}
-			"publictest"
-			{
-				"gid" "2F74566D060CA0B0B75B7DB703225282"
-				"size" "68E362755D9C2FF463E2EC10CA3B6D83"
-				"download" "85CFFA8B874E2E42EC13ACEE3AEEFACF"
-			}
-		}
 	}
 	"1709010"
 	{
@@ -316,15 +301,6 @@
 				"download" "89380816"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "0A67E294C5365B787CF9F784B9B7878E"
-				"size" "EBC337F7AB4226D79557259BAFF64C10"
-				"download" "E2BF905D454ED9488CEDBAFA44C3E14C"
-			}
-		}
 	}
 	"branches"
 	{
@@ -339,24 +315,6 @@
 			"description" "Build from 2021-09-30"
 			"timeupdated" "1660159064"
 		}
-		"beta"
-		{
-			"buildid" "7451274"
-			"pwdrequired" "1"
-			"timeupdated" "1632989335"
-		}
-		"debug"
-		{
-			"buildid" "7136065"
-			"pwdrequired" "1"
-			"timeupdated" "1628070190"
-		}
-		"gold"
-		{
-			"buildid" "7451253"
-			"pwdrequired" "1"
-			"timeupdated" "1632989012"
-		}
 		"preview"
 		{
 			"buildid" "7358364"
@@ -369,13 +327,8 @@
 			"description" "Previous build"
 			"timeupdated" "1630698368"
 		}
-		"publictest"
-		{
-			"buildid" "7452794"
-			"pwdrequired" "1"
-			"timeupdated" "1633003751"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -445,3 +398,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26940856"
+"_sha" "ea57e9d418036dcca2e808a8d6a4a61bb564940c"
+"_size" "7238"
