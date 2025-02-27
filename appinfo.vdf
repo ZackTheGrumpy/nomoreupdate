@@ -20,6 +20,7 @@
 	{
 		"schinese" "酒庄模拟器"
 		"tchinese" "酒莊模擬器"
+		"french" "De la Vigne au Verre"
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -203,7 +204,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,tchinese"
+	"baselanguages" "english,french,schinese,tchinese"
 	"2873191"
 	{
 		"config"
@@ -214,9 +215,9 @@
 		{
 			"public"
 			{
-				"gid" "6437686880465483224"
-				"size" "179110248"
-				"download" "135500160"
+				"gid" "6692817308116893117"
+				"size" "179162776"
+				"download" "135524112"
 			}
 		}
 	}
@@ -230,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "7831618075245337148"
-				"size" "208994476"
-				"download" "143715296"
+				"gid" "975195029862859056"
+				"size" "209048540"
+				"download" "143738784"
 			}
 		}
 	}
@@ -240,8 +241,8 @@
 	{
 		"public"
 		{
-			"buildid" "17329784"
-			"timeupdated" "1739325912"
+			"buildid" "17522399"
+			"timeupdated" "1740612610"
 		}
 	}
 	"privatebranches" "1"
@@ -286,6 +287,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27431091"
-"_sha" "e591058d43213fd61b1bc7240785d58fce3c0c78"
-"_size" "4559"
+"_change_number" "27685543"
+"_sha" "12d341da239dd65a9403d54771dcab0553f3628d"
+"_size" "4601"
