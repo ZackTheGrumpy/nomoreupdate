@@ -27,6 +27,55 @@
 		"schinese" "最后一次与你邂逅"
 		"tchinese" "最後一次與你邂逅"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1740614400"
+		"tested_build_id" "17466074"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"metacritic_name" "Last Time I Saw You"
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -208,7 +257,6 @@
 		}
 	}
 	"steam_release_date" "1728558434"
-	"steam_deck_blog_url" "https://steamcommunity.com/games/1909750/announcements/detail/4349999161827758139\?snr=2___"
 	"metacritic_score" "80"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/last-time-i-saw-you\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
@@ -238,7 +286,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "98"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -265,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "8410297154352355717"
-				"size" "1027303854"
-				"download" "822285968"
+				"gid" "6756785981979896408"
+				"size" "1027320313"
+				"download" "822334832"
 			}
 		}
 	}
@@ -275,8 +323,8 @@
 	{
 		"public"
 		{
-			"buildid" "16938519"
-			"timeupdated" "1738090674"
+			"buildid" "17466074"
+			"timeupdated" "1740675769"
 		}
 	}
 	"privatebranches" "1"
@@ -296,6 +344,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27206243"
-"_sha" "872ad679808beac40fdddd8b9a572469a8d8b247"
-"_size" "6502"
+"_change_number" "27701068"
+"_sha" "fee61ef2e0fda0b6b37dca85652c423abaf47acf"
+"_size" "7613"
