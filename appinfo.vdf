@@ -1,0 +1,185 @@
+"appid" "527440"
+"common"
+{
+	"name" "Rustangelo"
+	"type" "Application"
+	"oslist" "windows"
+	"clienticon" "f068d4adaeeaef579afbea221537c02f4cc9728a"
+	"clienttga" "85aca7a22542c1ce54454a57d0636b3778e19b11"
+	"icon" "5794e131dc091570448fc7a44d97cc76cc9a7036"
+	"logo" "54b217b363ef9f3792ebc5554347a64b70c8530f"
+	"logo_small" "54b217b363ef9f3792ebc5554347a64b70c8530f_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "527440_eula_0"
+			"name" "Rustangelo EULA"
+			"url" "http://store.steampowered.com//eula/527440_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"metacritic_name" "Rustangelo"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_1bb90002a9ee487af073ba69d90b428bf28c784f.jpg"
+	"store_asset_mtime" "1667325492"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "JaviteSoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "JaviteSoft"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1466665200"
+	"steam_release_date" "1473965100"
+	"community_hub_visible" "1"
+	"gameid" "527440"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "492"
+		"2" "5348"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"hadthirdpartycdkey" "1"
+	"developer" "JaviteSoft"
+	"publisher" "JaviteSoft"
+	"homepage" "http://www.rustangelo.com"
+	"isfreeapp" "1"
+	"listofdlc" "527610,528310,528330"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Rustangelo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rustangelo.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"527441"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4880625975739235503"
+				"size" "7044673"
+				"download" "4764064"
+			}
+		}
+	}
+	"527442"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "527610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6171542532150960154"
+				"size" "7048769"
+				"download" "4764368"
+			}
+		}
+	}
+	"527443"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "528310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "870842331887857267"
+				"size" "7282339"
+				"download" "4947632"
+			}
+		}
+	}
+	"527444"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "528330"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6942984208683723625"
+				"size" "7282339"
+				"download" "4947632"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12915531"
+			"timeupdated" "1702073321"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27191485"
+"_sha" "f50e1272714da60150febc2f69af886e1bdb26ac"
+"_size" "2876"
