@@ -263,8 +263,8 @@
 		"1" "1684"
 		"2" "4182"
 		"3" "3839"
-		"4" "44868"
-		"5" "1742"
+		"4" "1742"
+		"5" "44868"
 		"6" "4057"
 		"7" "21"
 		"8" "4747"
@@ -272,16 +272,16 @@
 		"10" "3993"
 		"11" "4231"
 		"12" "1697"
-		"13" "4305"
-		"14" "1695"
+		"13" "1695"
+		"14" "4305"
 		"15" "4191"
 		"16" "4667"
 		"17" "19"
-		"18" "4166"
-		"19" "5611"
+		"18" "5611"
+		"19" "4166"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -490,13 +490,13 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "release.1.2.1"
+				"betakey" "release.1.2.4"
 			}
 			"description_loc"
 			{
-				"english" "Avowed 1.2.1 Development (Recommended for Testing)"
+				"english" "Avowed 1.2.4 Development (Recommended for Testing)"
 			}
-			"description" "Avowed 1.2.1 Development (Recommended for Testing)"
+			"description" "Avowed 1.2.4 Development (Recommended for Testing)"
 		}
 		"21"
 		{
@@ -507,13 +507,13 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "release.1.2.1"
+				"betakey" "release.1.2.4"
 			}
 			"description_loc"
 			{
-				"english" "Avowed 1.2.1 Test (For Performance Testing)"
+				"english" "Avowed 1.2.4 Test (For Performance Testing)"
 			}
-			"description" "Avowed 1.2.1 Test (For Performance Testing)"
+			"description" "Avowed 1.2.4 Test (For Performance Testing)"
 		}
 		"24"
 		{
@@ -680,9 +680,9 @@
 		{
 			"public"
 			{
-				"gid" "7588706190852188326"
-				"size" "76699340605"
-				"download" "73129073744"
+				"gid" "5138952774298047312"
+				"size" "76696822550"
+				"download" "73125629200"
 			}
 		}
 	}
@@ -718,8 +718,8 @@
 	{
 		"public"
 		{
-			"buildid" "17432078"
-			"timeupdated" "1740160796"
+			"buildid" "17507453"
+			"timeupdated" "1740679082"
 		}
 	}
 	"privatebranches" "1"
@@ -743,6 +743,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27600296"
-"_sha" "8b00df84bba1f185b7a8a092715cdde6f93fe933"
+"_change_number" "27702041"
+"_sha" "9b2b77b712f82913112edc86a84a5b2ed6f40c3a"
 "_size" "14629"
