@@ -1,7 +1,7 @@
 "appid" "2229840"
 "common"
 {
-	"name" "Command & Conquer: Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
+	"name" "Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™"
 	"type" "Game"
 	"oslist" "windows"
 	"osarch" ""
@@ -12,34 +12,34 @@
 	"name_localized"
 	{
 		"german" "Command & Conquer Alarmstufe Rot, Gegenschlag und Vergeltungsschlag"
-		"french" "Command & Conquer Alerte Rouge‚ĄĘ, Missions Ta√Įga et Missions M.A.D."
-		"italian" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"koreana" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"spanish" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"schinese" "„ÄäŚĎĹšĽ§šłéŚĺĀśúćÔľöÁļĘŤČ≤Ť≠¶śąí, ŚŹćŚáĽśąėŚŹäÁĀĺŚźé„Äč"
-		"tchinese" "„ÄäÁĶāś•ĶŚčēŚď°šĽ§ÔľöÁīÖŤČ≤Ť≠¶śąí, ŚŹćśďäŚŹäť§ėś≥Ę„Äč"
-		"russian" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"thai" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"japanese" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"portuguese" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"polish" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"danish" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"dutch" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"finnish" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"norwegian" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"swedish" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"czech" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"turkish" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"brazilian" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
-		"ukrainian" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ —Ė The Aftermath‚ĄĘ"
-		"latam" "Command & Conquer Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ"
+		"french" "Command & Conquer Alerte Rouge™, Missions Taïga et Missions M.A.D."
+		"italian" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"koreana" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"spanish" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"schinese" "《命令与征服：红色警戒, 反击战及灾后》"
+		"tchinese" "《終極動員令：紅色警戒, 反擊及餘波》"
+		"russian" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"thai" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"japanese" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"portuguese" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"polish" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"danish" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"dutch" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"finnish" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"norwegian" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"swedish" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"czech" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"turkish" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"brazilian" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
+		"ukrainian" "Command & Conquer Red Alert™, Counterstrike™ і The Aftermath™"
+		"latam" "Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™"
 	}
 	"eulas"
 	{
 		"0"
 		{
 			"id" "2229840_eula_0"
-			"name" "Command & Conquer: Red Alert‚ĄĘ, Counterstrike‚ĄĘ and The Aftermath‚ĄĘ EULA"
+			"name" "Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™ EULA"
 			"url" "https://store.steampowered.com//eula/2229840_eula_0"
 			"version" "1"
 		}
@@ -176,7 +176,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "EA Los Angeles"
+			"name" "Westwood Studios"
 		}
 		"1"
 		{
@@ -232,8 +232,8 @@
 		"1" "19"
 		"2" "122"
 		"3" "4182"
-		"4" "1723"
-		"5" "1676"
+		"4" "1676"
+		"5" "1723"
 		"6" "1693"
 	}
 	"review_score" "8"
@@ -242,7 +242,7 @@
 }
 "extended"
 {
-	"developer" "EA Los Angeles"
+	"developer" "Westwood Studios"
 	"publisher" "Electronic Arts"
 	"homepage" "https://www.ea.com/games/command-and-conquer"
 }
@@ -257,9 +257,9 @@
 			"type" "option1"
 			"description_loc"
 			{
-				"english" "Command & Conquer: Red Alert‚ĄĘ (Windows)"
+				"english" "Command & Conquer: Red Alert™ (Windows)"
 			}
-			"description" "Command & Conquer: Red Alert‚ĄĘ (Windows)"
+			"description" "Command & Conquer: Red Alert™ (Windows)"
 		}
 		"1"
 		{
@@ -299,36 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "5131086198590275031"
-				"size" "1477854591"
-				"download" "638724640"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "6C6C3DCB86D62D291912EFE263E6F4C7"
-				"size" "DAAB60DD1B315C407B62E34AF08B9EC9"
-				"download" "4A95F34D3597CE3226BBF9F02540547A"
-			}
-			"qv_check"
-			{
-				"gid" "0D41635BECA446A5503657B83E6B5ED4"
-				"size" "5313577262DA696E9C5F36857D40FE42"
-				"download" "8A4180E348EEFC553211298554B26C95"
-			}
-			"valve_review"
-			{
-				"gid" "8AA9AB358D101C2273EA545C559C66CD"
-				"size" "746825689488E4E7377AB8DF86EDE6D2"
-				"download" "E820916DBF3D0AEDAA3C17564889D024"
-			}
-			"eacc"
-			{
-				"gid" "06251CA1C1406DE54DD7FDC80E63DE53"
-				"size" "0EFB22F09177FBF695722E681B375B5D"
-				"download" "4F7BB42F7E4C2ED49DCF1C0AEB8D6E64"
+				"gid" "1354337765142999844"
+				"size" "1477879686"
+				"download" "638727008"
 			}
 		}
 	}
@@ -347,33 +320,6 @@
 				"download" "617772000"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "72BCB500D8C653E785AD91BC631B76FE"
-				"size" "BD334D0B2A34298DB5E07523428BAAD1"
-				"download" "EFDBC605115E64C7D96616F4B454BB1E"
-			}
-			"qv_check"
-			{
-				"gid" "F66B437E06933023192710F65A0E84A4"
-				"size" "7BBA6F15A4A746309A9C8A9A0EB35680"
-				"download" "F1C639FA8AD8521BF66E055C2F866E63"
-			}
-			"valve_review"
-			{
-				"gid" "E15F48CBE8BC6961EE68099D5391ADF8"
-				"size" "735BF94E2CEC135E144DE6EE1B621663"
-				"download" "8DEF6A4C8FA4B1C808FA57FD678EFA4D"
-			}
-			"eacc"
-			{
-				"gid" "F902A4E06864C3A106E6AC57BC5134F4"
-				"size" "E41EE66C9359B9195BA5F08D5CC1A933"
-				"download" "1B9D88B20FCF9B725B66C8D7B74E90EB"
-			}
-		}
 	}
 	"2229843"
 	{
@@ -388,27 +334,6 @@
 				"gid" "8768960463642660227"
 				"size" "1389811957"
 				"download" "566038688"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "6525A8E7143CE1607752D93B04FC3C19"
-				"size" "F1A88B0DDFE682294AE7518C3E4FA7FB"
-				"download" "42D2018214C3609B244D2A4EA13761F0"
-			}
-			"valve_review"
-			{
-				"gid" "A69A0C35A7597E44C0078D6A875F1756"
-				"size" "3B6F240918813EF768B6BDAC3DCC0C47"
-				"download" "B55F855C9EAE647472A152A705FD998D"
-			}
-			"eacc"
-			{
-				"gid" "54F781F17568F0CD0783C6C0E5FF6557"
-				"size" "10A0835E4AC3F1A3D9664D3A33528D34"
-				"download" "F10A064CE7979724D4A712763BCF100C"
 			}
 		}
 	}
@@ -427,60 +352,17 @@
 				"download" "595326144"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_ratings"
-			{
-				"gid" "65314EE2B548160A1777DCDD9D2D31BF"
-				"size" "C1CA9F93A7C7E4C7EB50E8ACF7D92581"
-				"download" "C1CA9F93A7C7E4C7EB50E8ACF7D92581"
-			}
-			"valve_review"
-			{
-				"gid" "76B30B155CC4F71BDBD75EB33CC2F5B8"
-				"size" "93912018D01824EAD4A71980BB4FC9BE"
-				"download" "3736FFB7B78581B95E4D7D81C2891A12"
-			}
-			"eacc"
-			{
-				"gid" "9B0C88B3A02A8B1FA557A18C5D1B3A13"
-				"size" "B077919742EAA86CF2F65DC34DA85914"
-				"download" "D9A4C20DAE9290F6D045F50B08022E39"
-			}
-		}
 	}
+	"workshopdepot" "2229840"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15165001"
-			"timeupdated" "1722545873"
-		}
-		"age_ratings"
-		{
-			"buildid" "13015084"
-			"pwdrequired" "1"
-			"timeupdated" "1706110764"
-		}
-		"qv_check"
-		{
-			"buildid" "10841536"
-			"pwdrequired" "1"
-			"timeupdated" "1679599021"
-		}
-		"valve_review"
-		{
-			"buildid" "13580403"
-			"pwdrequired" "1"
-			"timeupdated" "1709074230"
-		}
-		"eacc"
-		{
-			"buildid" "15394643"
-			"pwdrequired" "1"
-			"timeupdated" "1723810433"
+			"buildid" "15918010"
+			"timeupdated" "1740672397"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -501,3 +383,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27699956"
+"_sha" "e2c972f7e1e992ef7eb25db4e381216712b57f77"
+"_size" "8151"
