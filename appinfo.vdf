@@ -15,31 +15,51 @@
 	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1729900800"
-		"tested_build_id" "16151088"
+		"category" "2"
+		"test_timestamp" "1740096000"
+		"tested_build_id" "17335849"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
-			"requires_non_controller_launcher_nav" "1"
+			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-3RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
-			"hdr_support" "0"
+			"hdr_support" "2"
 		}
 	}
 	"controllertagwizard" "1"
@@ -162,6 +182,8 @@
 	{
 		"category_2" "1"
 		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -376,6 +398,9 @@
 			"description" "Vulkan"
 		}
 	}
+	"steamdecktouchscreen" "5"
+	"steamconfigurator3rdpartynative" "65520"
+	"steamcontrollertemplateindex" "2"
 }
 "depots"
 {
@@ -435,9 +460,9 @@
 		{
 			"public"
 			{
-				"gid" "433101281143034929"
-				"size" "11119523695"
-				"download" "8865679424"
+				"gid" "122662491867045979"
+				"size" "11106581963"
+				"download" "8860016736"
 			}
 		}
 	}
@@ -445,8 +470,8 @@
 	{
 		"public"
 		{
-			"buildid" "17335849"
-			"timeupdated" "1739363425"
+			"buildid" "17512746"
+			"timeupdated" "1740656127"
 		}
 	}
 	"privatebranches" "1"
@@ -566,6 +591,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27439006"
-"_sha" "bc89f1d78cc1d12085fec4fd88676b18bb4ab33c"
-"_size" "11610"
+"_change_number" "27695172"
+"_sha" "93671a8aca2c95184ed20482f533ebd4fb36d859"
+"_size" "12272"
