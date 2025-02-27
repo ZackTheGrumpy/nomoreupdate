@@ -1,0 +1,282 @@
+"appid" "2428190"
+"common"
+{
+	"name" "黄昏之城（Town of Dusk）"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "f7d3929410e83162fda09fe169199962b2af1f64"
+	"linuxclienticon" "909f35896a07de6d5e9d3f9565610dc6a1f7cbc5"
+	"clienticns" "66e58a180d150db8717ece0e3af70b7ae45c9849"
+	"clienticon" "e308a16e33b984b36d88ac54cb6ee4b00908936a"
+	"clienttga" "ca5cdb9b6da4d6176a644baebc8b85594f08d05d"
+	"name_localized"
+	{
+		"schinese" "黄昏之城"
+		"english" "Town of Dusk"
+		"tchinese" "黃昏之城"
+	}
+	"releasestate" "released"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.82931912360228"
+			"height_pct" "57.954794396115126"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "58.82931912360228"
+				"height_pct" "57.954794396115126"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1686148107"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "酱爆（Sauce Bomb）"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "酱爆（Sauce Bomb）"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_33" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1685602942"
+	"community_hub_visible" "1"
+	"gameid" "2428190"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "5716"
+		"1" "4064"
+		"2" "1664"
+		"3" "6971"
+		"4" "1721"
+		"5" "3854"
+		"6" "5613"
+		"7" "11014"
+		"8" "3799"
+		"9" "31275"
+		"10" "1742"
+		"11" "21"
+		"12" "6129"
+		"13" "122"
+		"14" "5179"
+		"15" "1667"
+		"16" "4182"
+		"17" "113"
+		"18" "3978"
+		"19" "3987"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "酱爆（Sauce Bomb）"
+	"publisher" "酱爆（Sauce Bomb）"
+	"homepage" "https://saucebomb.github.io"
+	"isfreeapp" "1"
+	"listofdlc" "2435290"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Town of Dusk"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Town_of_Dusk.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "For Windows"
+			}
+			"description" "For Windows"
+		}
+		"1"
+		{
+			"executable" "Town_of_Dusk.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "For MacOS"
+			}
+			"description" "For MacOS"
+		}
+		"2"
+		{
+			"executable" "Town_of_Dusk.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "For Linux and SteamOS"
+			}
+			"description" "For Linux and SteamOS"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"2428194"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4306391113028257296"
+				"size" "167328165"
+				"download" "118604784"
+			}
+		}
+	}
+	"2428192"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1269928326463524699"
+				"size" "183009162"
+				"download" "122352224"
+			}
+		}
+	}
+	"2428193"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2216939523580532933"
+				"size" "195682428"
+				"download" "126973312"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11405407"
+			"timeupdated" "1686062418"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26445838"
+"_sha" "fa59876e4e9cdd3509ba2a425e0b97e8efc8bafe"
+"_size" "4567"
