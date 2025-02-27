@@ -121,12 +121,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Celebrity Kombat Labs"
+			"name" "Celebrity Kombat Corp."
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Celebrity Kombat"
+			"name" "Celebrity Kombat Corp."
 		}
 	}
 	"primary_genre" "1"
@@ -247,12 +247,12 @@
 		"15" "4853"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "69"
 }
 "extended"
 {
-	"developer" "Celebrity Kombat Labs"
-	"publisher" "Celebrity Kombat"
+	"developer" "Celebrity Kombat Corp."
+	"publisher" "Celebrity Kombat Corp."
 	"homepage" "https://celebritykombat.com"
 }
 "config"
@@ -281,9 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "9204633513677467600"
-				"size" "34063255513"
-				"download" "7149102624"
+				"gid" "3464789434126202957"
+				"size" "34861843185"
+				"download" "7316079472"
 			}
 		}
 	}
@@ -291,12 +291,12 @@
 	{
 		"public"
 		{
-			"buildid" "17467358"
-			"timeupdated" "1740232717"
+			"buildid" "17531676"
+			"timeupdated" "1740663124"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27610934"
-"_sha" "b4ec24a9945b5d6d65214e9f2cfb3198e893b200"
-"_size" "5091"
+"_change_number" "27696995"
+"_sha" "e56a00d456a0177fee1d90883d23b9d403452b01"
+"_size" "5105"
