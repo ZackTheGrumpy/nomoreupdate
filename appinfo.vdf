@@ -171,7 +171,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "EA Los Angeles"
+			"name" "Westwood Studios"
 		}
 		"1"
 		{
@@ -194,6 +194,7 @@
 	{
 		"category_2" "1"
 		"category_23" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -241,15 +242,27 @@
 		"4" "4182"
 		"5" "1676"
 		"6" "3859"
-		"7" "1693"
+		"7" "3814"
+		"8" "3839"
+		"9" "3942"
+		"10" "21"
+		"11" "1773"
+		"12" "1023537"
+		"13" "4085"
+		"14" "11104"
+		"15" "4004"
+		"16" "13276"
+		"17" "4136"
+		"18" "5350"
+		"19" "8122"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 	"mastersubs_granting_app" "1289670"
 }
 "extended"
 {
-	"developer" "EA Los Angeles"
+	"developer" "Westwood Studios"
 	"publisher" "Electronic Arts"
 	"homepage" "https://help.ea.com/"
 }
@@ -271,6 +284,15 @@
 			}
 			"description" "Launch Renegade Config"
 		}
+		"2"
+		{
+			"executable" "LevelEditor\\LevelEditor.exe"
+			"description_loc"
+			{
+				"english" "Launch Level Editor"
+			}
+			"description" "Launch Level Editor"
+		}
 	}
 }
 "depots"
@@ -291,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "7789558174150685111"
-				"size" "1374684537"
-				"download" "890259504"
+				"gid" "4279982609494402553"
+				"size" "1478590646"
+				"download" "909586544"
 			}
 		}
 	}
@@ -307,7 +329,7 @@
 		{
 			"public"
 			{
-				"gid" "142626991885802976"
+				"gid" "9213180972551750259"
 				"size" "1259025339"
 				"download" "857154848"
 			}
@@ -323,7 +345,7 @@
 		{
 			"public"
 			{
-				"gid" "66436952545104795"
+				"gid" "8563384480030469675"
 				"size" "1268163174"
 				"download" "872885888"
 			}
@@ -339,7 +361,7 @@
 		{
 			"public"
 			{
-				"gid" "252321978089282261"
+				"gid" "9064738888191087700"
 				"size" "1272003976"
 				"download" "876026176"
 			}
@@ -355,7 +377,7 @@
 		{
 			"public"
 			{
-				"gid" "203289220462906498"
+				"gid" "8143929048366298601"
 				"size" "1214534183"
 				"download" "812710000"
 			}
@@ -371,7 +393,7 @@
 		{
 			"public"
 			{
-				"gid" "56374605493347912"
+				"gid" "9191646613910940828"
 				"size" "1285053013"
 				"download" "875896560"
 			}
@@ -382,8 +404,8 @@
 	{
 		"public"
 		{
-			"buildid" "13686043"
-			"timeupdated" "1709986314"
+			"buildid" "17427416"
+			"timeupdated" "1740672442"
 		}
 	}
 	"privatebranches" "1"
@@ -408,6 +430,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27178189"
-"_sha" "340ab54aa2d1024d48a67d0b8c52346059d68178"
-"_size" "7366"
+"_change_number" "27700047"
+"_sha" "80428cbb461695ca04540ea9861e521d560d69c7"
+"_size" "7771"
