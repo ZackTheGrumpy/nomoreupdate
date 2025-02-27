@@ -117,6 +117,9 @@
 		"category_33" "1"
 		"category_23" "1"
 		"category_18" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -193,8 +196,8 @@
 		"6" "4305"
 		"7" "4252"
 		"8" "4191"
-		"9" "3839"
-		"10" "1755"
+		"9" "1755"
+		"10" "3839"
 		"11" "1673"
 		"12" "3959"
 		"13" "3993"
@@ -206,7 +209,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -253,9 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "1990112574235874712"
-				"size" "1648464497"
-				"download" "1395340848"
+				"gid" "7709270575669017003"
+				"size" "1648769287"
+				"download" "1395671136"
 			}
 			"0.5.23844"
 			{
@@ -271,15 +274,9 @@
 			}
 			"betabranch"
 			{
-				"gid" "1990112574235874712"
-				"size" "1648464497"
-				"download" "1395340848"
-			}
-			"cooptest"
-			{
-				"gid" "1990112574235874712"
-				"size" "1648464497"
-				"download" "1395340848"
+				"gid" "7709270575669017003"
+				"size" "1648769287"
+				"download" "1395671136"
 			}
 		}
 	}
@@ -288,8 +285,8 @@
 	{
 		"public"
 		{
-			"buildid" "17337727"
-			"timeupdated" "1739456219"
+			"buildid" "17439308"
+			"timeupdated" "1740649619"
 		}
 		"0.5.23844"
 		{
@@ -305,15 +302,9 @@
 		}
 		"betabranch"
 		{
-			"buildid" "17337727"
+			"buildid" "17439308"
 			"description" "Beta Branch"
-			"timeupdated" "1739391890"
-		}
-		"cooptest"
-		{
-			"buildid" "17337727"
-			"description" "Public Co-op Playtesting"
-			"timeupdated" "1739391898"
+			"timeupdated" "1740649582"
 		}
 	}
 	"privatebranches" "1"
@@ -353,6 +344,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27460825"
-"_sha" "3d62c6bae17548e2e50b93c2cbbbd0c739e8a511"
-"_size" "6051"
+"_change_number" "27693312"
+"_sha" "9f7e731b2f268bda8bfb6b1ac387c007fb7cc69d"
+"_size" "5870"
