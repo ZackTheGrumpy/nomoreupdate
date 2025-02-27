@@ -1,0 +1,199 @@
+"appid" "772070"
+"common"
+{
+	"name" "Harvest Seasons"
+	"type" "Game"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "772070_eula_0"
+			"name" "Harvest Seasons EULA"
+			"url" "http://store.steampowered.com//eula/772070_eula_0"
+		}
+	}
+	"logo" "47e62ab0bed8173ccd5f8ac4384f72bd42d1d808"
+	"logo_small" "47e62ab0bed8173ccd5f8ac4384f72bd42d1d808_thumb"
+	"icon" "65e7233c9ec05017b910083b10d90f2fac0b8f1e"
+	"clienticon" "1b4509f2a4cafcbc387448d95f710a57960c006e"
+	"clienttga" "6a95c07c982461f95df49ee186d88a3ceac6ef2e"
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1689897600"
+		"tested_build_id" "2673687"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Harvest Seasons"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_9267199ca72ca5921f9f4509229ec8af3b692ba4.jpg"
+	"store_asset_mtime" "1513810672"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Samobee Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Samobee Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "37"
+		"2" "23"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_25" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1519372800"
+	"steam_release_date" "1519400474"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "772070"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "599"
+		"2" "9"
+		"3" "597"
+		"4" "492"
+		"5" "379975"
+		"6" "3964"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "Samobee Games"
+	"publisher" "Samobee Games"
+	"isfreeapp" "1"
+	"listofdlc" "776300,778880,778881"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Harvest Seasons"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Harvest Seasons.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"772071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1117887236541662279"
+				"size" "56542085"
+				"download" "24435488"
+			}
+			"beta"
+			{
+				"gid" "1117887236541662279"
+				"size" "56542085"
+				"download" "24435488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2673687"
+			"timeupdated" "1523323564"
+		}
+		"beta"
+		{
+			"buildid" "2673687"
+			"timeupdated" "1523322579"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27066249"
+"_sha" "f52f13bba4d2344ab6bc672efe08d0681be00bf1"
+"_size" "3514"
