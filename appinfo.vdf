@@ -31,6 +31,55 @@
 		"japanese" "1"
 		"brazilian" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739923200"
+		"tested_build_id" "17337356"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -267,7 +316,7 @@
 		"19" "4711"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -302,9 +351,15 @@
 		{
 			"public"
 			{
-				"gid" "6585594573746752314"
-				"size" "3025159250"
-				"download" "1983482064"
+				"gid" "9046455072593041808"
+				"size" "3035981237"
+				"download" "1987895920"
+			}
+			"beta"
+			{
+				"gid" "9046455072593041808"
+				"size" "3035981237"
+				"download" "1987895920"
 			}
 		}
 	}
@@ -316,8 +371,14 @@
 	{
 		"public"
 		{
-			"buildid" "17435630"
-			"timeupdated" "1740062864"
+			"buildid" "17532694"
+			"timeupdated" "1740668478"
+		}
+		"beta"
+		{
+			"buildid" "17532694"
+			"description" "Public testing branch"
+			"timeupdated" "1740668471"
 		}
 	}
 	"privatebranches" "1"
@@ -342,6 +403,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27576454"
-"_sha" "4e5d854ee86657a4178ea6ddd5f533f655dcb45e"
-"_size" "7680"
+"_change_number" "27698763"
+"_sha" "25c148d6d812e6228161bccb87134512b23d2655"
+"_size" "9151"
