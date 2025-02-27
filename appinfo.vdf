@@ -88,7 +88,7 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "33.79317815275738"
+			"width_pct" "56.781683899883824"
 			"height_pct" "100"
 		}
 	}
@@ -117,7 +117,7 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "33.79317815275738"
+				"width_pct" "56.781683899883824"
 				"height_pct" "100"
 			}
 			"image"
@@ -130,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1704566073"
+	"store_asset_mtime" "1739896823"
 	"associations"
 	{
 		"0"
@@ -180,17 +180,17 @@
 	{
 		"0" "5716"
 		"1" "1742"
-		"2" "1697"
-		"3" "7208"
+		"2" "7208"
+		"3" "1697"
 		"4" "4145"
-		"5" "6052"
-		"6" "44868"
-		"7" "6378"
-		"8" "492"
-		"9" "8369"
+		"5" "44868"
+		"6" "6052"
+		"7" "8369"
+		"8" "6378"
+		"9" "492"
 		"10" "21"
-		"11" "5900"
-		"12" "5613"
+		"11" "5613"
+		"12" "5900"
 		"13" "4175"
 		"14" "11014"
 		"15" "4486"
@@ -253,18 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "7035164246535949744"
-				"size" "8661698136"
-				"download" "4157186688"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "70D6A8F63D120FE87884245DA21FDBEE"
-				"size" "FFEFD72ACFE08271FCE9745716D00CC2"
-				"download" "02BAD629B04D9D09130E0E498E97D1EF"
+				"gid" "1847493704578152655"
+				"size" "8661437591"
+				"download" "4155344912"
 			}
 		}
 	}
@@ -273,16 +264,11 @@
 	{
 		"public"
 		{
-			"buildid" "16333472"
-			"timeupdated" "1731017500"
-		}
-		"internal"
-		{
-			"buildid" "16333472"
-			"pwdrequired" "1"
-			"timeupdated" "1731014952"
+			"buildid" "17534853"
+			"timeupdated" "1740684451"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -311,6 +297,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26097431"
-"_sha" "557f408cd98b267cfe738db72e026061bcf9d87d"
-"_size" "5599"
+"_change_number" "27703611"
+"_sha" "5eae0c50fdca25d938d09724b44916e0b3744e2b"
+"_size" "5313"
