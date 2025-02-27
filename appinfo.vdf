@@ -282,30 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "1066866871071403595"
-				"size" "854457189"
-				"download" "673008752"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"1.16.0.278405"
-			{
-				"gid" "A67166E88E47A685FF2B120649A8D0C3"
-				"size" "259234D0F7AADEF7A1C8631BEC9F7A77"
-				"download" "ED300036DD80334C92998D6DAB9CDA52"
-			}
-			"development"
-			{
-				"gid" "8CFAC4417D39F2F66DFFF163B77E389A"
-				"size" "32E35D093ECD51D78400F7C062241DA2"
-				"download" "DBFF7C9F9D3397602400E2B3E72A2E16"
-			}
-			"staging"
-			{
-				"gid" "AC61B666FF48492867BB3B23FAA62BC0"
-				"size" "8D7FBE92C6BAD90E37E081A0C97F4026"
-				"download" "96020755D7FBDF56FC70759C57169F12"
+				"gid" "2865334714624489816"
+				"size" "851250155"
+				"download" "657346720"
 			}
 		}
 	}
@@ -313,28 +292,11 @@
 	{
 		"public"
 		{
-			"buildid" "16695188"
-			"timeupdated" "1733990079"
-		}
-		"1.16.0.278405"
-		{
-			"buildid" "16695188"
-			"pwdrequired" "1"
-			"timeupdated" "1733841612"
-		}
-		"development"
-		{
-			"buildid" "14186385"
-			"pwdrequired" "1"
-			"timeupdated" "1714372565"
-		}
-		"staging"
-		{
-			"buildid" "16695188"
-			"pwdrequired" "1"
-			"timeupdated" "1733841428"
+			"buildid" "17532114"
+			"timeupdated" "1740672477"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -362,6 +324,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26606640"
-"_sha" "4f19deaa3e6a81d6cfe27cadfee05c3a08a571f9"
-"_size" "6399"
+"_change_number" "27699987"
+"_sha" "a35b4c409fc5fc767195610bbb20737b44854f28"
+"_size" "5539"
