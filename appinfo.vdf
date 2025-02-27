@@ -1,0 +1,240 @@
+"appid" "1846040"
+"common"
+{
+	"name" "安科俱乐部"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"english" "Anchor Club"
+		"japanese" "あんこ クラブ"
+		"tchinese" "安科俱樂部"
+		"schinese" "安科俱乐部"
+	}
+	"clienttga" "112a44ed6eb288daf87e0e699313cf84618133a5"
+	"clienticon" "f26a0b1b7692aebd32f41ce4db6c3e25804bb91e"
+	"icon" "c841d6328e7b7692bb5e14af70978d2c79e845ab"
+	"logo" "9a3550467316bed7dfc7f83541cce4e26d693951"
+	"logo_small" "9a3550467316bed7dfc7f83541cce4e26d693951_thumb"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ja,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "ja,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "88.13953488372093"
+			"height_pct" "69.37781999525052"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "88.13953488372093"
+				"height_pct" "69.37781999525052"
+			}
+		}
+	}
+	"store_asset_mtime" "1641532265"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Star Seeker Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Star Seeker Studio"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1642205343"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1846040"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "31275"
+		"1" "87"
+		"2" "17389"
+		"3" "9204"
+		"4" "24003"
+		"5" "3859"
+		"6" "1702"
+		"7" "597"
+		"8" "4747"
+		"9" "615955"
+		"10" "4486"
+		"11" "5984"
+		"12" "4166"
+		"13" "5186"
+		"14" "8013"
+		"15" "3871"
+		"16" "122"
+		"17" "4172"
+		"18" "4182"
+		"19" "11014"
+	}
+	"review_score" "8"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Star Seeker Studio"
+	"publisher" "Star Seeker Studio"
+	"isfreeapp" "1"
+	"listofdlc" "1847270"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "AnchorClub"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AnchorClub.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1846041"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2812028455950409168"
+				"size" "857279792"
+				"download" "232050544"
+			}
+		}
+	}
+	"workshopdepot" "1846040"
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8185274"
+			"timeupdated" "1644568393"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "GameArchives"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "980fa9ab8fc8e8966fd3e42b5ac86c110ec6cd8c"
+"_size" "4148"
