@@ -241,8 +241,8 @@
 		"0" "19"
 		"1" "1628"
 		"2" "3964"
-		"3" "1625"
-		"4" "4004"
+		"3" "4004"
+		"4" "1625"
 		"5" "3871"
 		"6" "4085"
 		"7" "4182"
@@ -313,21 +313,6 @@
 				"download" "111933664"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"debug"
-			{
-				"gid" "9E50B36667783FD850DE5AE7CDBF87E8"
-				"size" "B8B77376D7E4C1DC86FC5CFFDAF9977F"
-				"download" "0BD54DA1C96C9EC0191CBB53C3829048"
-			}
-			"extest"
-			{
-				"gid" "719B50D16C6B1BFC5E7CE7576C3FC8A9"
-				"size" "02331C4089BB5B2B58CADDC7078D80D2"
-				"download" "140C5AA9406106A3BF8A6DBF4A0561CD"
-			}
-		}
 	}
 	"1095780"
 	{
@@ -342,21 +327,6 @@
 				"gid" "2278879666487072746"
 				"size" "423417"
 				"download" "244496"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"debug"
-			{
-				"gid" "B05ABE67250E5F3657B72A2C28766F32"
-				"size" "83EE0179546C54E151CA672CE5CD0193"
-				"download" "305FB4D012E73173EF917A6A8F0E32E3"
-			}
-			"extest"
-			{
-				"gid" "98BBF52019E30C0F0269C8B8A95E566F"
-				"size" "585AA196B5ACC0B26D63E47C446A8746"
-				"download" "02B9AF582976CF8CCB3063E3602F145D"
 			}
 		}
 		"dlcappid" "1095780"
@@ -376,21 +346,6 @@
 				"download" "198016"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"debug"
-			{
-				"gid" "2419172000C47823747110C6833E3565"
-				"size" "0C69CC9C818BD4E070CA2B3DCC467962"
-				"download" "04DE732C1881886AD06AFF1DFA2FBC1B"
-			}
-			"extest"
-			{
-				"gid" "CBE856C036F0D266F0BDF8277D464622"
-				"size" "CC619EF147CDF1DC32F8E30E080ACF24"
-				"download" "76CB3F005D538EF16B2CB0D193BFD611"
-			}
-		}
 		"dlcappid" "1095770"
 	}
 	"branches"
@@ -400,19 +355,8 @@
 			"buildid" "6838219"
 			"timeupdated" "1623859975"
 		}
-		"debug"
-		{
-			"buildid" "6838219"
-			"pwdrequired" "1"
-			"timeupdated" "1623228997"
-		}
-		"extest"
-		{
-			"buildid" "6545966"
-			"pwdrequired" "1"
-			"timeupdated" "1618489215"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -432,3 +376,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27497216"
+"_sha" "32a589f0d35f4546a5a84e433698a354d9865cab"
+"_size" "6756"
