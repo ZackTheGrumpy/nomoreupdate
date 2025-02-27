@@ -1,0 +1,247 @@
+"appid" "1305080"
+"common"
+{
+	"name" "GearBlocks"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "95a21f342e46e3a50d23348e82e8f7e798c7521e"
+	"clienttga" "82927db6008c020f1d1bfe79ef6769d0b28d6dcd"
+	"icon" "dfccd008c91c2f1041d2024b4414bf03e79b57ee"
+	"logo" "3ffe190cca5a6ba3d2b83f29757ce546c3fd2aee"
+	"logo_small" "3ffe190cca5a6ba3d2b83f29757ce546c3fd2aee_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1305080_eula_0"
+			"name" "GearBlocks EULA"
+			"url" "https://store.steampowered.com//eula/1305080_eula_0"
+			"version" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.913947721039577"
+			"height_pct" "54.47378384210262"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.913947721039577"
+				"height_pct" "54.47378384210262"
+			}
+		}
+	}
+	"store_asset_mtime" "1699996723"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SmashHammer Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SmashHammer Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699516808"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1305080"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "3968"
+		"2" "3810"
+		"3" "599"
+		"4" "1669"
+		"5" "5363"
+		"6" "1100687"
+		"7" "1644"
+		"8" "9204"
+		"9" "4182"
+		"10" "3839"
+		"11" "1697"
+		"12" "4191"
+		"13" "1695"
+		"14" "19"
+		"15" "493"
+		"16" "492"
+		"17" "3859"
+		"18" "17305"
+		"19" "17770"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "SmashHammer Games"
+	"publisher" "SmashHammer Games"
+	"homepage" "https://www.gearblocksgame.com/"
+}
+"config"
+{
+	"installdir" "GearBlocks"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GearBlocks.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1305081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8498403692140295212"
+				"size" "1498792602"
+				"download" "529048832"
+			}
+		}
+	}
+	"baselanguages" ""
+	"workshopdepot" "1305080"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17098478"
+			"timeupdated" "1737668646"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SmashHammer Games/GearBlocks/SavedConstructions"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SmashHammer Games/GearBlocks/SavedScenes"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SmashHammer Games/GearBlocks/ScriptMods"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27138442"
+"_sha" "c7bb611953d8935fec1f169597383743714a0591"
+"_size" "4002"
