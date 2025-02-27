@@ -97,7 +97,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "594e2fcc89be7cf9eac36d78df1078ac358518ae/capsule_231x87.jpg"
+		"english" "09f6f1f83866b7ef1d7d2b7c59495f335a1996f3/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -123,29 +123,29 @@
 		{
 			"image"
 			{
-				"english" "03b9cef0444d764bd12393ab13183b3a9c72a9b7/library_600x900.jpg"
+				"english" "f92326234d05113c3a3fb6ee47e8d2d6459967ca/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "03b9cef0444d764bd12393ab13183b3a9c72a9b7/library_600x900_2x.jpg"
+				"english" "f92326234d05113c3a3fb6ee47e8d2d6459967ca/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "e6eb9382b4db6cd7d67ab6c93e59974139092645/library_hero_2x.jpg"
+				"english" "5cf626d3e932882ac6e3c5c76615cfb3b046632c/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "e6eb9382b4db6cd7d67ab6c93e59974139092645/library_hero.jpg"
+				"english" "5cf626d3e932882ac6e3c5c76615cfb3b046632c/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "e6eb9382b4db6cd7d67ab6c93e59974139092645/library_hero_blur.jpg"
+				"english" "5cf626d3e932882ac6e3c5c76615cfb3b046632c/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -158,11 +158,11 @@
 			}
 			"image"
 			{
-				"english" "5d8ac1615c95bb01963fae194799c4019b621352/logo.png"
+				"english" "be3f3b32648ebafe7c6c45b8a4309420b977d6df/logo.png"
 			}
 			"image2x"
 			{
-				"english" "5d8ac1615c95bb01963fae194799c4019b621352/logo_2x.png"
+				"english" "be3f3b32648ebafe7c6c45b8a4309420b977d6df/logo_2x.png"
 			}
 		}
 		"library_header"
@@ -177,7 +177,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737615932"
+	"store_asset_mtime" "1738560166"
 	"associations"
 	{
 		"0"
@@ -303,7 +303,7 @@
 	"developer" "Appnori Inc."
 	"publisher" " Appnori Inc."
 	"homepage" "https://www.appnori.com/"
-	"listofdlc" "3118990,3187270,3187280,3315680,3399250"
+	"listofdlc" "3118990,3187270,3187280,3315680,3399250,3534890"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "698209946083160744"
-				"size" "2646381853"
-				"download" "2261497392"
+				"gid" "170792880342632014"
+				"size" "2722196123"
+				"download" "2320150704"
 			}
 		}
 	}
@@ -345,12 +345,12 @@
 	{
 		"public"
 		{
-			"buildid" "17114616"
-			"timeupdated" "1737694450"
+			"buildid" "17524011"
+			"timeupdated" "1740622157"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27143226"
-"_sha" "b82f8b2da4ccfa627c5b44825f32307de365ea71"
-"_size" "6805"
+"_change_number" "27687530"
+"_sha" "e57288a2d44c0ec11141b20addac1ba5e3ac0e8b"
+"_size" "6813"
