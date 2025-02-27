@@ -1,0 +1,379 @@
+"appid" "1242710"
+"common"
+{
+	"name" "Simplode Suite"
+	"type" "Application"
+	"releasestate" "released"
+	"icon" "b36fa1bbef0161ce396daedc28d6fdc1727988ec"
+	"logo" "81850c3a95b70b49f3fbe79349735156c95a362a"
+	"logo_small" "81850c3a95b70b49f3fbe79349735156c95a362a_thumb"
+	"clienticon" "c02ba88d0962ca24a126c078357c2fd8b27ff0db"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1242710_eula_0"
+			"name" "Simplode Suite EULA"
+			"url" "https://store.steampowered.com//eula/1242710_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1669852800"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Simplode Suite"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.3092768275161"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.3092768275161"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1580939908"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Simplode LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Simplode LLC"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "4"
+		"1" "52"
+		"2" "57"
+		"3" "58"
+	}
+	"category"
+	{
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1578384000"
+	"steam_release_date" "1600326060"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1242710"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "87"
+		"2" "1027"
+		"3" "784"
+		"4" "113"
+		"5" "8013"
+		"6" "4166"
+		"7" "4252"
+		"8" "13782"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"disableoverlay" "1"
+	"developer" "Simplode LLC"
+	"publisher" "Simplode LLC"
+	"homepage" "https://simplode.com"
+	"isfreeapp" "1"
+	"listofdlc" "1264101,1264102,1264103,1264104,1264105,1264106,1264110,1264111,1264112,1264113,1264114,1291030,1291031,1291032,1291033,1291034,1291035,1291036,1291037,1291038,1403380,1404370"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Simplode Suite"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SimplodeSuite.exe"
+			"arguments" "--steamapp=1242711"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1242711"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7325367518418384133"
+				"size" "14274784"
+				"download" "3748672"
+			}
+			"simplode-suite1.1.1.212"
+			{
+				"gid" "9188217593068610583"
+				"size" "12657034"
+				"download" "3184976"
+			}
+			"1.1.1.719-dot-net-4.6"
+			{
+				"gid" "1497219026873941939"
+				"size" "13736299"
+				"download" "3541952"
+			}
+			"beta"
+			{
+				"gid" "7325367518418384133"
+				"size" "14274784"
+				"download" "3748672"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16761631"
+			"timeupdated" "1734368869"
+		}
+		"simplode-suite1.1.1.212"
+		{
+			"buildid" "5989917"
+			"description" "Archived version of Simplode Suite (1.1.1.212)"
+			"timeupdated" "1609866004"
+		}
+		"1.1.1.719-dot-net-4.6"
+		{
+			"buildid" "15252785"
+			"description" "latest version running dot net 4.6"
+			"timeupdated" "1724090771"
+		}
+		"beta"
+		{
+			"buildid" "16761631"
+			"description" "Public Beta"
+			"timeupdated" "1734368628"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "9362fc26e910d23d04961f83493fdaba55fcd2b9"
+"_size" "6205"
