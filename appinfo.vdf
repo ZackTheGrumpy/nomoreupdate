@@ -450,7 +450,7 @@
 		"9"
 		{
 			"executable" "./Hades II.app"
-			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false /LuaMemoryPoolSize=150 /AudioMemoryPoolWithVoiceSize=350"
+			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false"
 			"type" "default"
 			"config"
 			{
@@ -486,9 +486,9 @@
 		{
 			"public"
 			{
-				"gid" "7289663613333984830"
-				"size" "6344670952"
-				"download" "5491608496"
+				"gid" "1315868562801904881"
+				"size" "6344671829"
+				"download" "5491605920"
 			}
 		}
 	}
@@ -502,9 +502,9 @@
 		{
 			"public"
 			{
-				"gid" "6239397007408861544"
-				"size" "235937290"
-				"download" "46096192"
+				"gid" "2177686208194255457"
+				"size" "235945482"
+				"download" "46088080"
 			}
 		}
 	}
@@ -518,9 +518,9 @@
 		{
 			"public"
 			{
-				"gid" "1509297885754947098"
+				"gid" "4186122254017443269"
 				"size" "91616813"
-				"download" "26617232"
+				"download" "26620512"
 			}
 		}
 	}
@@ -535,9 +535,9 @@
 		{
 			"public"
 			{
-				"gid" "7840946071562083208"
-				"size" "6487480364"
-				"download" "5519829728"
+				"gid" "1841940183532409723"
+				"size" "6487481097"
+				"download" "5519826736"
 			}
 		}
 	}
@@ -545,8 +545,8 @@
 	{
 		"public"
 		{
-			"buildid" "17512830"
-			"timeupdated" "1740598901"
+			"buildid" "17528949"
+			"timeupdated" "1740687197"
 		}
 	}
 	"privatebranches" "1"
@@ -584,6 +584,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27682368"
-"_sha" "21aa865af7c498de9bb08b7318d2254ce7ef5294"
-"_size" "12524"
+"_change_number" "27704271"
+"_sha" "697f84e42193df7bdaebced8665e8e88f747922e"
+"_size" "12467"
