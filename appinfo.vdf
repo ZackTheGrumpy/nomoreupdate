@@ -1,0 +1,299 @@
+"appid" "2451530"
+"common"
+{
+	"name" "WarSphere"
+	"type" "Game"
+	"clienttga" "b227baecef55345183cffca988f4ca7d28e8f529"
+	"icon" "4336eaa3ae9cbbf3d4be4b00e3706c35f035ad87"
+	"clienticon" "7122dc819d44528f9dcd41b328b9020151ddad04"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1713484800"
+		"tested_build_id" "13525133"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "37.06066527265094"
+			"height_pct" "59.021879151356565"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "37.06066527265094"
+				"height_pct" "59.021879151356565"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1707137729"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Last Tuesday Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Last Tuesday Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708016420"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2451530"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "1716"
+		"1" "4711"
+		"2" "4758"
+		"3" "4885"
+		"4" "42804"
+		"5" "5125"
+		"6" "8122"
+		"7" "4637"
+		"8" "1759"
+		"9" "4182"
+		"10" "1720"
+		"11" "4231"
+		"12" "122"
+		"13" "4791"
+		"14" "3871"
+		"15" "3942"
+		"16" "3959"
+		"17" "4236"
+		"18" "19"
+		"19" "113"
+	}
+	"review_score" "8"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Last Tuesday Games"
+	"publisher" "Last Tuesday Games"
+	"isfreeapp" "1"
+	"listofdlc" "2777020"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WarSphere"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "warsphere.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2451530"
+	"2451531"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5201881491319423774"
+				"size" "2617642917"
+				"download" "799136144"
+			}
+		}
+	}
+	"2451532"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4205793107707379896"
+				"size" "10066097"
+				"download" "1921408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15508877"
+			"timeupdated" "1724782402"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "warsphere/{64BitSteamID}"
+			"pattern" "wsprofile.dat"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "warsphere/{64BitSteamID}/archive"
+			"pattern" "*.wsarc"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "9e4d7eb5003fd7d971ec4a5a6a0c2517d2b80f5f"
+"_size" "5186"
