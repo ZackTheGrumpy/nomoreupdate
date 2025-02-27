@@ -256,7 +256,7 @@
 		"19" "17770"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -303,36 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "7104776540803500172"
-				"size" "227613286"
-				"download" "138255344"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"localization_test"
-			{
-				"gid" "C2735B68AFA6294BB7620114C7D0604F"
-				"size" "3E2CA3454B85CC92A516FCC3C4594088"
-				"download" "25F4FECCA28F3E632DB63ECD225CDAAF"
-			}
-			"presentation"
-			{
-				"gid" "B97A36EF29AE64A1A3BB651A78D29EC0"
-				"size" "055C3A5043CEEB9996D53D93E4A0C202"
-				"download" "A03168F1DC7499074CEE13786DCB2653"
-			}
-			"ext_candidate"
-			{
-				"gid" "22AAF5D54663E54A51D5BE3DE6115B1B"
-				"size" "A3E2924E480CF1BFD87075668D2D763C"
-				"download" "F2624A84CB1E375A01CCDE6E0E94B69A"
-			}
-			"jam_dev"
-			{
-				"gid" "C7491F3296C0E6B52C59CCF8F927885E"
-				"size" "BC6BEDCF61041DA84C4F3D3D6DB7F773"
-				"download" "2DAC1C93C1454EC04E134B2FFEF681C8"
+				"gid" "3488186541263285630"
+				"size" "227620454"
+				"download" "138256128"
 			}
 		}
 	}
@@ -346,36 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "4061094779825657507"
-				"size" "151582532"
-				"download" "110969840"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"localization_test"
-			{
-				"gid" "CFB28F7C09217DEC07B5329B14BE6726"
-				"size" "AA8A0EC8E3AEFD2BDCE6979EF4597D9E"
-				"download" "AF3664D5688D310F57AC9478AB80CDCC"
-			}
-			"presentation"
-			{
-				"gid" "2D15B1A8B86F96E1F8574EEEE8F09A9E"
-				"size" "A37FA61703D8AE85E73F50B66BABF709"
-				"download" "D3EDA78AAEA9A99CBE20FFFEC148B565"
-			}
-			"ext_candidate"
-			{
-				"gid" "CF5BFD4B71DF8BC7A2164F496163AF39"
-				"size" "177199A1EBF2778A876896FA38F584FC"
-				"download" "0E888C0FCB4DDF4E07CA936981A74742"
-			}
-			"jam_dev"
-			{
-				"gid" "334CC75692B1E6E0B3821F1A16328140"
-				"size" "2DD30805FE8A3E15916458FDB27295BF"
-				"download" "418B6B1321F526EF6F8B1AEF06F7B1E0"
+				"gid" "6856707779305611540"
+				"size" "150943212"
+				"download" "110941200"
 			}
 		}
 	}
@@ -383,36 +329,13 @@
 	{
 		"public"
 		{
-			"buildid" "16695339"
-			"timeupdated" "1733913048"
-		}
-		"localization_test"
-		{
-			"buildid" "3227648"
-			"pwdrequired" "1"
-			"timeupdated" "1540395678"
-		}
-		"presentation"
-		{
-			"buildid" "4043908"
-			"pwdrequired" "1"
-			"timeupdated" "1564057880"
-		}
-		"ext_candidate"
-		{
-			"buildid" "16695339"
-			"pwdrequired" "1"
-			"timeupdated" "1733842285"
-		}
-		"jam_dev"
-		{
-			"buildid" "16460898"
-			"pwdrequired" "1"
-			"timeupdated" "1732032831"
+			"buildid" "17443233"
+			"timeupdated" "1740656447"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26590959"
-"_sha" "db129549a6e188a433e53c7af7fa46596b15ebb0"
-"_size" "7540"
+"_change_number" "27695160"
+"_sha" "c022f36c4f2069f6b7627056b9a2c0f4311e3993"
+"_size" "5636"
