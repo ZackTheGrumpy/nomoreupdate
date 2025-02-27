@@ -1,0 +1,248 @@
+"appid" "1037460"
+"common"
+{
+	"name" "DEEP 8"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "c220823b7c2d0f3bca2737da7ec898f266a23dc5"
+	"logo_small" "c220823b7c2d0f3bca2737da7ec898f266a23dc5_thumb"
+	"icon" "6828b719edc100b9a0a89b000545c5bb09ac93c2"
+	"clienttga" "f9f332a1e9c90264d16a1c4e59411048d7fb1c56"
+	"clienticon" "3ef3131ea802e0924cf20788580572fdebc74ccd"
+	"clienticns" "6241d229cdbf0ab4a59e22a5701e2881ea07f6d6"
+	"linuxclienticon" "f6ab7aa56929e353f1a3d16ab9f025f4c5a467ec"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"metacritic_name" "DEEP 8"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "14.527421236872812"
+			"height_pct" "28.34346605000755"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "14.527421236872812"
+				"height_pct" "28.34346605000755"
+			}
+		}
+	}
+	"store_asset_mtime" "1716203061"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IndependentArt"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IndependentArt"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1655492460"
+	"community_hub_visible" "1"
+	"gameid" "1037460"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "5577"
+		"1" "4434"
+		"2" "4182"
+		"3" "4325"
+		"4" "5923"
+		"5" "4667"
+		"6" "1742"
+		"7" "5030"
+		"8" "3871"
+		"9" "4342"
+		"10" "1755"
+		"11" "4004"
+		"12" "3964"
+		"13" "122"
+		"14" "7250"
+		"15" "5984"
+		"16" "3834"
+		"17" "4295"
+		"18" "3942"
+		"19" "4166"
+	}
+	"review_score" "7"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "IndependentArt"
+	"publisher" "IndependentArt"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "DEEP 8"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "aPLAYERWINDOWS.exe"
+			"arguments" "--fps-limit 60"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "aPLAYERMAC"
+			"arguments" "--fps-limit 60"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "aPlayerWindows64bit.exe"
+			"arguments" "--fps-limit 60"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german"
+	"1037461"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9178725085426533391"
+				"size" "1005651903"
+				"download" "837158880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13129377"
+			"timeupdated" "1704826281"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.dyn"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.lsd"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25590924"
+"_sha" "fba72b566018b90c22907074f6ff111fa76d5b40"
+"_size" "3890"
