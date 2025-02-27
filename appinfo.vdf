@@ -139,7 +139,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1689958892"
+	"steam_release_date" "1689958860"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1468720"
@@ -155,8 +155,8 @@
 		"7" "4684"
 		"8" "4486"
 		"9" "3813"
-		"10" "1646"
-		"11" "3834"
+		"10" "3834"
+		"11" "1646"
 		"12" "4191"
 		"13" "4145"
 		"14" "4305"
@@ -167,13 +167,14 @@
 		"19" "7926"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
 	"developer" "Brilliant Game Studios"
 	"publisher" "Brilliant Game Studios"
 	"homepage" "https://www.brilliantgamestudios.com"
+	"aliases" "UEBS"
 }
 "config"
 {
@@ -216,24 +217,9 @@
 		{
 			"public"
 			{
-				"gid" "1382083665792202026"
-				"size" "35473881062"
-				"download" "12220401232"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testesting2"
-			{
-				"gid" "568A34F1FF670BE4E9BF8DEB90340460"
-				"size" "E259B855645148CBAC09A746C9E3588A"
-				"download" "D3DDCFD7C3D35E0C8232CF4D8EC50CEA"
-			}
-			"testing"
-			{
-				"gid" "69D447A6860135C4ADA7650150A29DE8"
-				"size" "C533A5286C2005A6D44A64B8282103EF"
-				"download" "B0E92ECF590E188A3EE7693E95E54F8F"
+				"gid" "8942931472052821918"
+				"size" "41457192726"
+				"download" "13774784640"
 			}
 		}
 	}
@@ -242,22 +228,11 @@
 	{
 		"public"
 		{
-			"buildid" "16738617"
-			"timeupdated" "1734117082"
-		}
-		"testesting2"
-		{
-			"buildid" "13022759"
-			"pwdrequired" "1"
-			"timeupdated" "1729881397"
-		}
-		"testing"
-		{
-			"buildid" "16738617"
-			"pwdrequired" "1"
-			"timeupdated" "1734111319"
+			"buildid" "17535189"
+			"timeupdated" "1740680900"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -265,6 +240,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26635233"
-"_sha" "85ddb77d4d5a01a69c02bfcdc9f9fbd25f050cad"
-"_size" "4649"
+"_change_number" "27702663"
+"_sha" "4586c69a18865d6adb4e4267908a327dde241a3e"
+"_size" "4098"
