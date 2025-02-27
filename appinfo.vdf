@@ -30,6 +30,16 @@
 		"portuguese" "1"
 		"latam" "1"
 	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1975580_eula_0"
+			"name" "Wild Woods EULA"
+			"url" "https://store.steampowered.com//eula/1975580_eula_0"
+			"version" "2"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -166,7 +176,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737398801"
+	"store_asset_mtime" "1737550478"
 	"associations"
 	{
 		"0"
@@ -305,7 +315,7 @@
 		"19" "7368"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -356,15 +366,15 @@
 		{
 			"public"
 			{
-				"gid" "2363681021855544769"
-				"size" "1370539658"
-				"download" "955330368"
+				"gid" "7752790255092153834"
+				"size" "1281998276"
+				"download" "926134560"
 			}
 			"fallback"
 			{
-				"gid" "4222273865624304413"
-				"size" "1235805899"
-				"download" "834013152"
+				"gid" "2363681021855544769"
+				"size" "1370539658"
+				"download" "955330368"
 			}
 		}
 	}
@@ -395,14 +405,14 @@
 	{
 		"public"
 		{
-			"buildid" "17065919"
-			"timeupdated" "1737394518"
+			"buildid" "17512793"
+			"timeupdated" "1740671765"
 		}
 		"fallback"
 		{
-			"buildid" "16801235"
+			"buildid" "17065919"
 			"description" "If an update causes errors, you can use this branch to revert to the previous version"
-			"timeupdated" "1737392500"
+			"timeupdated" "1740669808"
 		}
 	}
 	"privatebranches" "1"
@@ -455,6 +465,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27081179"
-"_sha" "76ea37741f35b036b23e32a3ca4c50c04240077b"
-"_size" "8742"
+"_change_number" "27699752"
+"_sha" "67bf1704b57d9d73f4c6c190f25605859e603733"
+"_size" "8918"
