@@ -14,6 +14,19 @@
 	"osarch" ""
 	"linuxclienticon" "131dcec2a10edb1e96af11f2a1a2c74bf791918f"
 	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -84,6 +97,48 @@
 			"height_pct" "71.12462140001006"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.29871645274212"
+				"height_pct" "71.12462140001006"
+			}
+		}
+	}
 	"store_asset_mtime" "1569372244"
 	"associations"
 	{
@@ -118,6 +173,7 @@
 		"category_43" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -151,8 +207,8 @@
 	"store_tags"
 	{
 		"0" "19"
-		"1" "21"
-		"2" "5160"
+		"1" "5160"
+		"2" "21"
 		"3" "1663"
 		"4" "1693"
 		"5" "4004"
@@ -160,16 +216,16 @@
 		"7" "4182"
 		"8" "3839"
 		"9" "6691"
-		"10" "4166"
-		"11" "4345"
+		"10" "4345"
+		"11" "4166"
 		"12" "1023537"
 		"13" "3916"
-		"14" "5395"
-		"15" "3942"
+		"14" "4667"
+		"15" "5395"
 		"16" "7782"
-		"17" "1625"
+		"17" "3942"
 		"18" "1684"
-		"19" "1756"
+		"19" "1625"
 	}
 	"review_score" "8"
 	"review_percentage" "93"
@@ -188,12 +244,12 @@
 	{
 		"0"
 		{
-			"executable" "sobek.exe"
-			"description" "Launch Turok"
+			"executable" "sobek_Shipping_Steam_x64.exe"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
 			}
 		}
 		"2"
@@ -229,7 +285,7 @@
 "depots"
 {
 	"workshopdepot" "405820"
-	"228986"
+	"228989"
 	{
 		"config"
 		{
@@ -258,63 +314,34 @@
 	}
 	"405821"
 	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4080823477449817263"
-				"size" "255351719"
-				"download" "252630000"
+				"gid" "2784263431339822377"
+				"size" "394779349"
+				"download" "348316208"
 			}
-			"beta"
+			"kex3"
 			{
-				"gid" "4080823477449817263"
-				"size" "255351719"
-				"download" "252630000"
+				"gid" "1838993315027208041"
+				"size" "346168963"
+				"download" "309565840"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"private_beta"
+			"kex4"
 			{
-				"gid" "682F09229397DC89C89DE0849D272F3E"
-				"size" "AF15C52F1F3F4805D84D84491F230120"
-				"download" "43E67DC05363A4FDF87FA0FF00080B5A"
+				"gid" "4781926073505917009"
+				"size" "394779330"
+				"download" "348316192"
 			}
 		}
 	}
 	"405822"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "1206134855762662216"
-				"size" "47088783"
-				"download" "17769536"
-			}
-			"beta"
-			{
-				"gid" "1206134855762662216"
-				"size" "47088783"
-				"download" "17769536"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private_beta"
-			{
-				"gid" "F6D9BAF975E33753158E7D0CA911CEBD"
-				"size" "045F4F15B06A78826EF223892BB844AF"
-				"download" "519109915A50D827BC6F5FD61C39C2D9"
-			}
-		}
-	}
-	"405823"
 	{
 		"config"
 		{
@@ -324,87 +351,49 @@
 		{
 			"public"
 			{
-				"gid" "4651988819491725174"
-				"size" "11575324"
-				"download" "5061776"
+				"gid" "7760385175575901899"
+				"size" "266927043"
+				"download" "257691712"
 			}
-			"beta"
+			"kex3"
 			{
-				"gid" "4651988819491725174"
-				"size" "11575324"
-				"download" "5061776"
+				"gid" "7760385175575901899"
+				"size" "266927043"
+				"download" "257691712"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"private_beta"
+			"kex4"
 			{
-				"gid" "37658254752516C59B7C87451B099C9E"
-				"size" "4DD941565ED0BDE38A0AF8A63596A8E1"
-				"download" "D627F6B11841DD7FE7E674350D5256E3"
+				"gid" "7760385175575901899"
+				"size" "266927043"
+				"download" "257691712"
 			}
 		}
 	}
-	"405824"
+	"405823"
 	{
 		"config"
 		{
 			"oslist" "linux"
-			"osarch" "64"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3856305976979122741"
-				"size" "7143796"
-				"download" "2714832"
+				"gid" "478163089711204514"
+				"size" "262495515"
+				"download" "255344768"
 			}
-			"beta"
+			"kex3"
 			{
-				"gid" "3856305976979122741"
-				"size" "7143796"
-				"download" "2714832"
+				"gid" "478163089711204514"
+				"size" "262495515"
+				"download" "255344768"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"private_beta"
+			"kex4"
 			{
-				"gid" "C3D885DDEB9B73C33EDA10BD0C83E537"
-				"size" "A8C8CA3C8B9A5234C8E73414D2DF04C6"
-				"download" "913C10A7900D4BBFE2F934073D2799B7"
-			}
-		}
-	}
-	"405825"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "8011537891701083483"
-				"size" "43420889"
-				"download" "38884352"
-			}
-			"beta"
-			{
-				"gid" "8011537891701083483"
-				"size" "43420889"
-				"download" "38884352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private_beta"
-			{
-				"gid" "18E5F52A15CCB19EF4B9DA9F52AFDDA9"
-				"size" "5E21065DC77AAC0A52847F9BAEDECEEA"
-				"download" "656592A9BEBCCAB8296B8DDB717B1820"
+				"gid" "478163089711204514"
+				"size" "262495515"
+				"download" "255344768"
 			}
 		}
 	}
@@ -412,21 +401,23 @@
 	{
 		"public"
 		{
-			"buildid" "2984637"
-			"timeupdated" "1532737412"
+			"buildid" "17552400"
+			"timeupdated" "1740773187"
 		}
-		"beta"
+		"kex3"
 		{
-			"buildid" "2984637"
-			"timeupdated" "1542849654"
+			"buildid" "17552056"
+			"description" "Legacy Release"
+			"timeupdated" "1740771053"
 		}
-		"private_beta"
+		"kex4"
 		{
-			"buildid" "3329608"
-			"pwdrequired" "1"
-			"timeupdated" "1542848448"
+			"buildid" "17552268"
+			"description" "Kex 4 Test"
+			"timeupdated" "1740772303"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -436,38 +427,17 @@
 	{
 		"0"
 		{
-			"root" "gameinstall"
-			"path" "saves"
+			"root" "WinSavedGames"
+			"path" "Nightdive Studios/Turok"
 			"pattern" "*.sav"
-		}
-	}
-}
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
+			"platforms"
 			{
-				"#ending" "Ending"
-				"#gallery" "Gallery"
-				"#spirit_world" "Spirit World"
-				"#the_ancient_city" "The Ancient City"
-				"#the_catacombs" "The Catacombs"
-				"#the_final_confrontation" "The Final Confrontation"
-				"#the_hub" "The Hub"
-				"#the_jungle" "The Jungle"
-				"#the_lost_land" "The Lost Land"
-				"#the_ruins" "The Ruins"
-				"#the_treetop_village" "The Treetop Village"
-				"#title" "Title"
-				"#training" "Training"
+				"1" "Windows"
 			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23181575"
-"_sha" "ad8ba9347b262db83ff84c7562b3ec98bbf94679"
-"_size" "8339"
+"_change_number" "27724987"
+"_sha" "8f48adc3fa56c83cd4583ef53b814e82e7025117"
+"_size" "7439"
