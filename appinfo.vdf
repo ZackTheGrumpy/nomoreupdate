@@ -33,15 +33,15 @@
 		{
 			"public"
 			{
-				"gid" "5968075272268483307"
-				"size" "4542835"
-				"download" "3489904"
+				"gid" "8475197942363616038"
+				"size" "4544954"
+				"download" "3485872"
 			}
 			"beta"
 			{
-				"gid" "2357058374893598834"
-				"size" "4535482"
-				"download" "3483408"
+				"gid" "8475197942363616038"
+				"size" "4544954"
+				"download" "3485872"
 			}
 		}
 	}
@@ -49,14 +49,14 @@
 	{
 		"public"
 		{
-			"buildid" "16742462"
-			"timeupdated" "1738782932"
+			"buildid" "17541659"
+			"timeupdated" "1740719637"
 		}
 		"beta"
 		{
-			"buildid" "17242541"
+			"buildid" "17541659"
 			"description" "Utility beta update"
-			"timeupdated" "1738699149"
+			"timeupdated" "1740718120"
 		}
 	}
 	"privatebranches" "1"
