@@ -314,7 +314,6 @@
 		}
 	}
 	"steamdecktouchscreen" "5"
-	"steamconfigurator3rdpartynative" "9"
 }
 "depots"
 {
@@ -328,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "1574743928283286113"
-				"size" "1445333320"
-				"download" "1250824416"
+				"gid" "3271480825006485210"
+				"size" "1445333816"
+				"download" "1250821808"
 			}
 		}
 	}
@@ -344,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "7089853199458727113"
-				"size" "1456816728"
-				"download" "1254561840"
+				"gid" "4996202528189422162"
+				"size" "1456817240"
+				"download" "1254560848"
 			}
 		}
 	}
@@ -354,8 +353,8 @@
 	{
 		"public"
 		{
-			"buildid" "17502323"
-			"timeupdated" "1740500307"
+			"buildid" "17549329"
+			"timeupdated" "1740758033"
 		}
 	}
 }
@@ -392,6 +391,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27659289"
-"_sha" "9cf69586bc6a8f29f3ebb4c4ddaf8b86b25f28c9"
-"_size" "7014"
+"_change_number" "27720584"
+"_sha" "ce91f931b1b68d466e278a3bb2cec0e8ce88c198"
+"_size" "6973"
