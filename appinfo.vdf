@@ -30,6 +30,7 @@
 		"koreana" "1"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -126,6 +127,10 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -136,6 +141,31 @@
 			"subtitles" "true"
 		}
 		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -230,6 +260,10 @@
 			"description" "Use DirectX 12"
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
 }
 "depots"
 {
@@ -266,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "2276225148083125622"
-				"size" "14478275911"
-				"download" "2154309360"
+				"gid" "6899058773056769758"
+				"size" "7342738117"
+				"download" "1622751408"
 			}
 		}
 	}
@@ -277,12 +311,44 @@
 	{
 		"public"
 		{
-			"buildid" "16815842"
-			"timeupdated" "1734708562"
+			"buildid" "17543569"
+			"timeupdated" "1740731768"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "LumineNight/saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "LumineNight/saved/Paint"
+			"pattern" "*.png"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" ""
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27017121"
-"_sha" "77fc9ed1ab99a3328175338f186d9c95d634d39c"
-"_size" "4785"
+"_change_number" "27713497"
+"_sha" "aa75fff6342a32bea2e12e2a7f6eb7e7debf27a7"
+"_size" "5898"
