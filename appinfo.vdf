@@ -10,6 +10,10 @@
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "The Realm of Reincarnation"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -185,7 +189,7 @@
 		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -234,9 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "7907826986051383958"
-				"size" "4893011356"
-				"download" "4720694976"
+				"gid" "7466103829343120442"
+				"size" "4893079921"
+				"download" "4720765200"
 			}
 		}
 	}
@@ -244,8 +248,8 @@
 	{
 		"public"
 		{
-			"buildid" "17531667"
-			"timeupdated" "1740663069"
+			"buildid" "17552928"
+			"timeupdated" "1740776479"
 		}
 	}
 }
@@ -265,6 +269,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27696978"
-"_sha" "8321c8ac43d0b4b633070d5e1333283a6dc8c650"
-"_size" "4975"
+"_change_number" "27725579"
+"_sha" "9e3c03138ae0fb905ac9e916a1730bbf07e813b8"
+"_size" "5045"
