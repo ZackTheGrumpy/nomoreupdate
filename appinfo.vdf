@@ -18,7 +18,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "c59db8a13cff74841351b5a579cfba4e03019c5a/capsule_231x87.jpg"
+		"english" "21a4024dba23b48c7a4f521a89ff954779f6adcd/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -43,11 +43,11 @@
 		{
 			"image"
 			{
-				"english" "635a34936efc3af7cae85ffab4da4af62bcdba71/library_600x900.jpg"
+				"english" "19388e6a959494001cd1fb08be0574a353926173/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "635a34936efc3af7cae85ffab4da4af62bcdba71/library_600x900_2x.jpg"
+				"english" "19388e6a959494001cd1fb08be0574a353926173/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -82,11 +82,15 @@
 		{
 			"image"
 			{
-				"english" "e2750b58c3665750ef7225e0ea7285eca1d63968/library_header.jpg"
+				"english" "3aceb1a387c7c17b740458936bef83cd25003cbb/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "3aceb1a387c7c17b740458936bef83cd25003cbb/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1736441545"
+	"store_asset_mtime" "1740225483"
 	"associations"
 	{
 		"0"
@@ -217,7 +221,7 @@
 		"19" "4094"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -251,15 +255,15 @@
 		{
 			"public"
 			{
-				"gid" "588187586156543153"
-				"size" "3520752455"
-				"download" "915068656"
+				"gid" "7010758097512997698"
+				"size" "3530995156"
+				"download" "913366720"
 			}
 			"preview"
 			{
-				"gid" "588187586156543153"
-				"size" "3520752455"
-				"download" "915068656"
+				"gid" "7010758097512997698"
+				"size" "3530995156"
+				"download" "913366720"
 			}
 		}
 	}
@@ -271,14 +275,14 @@
 	{
 		"public"
 		{
-			"buildid" "17445568"
-			"timeupdated" "1740156204"
+			"buildid" "17548506"
+			"timeupdated" "1740768529"
 		}
 		"preview"
 		{
-			"buildid" "17445568"
+			"buildid" "17548506"
 			"description" "Preview branch with the newest public build. May be unstable."
-			"timeupdated" "1740156188"
+			"timeupdated" "1740754140"
 		}
 	}
 	"privatebranches" "1"
@@ -316,6 +320,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27599101"
-"_sha" "6e736d0fad0efd3fd299d7cc44d674dc7a781302"
-"_size" "5233"
+"_change_number" "27723685"
+"_sha" "c9f52d404a9e3a5bbd7f981abdd1de367bcda60e"
+"_size" "5342"
