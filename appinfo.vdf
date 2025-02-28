@@ -15,12 +15,14 @@
 	"languages"
 	{
 		"english" "1"
+		"french" "1"
 		"italian" "1"
 		"koreana" "1"
 		"schinese" "1"
 		"russian" "1"
 		"japanese" "1"
 		"hungarian" "1"
+		"turkish" "1"
 		"latam" "1"
 	}
 	"content_descriptors"
@@ -320,15 +322,15 @@
 		{
 			"public"
 			{
-				"gid" "7022851270337834923"
-				"size" "2820238375"
-				"download" "1132092128"
-			}
-			"publicbeta"
-			{
 				"gid" "6581950036088997826"
 				"size" "2821253117"
 				"download" "1132326240"
+			}
+			"publicbeta"
+			{
+				"gid" "9115393786610041837"
+				"size" "2821404998"
+				"download" "1132378704"
 			}
 		}
 	}
@@ -337,13 +339,13 @@
 	{
 		"public"
 		{
-			"buildid" "17291959"
-			"timeupdated" "1739895759"
+			"buildid" "17409661"
+			"timeupdated" "1740755027"
 		}
 		"publicbeta"
 		{
-			"buildid" "17409661"
-			"timeupdated" "1739895778"
+			"buildid" "17548268"
+			"timeupdated" "1740755005"
 		}
 	}
 	"privatebranches" "1"
@@ -368,6 +370,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27537967"
-"_sha" "6e3397acf9749f1ae4ef9c847264ac252d4532f0"
-"_size" "6114"
+"_change_number" "27720982"
+"_sha" "a7ddea4ed2663464e56c8ae3e121f73d19fc1bd1"
+"_size" "6149"
