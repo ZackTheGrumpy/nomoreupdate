@@ -107,7 +107,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734451025"
+	"store_asset_mtime" "1740742863"
 	"associations"
 	{
 		"0"
@@ -202,8 +202,8 @@
 		"1" "4182"
 		"2" "4328"
 		"3" "6948"
-		"4" "1643"
-		"5" "8945"
+		"4" "8945"
+		"5" "1643"
 		"6" "3810"
 		"7" "1084988"
 		"8" "599"
@@ -220,14 +220,14 @@
 		"19" "9592"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "81"
 }
 "extended"
 {
 	"developer" "Abylight Barcelona"
 	"publisher" "Abylight Studios"
 	"homepage" "https://abylight.com/es/juego/citadelum/"
-	"listofdlc" "3358500"
+	"listofdlc" "3358500,3450060"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -275,9 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "8340371719809113761"
-				"size" "6365021143"
-				"download" "2056405872"
+				"gid" "8555550255609979621"
+				"size" "6574547480"
+				"download" "2091168256"
 			}
 		}
 	}
@@ -286,8 +286,8 @@
 	{
 		"public"
 		{
-			"buildid" "16692841"
-			"timeupdated" "1734446869"
+			"buildid" "17305684"
+			"timeupdated" "1740739214"
 		}
 	}
 	"privatebranches" "1"
@@ -311,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26680611"
-"_sha" "e8d045eb8ea17f23ea0ac65b1e17252eec90484a"
-"_size" "5431"
+"_change_number" "27716218"
+"_sha" "1e7ff73caf4ce759e126ce2283ede60d49e857da"
+"_size" "5439"
