@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736282692"
+	"store_asset_mtime" "1740707314"
 	"associations"
 	{
 		"0"
@@ -127,7 +127,6 @@
 	"category"
 	{
 		"category_2" "1"
-		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -164,7 +163,7 @@
 		"19" "4342"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "61"
 }
 "extended"
 {
@@ -180,7 +179,7 @@
 	{
 		"0"
 		{
-			"executable" "Frigore.exe"
+			"executable" "ateeee.exe"
 			"type" "default"
 			"config"
 			{
@@ -201,9 +200,9 @@
 		{
 			"public"
 			{
-				"gid" "5919017064621549568"
-				"size" "3782805770"
-				"download" "3388422880"
+				"gid" "1012139717994777402"
+				"size" "5029967188"
+				"download" "2298194528"
 			}
 		}
 	}
@@ -211,12 +210,12 @@
 	{
 		"public"
 		{
-			"buildid" "16932585"
-			"timeupdated" "1736285242"
+			"buildid" "8064659"
+			"timeupdated" "1740707549"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26900183"
-"_sha" "98e9e904942c6f510ea84583ca77fac5307c8899"
-"_size" "3918"
+"_change_number" "27708921"
+"_sha" "7939cf49352a597cebaf5820870aadb2971ac48d"
+"_size" "3894"
