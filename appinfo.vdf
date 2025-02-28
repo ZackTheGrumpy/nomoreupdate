@@ -125,6 +125,7 @@
 		"category_18" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -203,9 +204,9 @@
 		{
 			"public"
 			{
-				"gid" "2433278695924632820"
-				"size" "41853036819"
-				"download" "34762392176"
+				"gid" "879790069591196072"
+				"size" "44811840103"
+				"download" "36320574112"
 			}
 			"roguelike_version"
 			{
@@ -220,8 +221,8 @@
 	{
 		"public"
 		{
-			"buildid" "17293337"
-			"timeupdated" "1739109745"
+			"buildid" "17438078"
+			"timeupdated" "1740065450"
 		}
 		"roguelike_version"
 		{
