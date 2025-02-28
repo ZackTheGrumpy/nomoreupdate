@@ -18,21 +18,23 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "907c8d28da353e10e9bd2dea2bed67a6e46a0c14/capsule_231x87.jpg"
-		"schinese" "6fbe955e0c821a38d16fd2edeb84ab3598dca006/capsule_231x87_schinese.jpg"
+		"schinese" "037ff47ef0a80a6e341dcf9ffda1b18b71b716ec/capsule_231x87_schinese.jpg"
+		"english" "c9a0c1208d0947931706a941dcb782fe17ba9921/capsule_231x87.jpg"
+		"japanese" "3e9c9270ab20a2c6670c0d86615495e77eefe06e/capsule_231x87_japanese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn"
-		"library_hero" "en,zh-cn"
-		"library_hero_blur" "en,zh-cn"
-		"library_logo" "en,zh-cn"
-		"library_header" "en,zh-cn"
+		"library_capsule" "en,zh-cn,ja"
+		"library_hero" "en,zh-cn,ja"
+		"library_hero_blur" "en,zh-cn,ja"
+		"library_logo" "en,zh-cn,ja"
+		"library_header" "en,zh-cn,ja"
 		"logo_position"
 		{
 			"pinned_position" "UpperCenter"
@@ -46,13 +48,15 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
-				"schinese" "3b6bee458c445cce165a41c01e41eff472564a2d/library_600x900_schinese.jpg"
+				"english" "1c4e184d419dc9dd0074bc909c0d5fbbf52ff5ef/library_600x900.jpg"
+				"schinese" "7745f1fb99220842f4d08edd361e18a3dfea8883/library_600x900_schinese.jpg"
+				"japanese" "c750c5aa016dc002eda9dd5482904ac9f3b470a7/library_600x900_japanese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
-				"schinese" "3b6bee458c445cce165a41c01e41eff472564a2d/library_600x900_schinese_2x.jpg"
+				"english" "1c4e184d419dc9dd0074bc909c0d5fbbf52ff5ef/library_600x900_2x.jpg"
+				"schinese" "7745f1fb99220842f4d08edd361e18a3dfea8883/library_600x900_schinese_2x.jpg"
+				"japanese" "c750c5aa016dc002eda9dd5482904ac9f3b470a7/library_600x900_japanese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -61,11 +65,13 @@
 			{
 				"english" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_2x.jpg"
 				"schinese" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_schinese_2x.jpg"
+				"japanese" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_japanese_2x.jpg"
 			}
 			"image"
 			{
 				"english" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero.jpg"
 				"schinese" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_schinese.jpg"
+				"japanese" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_japanese.jpg"
 			}
 		}
 		"library_hero_blur"
@@ -74,19 +80,22 @@
 			{
 				"english" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_blur.jpg"
 				"schinese" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_blur_schinese.jpg"
+				"japanese" "09f3babe553aa3166d43374603cfb48c7a86dcee/library_hero_blur_japanese.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "15333d96dc9b7e0506898ff78c8bd88e14097380/logo.png"
+				"english" "ad4b1c7f39737de03584229bb9de7a9292e1b45d/logo.png"
 				"schinese" "b76507080ae307d9e9d1fbc4c13a59995a58f638/logo_schinese.png"
+				"japanese" "9cc2be22750f651c7c6be4b544c22236cc95f930/logo_japanese.png"
 			}
 			"image2x"
 			{
-				"english" "15333d96dc9b7e0506898ff78c8bd88e14097380/logo_2x.png"
+				"english" "ad4b1c7f39737de03584229bb9de7a9292e1b45d/logo_2x.png"
 				"schinese" "b76507080ae307d9e9d1fbc4c13a59995a58f638/logo_schinese_2x.png"
+				"japanese" "9cc2be22750f651c7c6be4b544c22236cc95f930/logo_japanese_2x.png"
 			}
 			"logo_position"
 			{
@@ -99,17 +108,19 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
-				"schinese" "191ff5df6f681b6db29b4010cb206b59b1eff0df/library_header_schinese.jpg"
+				"english" "ae914bd20fdda707131f65d92c9999329b81205a/library_header.jpg"
+				"schinese" "89164f669e6bfb254ac27a9b8e6de268eb72932f/library_header_schinese.jpg"
+				"japanese" "6647199c1cac0fdf956b00188d27094674d36de4/library_header_japanese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_header_2x.jpg"
-				"schinese" "191ff5df6f681b6db29b4010cb206b59b1eff0df/library_header_schinese_2x.jpg"
+				"english" "ae914bd20fdda707131f65d92c9999329b81205a/library_header_2x.jpg"
+				"schinese" "89164f669e6bfb254ac27a9b8e6de268eb72932f/library_header_schinese_2x.jpg"
+				"japanese" "6647199c1cac0fdf956b00188d27094674d36de4/library_header_japanese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1739160754"
+	"store_asset_mtime" "1740042175"
 	"associations"
 	{
 		"0"
@@ -176,26 +187,26 @@
 	"exfgls" "8"
 	"store_tags"
 	{
-		"0" "597"
+		"0" "87918"
 		"1" "122"
-		"2" "87918"
-		"3" "14139"
-		"4" "3920"
-		"5" "4726"
-		"6" "1702"
-		"7" "5984"
-		"8" "1654"
-		"9" "21"
-		"10" "599"
-		"11" "492"
-		"12" "4182"
-		"13" "4046"
-		"14" "4191"
-		"15" "4085"
-		"16" "4172"
-		"17" "12472"
-		"18" "1742"
-		"19" "97376"
+		"2" "4434"
+		"3" "12472"
+		"4" "597"
+		"5" "599"
+		"6" "5984"
+		"7" "21"
+		"8" "4747"
+		"9" "1695"
+		"10" "1684"
+		"11" "1702"
+		"12" "1643"
+		"13" "3920"
+		"14" "1742"
+		"15" "4191"
+		"16" "4085"
+		"17" "4172"
+		"18" "7481"
+		"19" "14139"
 	}
 }
 "extended"
@@ -229,9 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "5156247239024173245"
-				"size" "4595629238"
-				"download" "911570896"
+				"gid" "2363601887398777017"
+				"size" "5659735923"
+				"download" "1275489776"
 			}
 		}
 	}
@@ -246,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "3223779833082035631"
-				"size" "4595629798"
-				"download" "912660672"
+				"gid" "1418114207870780745"
+				"size" "5659735735"
+				"download" "1277098976"
 			}
 		}
 	}
@@ -257,8 +268,8 @@
 	{
 		"public"
 		{
-			"buildid" "17363490"
-			"timeupdated" "1739521026"
+			"buildid" "17546078"
+			"timeupdated" "1740742959"
 		}
 	}
 }
