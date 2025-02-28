@@ -57,7 +57,7 @@
 		}
 	}
 	"controllertagwizard" "1"
-	"controller_support" "partial"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "f0a6ac0ca03931e227b4a8e08e013000dd5df168/capsule_231x87.jpg"
@@ -151,11 +151,11 @@
 		"category_38" "1"
 		"category_22" "1"
 		"category_23" "1"
-		"category_18" "1"
 		"category_55" "1"
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -163,10 +163,12 @@
 		"english"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"polish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1707753622"
@@ -249,15 +251,15 @@
 		{
 			"public"
 			{
-				"gid" "8537682930433727562"
-				"size" "230790758"
-				"download" "75790352"
+				"gid" "687766704915754579"
+				"size" "253973969"
+				"download" "78232464"
 			}
 			"beta"
 			{
-				"gid" "8537682930433727562"
-				"size" "230790758"
-				"download" "75790352"
+				"gid" "687766704915754579"
+				"size" "253973969"
+				"download" "78232464"
 			}
 			"dunhero-0.2.1"
 			{
@@ -283,15 +285,15 @@
 		{
 			"public"
 			{
-				"gid" "1630152085725885253"
-				"size" "229220839"
-				"download" "74679904"
+				"gid" "181875017960055237"
+				"size" "256490618"
+				"download" "77192576"
 			}
 			"beta"
 			{
-				"gid" "1630152085725885253"
-				"size" "229220839"
-				"download" "74679904"
+				"gid" "181875017960055237"
+				"size" "256490618"
+				"download" "77192576"
 			}
 			"dunhero-0.2.1"
 			{
@@ -311,14 +313,14 @@
 	{
 		"public"
 		{
-			"buildid" "16861925"
-			"timeupdated" "1735322532"
+			"buildid" "17553417"
+			"timeupdated" "1740779732"
 		}
 		"beta"
 		{
-			"buildid" "16861925"
+			"buildid" "17553417"
 			"description" "Beta Version (Might be unstable)"
-			"timeupdated" "1735322508"
+			"timeupdated" "1740779740"
 		}
 		"dunhero-0.2.1"
 		{
@@ -364,6 +366,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27271971"
-"_sha" "be1682ec548d29d492cdbc2133c2e507340c0de8"
-"_size" "6372"
+"_change_number" "27726243"
+"_sha" "2181295242b658fcce675e9111fda7d2804d914e"
+"_size" "6413"
