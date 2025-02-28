@@ -13,6 +13,7 @@
 	"icon" "c6bab4b59297f21d7c58195d2de0054662ec47d4"
 	"logo" "de07dc35292c5e4ecc0d15f43dd0ad3ce7266891"
 	"logo_small" "de07dc35292c5e4ecc0d15f43dd0ad3ce7266891_thumb"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -52,18 +53,9 @@
 		{
 			"public"
 			{
-				"gid" "4138809634208355764"
-				"size" "2293396789"
-				"download" "785761808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "DF96F132849BEDAC91F2419869BB6B19"
-				"size" "0EC003DE268C78F9D4857FAE5AFFEDB6"
-				"download" "441B02FD29D4564270CCB47E6DC7A876"
+				"gid" "2458627564204209822"
+				"size" "6383011852"
+				"download" "2550426912"
 			}
 		}
 	}
@@ -77,18 +69,9 @@
 		{
 			"public"
 			{
-				"gid" "4930735536869631980"
-				"size" "2343565502"
-				"download" "793859888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "9B0F2C9D9E7174AD1FBDA9BEFC183B26"
-				"size" "EA9622BE882B710CD07DBB7B6193005C"
-				"download" "6EFECB7A16D1A87E1919D334CF4BA207"
+				"gid" "1901321815620883849"
+				"size" "6434027863"
+				"download" "2559678368"
 			}
 		}
 	}
@@ -96,14 +79,13 @@
 	{
 		"public"
 		{
-			"buildid" "13621008"
-			"timeupdated" "1709571471"
-		}
-		"staging"
-		{
-			"buildid" "13621008"
-			"pwdrequired" "1"
-			"timeupdated" "1709369018"
+			"buildid" "17546832"
+			"timeupdated" "1740776855"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27725641"
+"_sha" "70d9ca763fa8fe7280a2dedd6c7cb1eabab03ee7"
+"_size" "1461"
