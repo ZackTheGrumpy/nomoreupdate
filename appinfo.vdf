@@ -159,7 +159,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1740025842"
+	"store_asset_mtime" "1740145291"
 	"associations"
 	{
 		"0"
@@ -258,11 +258,11 @@
 		"6" "6426"
 		"7" "4821"
 		"8" "4252"
-		"9" "122"
-		"10" "11014"
+		"9" "11014"
+		"10" "122"
 		"11" "4486"
-		"12" "3839"
-		"13" "4085"
+		"12" "4085"
+		"13" "3839"
 		"14" "3964"
 		"15" "1755"
 		"16" "4168"
@@ -271,12 +271,14 @@
 		"19" "5984"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "93"
 }
 "extended"
 {
 	"developer" "Space Colony Studios"
 	"publisher" "Astrolabe Games"
+	"listofdlc" "3471190"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -318,9 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "3863730851383562447"
-				"size" "263362697"
-				"download" "149985504"
+				"gid" "507558054554193589"
+				"size" "263368040"
+				"download" "150023888"
 			}
 		}
 	}
@@ -336,8 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "17460173"
-			"timeupdated" "1740216570"
+			"buildid" "17534243"
+			"timeupdated" "1740731301"
 		}
 	}
 	"privatebranches" "1"
@@ -368,6 +370,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27609043"
-"_sha" "46ad8265bebaef7ced4182ef35ff4a52be11ceca"
-"_size" "7085"
+"_change_number" "27713029"
+"_sha" "568afaf5c240838275b5125a548e51543fe07564"
+"_size" "7138"
