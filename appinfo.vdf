@@ -370,15 +370,15 @@
 		{
 			"public"
 			{
-				"gid" "2626972914112162892"
-				"size" "996490081"
-				"download" "776454960"
+				"gid" "8389999855585690210"
+				"size" "996707548"
+				"download" "776510416"
 			}
 			"unstable"
 			{
-				"gid" "3251661586398416518"
-				"size" "996489477"
-				"download" "776457264"
+				"gid" "2626972914112162892"
+				"size" "996490081"
+				"download" "776454960"
 			}
 		}
 	}
@@ -386,14 +386,14 @@
 	{
 		"public"
 		{
-			"buildid" "17513500"
-			"timeupdated" "1740568121"
+			"buildid" "17547832"
+			"timeupdated" "1740758394"
 		}
 		"unstable"
 		{
-			"buildid" "17424281"
+			"buildid" "17513500"
 			"description" "A branch for earlier access to Norland updates. May be unstable, so you should backup your save files. Attention! Saves made in new versions may be incompatible with older versions!"
-			"timeupdated" "1740135360"
+			"timeupdated" "1740637665"
 		}
 	}
 	"privatebranches" "1"
@@ -417,6 +417,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27673912"
-"_sha" "7839aac486a45baf8df8f80cbad2edd8f419ec4c"
+"_change_number" "27720705"
+"_sha" "755715064449672c4d5827cf1bb004bd5c23b463"
 "_size" "7884"
