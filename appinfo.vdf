@@ -10,6 +10,11 @@
 	"icon" "73c56c78d905a21aa18ec2334519edc9d903287d"
 	"clienticon" "2c02d5c7636900055bc943d206665f2237ca1aa0"
 	"clienttga" "21244b414d86baefef5ead275020a98926ecd226"
+	"name_localized"
+	{
+		"schinese" "天境争锋 Skygard Arena"
+		"tchinese" "天境争锋 Skygard Arena"
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -93,7 +98,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734613543"
+	"store_asset_mtime" "1740365120"
 	"associations"
 	{
 		"0"
@@ -105,6 +110,11 @@
 		{
 			"type" "publisher"
 			"name" "Gemelli Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "SpaceJazz"
 		}
 	}
 	"primary_genre" "2"
@@ -128,7 +138,6 @@
 		"english"
 		{
 			"supported" "true"
-			"full_audio" "true"
 			"subtitles" "true"
 		}
 		"french"
@@ -224,9 +233,9 @@
 		{
 			"public"
 			{
-				"gid" "2032666855379177971"
-				"size" "14340522107"
-				"download" "2890280992"
+				"gid" "6996087399400680328"
+				"size" "13967938122"
+				"download" "2811882624"
 			}
 			"offline_demo"
 			{
@@ -284,8 +293,8 @@
 	{
 		"public"
 		{
-			"buildid" "17124056"
-			"timeupdated" "1737747012"
+			"buildid" "17552073"
+			"timeupdated" "1740771237"
 		}
 		"offline_demo"
 		{
@@ -311,6 +320,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27155368"
-"_sha" "388dee86ddedfb25f9809c8846dc818f20182c96"
-"_size" "5207"
+"_change_number" "27724393"
+"_sha" "19a52439879818ea2d089bfe90571836f7825250"
+"_size" "5362"
