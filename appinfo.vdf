@@ -199,6 +199,24 @@
 		"0"
 		{
 			"executable" "Carnaval Simulator.exe"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "Carnaval Simulator.exe"
+			"arguments" "-safemode"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Safe Mode (if main menu crashes on older devices)"
+				"german" "Sicherheitsmodus (wenn das Hauptmenü auf älteren Geräten abstürzt)"
+				"french" "Mode sécurisé (si le menu principal plante sur les anciens appareils)"
+				"italian" "Modalità Sicura (se il menu principale si blocca su dispositivi meno recenti)"
+				"spanish" "Modo seguro (si el menú principal falla en dispositivos antiguos)"
+				"portuguese" "Modo Seguro (se o menu principal falhar em dispositivos mais antigos)"
+				"dutch" "Veilige modus (als het hoofdmenu crasht op oudere apparaten)"
+			}
+			"description" "Safe Mode (if main menu crashes on older devices)"
 		}
 	}
 }
@@ -214,9 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "6555198927267419246"
-				"size" "12268007762"
-				"download" "10209770656"
+				"gid" "1029009056930333702"
+				"size" "12266452406"
+				"download" "10209567616"
 			}
 			"1.0.11"
 			{
@@ -260,17 +278,11 @@
 				"size" "12243172568"
 				"download" "10216951952"
 			}
-			"fast_version"
-			{
-				"gid" "2075988561775980166"
-				"size" "12266450638"
-				"download" "10209550112"
-			}
 			"open_beta"
 			{
-				"gid" "6555198927267419246"
-				"size" "12268007762"
-				"download" "10209770656"
+				"gid" "1029009056930333702"
+				"size" "12266452406"
+				"download" "10209567616"
 			}
 		}
 	}
@@ -281,8 +293,8 @@
 	{
 		"public"
 		{
-			"buildid" "17520059"
-			"timeupdated" "1740605405"
+			"buildid" "17541106"
+			"timeupdated" "1740714341"
 		}
 		"1.0.11"
 		{
@@ -326,17 +338,11 @@
 			"description" "To run on Mac using compatible software"
 			"timeupdated" "1740441448"
 		}
-		"fast_version"
-		{
-			"buildid" "17523409"
-			"description" "In case the game crashes on mainmenu"
-			"timeupdated" "1740618501"
-		}
 		"open_beta"
 		{
-			"buildid" "17520059"
+			"buildid" "17541106"
 			"description" "Open Beta Branch"
-			"timeupdated" "1740599165"
+			"timeupdated" "1740714380"
 		}
 	}
 	"privatebranches" "1"
@@ -349,6 +355,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "27686832"
-"_sha" "e22b9778e843f4fc24c5ab1f1e6cab79a9427a33"
-"_size" "6170"
+"_change_number" "27710098"
+"_sha" "fce31064e70d74a6a4756b0d021ed3e868ad2a51"
+"_size" "6736"
