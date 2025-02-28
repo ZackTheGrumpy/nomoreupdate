@@ -147,6 +147,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1734707419"
 	"community_visible_stats" "1"
@@ -173,7 +183,7 @@
 		"16" "1654"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -280,9 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "2300924665599329716"
-				"size" "5563893686"
-				"download" "5264047264"
+				"gid" "5090289260083700145"
+				"size" "4585632227"
+				"download" "4315795344"
 			}
 		}
 	}
@@ -290,8 +300,8 @@
 	{
 		"public"
 		{
-			"buildid" "17241177"
-			"timeupdated" "1738691596"
+			"buildid" "17545991"
+			"timeupdated" "1740742946"
 		}
 	}
 	"privatebranches" "1"
@@ -302,6 +312,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "27674742"
-"_sha" "cb8ec7d598d43da6e3a98ab7f0bafc84e25392b3"
-"_size" "6068"
+"_change_number" "27716787"
+"_sha" "6dc5e71dd8afc9bc555630faf6076fa1afe41aba"
+"_size" "6209"
