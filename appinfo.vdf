@@ -277,9 +277,14 @@
 		"11" "12095"
 		"12" "1742"
 		"13" "1693"
+		"14" "1756"
+		"15" "3810"
+		"16" "5611"
+		"17" "4166"
+		"18" "6650"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -343,33 +348,6 @@
 				"download" "9449468800"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"external"
-			{
-				"gid" "DD05BC11970D71E69705BDDE24F5FBFB"
-				"size" "4E54A8D5DC43EC1BD8F0ECD0D41C74A9"
-				"download" "9F865F1D0F7233B7801DFA94FC4C1027"
-			}
-			"qabeta"
-			{
-				"gid" "354046912463D9CBE8A7423E3BF34599"
-				"size" "D20F00B4369F6DC2150995DDF197F30E"
-				"download" "6AEE7FD24958E9A0F3F7C2AD4B65E790"
-			}
-			"qalive"
-			{
-				"gid" "2EF0EFEA4F50147CC56C5C8B7A0286EE"
-				"size" "54408373466F8AD548123A6901537D90"
-				"download" "3E4325E4B8CF8722C517ADD61D314A1B"
-			}
-			"qatest"
-			{
-				"gid" "EBB8FE9B151542BAB72D8410828D79DF"
-				"size" "F7E54CC98EEA399255FFCF5178E131B7"
-				"download" "8CA7E143900F67F7DA62B883AD333EEF"
-			}
-		}
 	}
 	"1899671"
 	{
@@ -377,30 +355,9 @@
 		{
 			"public"
 			{
-				"gid" "5381604907391198919"
-				"size" "227077397"
-				"download" "183949376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qabeta"
-			{
-				"gid" "6D3ADF00302A73450FA86F47398D2788"
-				"size" "77850242066850412DA49EEDFEB96354"
-				"download" "E6BE00FBDAA3BE2B696CFA36DB1E887D"
-			}
-			"qalive"
-			{
-				"gid" "A5C2F42738E86BF3108EAB3777158AF9"
-				"size" "11AB9426D0B109546BAFF672EE458EEF"
-				"download" "4543F182C887F6A9854B3A73B39563B7"
-			}
-			"qatest"
-			{
-				"gid" "5DDF4006F197FF712E612442F7FFE131"
-				"size" "25D19A5D085974821050449A547000C2"
-				"download" "7614A2962C6856A04C0E1ECDD83A318A"
+				"gid" "6920980794360204616"
+				"size" "228262668"
+				"download" "184801072"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -413,33 +370,10 @@
 			"buildid" "16390876"
 			"timeupdated" "1731925281"
 		}
-		"external"
-		{
-			"buildid" "9317181"
-			"pwdrequired" "1"
-			"timeupdated" "1660574116"
-		}
-		"qabeta"
-		{
-			"buildid" "16390876"
-			"pwdrequired" "1"
-			"timeupdated" "1731495255"
-		}
-		"qalive"
-		{
-			"buildid" "16390876"
-			"pwdrequired" "1"
-			"timeupdated" "1731495061"
-		}
-		"qatest"
-		{
-			"buildid" "13185559"
-			"pwdrequired" "1"
-			"timeupdated" "1705586446"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26242392"
-"_sha" "81a17f0bb008ef73832e7499f7e2ac52d50e6f9b"
-"_size" "8074"
+"_change_number" "27718711"
+"_sha" "5883fa94d9ab3953cb05f89d1f597a8892502e30"
+"_size" "6492"
