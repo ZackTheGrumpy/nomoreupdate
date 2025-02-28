@@ -15,6 +15,7 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"aicontenttype" "1"
 	"metacritic_name" "Industry Giant 4.0"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -199,7 +200,7 @@
 		"19" "6129"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "51"
 }
 "extended"
 {
@@ -238,15 +239,15 @@
 		{
 			"public"
 			{
-				"gid" "8755856915430055903"
-				"size" "13645969011"
-				"download" "12868258336"
+				"gid" "8056573108777597841"
+				"size" "13695570281"
+				"download" "12917061424"
 			}
 			"public_testing"
 			{
-				"gid" "7701367275336389751"
-				"size" "13496314195"
-				"download" "12718847088"
+				"gid" "8056573108777597841"
+				"size" "13695570281"
+				"download" "12917061424"
 			}
 		}
 	}
@@ -322,14 +323,14 @@
 	{
 		"public"
 		{
-			"buildid" "17169715"
-			"timeupdated" "1738259926"
+			"buildid" "17530656"
+			"timeupdated" "1740744830"
 		}
 		"public_testing"
 		{
-			"buildid" "16725226"
+			"buildid" "17530656"
 			"description" "Public testing branch before public release"
-			"timeupdated" "1734105133"
+			"timeupdated" "1740745142"
 		}
 	}
 	"privatebranches" "1"
@@ -354,6 +355,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27239966"
-"_sha" "84bcca4dd71883f0bdb97217d16091ce040bfafa"
-"_size" "6439"
+"_change_number" "27716916"
+"_sha" "d120cea92c013c67c04d6c72e49648c835016fcd"
+"_size" "6462"
