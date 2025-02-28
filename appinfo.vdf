@@ -266,15 +266,15 @@
 		"0" "19"
 		"1" "3814"
 		"2" "1695"
-		"3" "4106"
-		"4" "21"
+		"3" "21"
+		"4" "4106"
 		"5" "1697"
 		"6" "6378"
-		"7" "4182"
-		"8" "4667"
+		"7" "4667"
+		"8" "4182"
 		"9" "3993"
-		"10" "1693"
-		"11" "1721"
+		"10" "12095"
+		"11" "1693"
 	}
 	"review_score" "5"
 	"review_percentage" "66"
@@ -341,33 +341,6 @@
 				"download" "4427409968"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"external"
-			{
-				"gid" "6281804D8EA78826C1F66BE3E3FBFD65"
-				"size" "4F7410ECB6CFC236A23959C5CFE127C1"
-				"download" "427058CAEF4C7077FA4F3F206D020961"
-			}
-			"qabeta"
-			{
-				"gid" "07B6F84EBE9B229DDB82315E32E0BD75"
-				"size" "FF5E5D728B6244D0A3D6DE39B8742990"
-				"download" "D679EC4FB59FA9C326B447AE5520A2F9"
-			}
-			"qalive"
-			{
-				"gid" "F14A97C3011D155F0B61BD440BEE6BC6"
-				"size" "FDA9F18D89F4D6F43E2CE83D56FEA71C"
-				"download" "EBC7A2610637ED7C390EDAC8B4F0F39C"
-			}
-			"qatest"
-			{
-				"gid" "3714A81232D27BC10336523B56E0640F"
-				"size" "AE58C8E9E82F45F063C1F4EF0CB02571"
-				"download" "43453D7418D2D901EB7A5BB4FFEED491"
-			}
-		}
 	}
 	"1899671"
 	{
@@ -375,30 +348,9 @@
 		{
 			"public"
 			{
-				"gid" "5381604907391198919"
-				"size" "227077397"
-				"download" "183949376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qabeta"
-			{
-				"gid" "6329B96A156DDDA05A9768691D6F8F5B"
-				"size" "3FE463D502FA93FFD87AA1311F098B36"
-				"download" "A57D65230167B72B3B1EE9F429DEE320"
-			}
-			"qalive"
-			{
-				"gid" "C4B3B7A6FA21D4B7D2EB7B16E444077C"
-				"size" "92C5E055BA106263FBA3AE5FA3549689"
-				"download" "32CB7585057A47E676A1AD2543D791B7"
-			}
-			"qatest"
-			{
-				"gid" "06B5C479FF6917FD683471F1F97290E0"
-				"size" "26A7EE8B103BC86633C157BEFE1B5349"
-				"download" "2181C70AE28D2CD2107C018D5B1F70C0"
+				"gid" "6920980794360204616"
+				"size" "228262668"
+				"download" "184801072"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -411,33 +363,10 @@
 			"buildid" "16390603"
 			"timeupdated" "1731925316"
 		}
-		"external"
-		{
-			"buildid" "9317107"
-			"pwdrequired" "1"
-			"timeupdated" "1660574075"
-		}
-		"qabeta"
-		{
-			"buildid" "16390603"
-			"pwdrequired" "1"
-			"timeupdated" "1731494391"
-		}
-		"qalive"
-		{
-			"buildid" "16390603"
-			"pwdrequired" "1"
-			"timeupdated" "1731493732"
-		}
-		"qatest"
-		{
-			"buildid" "14717847"
-			"pwdrequired" "1"
-			"timeupdated" "1731447639"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26242402"
-"_sha" "c2cd1a3d60a3273e93bd7f9c8dec44a148d7c4e0"
-"_size" "8074"
+"_change_number" "27718711"
+"_sha" "51fbeff3a3d7e695050fd2a69d842322299ff0a9"
+"_size" "6413"
