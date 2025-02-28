@@ -146,7 +146,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731498624"
+	"store_asset_mtime" "1735888350"
 	"associations"
 	{
 		"0"
@@ -220,15 +220,15 @@
 		"0" "599"
 		"1" "3799"
 		"2" "1698"
-		"3" "4975"
-		"4" "9204"
+		"3" "9204"
+		"4" "4975"
 		"5" "4252"
 		"6" "6815"
 		"7" "4604"
 		"8" "12472"
 		"9" "1684"
-		"10" "4853"
-		"11" "4947"
+		"10" "4947"
+		"11" "4853"
 		"12" "6426"
 		"13" "6971"
 		"14" "5094"
@@ -245,6 +245,7 @@
 {
 	"developer" "GameChanger Studio"
 	"publisher" "Neon Doctrine"
+	"homepage" "https://www.neondoctrine.com/games/my-lovely-empress"
 	"listofdlc" "3068260"
 	"dlcavailableonstore" "1"
 }
@@ -281,90 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "6520794176889677928"
-				"size" "1541623682"
-				"download" "940127472"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"platform_holders"
-			{
-				"gid" "0438315EC78A195A9628678208E3E6C9"
-				"size" "7B1996A079E1B4F12CFF48A41721E593"
-				"download" "862E86E9E232CC669AAC6E2D7A21C91E"
-			}
-			"certification"
-			{
-				"gid" "708EBC363412B8F4715C876C06B67783"
-				"size" "3564DB33C2F147540BDC9AEE916461B7"
-				"download" "F0A6FB06008E6A4F754C0892EFC44E74"
-			}
-			"demo_test"
-			{
-				"gid" "9C1CB9F0B1F3A982D026088D4188F223"
-				"size" "552519BED3E58FF5345202BB617EC90B"
-				"download" "548F2D4EE761AB80434E72ED14192924"
-			}
-			"external_creators"
-			{
-				"gid" "90DDCCC7EAC9B66F8064FDE0BFF3CD4D"
-				"size" "6798C1499A8509F4EBAA1BA481FE68BF"
-				"download" "D16D2288CB31E518149ED190E44B5CCB"
-			}
-			"external_partners"
-			{
-				"gid" "6DE64F04FBA54ABF68C2BF22065BC3BA"
-				"size" "45200C03E5631995F824F61078CF7AF6"
-				"download" "7A06CCF2BCE437C6222F99496ECC2ADE"
-			}
-			"gcs-experiment"
-			{
-				"gid" "783747824E53FC7A0A0A2CD9940EA789"
-				"size" "E102B99E0B6450B2680C9B783BF1FE61"
-				"download" "92947565950794D1982C27B8EA7916CF"
-			}
-			"gcs-private"
-			{
-				"gid" "39109EC2EB3D5EACC3712AC340632A00"
-				"size" "DF5FC3D208CE71C9A30AAAAEDFD83B90"
-				"download" "E309D673A1DEFCFDD7D2C753F261F442"
-			}
-			"gcs-test"
-			{
-				"gid" "CA03CD3ADB9EA6288933BE17F6729FDC"
-				"size" "BEB4B24B4A977E23E2458CCA46C8356C"
-				"download" "76CABBE97A92467F9F08BE020AEBA168"
-			}
-			"gcs-tlm"
-			{
-				"gid" "583AEF6C7BB77B568716F9F1682A410F"
-				"size" "B92003D43FA7B4E241EC15331FA27AC6"
-				"download" "B9BFC181EA56F1EAF86B319B92CDDA7B"
-			}
-			"media"
-			{
-				"gid" "6CB34AB2E892794966E87CC046AF6D40"
-				"size" "5FE7D9246CEF3EEE642070037B7325A2"
-				"download" "4ABF9EA7FAB40072927FEC814076A25F"
-			}
-			"ms_reviews"
-			{
-				"gid" "B03594B0779DD69E33B7B3743673FD1F"
-				"size" "06A2B659AE370274F0EEDB949EB518AD"
-				"download" "AE211B6F89361A1173DD06100F060827"
-			}
-			"showcase"
-			{
-				"gid" "3C241743E9D11EDC4C9F7A80EAF43A60"
-				"size" "A78782C9DA2E849BCB9647F1DF27705D"
-				"download" "24512DCD3677276CCFE35106B9ABF83B"
-			}
-			"test"
-			{
-				"gid" "FCB1F061B9C504BCBE8A8A2FBDD22B69"
-				"size" "5960DB864EE602B93B4E7A7BEBD7EADA"
-				"download" "B70A9AAE44634BC1AD200866A26DC783"
+				"gid" "8422764249961846786"
+				"size" "1606252014"
+				"download" "996152192"
 			}
 		}
 	}
@@ -373,88 +293,11 @@
 	{
 		"public"
 		{
-			"buildid" "16287138"
-			"timeupdated" "1732263057"
-		}
-		"platform_holders"
-		{
-			"buildid" "11350182"
-			"pwdrequired" "1"
-			"timeupdated" "1686821260"
-		}
-		"certification"
-		{
-			"buildid" "16287138"
-			"pwdrequired" "1"
-			"timeupdated" "1731057346"
-		}
-		"demo_test"
-		{
-			"buildid" "14673019"
-			"pwdrequired" "1"
-			"timeupdated" "1718082021"
-		}
-		"external_creators"
-		{
-			"buildid" "14962725"
-			"pwdrequired" "1"
-			"timeupdated" "1720431668"
-		}
-		"external_partners"
-		{
-			"buildid" "14219683"
-			"pwdrequired" "1"
-			"timeupdated" "1715148550"
-		}
-		"gcs-experiment"
-		{
-			"buildid" "15001825"
-			"pwdrequired" "1"
-			"timeupdated" "1720705650"
-		}
-		"gcs-private"
-		{
-			"buildid" "14673019"
-			"pwdrequired" "1"
-			"timeupdated" "1718094533"
-		}
-		"gcs-test"
-		{
-			"buildid" "16287138"
-			"pwdrequired" "1"
-			"timeupdated" "1730723198"
-		}
-		"gcs-tlm"
-		{
-			"buildid" "14219683"
-			"pwdrequired" "1"
-			"timeupdated" "1714709560"
-		}
-		"media"
-		{
-			"buildid" "15299343"
-			"pwdrequired" "1"
-			"timeupdated" "1723532916"
-		}
-		"ms_reviews"
-		{
-			"buildid" "13157593"
-			"pwdrequired" "1"
-			"timeupdated" "1715856011"
-		}
-		"showcase"
-		{
-			"buildid" "15352001"
-			"pwdrequired" "1"
-			"timeupdated" "1723536403"
-		}
-		"test"
-		{
-			"buildid" "16287138"
-			"pwdrequired" "1"
-			"timeupdated" "1730724050"
+			"buildid" "17495340"
+			"timeupdated" "1740744255"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -473,6 +316,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26312952"
-"_sha" "dec0ca7d4e492084615cfb6c28e6db175fe0974e"
-"_size" "9287"
+"_change_number" "27716622"
+"_sha" "19f90f6ba5c4b00819003786999d3971e867611f"
+"_size" "5650"
