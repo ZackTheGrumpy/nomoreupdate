@@ -40,27 +40,22 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1713571200"
-		"tested_build_id" "14096590"
+		"category" "3"
+		"test_timestamp" "1738800000"
+		"tested_build_id" "17130423"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
-			}
-			"2"
-			{
-				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
-			"3"
+			"2"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -72,7 +67,7 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
+			"non_deck_display_glyphs" "0"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
@@ -420,8 +415,8 @@
 		{
 			"public"
 			{
-				"gid" "7671067784150906301"
-				"size" "340330558"
+				"gid" "8934690533475673066"
+				"size" "340330649"
 				"download" "203789712"
 			}
 			"legacy"
@@ -443,9 +438,9 @@
 		{
 			"public"
 			{
-				"gid" "2688015704109852845"
-				"size" "2662288"
-				"download" "760144"
+				"gid" "1520459277225542207"
+				"size" "2667408"
+				"download" "762032"
 			}
 			"legacy"
 			{
@@ -466,9 +461,9 @@
 		{
 			"public"
 			{
-				"gid" "693074934419299408"
-				"size" "359260078"
-				"download" "200991440"
+				"gid" "4939275580704006786"
+				"size" "359276782"
+				"download" "200995024"
 			}
 			"legacy"
 			{
@@ -505,8 +500,8 @@
 	{
 		"public"
 		{
-			"buildid" "17130423"
-			"timeupdated" "1737812686"
+			"buildid" "17548854"
+			"timeupdated" "1740755855"
 		}
 		"legacy"
 		{
@@ -522,6 +517,6 @@
 	"maxnumfiles" "6"
 }
 "_missing_token" "False"
-"_change_number" "27163831"
-"_sha" "854169bbfd31a0607e8cc1a4b2b6f42cf1447eb4"
-"_size" "9370"
+"_change_number" "27719897"
+"_sha" "ab9913e554459165ff246a99e572ae1559ab31fb"
+"_size" "9248"
