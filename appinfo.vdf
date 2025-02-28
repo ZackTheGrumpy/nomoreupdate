@@ -27,25 +27,25 @@
 	"linuxclienticon" "45cdacefd82207d7e45e2bf9fcca766e17f4fe1a"
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1738886400"
-		"tested_build_id" "17267554"
+		"category" "3"
+		"test_timestamp" "1740441600"
+		"tested_build_id" "17452375"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -59,11 +59,11 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-4RC"
+			"recommended_runtime" "native"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -203,8 +203,8 @@
 		"4" "16689"
 		"5" "4474"
 		"6" "3854"
-		"7" "17389"
-		"8" "599"
+		"7" "599"
+		"8" "17389"
 		"9" "9"
 		"10" "8945"
 		"11" "3871"
@@ -289,15 +289,15 @@
 		{
 			"public"
 			{
-				"gid" "1741043928447592440"
-				"size" "2584835824"
-				"download" "963411056"
+				"gid" "7070339074879663920"
+				"size" "2584841457"
+				"download" "963451888"
 			}
 			"beta"
 			{
-				"gid" "1741043928447592440"
-				"size" "2584835824"
-				"download" "963411056"
+				"gid" "7070339074879663920"
+				"size" "2584841457"
+				"download" "963451888"
 			}
 		}
 	}
@@ -311,15 +311,15 @@
 		{
 			"public"
 			{
-				"gid" "387273987071940510"
-				"size" "2619438630"
-				"download" "973336064"
+				"gid" "649923403360115907"
+				"size" "2619440235"
+				"download" "973334336"
 			}
 			"beta"
 			{
-				"gid" "387273987071940510"
-				"size" "2619438630"
-				"download" "973336064"
+				"gid" "649923403360115907"
+				"size" "2619440235"
+				"download" "973334336"
 			}
 		}
 	}
@@ -333,30 +333,31 @@
 		{
 			"public"
 			{
-				"gid" "4267110863648262247"
-				"size" "2595173164"
-				"download" "958231616"
+				"gid" "1198168537142973901"
+				"size" "2595174769"
+				"download" "958232576"
 			}
 			"beta"
 			{
-				"gid" "4267110863648262247"
-				"size" "2595173164"
-				"download" "958231616"
+				"gid" "1198168537142973901"
+				"size" "2595174769"
+				"download" "958232576"
 			}
 		}
 	}
+	"workshopdepot" "1028310"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17452375"
-			"timeupdated" "1740477095"
+			"buildid" "17516184"
+			"timeupdated" "1740736830"
 		}
 		"beta"
 		{
-			"buildid" "17452375"
+			"buildid" "17516184"
 			"description" "should be stable, might sometimes not be"
-			"timeupdated" "1740130103"
+			"timeupdated" "1740580302"
 		}
 	}
 	"privatebranches" "1"
@@ -420,6 +421,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27652980"
-"_sha" "e3fc7c73032abe3839e614f75967617813742bae"
-"_size" "7666"
+"_change_number" "27714524"
+"_sha" "1c72ae6e6fef6f7ab1e03aec5085c61bf2ba9971"
+"_size" "7679"
