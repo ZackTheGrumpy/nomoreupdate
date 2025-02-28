@@ -22,31 +22,36 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1643846400"
-		"tested_build_id" "7905073"
+		"test_timestamp" "1734652800"
+		"tested_build_id" "16680248"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
 			}
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"2"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
 			}
 			"3"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -56,13 +61,16 @@
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
-			"requires_non_controller_launcher_nav" "0"
+			"requires_non_controller_launcher_nav" "1"
 			"primary_player_is_controller_slot_0" "1"
-			"non_deck_display_glyphs" "1"
-			"small_text" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -238,18 +246,18 @@
 		"4" "3859"
 		"5" "1685"
 		"6" "4182"
-		"7" "3839"
-		"8" "1667"
+		"7" "1667"
+		"8" "3839"
 		"9" "19"
 		"10" "4667"
 		"11" "5765"
 		"12" "3993"
 		"13" "6378"
-		"14" "5673"
-		"15" "4345"
+		"14" "4345"
+		"15" "5673"
 		"16" "4166"
-		"17" "13190"
-		"18" "1721"
+		"17" "1721"
+		"18" "13190"
 		"19" "4508"
 	}
 	"review_score" "8"
@@ -383,96 +391,9 @@
 		{
 			"public"
 			{
-				"gid" "6805783366208354563"
-				"size" "66264176122"
-				"download" "53929188416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging2.25"
-			{
-				"gid" "2AFA028DBF106BEF23A82486553407A3"
-				"size" "E2F4E9B8B6F713F50650468730A76D08"
-				"download" "23BA68FCB1BD77F655651977C3206DAE"
-			}
-			"staging2.3"
-			{
-				"gid" "DE3B82730C1705B8545C2F6C1058E6BA"
-				"size" "C2CF0ACAA18140654C1E29B410A3DB63"
-				"download" "249B10E53AD9EFD23F1735BE1EDA3BD3"
-			}
-			"dev01"
-			{
-				"gid" "82A3927BDB4EEAEE84184C32D4B734F0"
-				"size" "DAC2B729E58B27978724B720F4AAC6D1"
-				"download" "18E44149008577B662C3D1291EFC5B5F"
-			}
-			"dev02"
-			{
-				"gid" "B0C5182326CC8C9422616604652CCBD3"
-				"size" "F58B0A0203C58EDFA1CBCC98BD2BCCB5"
-				"download" "F5EA710D90BC1A1918A5EDEE840940A4"
-			}
-			"nightly2"
-			{
-				"gid" "A8F07F061D3FE54FFCE7D1BE66412CC3"
-				"size" "9C2982BD276823A6312A613B1B8DAE22"
-				"download" "16FE10C88A6FE67E89092C32D4340123"
-			}
-			"nightly3"
-			{
-				"gid" "7EA5F1A1EC2387E81C7B148F2A8710FE"
-				"size" "1AF148301B24DD33CE59C0E9D2CB85EB"
-				"download" "99C6D3ADFA9A3523ACCEA484BF269331"
-			}
-			"nightly4"
-			{
-				"gid" "109E9D72980779BC05C569B57B0F90B0"
-				"size" "B1D5E60459BC6DC9D2319D92F672D3C8"
-				"download" "8437CD0054DE038A31D59C73C5BF3EFF"
-			}
-			"nightly5"
-			{
-				"gid" "D89590CACBEDDADEDAEAAFAA5DAF2F43"
-				"size" "7BF1C7D6836B1E6AF13908EC0ED382A6"
-				"download" "FE7F63BFEF362380069C0E37616A150B"
-			}
-			"rc_dlc2"
-			{
-				"gid" "FF115C067AC1643E2150DDA4DE30E0BD"
-				"size" "F282F58BF79D59954EACAB6DD5AF3610"
-				"download" "4922860808248E447026095537D02424"
-			}
-			"rc_dlc2_dev"
-			{
-				"gid" "C5EDC1801A6EF1633F7303DA0C2ADC68"
-				"size" "0F6F5B856A0C2630AC38D0142986849B"
-				"download" "31D8F650B98917DF91D76119B5383580"
-			}
-			"rc_dlc2_p1"
-			{
-				"gid" "68CEFAC47B66CEC7E1DCC0EF87A0F7C7"
-				"size" "673A8ADC454B1D0DC9C162279F2F0A16"
-				"download" "37A4B303CE0B816449A983EAF4D01854"
-			}
-			"staging2"
-			{
-				"gid" "06E4AC4B39FDD36A213E9457EC122DDA"
-				"size" "A9854E084C7FDE8FF1C2E375089787F5"
-				"download" "0BAE6D1AAB5D16954A6F328CDA24B7B7"
-			}
-			"staging2.2"
-			{
-				"gid" "CC0FF34AC7D8C56F76CC762D5A3ECC0B"
-				"size" "DCB45AB00DCD37EAF85F5BE3F996229B"
-				"download" "1B10DD4498A16E8673A100C4C9C79718"
-			}
-			"staging2.4"
-			{
-				"gid" "831DEFB75ED568E80DCE67C00E22E6C3"
-				"size" "36BF49123D9A3D3578FC064899EE6BE7"
-				"download" "8C7C8FFC96C97C965D8CE8084A955674"
+				"gid" "4089604627701712027"
+				"size" "66263103478"
+				"download" "53925512640"
 			}
 		}
 	}
@@ -480,94 +401,11 @@
 	{
 		"public"
 		{
-			"buildid" "16793412"
-			"timeupdated" "1734638682"
-		}
-		"staging2.25"
-		{
-			"buildid" "13160916"
-			"pwdrequired" "1"
-			"timeupdated" "1705094624"
-		}
-		"staging2.3"
-		{
-			"buildid" "13380663"
-			"pwdrequired" "1"
-			"timeupdated" "1707221750"
-		}
-		"dev01"
-		{
-			"buildid" "16591450"
-			"pwdrequired" "1"
-			"timeupdated" "1733033560"
-		}
-		"dev02"
-		{
-			"buildid" "16545814"
-			"pwdrequired" "1"
-			"timeupdated" "1732669291"
-		}
-		"nightly2"
-		{
-			"buildid" "16521360"
-			"pwdrequired" "1"
-			"timeupdated" "1732530164"
-		}
-		"nightly3"
-		{
-			"buildid" "16590436"
-			"pwdrequired" "1"
-			"timeupdated" "1733013762"
-		}
-		"nightly4"
-		{
-			"buildid" "15300094"
-			"pwdrequired" "1"
-			"timeupdated" "1723097814"
-		}
-		"nightly5"
-		{
-			"buildid" "14355776"
-			"pwdrequired" "1"
-			"timeupdated" "1715646169"
-		}
-		"rc_dlc2"
-		{
-			"buildid" "16793412"
-			"pwdrequired" "1"
-			"timeupdated" "1734563971"
-		}
-		"rc_dlc2_dev"
-		{
-			"buildid" "16793782"
-			"pwdrequired" "1"
-			"timeupdated" "1734566495"
-		}
-		"rc_dlc2_p1"
-		{
-			"buildid" "16718483"
-			"pwdrequired" "1"
-			"timeupdated" "1733993276"
-		}
-		"staging2"
-		{
-			"buildid" "16591482"
-			"pwdrequired" "1"
-			"timeupdated" "1733034047"
-		}
-		"staging2.2"
-		{
-			"buildid" "15460442"
-			"pwdrequired" "1"
-			"timeupdated" "1724333278"
-		}
-		"staging2.4"
-		{
-			"buildid" "15274076"
-			"pwdrequired" "1"
-			"timeupdated" "1722932794"
+			"buildid" "17525066"
+			"timeupdated" "1740773170"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -598,6 +436,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26720544"
-"_sha" "033bdc7ded0fdd8176fd1a5da773bfefcaf8b5bb"
-"_size" "11438"
+"_change_number" "27724860"
+"_sha" "fbc111f163dc60306d943e8c41b19a1d9d283eb5"
+"_size" "7718"
