@@ -8,6 +8,7 @@
 	{
 		"english" "Flowers Blooming at the End of Summer"
 		"koreana" "여름의 끝에 피는 꽃"
+		"schinese" "夏末盛开的花"
 	}
 	"oslist" "windows,macos,linux"
 	"osarch" ""
@@ -25,17 +26,21 @@
 	"metacritic_name" "Flowers Blooming at the End of Summer"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "84f7e267af99f428a22703f5eb32d9f96b1d677f/capsule_231x87.jpg"
+		"schinese" "dff1b9bdf3379f6891907c3e83bddb915ff49723/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "65de84d5d49b2d09301dff9575f5f0779169f5f9/header.jpg"
+		"schinese" "579f56181afbc9024bcd1fd5848d622d1e1dc090/header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
-		"library_logo" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -49,18 +54,31 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "c6296f57405161a98cedf2d10d90793c84a90828/library_600x900.jpg"
+				"schinese" "d1fae591fc1a9cdd1702c2b1208f3065d90ba581/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "c6296f57405161a98cedf2d10d90793c84a90828/library_600x900_2x.jpg"
+				"schinese" "d1fae591fc1a9cdd1702c2b1208f3065d90ba581/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "9cbd5868e21fe64da5440f6ca0797a2434097cb6/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "9cbd5868e21fe64da5440f6ca0797a2434097cb6/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "9cbd5868e21fe64da5440f6ca0797a2434097cb6/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -68,10 +86,12 @@
 			"image"
 			{
 				"english" "logo.png"
+				"schinese" "a4892df3ac8b6059a1be556d4ee33f79a9437a0a/logo_schinese.png"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"schinese" "a4892df3ac8b6059a1be556d4ee33f79a9437a0a/logo_schinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -80,8 +100,21 @@
 				"height_pct" "90.15269202353625"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "12280731f37b67837844aa850b27c4dfb91f5c57/library_header.jpg"
+				"schinese" "f95296a4e01232c02b90ac5bf76fe4cb9c792cf9/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "12280731f37b67837844aa850b27c4dfb91f5c57/library_header_2x.jpg"
+				"schinese" "f95296a4e01232c02b90ac5bf76fe4cb9c792cf9/library_header_schinese_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1676754990"
+	"store_asset_mtime" "1740836298"
 	"associations"
 	{
 		"0"
@@ -111,6 +144,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -121,6 +155,11 @@
 			"subtitles" "true"
 			"full_audio" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1614326422"
 	"community_visible_stats" "1"
@@ -128,19 +167,19 @@
 	"gameid" "1173010"
 	"store_tags"
 	{
-		"0" "492"
-		"1" "3799"
+		"0" "3799"
+		"1" "492"
 		"2" "597"
 		"3" "4947"
-		"4" "4166"
-		"5" "4182"
-		"6" "5608"
-		"7" "4085"
+		"4" "5608"
+		"5" "4166"
+		"6" "4085"
+		"7" "4182"
 		"8" "5984"
 		"9" "3871"
 		"10" "7113"
-		"11" "9551"
-		"12" "4726"
+		"11" "4726"
+		"12" "9551"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -296,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "5734910596521778076"
-				"size" "2102934655"
-				"download" "1927527552"
+				"gid" "4762721498549585886"
+				"size" "2238460218"
+				"download" "2012015248"
 			}
 		}
 	}
@@ -306,8 +345,8 @@
 	{
 		"public"
 		{
-			"buildid" "15844728"
-			"timeupdated" "1727402406"
+			"buildid" "17558863"
+			"timeupdated" "1740833683"
 		}
 	}
 }
@@ -379,3 +418,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27733235"
+"_sha" "466aaae074be7ac6d9564b53dc9c9c8b2da822a0"
+"_size" "8806"
