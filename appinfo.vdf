@@ -9,6 +9,7 @@
 	"metacritic_url" "pc/ragdollkungfu"
 	"name" "Rag Doll Kung Fu"
 	"type" "game"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -46,6 +47,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "0000000205.jpg"
 	"associations"
 	{
 		"0"
@@ -96,7 +98,7 @@
 		"9" "3871"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -169,3 +171,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27547194"
+"_sha" "21d13b8ea2655d5ba232e89cf39142816ca31596"
+"_size" "3323"
