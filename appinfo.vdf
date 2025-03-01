@@ -39,6 +39,48 @@
 			"height_pct" "95.13888888888889"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "84.83460330516596"
+				"height_pct" "95.13888888888889"
+			}
+		}
+	}
 	"store_asset_mtime" "1670446555"
 	"associations"
 	{
@@ -90,6 +132,7 @@
 		"category_42" "1"
 		"category_43" "1"
 		"category_27" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -154,7 +197,7 @@
 	}
 	"gameid" "1695795"
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -189,48 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "6367935247596888591"
-				"size" "187816004"
-				"download" "103125120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"burgersandfries_011923"
-			{
-				"gid" "6A9C253D4C91B030C772350D4EDD7EC3"
-				"size" "81906ECEB298B76CB06D1A5EA4B391C8"
-				"download" "30DEB8D4F9BE5A0B6A5E01C7AD51046A"
-			}
-			"dailybuild"
-			{
-				"gid" "A59A097E190DA5591FDE6D1BC111CCFB"
-				"size" "35E1F7CCB791F56121078834559CC260"
-				"download" "D92FAB2B0786BB37AA7CC33E4A8DCA76"
-			}
-			"dailybuild-main"
-			{
-				"gid" "A728F46239FC7A79AFA888143DEC4BF2"
-				"size" "87AF0F56B8A20DAE031D5822E6566420"
-				"download" "E21FA9972A34A2B792FC6E49B5E77AB5"
-			}
-			"dailybuild-qfe1"
-			{
-				"gid" "53F4B9B6C38D4693572F1288043FC702"
-				"size" "AF4AB924B55C42681A8031E966C022A4"
-				"download" "82D464668EBD96E4C3AC4E1050BB26C1"
-			}
-			"dailybuild-release"
-			{
-				"gid" "FB5919CEF1DA661EE1A682A25A05CFBA"
-				"size" "F780E52E0A350D6BEFF672318EE1668A"
-				"download" "8772EBF8CEE1B08253629CFF18A2C56A"
-			}
-			"thepub"
-			{
-				"gid" "F58D0DED3ED3C3948323CF38D3A99FE2"
-				"size" "E4359A103FCC48F0D4C33F9B7031D9C2"
-				"download" "D7521BAA1BDD4E16E72F2C412D79B6F4"
+				"gid" "7886600136037106104"
+				"size" "187820430"
+				"download" "103130624"
 			}
 		}
 	}
@@ -239,46 +243,11 @@
 	{
 		"public"
 		{
-			"buildid" "13469874"
-			"timeupdated" "1708038080"
-		}
-		"burgersandfries_011923"
-		{
-			"buildid" "12647853"
-			"pwdrequired" "1"
-			"timeupdated" "1699480807"
-		}
-		"dailybuild"
-		{
-			"buildid" "10141872"
-			"pwdrequired" "1"
-			"timeupdated" "1670979087"
-		}
-		"dailybuild-main"
-		{
-			"buildid" "13501373"
-			"pwdrequired" "1"
-			"timeupdated" "1708378991"
-		}
-		"dailybuild-qfe1"
-		{
-			"buildid" "12219201"
-			"pwdrequired" "1"
-			"timeupdated" "1695070152"
-		}
-		"dailybuild-release"
-		{
-			"buildid" "13469874"
-			"pwdrequired" "1"
-			"timeupdated" "1708035922"
-		}
-		"thepub"
-		{
-			"buildid" "10141872"
-			"pwdrequired" "1"
-			"timeupdated" "1671061130"
+			"buildid" "17554222"
+			"timeupdated" "1740792119"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -289,6 +258,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "22414279"
-"_sha" "8cfef2ad45ce4b32e659d1e48bd0a8dcc927debc"
-"_size" "5278"
+"_change_number" "27728391"
+"_sha" "80da69c33d324d3c57bc9f91187126ec73cd748c"
+"_size" "4167"
