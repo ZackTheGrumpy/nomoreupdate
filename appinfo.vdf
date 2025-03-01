@@ -147,8 +147,8 @@
 		"1" "21"
 		"2" "492"
 	}
-	"review_score" "5"
-	"review_percentage" "67"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -164,11 +164,34 @@
 		"0"
 		{
 			"executable" "PaintedLegend.exe"
-			"type" "none"
+			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "newest version of Painted Legend"
+				"russian" "новейшую версию Painted Legend"
+			}
+			"description" "newest version of Painted Legend"
+		}
+		"1"
+		{
+			"executable" "PaintedLegendLegacy.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "legacy version of Painted Legend"
+				"russian" "старую версию Painted Legend"
+			}
+			"description" "legacy version of Painted Legend"
 		}
 	}
 }
@@ -185,9 +208,9 @@
 		{
 			"public"
 			{
-				"gid" "6778087946748202212"
-				"size" "229609106"
-				"download" "121464464"
+				"gid" "5395476574805957506"
+				"size" "434186622"
+				"download" "168884032"
 			}
 		}
 	}
@@ -210,12 +233,12 @@
 	{
 		"public"
 		{
-			"buildid" "16184226"
-			"timeupdated" "1729880821"
+			"buildid" "17557279"
+			"timeupdated" "1740814072"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25901665"
-"_sha" "de20465895ca955dba0e2019d5b37bc00b999c79"
-"_size" "3375"
+"_change_number" "27730983"
+"_sha" "430936a6ab76335978c02e29e4b609833e70a5a4"
+"_size" "3951"
