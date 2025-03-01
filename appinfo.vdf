@@ -301,22 +301,7 @@
 		}
 	}
 	"steamdecktouchscreen" "1"
-	"steamcontrollertemplateindex" "1"
-	"steamcontrollerconfigdetails"
-	{
-		"3369466527"
-		{
-			"controller_type" "controller_xboxone"
-			"enabled_branches" "default,blocked-interaction-fix-testing,internal-testing,release-candidate"
-			"use_action_block" "false"
-		}
-		"3369467773"
-		{
-			"controller_type" "controller_neptune"
-			"enabled_branches" "default,blocked-interaction-fix-testing,internal-testing,release-candidate"
-			"use_action_block" "false"
-		}
-	}
+	"steamcontrollertemplateindex" "2"
 }
 "depots"
 {
@@ -344,9 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "2487369176819053363"
-				"size" "2239552715"
-				"download" "634924720"
+				"gid" "7830550841100509196"
+				"size" "2295511370"
+				"download" "645637792"
 			}
 		}
 	}
@@ -354,8 +339,8 @@
 	{
 		"public"
 		{
-			"buildid" "17377106"
-			"timeupdated" "1739617171"
+			"buildid" "17558020"
+			"timeupdated" "1740821735"
 		}
 	}
 	"privatebranches" "1"
@@ -379,6 +364,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27493348"
-"_sha" "56dcca2af314ae6b7db4383a48046f8c736a1940"
-"_size" "6770"
+"_change_number" "27731666"
+"_sha" "0d4ac3a79ad63f5438921a30d21d412cf371a55f"
+"_size" "6323"
