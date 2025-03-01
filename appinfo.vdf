@@ -184,6 +184,11 @@
 			}
 			"description" "Internet Tycoon"
 		}
+		"1"
+		{
+			"executable" "game.exe"
+			"type" "none"
+		}
 	}
 }
 "depots"
@@ -194,9 +199,9 @@
 		{
 			"public"
 			{
-				"gid" "3897727131408661251"
-				"size" "1686092843"
-				"download" "507160896"
+				"gid" "5059602501427759958"
+				"size" "1686208570"
+				"download" "507656560"
 			}
 		}
 	}
@@ -204,12 +209,12 @@
 	{
 		"public"
 		{
-			"buildid" "17548585"
-			"timeupdated" "1740757614"
+			"buildid" "17557158"
+			"timeupdated" "1740812146"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27720447"
-"_sha" "18d409f0e6f54aec8b2393f8f7718bb852b7459d"
-"_size" "3458"
+"_change_number" "27730649"
+"_sha" "da6b79f8503fcd78264b97f90016dd1b6d4a5fbb"
+"_size" "3523"
