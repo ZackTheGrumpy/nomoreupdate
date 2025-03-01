@@ -301,9 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "8388374560660106051"
-				"size" "1005897731"
-				"download" "890401760"
+				"gid" "6112689305955524050"
+				"size" "1005899088"
+				"download" "890404848"
 			}
 			"strike"
 			{
@@ -313,9 +313,9 @@
 			}
 			"beta"
 			{
-				"gid" "8388374560660106051"
-				"size" "1005897731"
-				"download" "890401760"
+				"gid" "6112689305955524050"
+				"size" "1005899088"
+				"download" "890404848"
 			}
 		}
 	}
@@ -374,8 +374,8 @@
 	{
 		"public"
 		{
-			"buildid" "17542351"
-			"timeupdated" "1740752660"
+			"buildid" "17556943"
+			"timeupdated" "1740811579"
 		}
 		"strike"
 		{
@@ -385,14 +385,14 @@
 		}
 		"beta"
 		{
-			"buildid" "17542351"
+			"buildid" "17556943"
 			"description" "public canary"
-			"timeupdated" "1740723870"
+			"timeupdated" "1740811460"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27718945"
-"_sha" "c0f7a6d18bbc48d6a23d1dea3dd034e2ce49656c"
+"_change_number" "27730594"
+"_sha" "8ec93750265d218b4d783866f81410685dbc34f9"
 "_size" "6531"
