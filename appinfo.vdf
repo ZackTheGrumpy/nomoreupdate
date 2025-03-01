@@ -4,8 +4,8 @@
 	"name" "The Last Experiment: A Memetric Story"
 	"type" "Game"
 	"icon" "18379a3a1fae0f36d47c5047f3b247a941a07aa0"
-	"clienticon" "0b86bb634c4130aa34cde8c4b9b3ead8a959624c"
-	"clienttga" "5079295da5af67947472599812dbd0ec44b14004"
+	"clienticon" "bd113ccb6d8727475f55eeea84651c73d0d19459"
+	"clienttga" "e51b07d5b25ee3af7443c64a99b583766e68dd29"
 	"releasestate" "released"
 	"oslist" "windows"
 	"osarch" ""
@@ -13,7 +13,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "18b2e3d9b69a74d14347b4a90cdd3b64420fa4ae/capsule_231x87.jpg"
+		"english" "1c39b05174ccea6c0149f5668331429910cce36b/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -93,7 +93,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739701152"
+	"store_asset_mtime" "1740663259"
 	"associations"
 	{
 		"0"
@@ -196,9 +196,9 @@
 		{
 			"public"
 			{
-				"gid" "6910261706777344147"
-				"size" "307000902"
-				"download" "157622224"
+				"gid" "8392650899387677665"
+				"size" "1430935550"
+				"download" "314627056"
 			}
 		}
 	}
@@ -206,8 +206,8 @@
 	{
 		"public"
 		{
-			"buildid" "17383096"
-			"timeupdated" "1739698895"
+			"buildid" "17559215"
+			"timeupdated" "1740837935"
 		}
 	}
 }
@@ -218,6 +218,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27501878"
-"_sha" "5505ebf3de38136a77b0822b5b0d3f9aef11cd05"
-"_size" "3810"
+"_change_number" "27733396"
+"_sha" "0644f7bc0e3c9e8a4418734ca7b60e3c48be2128"
+"_size" "3811"
