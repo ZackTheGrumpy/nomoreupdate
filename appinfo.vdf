@@ -32,8 +32,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -77,6 +75,7 @@
 		}
 	}
 	"metacritic_name" "Sekiro: Shadows Die Twice"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -98,13 +97,47 @@
 			"height_pct" "43"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41"
+				"height_pct" "43"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1678991240"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "FromSoftware"
+			"name" "FromSoftware, Inc."
 		}
 		"1"
 		{
@@ -114,7 +147,7 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" "FromSoftware (Japan)"
+			"name" "FromSoftware, Inc. (Japan)"
 		}
 		"3"
 		{
@@ -137,6 +170,7 @@
 		"category_29" "1"
 		"category_42" "1"
 		"category_43" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -236,8 +270,8 @@
 		"13" "4604"
 		"14" "1646"
 		"15" "122"
-		"16" "1756"
-		"17" "4345"
+		"16" "4345"
+		"17" "1756"
 		"18" "1752"
 		"19" "4342"
 	}
@@ -246,7 +280,7 @@
 }
 "extended"
 {
-	"developer" "FromSoftware"
+	"developer" "FromSoftware, Inc."
 	"publisher" "Activision (Excluding Japan and Asia)"
 	"homepage" "http://www.sekirothegame.com/"
 	"listofdlc" "1039230"
@@ -345,15 +379,6 @@
 				"download" "48655104"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "033441B9ED27680E3D73BAF06D1FE6EE"
-				"size" "B70020F4A1714AD6A3A4ECDFBF196FA3"
-				"download" "2D0713010E2DFD4CB6B6EDEEA3212336"
-			}
-		}
 	}
 	"814382"
 	{
@@ -364,15 +389,6 @@
 				"gid" "8495754623934990551"
 				"size" "14892765638"
 				"download" "12623533008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "6B184CE5068AD2E820B84B869BFC5D77"
-				"size" "831BB2B74C74E18A7A1003C0842EC5EE"
-				"download" "6EF909D4662A74A2466BCACA69435399"
 			}
 		}
 	}
@@ -387,15 +403,6 @@
 				"download" "576"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "3634E96E4CB1F5D56A323A01DE9075E2"
-				"size" "F7A9B4CFB66733C0A9632EC4BE8F4F84"
-				"download" "B3FC0800A9AAAAFE5C69DB4484A642FF"
-			}
-		}
 	}
 	"814384"
 	{
@@ -406,15 +413,6 @@
 				"gid" "147690030473406272"
 				"size" "512"
 				"download" "576"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "7657F968ED4B54210CA6B1C8C67FD8A0"
-				"size" "F7A9B4CFB66733C0A9632EC4BE8F4F84"
-				"download" "B3FC0800A9AAAAFE5C69DB4484A642FF"
 			}
 		}
 	}
@@ -429,15 +427,6 @@
 				"download" "576"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "F277D74B9D5F37C033DEAE3F24BA7775"
-				"size" "F7A9B4CFB66733C0A9632EC4BE8F4F84"
-				"download" "B3FC0800A9AAAAFE5C69DB4484A642FF"
-			}
-		}
 	}
 	"1039230"
 	{
@@ -450,15 +439,6 @@
 				"download" "327749616"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "6CDFFB4FEA2A046A9A4FC9049B68539F"
-				"size" "EB545D382EF4F850FC27AD914B7EEE84"
-				"download" "1321A6489A09FC215F9AEDB8C1DE5808"
-			}
-		}
 		"dlcappid" "1039230"
 	}
 	"branches"
@@ -468,13 +448,8 @@
 			"buildid" "5794815"
 			"timeupdated" "1605834031"
 		}
-		"beta"
-		{
-			"buildid" "5794815"
-			"pwdrequired" "1"
-			"timeupdated" "1604685143"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -505,6 +480,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21665583"
-"_sha" "1d8430fea1e8ed93fb5b21a3953388599b29a35f"
-"_size" "9284"
+"_change_number" "26998573"
+"_sha" "f4a821ccb7ecb90cf14f15d90f474e9f6ccc309d"
+"_size" "8465"
