@@ -283,7 +283,7 @@
 		"19" "4057"
 	}
 	"review_score" "5"
-	"review_percentage" "49"
+	"review_percentage" "48"
 }
 "extended"
 {
@@ -299,7 +299,8 @@
 	{
 		"0"
 		{
-			"executable" "TheQuinfall_eac.bat"
+			"executable" "TheQuinfall_Loader.exe"
+			"arguments" "TheQuinfall_Loader.exe TheQuinfall.exe -m ~~ -k ~~~~"
 			"type" "editor"
 			"config"
 			{
@@ -314,7 +315,8 @@
 		}
 		"1"
 		{
-			"executable" "TheQuinfall_eac.bat"
+			"executable" "TheQuinfall_Loader.exe"
+			"arguments" "TheQuinfall_Loader.exe TheQuinfall.exe -m ~~ -k ~~~~"
 			"type" "editor"
 			"config"
 			{
@@ -324,9 +326,9 @@
 			}
 			"description_loc"
 			{
-				"english" "DirectX 11 with AntiCheat"
+				"english" "DirectX 11 with XignCode3"
 			}
-			"description" "DirectX 11 with AntiCheat"
+			"description" "DirectX 11 with XignCode3"
 		}
 	}
 }
@@ -343,9 +345,9 @@
 		{
 			"public"
 			{
-				"gid" "3520982320061717660"
-				"size" "63375857777"
-				"download" "34886548544"
+				"gid" "4542699071078192508"
+				"size" "63539072681"
+				"download" "35002775056"
 			}
 		}
 	}
@@ -354,13 +356,13 @@
 	{
 		"public"
 		{
-			"buildid" "17389176"
-			"timeupdated" "1739788837"
+			"buildid" "17553981"
+			"timeupdated" "1740783118"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27515090"
-"_sha" "242d74e6eb2d39836f7f5ccb05a6a8267b22f422"
-"_size" "6639"
+"_change_number" "27726887"
+"_sha" "89f90f1704ad288b54ea9155725b647d81e36320"
+"_size" "6789"
