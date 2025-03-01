@@ -51,7 +51,7 @@
 	"metacritic_name" "RPG in a Box"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "bd77a2e146236ec423d1e396b0ec33c7ed29113e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -111,7 +111,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736838419"
+	"store_asset_mtime" "1740711241"
 	"associations"
 	{
 		"0"
@@ -136,6 +136,7 @@
 	{
 		"category_17" "1"
 		"category_22" "1"
+		"category_30" "1"
 	}
 	"supported_languages"
 	{
@@ -175,9 +176,14 @@
 		{
 			"supported" "true"
 		}
+		"czech"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1652241245"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "498310"
 	"exfgls" "6"
@@ -193,7 +199,7 @@
 		"7" "3810"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -248,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "2777790028566896520"
-				"size" "210597930"
-				"download" "145167952"
+				"gid" "3427544541481367246"
+				"size" "223594228"
+				"download" "157315952"
 			}
 		}
 	}
@@ -264,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "4593462134717070855"
-				"size" "476461389"
-				"download" "260809616"
+				"gid" "4738721852679634531"
+				"size" "477691883"
+				"download" "261114672"
 			}
 		}
 	}
@@ -281,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "2812851688708226662"
-				"size" "63773472"
-				"download" "19427840"
+				"gid" "2500014138019489113"
+				"size" "66092904"
+				"download" "19951520"
 			}
 		}
 	}
@@ -298,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "4319130088728375751"
-				"size" "97133706"
-				"download" "25078864"
+				"gid" "2864747909423339712"
+				"size" "102522429"
+				"download" "26331104"
 			}
 		}
 	}
@@ -315,9 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "4649499117948927458"
-				"size" "778491415"
-				"download" "429089488"
+				"gid" "2653503520704789717"
+				"size" "796060125"
+				"download" "442137376"
 			}
 		}
 	}
@@ -332,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "8812203041516288443"
-				"size" "52794656"
-				"download" "16799872"
+				"gid" "3625935886511432344"
+				"size" "54453096"
+				"download" "17233264"
 			}
 		}
 	}
@@ -349,9 +355,9 @@
 		{
 			"public"
 			{
-				"gid" "153709754107887662"
-				"size" "94429092"
-				"download" "24614336"
+				"gid" "2956501494945818371"
+				"size" "99657391"
+				"download" "25898768"
 			}
 		}
 	}
@@ -360,10 +366,11 @@
 	{
 		"public"
 		{
-			"buildid" "16669253"
-			"timeupdated" "1733611109"
+			"buildid" "17556031"
+			"timeupdated" "1740800675"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -373,6 +380,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26985222"
-"_sha" "bf11d336509e75755cfd3fe4bc975f1db4b4fee2"
-"_size" "5778"
+"_change_number" "27729480"
+"_sha" "cee76246d551424d1ae2f7105d634642ec3c6318"
+"_size" "5939"
