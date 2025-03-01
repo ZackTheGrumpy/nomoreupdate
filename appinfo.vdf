@@ -98,6 +98,11 @@
 			"type" "publisher"
 			"name" "忘雪社"
 		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WindField Games"
+		}
 	}
 	"primary_genre" "3"
 	"genres"
@@ -148,11 +153,11 @@
 		"9" "7208"
 		"10" "1742"
 		"11" "122"
-		"12" "7250"
-		"13" "4182"
+		"12" "4182"
+		"13" "7250"
 	}
 	"review_score" "8"
-	"review_percentage" "99"
+	"review_percentage" "98"
 }
 "extended"
 {
@@ -208,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "709701863084008680"
-				"size" "2347414771"
-				"download" "1974395792"
+				"gid" "521499758461632298"
+				"size" "2388253817"
+				"download" "2015252016"
 			}
 		}
 	}
@@ -218,8 +223,8 @@
 	{
 		"public"
 		{
-			"buildid" "17168124"
-			"timeupdated" "1738138496"
+			"buildid" "17555986"
+			"timeupdated" "1740800523"
 		}
 	}
 	"privatebranches" "1"
@@ -233,8 +238,8 @@
 	{
 		"0"
 		{
-			"root" "gameinstall"
-			"path" "QianSe"
+			"root" "WinAppDataRoaming"
+			"path" "Renpy/QianSe-1714735968"
 			"pattern" "*.save"
 			"platforms"
 			{
@@ -245,6 +250,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27214074"
-"_sha" "b567b743d4bb957bdf36a3f6bc9c4ca293056d00"
-"_size" "3974"
+"_change_number" "27729461"
+"_sha" "0ae008aa1bcd88c818e76dc1e123cf396b54d47f"
+"_size" "4068"
