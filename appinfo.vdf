@@ -100,6 +100,7 @@
 	"genres"
 	{
 		"0" "3"
+		"1" "37"
 	}
 	"category"
 	{
@@ -114,9 +115,10 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1707369777"
+	"steam_release_date" "1707369720"
 	"community_hub_visible" "1"
 	"gameid" "2811580"
+	"exfgls" "3"
 	"store_tags"
 	{
 		"0" "12095"
@@ -128,20 +130,22 @@
 		"6" "24003"
 		"7" "791774"
 		"8" "3871"
-		"9" "4195"
-		"10" "5984"
-		"11" "4598"
-		"12" "6948"
-		"13" "3993"
-		"14" "4182"
+		"9" "113"
+		"10" "4195"
+		"11" "5984"
+		"12" "4598"
+		"13" "6948"
+		"14" "3993"
+		"15" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "61"
+	"review_percentage" "65"
 }
 "extended"
 {
 	"developer" "玲白工作室"
 	"publisher" "玲白工作室"
+	"isfreeapp" "1"
 }
 "config"
 {
@@ -177,9 +181,9 @@
 		{
 			"public"
 			{
-				"gid" "7039403333100067289"
-				"size" "4037416021"
-				"download" "1768532784"
+				"gid" "7817128497139942344"
+				"size" "5558500427"
+				"download" "2305490368"
 			}
 		}
 	}
@@ -188,8 +192,12 @@
 	{
 		"public"
 		{
-			"buildid" "13831715"
-			"timeupdated" "1711192369"
+			"buildid" "17557540"
+			"timeupdated" "1740816920"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27731084"
+"_sha" "d9e0989f29281358701a31d543b21930dbf3b95b"
+"_size" "3094"
