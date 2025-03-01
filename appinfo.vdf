@@ -128,16 +128,16 @@
 		"10" "4667"
 		"11" "6730"
 		"12" "1708"
-		"13" "493"
-		"14" "5228"
+		"13" "5228"
+		"14" "493"
 		"15" "5363"
 		"16" "4191"
-		"17" "9204"
-		"18" "11104"
-		"19" "4168"
+		"17" "4168"
+		"18" "9204"
+		"19" "11104"
 	}
 	"review_score" "5"
-	"review_percentage" "62"
+	"review_percentage" "60"
 }
 "extended"
 {
@@ -232,9 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "2499984088654596327"
-				"size" "13564832911"
-				"download" "12653304432"
+				"gid" "9166398292284129251"
+				"size" "14501066479"
+				"download" "13276656512"
 			}
 			"0.0.1.4"
 			{
@@ -249,22 +249,13 @@
 				"download" "9813131984"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "EF177AA803E0F3904675DE917C2AD6D6"
-				"size" "E43C3329472CBAC1761429ED30C39D6F"
-				"download" "300BB41CBEEF5A293C13F0C930234EB0"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15233424"
-			"timeupdated" "1722560908"
+			"buildid" "17556984"
+			"timeupdated" "1740810565"
 		}
 		"0.0.1.4"
 		{
@@ -278,11 +269,10 @@
 			"description" "Warbox UE4 Legacy Branch"
 			"timeupdated" "1659423350"
 		}
-		"test"
-		{
-			"buildid" "13645161"
-			"pwdrequired" "1"
-			"timeupdated" "1709641015"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27730506"
+"_sha" "f9e5aa282098f690db3330b4463d6f37b232bf5d"
+"_size" "4460"
