@@ -1,0 +1,67 @@
+"appid" "3457760"
+"common"
+{
+	"name" "Two Point Museum: Modding SDK"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"parent" "2185060"
+	"releasestate" "unavailable"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "afdcc5dbd64a727f25fe9781ceefa7db4c201668"
+	"clienticon" "a03d10b6ab59b5fae8e7f7f5330a25cdd5115af0"
+	"clienttga" "b2705cafdd15d0908230c0e2d8aad49144f599a6"
+	"gameid" "3457760"
+	"exfgls" "8"
+}
+"config"
+{
+	"installdir" "Two Point Museum Modding SDK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SteamWorkshopUploader.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3457761"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1830079808703346571"
+				"size" "188475253"
+				"download" "69239936"
+			}
+		}
+	}
+	"workshopdepot" "3457760"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17549427"
+			"timeupdated" "1740757957"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27720570"
+"_sha" "04ca952069aee135927cc59c0f816773fa943516"
+"_size" "1069"
