@@ -1,0 +1,264 @@
+"appid" "2340510"
+"common"
+{
+	"name" "Moon\'s Creed"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "e1c2c18edec74dfbd514df318b5622dd28b6b6e7"
+	"clienttga" "b9f8c57314797c39f27c46bd2f03cb93bd714106"
+	"icon" "223a7004de0758820ca6a2f0aa245bd07f72d56a"
+	"name_localized"
+	{
+		"schinese" "黄道信条"
+		"tchinese" "黃道信條"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "95571011ce80c60baab613a19b7a93cffed1157a/capsule_231x87_schinese.jpg"
+		"tchinese" "37df89f02d042cab7c610316625d551c57c580ba/capsule_231x87_tchinese.jpg"
+		"english" "988291f9ca7c9b0a1497764abd271fa3c82e0d08/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "8eb0528ca2a4a2caa1064ec4f1c92fed11b25b50/header_schinese.jpg"
+		"tchinese" "4b7b0de68700819ffefe72812255b2e970506f5f/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_hero_blur" "zh-cn"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.28090250383876"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "e9876a3c500baf7abec73903e4cffe75f031f6ee/library_600x900_schinese.jpg"
+				"tchinese" "fa64b17b71919ecff5253d659471bc108cc11da1/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "e9876a3c500baf7abec73903e4cffe75f031f6ee/library_600x900_schinese_2x.jpg"
+				"tchinese" "fa64b17b71919ecff5253d659471bc108cc11da1/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "b31d3c2b7da91fd16a1386ffd7d91761cbcfd299/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.28090250383876"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "a3ac95f31b09ef8d19d472ceefeed486ced87502/logo_schinese.png"
+				"tchinese" "da64809141425c02ae7661cc2c157ec3d2c7c147/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "a3ac95f31b09ef8d19d472ceefeed486ced87502/logo_schinese_2x.png"
+				"tchinese" "da64809141425c02ae7661cc2c157ec3d2c7c147/logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "8eb0528ca2a4a2caa1064ec4f1c92fed11b25b50/library_header_schinese.jpg"
+				"tchinese" "4b7b0de68700819ffefe72812255b2e970506f5f/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "8eb0528ca2a4a2caa1064ec4f1c92fed11b25b50/library_header_schinese_2x.jpg"
+				"tchinese" "4b7b0de68700819ffefe72812255b2e970506f5f/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740738229"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Creedon Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Creedon Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1740736862"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2340510"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "32322"
+		"2" "1666"
+		"3" "791774"
+		"4" "1716"
+		"5" "14139"
+		"6" "1720"
+		"7" "3959"
+		"8" "1741"
+		"9" "3871"
+		"10" "6426"
+		"11" "1684"
+		"12" "4182"
+		"13" "5125"
+		"14" "1669"
+		"15" "9"
+		"16" "492"
+		"17" "493"
+		"18" "122"
+	}
+	"review_score" "7"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Creedon Games"
+	"publisher" "Creedon Games"
+	"homepage" "https://creedongames.com/"
+}
+"config"
+{
+	"installdir" "Moon\'s Creed"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MoonsCreed.exe"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2340510"
+	"2340511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4506613321649780694"
+				"size" "1603012896"
+				"download" "1206082416"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17542192"
+			"timeupdated" "1740722976"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Creedon Games/MoonsCreed/Users"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27732095"
+"_sha" "ed69243b8745a20d114d78af560d18c816039084"
+"_size" "5251"
