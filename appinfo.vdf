@@ -177,6 +177,24 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"finnish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1720807598"
 	"community_hub_visible" "1"
@@ -259,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "937189725401337852"
-				"size" "11241922164"
-				"download" "10664858720"
+				"gid" "834366607548052547"
+				"size" "11241884135"
+				"download" "10664781856"
 			}
 		}
 	}
@@ -269,13 +287,13 @@
 	{
 		"public"
 		{
-			"buildid" "17561644"
-			"timeupdated" "1740869560"
+			"buildid" "17566899"
+			"timeupdated" "1740946169"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27737548"
-"_sha" "eb88a16d369c1804105a4be3d1de6c12b8531a7d"
-"_size" "4299"
+"_change_number" "27744681"
+"_sha" "f12845fe2d4f0248edc69f952be5ff754cfef609"
+"_size" "4587"
