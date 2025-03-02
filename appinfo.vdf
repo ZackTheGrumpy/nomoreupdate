@@ -45,6 +45,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "0000004760.jpg"
 	"store_asset_mtime" "1368446125"
 	"associations"
 	{
@@ -72,6 +73,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -266,6 +268,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22269759"
-"_sha" "598f001f76bff922256567731414f517fe47149a"
-"_size" "4595"
+"_change_number" "26201212"
+"_sha" "a30bc2e7909b631ad97e60b657fc77ea054a55a5"
+"_size" "4656"
