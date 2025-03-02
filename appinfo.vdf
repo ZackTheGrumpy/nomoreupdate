@@ -120,12 +120,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "斑企画"
+			"name" "八名木Games"
 		}
 		"1"
 		{
 			"type" "developer"
-			"name" "八名木Games"
+			"name" "斑企画"
 		}
 		"2"
 		{
@@ -180,12 +180,12 @@
 		"5" "31275"
 		"6" "4486"
 		"7" "24003"
-		"8" "6426"
-		"9" "6971"
+		"8" "6971"
+		"9" "6426"
 		"10" "15172"
-		"11" "11014"
-		"12" "4182"
-		"13" "3839"
+		"11" "4182"
+		"12" "3839"
+		"13" "11014"
 		"14" "3834"
 		"15" "4342"
 		"16" "4064"
@@ -198,7 +198,7 @@
 }
 "extended"
 {
-	"developer" "斑企画"
+	"developer" "八名木Games"
 	"publisher" "Gamera Games"
 	"homepage" "https://317.zashiki.com/mozibake/"
 }
@@ -238,9 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "4480085457130579746"
-				"size" "331962438"
-				"download" "200212720"
+				"gid" "3195545419749960305"
+				"size" "331942657"
+				"download" "200198736"
 			}
 		}
 	}
@@ -254,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "3441813694919585660"
-				"size" "341056844"
-				"download" "199738848"
+				"gid" "7592804467415797855"
+				"size" "341037063"
+				"download" "199730880"
 			}
 		}
 	}
@@ -264,11 +264,10 @@
 	{
 		"public"
 		{
-			"buildid" "17127823"
-			"timeupdated" "1737776666"
+			"buildid" "17564251"
+			"timeupdated" "1740907366"
 		}
 	}
-	"privatebranches" "1"
 }
 "ufs"
 {
@@ -301,6 +300,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27160149"
-"_sha" "855df1b47aac7154f04552ab4d115e14fb6d3ddc"
-"_size" "6132"
+"_change_number" "27740577"
+"_sha" "e08467d9cb72d0d0793fd3d5fc687a3d2bd5b681"
+"_size" "6112"
