@@ -172,15 +172,16 @@
 		"1" "492"
 		"2" "3959"
 		"3" "19"
-		"4" "493"
-		"5" "122"
+		"4" "122"
+		"5" "493"
 		"6" "1625"
 		"7" "3964"
 		"8" "5125"
 		"9" "3871"
-		"10" "3841"
-		"11" "4026"
+		"10" "4026"
+		"11" "3841"
 		"12" "1759"
+		"13" "1720"
 	}
 	"review_score" "8"
 	"review_percentage" "89"
@@ -229,17 +230,6 @@
 				"oslist" "linux"
 			}
 		}
-		"3"
-		{
-			"executable" "CatacombKids.app/Contents/MacOS/Catacomb_Kids"
-			"description" "Launch Dev Build"
-			"type" "none"
-			"config"
-			{
-				"oslist" "macos"
-				"betakey" "dev"
-			}
-		}
 	}
 }
 "depots"
@@ -254,24 +244,9 @@
 		{
 			"public"
 			{
-				"gid" "4332243258591509379"
-				"size" "269928823"
-				"download" "193441984"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"coolkidsclub"
-			{
-				"gid" "2EDBDD5A3857E68148D703B5049A9A6E"
-				"size" "A9BC982E5F901ACEEA26758EA2A524F9"
-				"download" "8E5EEEDB4B21BA1A959D85545813B029"
-			}
-			"dev"
-			{
-				"gid" "FD5040396821B7C7731BC9FE99BEA672"
-				"size" "D2791A2D3F6D51239C7E0071957CE4F2"
-				"download" "458F28E5C98431D2153C9824F95628C4"
+				"gid" "1595248522321664508"
+				"size" "269976757"
+				"download" "193472976"
 			}
 		}
 	}
@@ -285,24 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "3253671606629409926"
-				"size" "288291826"
-				"download" "197589952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"coolkidsclub"
-			{
-				"gid" "7ACC4F7C0CF8F19B4620D09CDDF46C7E"
-				"size" "B57726D5E454B684F49FDEFC764446AC"
-				"download" "2A03D747C7F537F00832D68B827A8834"
-			}
-			"dev"
-			{
-				"gid" "AB4626160FA06A2AEE5C73E34AA8943E"
-				"size" "4C69FF394D537D39CD77090001EABC35"
-				"download" "81E45D38C46051D15ACB5A87E46E37C3"
+				"gid" "438625007933831656"
+				"size" "289474041"
+				"download" "197789248"
 			}
 		}
 	}
@@ -316,24 +276,9 @@
 		{
 			"public"
 			{
-				"gid" "5814970140553910393"
-				"size" "267307687"
-				"download" "192569152"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"coolkidsclub"
-			{
-				"gid" "EFA047EFB52A63AD122A65A2A5B5A9C0"
-				"size" "8A15D6FCA02273113D98CA2D3D4AD045"
-				"download" "CB24897D97E3DAFF17EFFC83C03ABF13"
-			}
-			"dev"
-			{
-				"gid" "7C4CD4245F8CC28E3CACBDF705721F43"
-				"size" "E9B46E6B3A36168F29FB82A5C5DBB6B3"
-				"download" "A4647D225065F1F25C03324E847EC1C6"
+				"gid" "9211856229557919667"
+				"size" "266302531"
+				"download" "192513952"
 			}
 		}
 	}
@@ -341,20 +286,13 @@
 	{
 		"public"
 		{
-			"buildid" "15279862"
-			"timeupdated" "1722965918"
-		}
-		"coolkidsclub"
-		{
-			"buildid" "15279862"
-			"pwdrequired" "1"
-			"timeupdated" "1722965876"
-		}
-		"dev"
-		{
-			"buildid" "15279862"
-			"pwdrequired" "1"
-			"timeupdated" "1722965042"
+			"buildid" "17561115"
+			"timeupdated" "1740863265"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27736504"
+"_sha" "1d44d108d4f79bce2dc4f19f887fa667a4d130e9"
+"_size" "5073"
