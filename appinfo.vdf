@@ -13,6 +13,7 @@
 	"icon" "a25b3dfb1858427fddb252b4b9c0f1711852c0f4"
 	"logo" "17cf49a4babf62527c7f457dd367fc670702bf60"
 	"logo_small" "17cf49a4babf62527c7f457dd367fc670702bf60_thumb"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -55,9 +56,9 @@
 		{
 			"public"
 			{
-				"gid" "1923798258558304932"
-				"size" "44194776"
-				"download" "13804528"
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
 			}
 		}
 		"depotfromapp" "1007"
@@ -89,9 +90,9 @@
 		{
 			"public"
 			{
-				"gid" "4884950798805348056"
-				"size" "73781292"
-				"download" "20270768"
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
 			}
 		}
 		"depotfromapp" "1007"
@@ -111,27 +112,6 @@
 				"download" "3363550624"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"commanderthing"
-			{
-				"gid" "42D3CA1147A7847DA740D6E4C1E7B0F5"
-				"size" "427DB44472AE327BAD9F28204029DB63"
-				"download" "13EFFF1705EF9D6715860E352CF50A8E"
-			}
-			"demo"
-			{
-				"gid" "E3929FD256CA3F32AB925B8642643A65"
-				"size" "B4819664A3A77519BB56F2BAB932C237"
-				"download" "3DED0025520B8D6445EB77CAE12F9CE0"
-			}
-			"demobeta"
-			{
-				"gid" "36923BE85548935755E56F8DA753BCB1"
-				"size" "081434D40DF4534414C89F43B7296C75"
-				"download" "626E31DFB18317C30BCF170A17C017CD"
-			}
-		}
 	}
 	"branches"
 	{
@@ -140,27 +120,10 @@
 			"buildid" "11018025"
 			"timeupdated" "1681713484"
 		}
-		"commanderthing"
-		{
-			"buildid" "8648414"
-			"pwdrequired" "1"
-			"timeupdated" "1651227068"
-		}
-		"demo"
-		{
-			"buildid" "8294740"
-			"pwdrequired" "1"
-			"timeupdated" "1646151965"
-		}
-		"demobeta"
-		{
-			"buildid" "13909056"
-			"pwdrequired" "1"
-			"timeupdated" "1711928948"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "22979930"
-"_sha" "e568512a2348938f3e725f3227df2ad9a439f87b"
-"_size" "2829"
+"_change_number" "27719568"
+"_sha" "77dadcffb0649ef59d0ad125a87f2df55dffa17e"
+"_size" "2005"
