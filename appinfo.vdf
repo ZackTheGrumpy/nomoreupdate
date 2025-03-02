@@ -8,6 +8,9 @@
 	"logo_small" "4c8a845031d4034b5247879d8394563b34a6b2f9"
 	"metacritic_url" "pc/disciples2riseoftheelves"
 	"name" "Disciples II: Rise of the Elves"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
 	"type" "game"
 	"steam_deck_compatibility"
 	{
@@ -44,13 +47,20 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "18139052d97557c6f452b045a169b31c17890675/header.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
 	}
 	"library_assets_full"
 	{
@@ -82,9 +92,26 @@
 			{
 				"english" "logo_2x.png"
 			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "18139052d97557c6f452b045a169b31c17890675/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "18139052d97557c6f452b045a169b31c17890675/library_header_2x.jpg"
+			}
 		}
 	}
-	"store_asset_mtime" "1571166087"
+	"store_asset_mtime" "1740590210"
 	"associations"
 	{
 		"0"
@@ -127,8 +154,8 @@
 		"0" "9"
 		"1" "1741"
 		"2" "1693"
-		"3" "1684"
-		"4" "1677"
+		"3" "1677"
+		"4" "1684"
 		"5" "4604"
 		"6" "4166"
 		"7" "7918"
@@ -254,6 +281,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26784058"
-"_sha" "433ba702a8c5b60c01f0cdfa33f28428a1088069"
-"_size" "4519"
+"_change_number" "27679962"
+"_sha" "5f5aad8ed2267549314a84acfc8efab5f409fa69"
+"_size" "5107"
