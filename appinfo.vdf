@@ -9,6 +9,7 @@
 	"releasestate" "released"
 	"logo" "31dc0fe51a6f88306d3f437ac0a9ca810a1c2333"
 	"logo_small" "31dc0fe51a6f88306d3f437ac0a9ca810a1c2333_thumb"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -63,9 +64,9 @@
 		{
 			"public"
 			{
-				"gid" "1923798258558304932"
-				"size" "44194776"
-				"download" "13804528"
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
 			}
 		}
 		"depotfromapp" "1007"
@@ -97,9 +98,9 @@
 		{
 			"public"
 			{
-				"gid" "4884950798805348056"
-				"size" "73781292"
-				"download" "20270768"
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
 			}
 		}
 		"depotfromapp" "1007"
@@ -131,21 +132,6 @@
 				"download" "20953872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "092DF52D3D8965050F39B6F34CC9F9DA"
-				"size" "4A7EC4C9395618314DBB0750CE6089E3"
-				"download" "EB0D6DCAFA28548BCB13FBCF831FF09D"
-			}
-			"internal"
-			{
-				"gid" "2914334BC929E31FDCBE7CD75A65EFA5"
-				"size" "82C135723520CB85A3969611BBC0F4BE"
-				"download" "2D18C2E9831F9BF90AECDCE22228831A"
-			}
-		}
 	}
 	"564392"
 	{
@@ -174,21 +160,6 @@
 				"download" "30577392"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "CB89BDB2FEABE0F3431D07DF508D003B"
-				"size" "DDB0B8F326E27EBDE348FEF4DD938BE5"
-				"download" "4BEC20214C2840C110F72C306AEDF3BD"
-			}
-			"internal"
-			{
-				"gid" "36A67389A07C1BF29AC5677A2A696CED"
-				"size" "1E963E0B763F2B2B374F760A3A0C7626"
-				"download" "1E963E0B763F2B2B374F760A3A0C7626"
-			}
-		}
 	}
 	"564393"
 	{
@@ -215,21 +186,6 @@
 				"gid" "8100227582573936163"
 				"size" "79368732"
 				"download" "21328976"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "EADD59E00721441D26BB4ED54ADE615E"
-				"size" "B69169B1B61F43EAFDE98DF1B22B8E05"
-				"download" "EDA8E4065C4782612BD16A744CFCC943"
-			}
-			"internal"
-			{
-				"gid" "B6C061A8434A6E2978901216FBCDB661"
-				"size" "1E963E0B763F2B2B374F760A3A0C7626"
-				"download" "1E963E0B763F2B2B374F760A3A0C7626"
 			}
 		}
 	}
@@ -302,18 +258,6 @@
 			"buildid" "3897293"
 			"timeupdated" "1559914025"
 		}
-		"closedbeta"
-		{
-			"buildid" "4488978"
-			"pwdrequired" "1"
-			"timeupdated" "1576234694"
-		}
-		"internal"
-		{
-			"buildid" "8212503"
-			"pwdrequired" "1"
-			"timeupdated" "1645003711"
-		}
 		"legacy"
 		{
 			"buildid" "2501958"
@@ -325,8 +269,9 @@
 			"timeupdated" "1559914037"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "20307700"
-"_sha" "22d4a1bd994a737e57dea5fcaaf78dfa55250100"
-"_size" "5424"
+"_change_number" "27014150"
+"_sha" "fcf54396c9a088030b8e654aeb683801f2132b4d"
+"_size" "4111"
