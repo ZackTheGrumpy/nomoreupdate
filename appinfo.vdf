@@ -201,7 +201,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1545705749"
+	"steam_release_date" "1545705720"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "567380"
@@ -226,7 +226,7 @@
 		"16" "4726"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -292,24 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "7414393517929190055"
-				"size" "406389252"
-				"download" "319538672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "BA040E081940F08DD971507169A99131"
-				"size" "314F49ABE5A6142F6B0A82C72CE8E825"
-				"download" "BEE794581BD8BB3C7E49F2BF35698AAF"
-			}
-			"wiki_warriors"
-			{
-				"gid" "0FBD228EF274D09B7FE33C035827E15D"
-				"size" "5693098F19C8C24AE9B07BF8C81F6CB8"
-				"download" "117205A6D2CC584105424614DB24CDCE"
+				"gid" "3003684577389915562"
+				"size" "407862010"
+				"download" "322134880"
 			}
 		}
 	}
@@ -324,24 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "2078576068925577491"
-				"size" "403355741"
-				"download" "318476432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "BAA9987C93772C784ABC20746EE74096"
-				"size" "A97BF176ADD5610F1340327E49FC0546"
-				"download" "F792FBED44990E80D8F0C3DA6288E888"
-			}
-			"wiki_warriors"
-			{
-				"gid" "4CDFF9E4AE59BD719C0B7FEB6A707F75"
-				"size" "B301B185E5181D5A8A496F7EFC1E26F7"
-				"download" "6DBA20BB7008B0E31FAD3FC73A413421"
+				"gid" "7815360142470029476"
+				"size" "404720725"
+				"download" "321131008"
 			}
 		}
 	}
@@ -349,20 +319,13 @@
 	{
 		"public"
 		{
-			"buildid" "13044497"
-			"timeupdated" "1703537904"
-		}
-		"development"
-		{
-			"buildid" "13044354"
-			"pwdrequired" "1"
-			"timeupdated" "1703534278"
-		}
-		"wiki_warriors"
-		{
-			"buildid" "10858280"
-			"pwdrequired" "1"
-			"timeupdated" "1679826413"
+			"buildid" "17564831"
+			"timeupdated" "1740915093"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27741286"
+"_sha" "c1bb7e4da147e3f6c082bd6014521ba39ed286a1"
+"_size" "5738"
