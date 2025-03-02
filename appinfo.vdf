@@ -13,12 +13,14 @@
 	"icon" "77d0de7f7f808287b334ff34c3591f1f6f9b16fc"
 	"clienticon" "b8ac6f3a5533070804d3264f48f11a0be14bf294"
 	"clienttga" "3d94db27a0855769b2bd97cb9bdfea3d239b67e4"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
 	"primary_genre" "0"
 	"category"
 	{
+		"category_62" "1"
 	}
 	"steam_release_date" "1627563022"
 	"gameid" "920720"
@@ -56,9 +58,9 @@
 		{
 			"public"
 			{
-				"gid" "1923798258558304932"
-				"size" "44194776"
-				"download" "13804528"
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
 			}
 		}
 		"depotfromapp" "1007"
@@ -90,14 +92,14 @@
 		{
 			"public"
 			{
-				"gid" "4884950798805348056"
-				"size" "73781292"
-				"download" "20270768"
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
 			}
 		}
 		"depotfromapp" "1007"
 	}
-	"228988"
+	"228989"
 	{
 		"config"
 		{
@@ -138,36 +140,9 @@
 			}
 			"sdktest"
 			{
-				"gid" "1972525108054850533"
-				"size" "4831994183"
-				"download" "891817248"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"nightly"
-			{
-				"gid" "5A41446E418D6AC7E607F797F9527141"
-				"size" "4D8112657D4AF356FFF8816C4CAC9080"
-				"download" "E00DB3E9D9DFD7744C5D4B2C352C30FC"
-			}
-			"profiling"
-			{
-				"gid" "598E6D3D20C4E2ED7C4F3B21AB4B0023"
-				"size" "DFEE6CD2935AC2B39324CA1C48DD5F03"
-				"download" "F113971B4674EF55873F3967314DA046"
-			}
-			"staging"
-			{
-				"gid" "41983F859D2196DE8D66DCFF99D147DB"
-				"size" "57A524B23F17043EA72BD96D694DBFC2"
-				"download" "89ACE3DE407B367C4CC12C20CAC4C19A"
-			}
-			"stagingpublic"
-			{
-				"gid" "93153FB3D72F30E4D74690FF51140727"
-				"size" "BCFA955B63DE83BDD332F7135FC239AC"
-				"download" "F32326BC5C45B7F933B437CE01FD7BCF"
+				"gid" "4503316735853031736"
+				"size" "7176902162"
+				"download" "1296993680"
 			}
 		}
 	}
@@ -194,36 +169,9 @@
 			}
 			"sdktest"
 			{
-				"gid" "264685550637608283"
-				"size" "5052347730"
-				"download" "875358400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"nightly"
-			{
-				"gid" "608F2A4C7DBD15C225F2495BFBF3270A"
-				"size" "08D7126390421921C6C240F2D980BA27"
-				"download" "F90CE858D437DC48DCF9C8D3029E3164"
-			}
-			"profiling"
-			{
-				"gid" "DB0F7B68FCE586786274C52548A90676"
-				"size" "49528E7C11D1A6BA5A07167EE723DA86"
-				"download" "C500D4202661E7DC1060627DEFD2655F"
-			}
-			"staging"
-			{
-				"gid" "2B6FA209BE2A8EB019F035235053E7EB"
-				"size" "B72CBF255576166A767E43ADDAFB707F"
-				"download" "174CAFDF734CB0462C5D9CDBEAFADD55"
-			}
-			"stagingpublic"
-			{
-				"gid" "BDD4224B7330F9A783EB9861556C9F13"
-				"size" "EA86FA9736C6A7C8AD38765A7EFE4499"
-				"download" "4744636C2D0732B0252B1E1E9B13BE43"
+				"gid" "9170387019188615849"
+				"size" "7387568535"
+				"download" "1276101712"
 			}
 		}
 	}
@@ -240,39 +188,16 @@
 			"description" "Classic S4"
 			"timeupdated" "1658846235"
 		}
-		"nightly"
-		{
-			"buildid" "12774192"
-			"pwdrequired" "1"
-			"timeupdated" "1700677246"
-		}
-		"profiling"
-		{
-			"buildid" "8049305"
-			"pwdrequired" "1"
-			"timeupdated" "1656941753"
-		}
-		"staging"
-		{
-			"buildid" "14015113"
-			"pwdrequired" "1"
-			"timeupdated" "1712853743"
-		}
-		"stagingpublic"
-		{
-			"buildid" "14015113"
-			"pwdrequired" "1"
-			"timeupdated" "1712853734"
-		}
 		"sdktest"
 		{
-			"buildid" "14188826"
+			"buildid" "17536250"
 			"description" "SDK Test Server"
-			"timeupdated" "1714152572"
+			"timeupdated" "1740684701"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "23318959"
-"_sha" "244dfb06166acf43672b75f6a8cc3412b0722ea8"
-"_size" "5014"
+"_change_number" "27723449"
+"_sha" "a19fc965aeede6ba6b74ff986f024f11f34bffec"
+"_size" "3197"
