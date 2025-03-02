@@ -1,7 +1,7 @@
 "appid" "1967820"
 "common"
 {
-	"name" "拾光物语"
+	"name" "Border Town"
 	"type" "Game"
 	"name_localized"
 	{
@@ -195,6 +195,11 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -248,7 +253,7 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -283,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "2826609776513115053"
-				"size" "700719874"
-				"download" "137787264"
+				"gid" "2509273219948349370"
+				"size" "702321822"
+				"download" "138302464"
 			}
 		}
 	}
@@ -294,8 +299,8 @@
 	{
 		"public"
 		{
-			"buildid" "17407899"
-			"timeupdated" "1739885667"
+			"buildid" "17541497"
+			"timeupdated" "1740717086"
 		}
 	}
 	"privatebranches" "1"
