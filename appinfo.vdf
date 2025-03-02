@@ -1,7 +1,7 @@
 "appid" "351030"
 "common"
 {
-	"name" "Pixel Puzzles Ultimate Jigsaw"
+	"name" "Pixel Puzzles Ultimate Jigsaw Puzzles"
 	"type" "Game"
 	"icon" "1720e286eea6bbd19a61f271793e6885ac7908cb"
 	"clienticon" "159b3eed7e1c3d31661ede6795a157b966767cc3"
@@ -162,7 +162,10 @@
 	"genres"
 	{
 		"0" "4"
-		"1" "37"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+		"4" "37"
 	}
 	"category"
 	{
@@ -225,12 +228,12 @@
 		"2" "17389"
 		"3" "3871"
 		"4" "1654"
-		"5" "597"
-		"6" "4305"
-		"7" "5350"
-		"8" "9"
-		"9" "4840"
-		"10" "599"
+		"5" "9"
+		"6" "597"
+		"7" "599"
+		"8" "4305"
+		"9" "5350"
+		"10" "4840"
 		"11" "1685"
 		"12" "4508"
 		"13" "3841"
@@ -279,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "912658806109365164"
-				"size" "145924412"
-				"download" "127119680"
+				"gid" "2346787812716908446"
+				"size" "147403482"
+				"download" "128597248"
 			}
 		}
 	}
@@ -2181,9 +2184,9 @@
 		{
 			"public"
 			{
-				"gid" "5743565905491167753"
-				"size" "1977833546"
-				"download" "1978879296"
+				"gid" "72838622960685178"
+				"size" "1984165633"
+				"download" "1985239872"
 			}
 		}
 	}
@@ -2360,8 +2363,8 @@
 	{
 		"public"
 		{
-			"buildid" "17213213"
-			"timeupdated" "1738459203"
+			"buildid" "17561353"
+			"timeupdated" "1740865155"
 		}
 	}
 	"privatebranches" "1"
@@ -2382,6 +2385,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27273367"
-"_sha" "67c438a3f89e8cf78cc0cad0f132e17b0a5d59f2"
-"_size" "35295"
+"_change_number" "27737259"
+"_sha" "4e1dbdb92d793a0554a4b447a1a0634ded3fd371"
+"_size" "35340"
