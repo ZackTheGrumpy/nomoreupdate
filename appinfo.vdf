@@ -11,6 +11,7 @@
 	"clienticon" "6908a67b8f8a606b9d89985307e1aa4375d15043"
 	"releasestate" "released"
 	"osarch" ""
+	"restricted_countries" "DE"
 	"metacritic_name" "Cycle Of Tyrfing"
 	"small_capsule"
 	{
@@ -20,6 +21,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_20932a40bdf8f13c40593a9669f4f6592eaec479.jpg"
 	"store_asset_mtime" "1481378327"
 	"associations"
 	{
@@ -68,7 +70,7 @@
 		"7" "1625"
 	}
 	"review_score" "4"
-	"review_percentage" "26"
+	"review_percentage" "25"
 }
 "extended"
 {
@@ -207,3 +209,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27262851"
+"_sha" "a35c00e3d0822758a5ff2a17fc9fb8b24080ca2e"
+"_size" "3516"
