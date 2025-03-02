@@ -119,10 +119,20 @@
 		"english"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"schinese"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1723465142"
@@ -145,7 +155,7 @@
 		"10" "4726"
 	}
 	"review_score" "5"
-	"review_percentage" "54"
+	"review_percentage" "53"
 }
 "extended"
 {
@@ -173,9 +183,9 @@
 		{
 			"public"
 			{
-				"gid" "6973024952403916028"
-				"size" "10149805555"
-				"download" "4065163600"
+				"gid" "2318542382651832854"
+				"size" "10149806579"
+				"download" "4065121216"
 			}
 		}
 	}
@@ -184,8 +194,8 @@
 	{
 		"public"
 		{
-			"buildid" "17555106"
-			"timeupdated" "1740792417"
+			"buildid" "17565021"
+			"timeupdated" "1740917563"
 		}
 	}
 }
@@ -204,6 +214,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27728434"
-"_sha" "ddfd1d089901be8dfd68fe1e43dc8ed06620007f"
-"_size" "3148"
+"_change_number" "27741510"
+"_sha" "754a996f39d4c9f34c9d7198a1b35663a347372a"
+"_size" "3343"
