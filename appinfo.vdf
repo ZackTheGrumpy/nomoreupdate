@@ -36,6 +36,7 @@
 	}
 	"category"
 	{
+		"category_62" "1"
 	}
 	"community_hub_visible" "1"
 	"gameid" "2130"
@@ -45,7 +46,7 @@
 		"1" "19"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -266,6 +267,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21467826"
-"_sha" "428186c0a397cd01d3169fd9ef8ffa5d3646944a"
-"_size" "3944"
+"_change_number" "26459280"
+"_sha" "812609c4e32bef01e7f72d25597fad9fe9cfb444"
+"_size" "3966"
