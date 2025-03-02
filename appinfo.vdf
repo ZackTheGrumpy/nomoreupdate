@@ -22,6 +22,7 @@
 	{
 		"english" "1"
 		"koreana" "1"
+		"schinese" "1"
 	}
 	"metacritic_name" "Flowers Blooming at the End of Summer"
 	"small_capsule"
@@ -335,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "4762721498549585886"
-				"size" "2238460218"
-				"download" "2012015248"
+				"gid" "1514924316887237253"
+				"size" "2238461250"
+				"download" "2012017760"
 			}
 		}
 	}
@@ -345,8 +346,8 @@
 	{
 		"public"
 		{
-			"buildid" "17558863"
-			"timeupdated" "1740833683"
+			"buildid" "17559514"
+			"timeupdated" "1740841844"
 		}
 	}
 }
@@ -419,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27733235"
-"_sha" "466aaae074be7ac6d9564b53dc9c9c8b2da822a0"
-"_size" "8806"
+"_change_number" "27733897"
+"_sha" "c246404edfea74b225b44b6e1e0f9642e45d00b8"
+"_size" "8825"
