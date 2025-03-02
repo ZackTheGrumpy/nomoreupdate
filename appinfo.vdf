@@ -77,7 +77,52 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1703182340"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "74.35502040816968"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740750271"
 	"associations"
 	{
 		"0"
@@ -130,6 +175,7 @@
 		}
 	}
 	"steam_release_date" "1604338417"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1266690"
 	"store_tags"
@@ -146,7 +192,7 @@
 		"9" "4136"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -204,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "5800695139321061"
-				"size" "7034223634"
-				"download" "6802674960"
+				"gid" "1496266625681586801"
+				"size" "7857922844"
+				"download" "7604211824"
 			}
 			"local"
 			{
@@ -215,52 +261,13 @@
 				"download" "4688614000"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"jdasdhoiffvbn"
-			{
-				"gid" "54E2DDA31ACB6526B12317FCB11125BD"
-				"size" "5B3312CFF2EDD38F6051A216EBFC86EF"
-				"download" "A2A52B50BF7C90D37ED4AE55C6BD15C7"
-			}
-			"notdedicatedservers"
-			{
-				"gid" "5AD76E0B404CB718E1C6C0471A2225FE"
-				"size" "E5D329C085C3AB50E83EAED96BBE7616"
-				"download" "1C97CDEF968DB340BDE81CC5AF6384BC"
-			}
-			"secret"
-			{
-				"gid" "7AB37FE0891D2D5A278CA371C8E9CD3A"
-				"size" "1DA9EFB1D048DDE367183D4A0B6867C9"
-				"download" "5BB54E4F5658C1E86E72531646B2A7F3"
-			}
-			"theonetestbranchtorulethemall"
-			{
-				"gid" "A785138E280FC747B6EE53A7D6BF1E6B"
-				"size" "D89538C911A7DE330693A59BA8C0FE71"
-				"download" "D3B8810FE2081D834F93BFBB92480436"
-			}
-			"thisisnotjjg"
-			{
-				"gid" "71DFABAF67A1D6FFD92D1DFFDCC0BAFF"
-				"size" "BA818B1D72F933EAAF8FCBE06A99FB6F"
-				"download" "34531E076B1A66F13F17F22213A0995A"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13832508"
-			"timeupdated" "1711205642"
-		}
-		"jdasdhoiffvbn"
-		{
-			"buildid" "7787429"
-			"pwdrequired" "1"
-			"timeupdated" "1638003314"
+			"buildid" "17561255"
+			"timeupdated" "1740863884"
 		}
 		"local"
 		{
@@ -269,31 +276,8 @@
 			"lcsrequired" "1"
 			"timeupdated" "1659969633"
 		}
-		"notdedicatedservers"
-		{
-			"buildid" "9297257"
-			"pwdrequired" "1"
-			"timeupdated" "1660231339"
-		}
-		"secret"
-		{
-			"buildid" "13832508"
-			"pwdrequired" "1"
-			"timeupdated" "1711205626"
-		}
-		"theonetestbranchtorulethemall"
-		{
-			"buildid" "8037392"
-			"pwdrequired" "1"
-			"timeupdated" "1642466413"
-		}
-		"thisisnotjjg"
-		{
-			"buildid" "7666392"
-			"pwdrequired" "1"
-			"timeupdated" "1636147713"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -311,6 +295,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22882101"
-"_sha" "00a8a1ac9b6e672a36b088ef5a4b757180eb92af"
-"_size" "6060"
+"_change_number" "27736569"
+"_sha" "33aad5f1d7861b747a724841516f395b56baed20"
+"_size" "5257"
