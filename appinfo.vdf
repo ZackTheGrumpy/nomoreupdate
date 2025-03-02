@@ -64,6 +64,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_dfeb8290089cc6e0d17efa4f26bd721463e7bcf5.jpg"
 	"associations"
 	{
 		"0"
@@ -353,3 +354,7 @@
 	"quota" "1048576"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "96b5dab1ab30a35f262281615fa8f67f0a32a9ef"
+"_size" "7110"
