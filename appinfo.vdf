@@ -20,6 +20,7 @@
 		"tchinese" "1"
 		"japanese" "1"
 		"turkish" "1"
+		"brazilian" "1"
 		"latam" "1"
 	}
 	"content_descriptors"
@@ -207,6 +208,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1687536573"
 	"community_visible_stats" "1"
@@ -267,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "7329340312836222471"
-				"size" "760106707"
-				"download" "232689200"
+				"gid" "1202701640575950608"
+				"size" "760222477"
+				"download" "232607776"
 			}
 		}
 	}
@@ -278,13 +284,13 @@
 	{
 		"public"
 		{
-			"buildid" "16844105"
-			"timeupdated" "1735057600"
+			"buildid" "17560503"
+			"timeupdated" "1740938348"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27067947"
-"_sha" "34280816c91a056d42f8a708e1e3fecf07630287"
-"_size" "4889"
+"_change_number" "27743692"
+"_sha" "8b1505b3342eb2c339f22af69d54a5afc83705dd"
+"_size" "4982"
