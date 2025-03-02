@@ -83,12 +83,13 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "50"
-			"height_pct" "50"
+			"width_pct" "30.66350710900474"
+			"height_pct" "63.194444444444436"
 		}
 	}
 	"library_assets_full"
@@ -97,18 +98,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "f85a9748a061b32141e69a7c87c2809e9975b2b7/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "f85a9748a061b32141e69a7c87c2809e9975b2b7/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "83bb22a10cd69c67aec373806bcecbf7a9f87d28/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "83bb22a10cd69c67aec373806bcecbf7a9f87d28/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "83bb22a10cd69c67aec373806bcecbf7a9f87d28/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -116,20 +128,20 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "50"
-				"height_pct" "50"
+				"width_pct" "30.66350710900474"
+				"height_pct" "63.194444444444436"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "222ce7ade00fad3179a6645a4d9e8b910ed4fd55/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "222ce7ade00fad3179a6645a4d9e8b910ed4fd55/logo_2x.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1706680303"
+	"store_asset_mtime" "1739185253"
 	"associations"
 	{
 		"0"
@@ -219,14 +231,14 @@
 		"12" "492"
 		"13" "31275"
 		"14" "3839"
-		"15" "6426"
-		"16" "1674"
+		"15" "1674"
+		"16" "6426"
 		"17" "15277"
 		"18" "1756"
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -272,30 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "5369092735874530817"
-				"size" "5406434294"
-				"download" "1431210160"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"old_check"
-			{
-				"gid" "108C3DBA4ABE4116A245E82262F298B6"
-				"size" "3A44A62E82336736B7914FE0C50CC12F"
-				"download" "B4D0D591CFA49EB8D7A96BB7059382E7"
-			}
-			"develop_check"
-			{
-				"gid" "F65068CBD95CF4034E8B451EBE51A10A"
-				"size" "1BFF322C144026109E9E78201A82EB02"
-				"download" "8934AC31D253D42B86CBC437DDC383D6"
-			}
-			"vodkademo_check"
-			{
-				"gid" "126199749ADCDC94901C79043E784DC2"
-				"size" "C4D9A4D78B636909E7A0F67D291E9270"
-				"download" "4BBC53EB26AF8755FA83BBFB0F3F3DFA"
+				"gid" "8276482353945906390"
+				"size" "7285526861"
+				"download" "1651003600"
 			}
 		}
 	}
@@ -309,30 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "1881289072668640370"
-				"size" "5431310253"
-				"download" "1445065376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"old_check"
-			{
-				"gid" "BB2A204D1341EEF8F1B16A32560C6703"
-				"size" "BEB09E033247421E296DE7C3F8D03720"
-				"download" "25FDE96A43ACBBF1B81D8C28A947A7FF"
-			}
-			"develop_check"
-			{
-				"gid" "ACF6E921415F6B473704294F3939F975"
-				"size" "D0951C6BD78BBD95B41AC12E36908832"
-				"download" "77CB8DF801661A9CF233CB943DE86A05"
-			}
-			"vodkademo_check"
-			{
-				"gid" "85B62D6062BA54F79A6523A72BAFA007"
-				"size" "53C079E937B83E6DE5B4163953572378"
-				"download" "A47582A6D7C45F8ED1F45BCA7933D3F5"
+				"gid" "8869753085188043052"
+				"size" "7310471375"
+				"download" "1665005680"
 			}
 		}
 	}
@@ -340,26 +310,46 @@
 	{
 		"public"
 		{
-			"buildid" "14794087"
-			"timeupdated" "1719075507"
+			"buildid" "17348793"
+			"timeupdated" "1740841202"
 		}
-		"old_check"
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "30000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
 		{
-			"buildid" "12969270"
-			"pwdrequired" "1"
-			"timeupdated" "1702620830"
+			"root" "WinAppDataLocalLow"
+			"path" "VODKAdemo/MINDHACK/Utage/SaveMH"
+			"pattern" "*"
+			"recursive" "1"
 		}
-		"develop_check"
+	}
+	"rootoverrides"
+	{
+		"0"
 		{
-			"buildid" "14794087"
-			"pwdrequired" "1"
-			"timeupdated" "1718971386"
-		}
-		"vodkademo_check"
-		{
-			"buildid" "14229778"
-			"pwdrequired" "1"
-			"timeupdated" "1714541307"
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "VODKAdemo/MINDHACK/Utage/SaveMH"
+					"replace" "VODKAdemo/MINDHACK/Utage/SaveMH"
+				}
+			}
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27733813"
+"_sha" "d18efff664e5db6c7c1a14b87087285864c5f202"
+"_size" "6305"
