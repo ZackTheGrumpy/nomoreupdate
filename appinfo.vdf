@@ -277,7 +277,7 @@
 	"steamconfigurator3rdpartynative" "65535"
 	"steamcontrollerconfigdetails"
 	{
-		"3422926888"
+		"3429401467"
 		{
 			"controller_type" "controller_xboxone"
 			"enabled_branches" "default"
@@ -299,9 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "587989089532675230"
-				"size" "22682863559"
-				"download" "10143522208"
+				"gid" "3938021254620634763"
+				"size" "22834973984"
+				"download" "10250541104"
 			}
 		}
 	}
@@ -319,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "913834239313716855"
-				"size" "22726999431"
-				"download" "10145242992"
+				"gid" "155442658504155434"
+				"size" "22879236408"
+				"download" "10252302480"
 			}
 		}
 	}
@@ -329,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "17307878"
-			"timeupdated" "1739197263"
+			"buildid" "17559997"
+			"timeupdated" "1740847901"
 		}
 	}
 }
@@ -340,6 +340,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27401885"
-"_sha" "2f7b2b4b525b83e7066e724e200c0ccfcc23b6d4"
-"_size" "5515"
+"_change_number" "27734676"
+"_sha" "740b03a35dfbd3513a6d5820b08597c88bc165bd"
+"_size" "5516"
