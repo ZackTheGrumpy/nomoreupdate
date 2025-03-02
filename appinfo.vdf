@@ -177,8 +177,8 @@
 	"exfgls" "3"
 	"store_tags"
 	{
-		"0" "128"
-		"1" "1754"
+		"0" "1754"
+		"1" "128"
 		"2" "122"
 		"3" "7432"
 		"4" "1667"
@@ -291,33 +291,6 @@
 				"download" "6405019232"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"special"
-			{
-				"gid" "C30FB31CD56EE6C6764A26429BEC1542"
-				"size" "4ACC33E7B185AA8EFA745EAAF3FD8F12"
-				"download" "73597FF1993DE7F38E340CCE7E51DD6F"
-			}
-			"test"
-			{
-				"gid" "5C1D648CF8360E998E9361D16AC31F0A"
-				"size" "72F79142E2AD7EA44A9BA403FD8B938A"
-				"download" "C3A8494CA654F5467A2197DABA249735"
-			}
-			"testlive"
-			{
-				"gid" "8E0F2FBEB47FAC6CFABFBF38A2E15297"
-				"size" "DE425CEEDF63ABF855A88ED606E335BF"
-				"download" "FE204A9F5A671456D7E9DD9FBA858F93"
-			}
-			"tqa2"
-			{
-				"gid" "58B10121A47337593D4A8980ED13D4B1"
-				"size" "CA8279C523C66A2F0E644630E48A2CD7"
-				"download" "F78E93E5DCDB2186576C37B124934C52"
-			}
-		}
 	}
 	"overridescddb" "1"
 	"hasdepotsindlc" "1"
@@ -328,33 +301,10 @@
 			"buildid" "2372182"
 			"timeupdated" "1513355309"
 		}
-		"special"
-		{
-			"buildid" "1876903"
-			"pwdrequired" "1"
-			"timeupdated" "1496922898"
-		}
-		"test"
-		{
-			"buildid" "2042891"
-			"pwdrequired" "1"
-			"timeupdated" "1502901758"
-		}
-		"testlive"
-		{
-			"buildid" "2369567"
-			"pwdrequired" "1"
-			"timeupdated" "1513346161"
-		}
-		"tqa2"
-		{
-			"buildid" "2372152"
-			"pwdrequired" "1"
-			"timeupdated" "1513347319"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25710209"
-"_sha" "e46fd1ee30bf2508a932b0b88b7b5932531f1d28"
-"_size" "6905"
+"_change_number" "27103115"
+"_sha" "1f7f2e8d404c6d54c0eab05c8dbeea657caf4cd7"
+"_size" "5802"
