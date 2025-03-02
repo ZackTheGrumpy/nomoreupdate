@@ -17,6 +17,8 @@
 	"languages"
 	{
 		"english" "1"
+		"koreana" "1"
+		"tchinese" "1"
 		"japanese" "1"
 	}
 	"steam_deck_compatibility"
@@ -209,7 +211,7 @@
 		"11" "4085"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -247,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "486629123950502183"
-				"size" "12142790073"
-				"download" "9885819264"
+				"gid" "4868391605154436119"
+				"size" "12142793879"
+				"download" "9885824256"
 			}
 		}
 	}
@@ -258,8 +260,8 @@
 	{
 		"public"
 		{
-			"buildid" "16810651"
-			"timeupdated" "1738433099"
+			"buildid" "17060894"
+			"timeupdated" "1740851997"
 		}
 	}
 	"privatebranches" "1"
@@ -287,6 +289,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27270624"
-"_sha" "77117ebe8efd45b1481abb9c1cf79974970ef52a"
-"_size" "5265"
+"_change_number" "27735183"
+"_sha" "7f0661cbca8c9dcd03e21f8d14385f92fddbf1ff"
+"_size" "5303"
