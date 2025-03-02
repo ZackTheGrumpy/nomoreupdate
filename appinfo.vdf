@@ -112,33 +112,6 @@
 				"download" "96"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "BB45056F833DF9C8B58D1312CDF9C5C4"
-				"size" "A8ACC0BD2613B3B03F7BE6AE5AE06E26"
-				"download" "17FECB522843A001399DA0445DA14A7C"
-			}
-			"development"
-			{
-				"gid" "1143A01ABDB24865E07B9A73E19578A8"
-				"size" "73A833137647CD4693065AB4DDEFC18B"
-				"download" "BA163B62C596AB9005C5BD97FA547949"
-			}
-			"test"
-			{
-				"gid" "6CC0F05BA05B4DC6304DA50BBBDE8194"
-				"size" "4349DB5BF60A5763BCE3C2D39EB9FF8F"
-				"download" "2ADE3E880B4608006354DDD52D754D01"
-			}
-			"test-driver"
-			{
-				"gid" "1BCD04182A4C0A1DAE16DE00B5DC29B7"
-				"size" "CFCF8814765CE5F8BE76E3B6B2B0EE56"
-				"download" "31F51A4D7A27544E834CBA2C1FF9F9EC"
-			}
-		}
 	}
 	"branches"
 	{
@@ -147,33 +120,10 @@
 			"buildid" "10222124"
 			"timeupdated" "1672283444"
 		}
-		"beta"
-		{
-			"buildid" "15706044"
-			"pwdrequired" "1"
-			"timeupdated" "1726412951"
-		}
-		"development"
-		{
-			"buildid" "15706044"
-			"pwdrequired" "1"
-			"timeupdated" "1726412925"
-		}
-		"test"
-		{
-			"buildid" "15706044"
-			"pwdrequired" "1"
-			"timeupdated" "1726412942"
-		}
-		"test-driver"
-		{
-			"buildid" "15706044"
-			"pwdrequired" "1"
-			"timeupdated" "1726412932"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25233428"
-"_sha" "64fdc90f7edeafc7350b76b89cef5c135a81b7ff"
-"_size" "3064"
+"_change_number" "27717834"
+"_sha" "cc539c42d6796cab42ebad4c38d90db59ede80a1"
+"_size" "1943"
