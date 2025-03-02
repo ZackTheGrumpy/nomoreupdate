@@ -358,15 +358,15 @@
 		{
 			"public"
 			{
-				"gid" "5652141629366851533"
+				"gid" "5653977136046760572"
 				"size" "1275513138"
-				"download" "1088947616"
+				"download" "1088947856"
 			}
 			"developertest"
 			{
-				"gid" "5652141629366851533"
+				"gid" "5653977136046760572"
 				"size" "1275513138"
-				"download" "1088947616"
+				"download" "1088947856"
 			}
 		}
 	}
@@ -374,19 +374,33 @@
 	{
 		"public"
 		{
-			"buildid" "17299619"
-			"timeupdated" "1739133012"
+			"buildid" "17350187"
+			"timeupdated" "1740869974"
 		}
 		"developertest"
 		{
-			"buildid" "17299619"
+			"buildid" "17350187"
 			"description" "Experimental updates prior to release"
-			"timeupdated" "1739130906"
+			"timeupdated" "1739547506"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Horror/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "27390606"
-"_sha" "a8c8f9fa5155cfc860bb265dd5c7c03e8622a54b"
-"_size" "6429"
+"_change_number" "27737193"
+"_sha" "3ce492c65ad3d028be679ff9e70af56579c048ee"
+"_size" "6614"
