@@ -17,9 +17,9 @@
 		"english" "IDUN - Frontline Survival"
 		"french" "IDUN - Survie au Front"
 		"japanese" "IDUN - 前線防衛サバイバル"
+		"koreana" "IDUN - 프론트라인 커맨더"
 	}
 	"aicontenttype" "1"
-	"metacritic_name" "IDUN - Frontline Survival"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -191,8 +191,6 @@
 	}
 	"steam_release_date" "1737392464"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/2186360/discussions/0/575995207062967449/"
-	"metacritic_score" "73"
-	"metacritic_fullurl" "https://www.metacritic.com/game/pc/idun---frontline-survival\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2186360"
@@ -220,7 +218,7 @@
 		"19" "5125"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -287,15 +285,15 @@
 		{
 			"public"
 			{
-				"gid" "4374980792971640428"
-				"size" "1167128832"
-				"download" "602270464"
+				"gid" "6431115283277811417"
+				"size" "1186636496"
+				"download" "606253408"
 			}
 			"beta"
 			{
-				"gid" "4374980792971640428"
-				"size" "1167128832"
-				"download" "602270464"
+				"gid" "6431115283277811417"
+				"size" "1186636496"
+				"download" "606253408"
 			}
 		}
 	}
@@ -309,15 +307,15 @@
 		{
 			"public"
 			{
-				"gid" "6562914059329636343"
-				"size" "1197013792"
-				"download" "612024880"
+				"gid" "73744585578076861"
+				"size" "1216475379"
+				"download" "615994368"
 			}
 			"beta"
 			{
-				"gid" "6562914059329636343"
-				"size" "1197013792"
-				"download" "612024880"
+				"gid" "73744585578076861"
+				"size" "1216475379"
+				"download" "615994368"
 			}
 		}
 	}
@@ -331,15 +329,15 @@
 		{
 			"public"
 			{
-				"gid" "5870873942903585567"
-				"size" "1227314118"
-				"download" "611637344"
+				"gid" "5070663972821588111"
+				"size" "1246824344"
+				"download" "615565952"
 			}
 			"beta"
 			{
-				"gid" "5870873942903585567"
-				"size" "1227314118"
-				"download" "611637344"
+				"gid" "5070663972821588111"
+				"size" "1246824344"
+				"download" "615565952"
 			}
 		}
 	}
@@ -347,14 +345,14 @@
 	{
 		"public"
 		{
-			"buildid" "17378670"
-			"timeupdated" "1739636644"
+			"buildid" "17564490"
+			"timeupdated" "1740915791"
 		}
 		"beta"
 		{
-			"buildid" "17378670"
+			"buildid" "17564490"
 			"description" "Public beta branch"
-			"timeupdated" "1739636628"
+			"timeupdated" "1740909214"
 		}
 	}
 }
@@ -408,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27495596"
-"_sha" "1bea56dfd68aeb4a675f4b78f074700684688712"
-"_size" "7883"
+"_change_number" "27741333"
+"_sha" "fd5e7e5548dff97ab1fccb14569593c826ddd986"
+"_size" "7745"
