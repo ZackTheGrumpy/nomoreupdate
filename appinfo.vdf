@@ -11,6 +11,7 @@
 	"logo" "0a111ae35584a7abc7e5f1c62f210ca5cdee80f5"
 	"logo_small" "0a111ae35584a7abc7e5f1c62f210ca5cdee80f5_thumb"
 	"app_retired_publisher_request" "1"
+	"restricted_countries" "DE"
 	"metacritic_name" "Romero\'s Aftermath"
 	"small_capsule"
 	{
@@ -20,6 +21,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_4de31a91352637381737f7115465807c457697f4.jpg"
 	"store_asset_mtime" "1442880008"
 	"associations"
 	{
@@ -177,3 +179,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "4f7e3a68b0a7683335fe30753c9cd8e7d9396fe6"
+"_size" "3007"
