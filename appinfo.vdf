@@ -12,6 +12,7 @@
 	"icon" "a4b566a5c3f8794b24c6327b96fca6dc954a51ad"
 	"logo" "9904648089db22b57c8cb207a4195be120ee287a"
 	"logo_small" "9904648089db22b57c8cb207a4195be120ee287a_thumb"
+	"freetodownload" "1"
 	"metacritic_name" "Strike Vector EX Dedicated Server"
 	"small_capsule"
 	{
@@ -21,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_786e80ac64b3fff4ed08d7e5081db0adfd25fc33.jpg"
 	"store_asset_mtime" "1493983811"
 	"associations"
 	{
@@ -65,9 +67,9 @@
 		{
 			"public"
 			{
-				"gid" "1923798258558304932"
-				"size" "44194776"
-				"download" "13804528"
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
 			}
 		}
 		"depotfromapp" "1007"
@@ -99,9 +101,9 @@
 		{
 			"public"
 			{
-				"gid" "4884950798805348056"
-				"size" "73781292"
-				"download" "20270768"
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
 			}
 		}
 		"depotfromapp" "1007"
@@ -144,6 +146,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20307700"
-"_sha" "7e9c240fb4b9e888b1db0e9ac99e00ba49ec2d55"
-"_size" "2459"
+"_change_number" "26201212"
+"_sha" "a5de0ddb73dee17c061278a6975f034d50f47020"
+"_size" "2555"
