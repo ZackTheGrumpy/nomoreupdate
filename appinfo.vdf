@@ -73,7 +73,7 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "03aa33af6ef8a7aed51bab7069f713070d5751e8/header.jpg"
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 	}
@@ -155,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737468486"
+	"store_asset_mtime" "1740840143"
 	"associations"
 	{
 		"0"
@@ -299,8 +299,8 @@
 		"15" "12472"
 		"16" "4166"
 		"17" "4182"
-		"18" "552282"
-		"19" "6276"
+		"18" "6276"
+		"19" "552282"
 	}
 	"review_score" "8"
 	"review_percentage" "91"
@@ -309,6 +309,7 @@
 {
 	"developer" "One More Time"
 	"publisher" "One More Time"
+	"homepage" "https://tavernmanagersimulator.com/"
 	"listofdlc" "3387950"
 	"dlcavailableonstore" "1"
 }
@@ -337,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "4428735714200296544"
-				"size" "2252861448"
-				"download" "962242832"
+				"gid" "1578733401070349031"
+				"size" "2316024461"
+				"download" "981674768"
 			}
 		}
 	}
@@ -354,9 +355,9 @@
 		{
 			"public"
 			{
-				"gid" "5654203707068776114"
-				"size" "2252861448"
-				"download" "962366384"
+				"gid" "9007884387446703492"
+				"size" "2316024461"
+				"download" "981718256"
 			}
 		}
 	}
@@ -373,8 +374,8 @@
 	{
 		"public"
 		{
-			"buildid" "17333210"
-			"timeupdated" "1739349671"
+			"buildid" "17561120"
+			"timeupdated" "1740862279"
 		}
 	}
 	"privatebranches" "1"
@@ -398,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27435382"
-"_sha" "b9a2f6ebe2186a24961e9535e0edbe40c56db40f"
-"_size" "7745"
+"_change_number" "27736377"
+"_sha" "ccd46b0d4c2e06bda9e2592e9ce69ce29f9f971b"
+"_size" "7838"
