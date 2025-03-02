@@ -6,6 +6,7 @@
 	"type" "Tool"
 	"oslist" "windows"
 	"releasestate" "released"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -152,24 +153,6 @@
 				"size" "1195265678"
 				"download" "742297840"
 			}
-			"gameplay-test"
-			{
-				"gid" "3584075891478469510"
-				"size" "1153581674"
-				"download" "710892608"
-			}
-			"server"
-			{
-				"gid" "7206835189749626088"
-				"size" "763254397"
-				"download" "429933632"
-			}
-			"ue4"
-			{
-				"gid" "5841079007171390421"
-				"size" "968012082"
-				"download" "317262352"
-			}
 		}
 		"depotfromapp" "321400"
 	}
@@ -210,6 +193,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23760255"
-"_sha" "caadbea4a5dae7c5baca7bda06644238e0c847c2"
-"_size" "3239"
+"_change_number" "26685919"
+"_sha" "39484ce1e9e25010923ff44fc7e461d0886c6176"
+"_size" "2919"
