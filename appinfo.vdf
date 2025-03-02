@@ -119,7 +119,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1710143396"
+	"store_asset_mtime" "1740435453"
 	"associations"
 	{
 		"0"
@@ -186,7 +186,7 @@
 		"19" "7107"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -229,7 +229,7 @@
 		}
 		"2"
 		{
-			"executable" "World_Warfare_Economics.app"
+			"executable" "World Warfare & Economics.app"
 			"type" "default"
 			"config"
 			{
@@ -285,36 +285,9 @@
 		{
 			"public"
 			{
-				"gid" "8667869177775959561"
-				"size" "8764823983"
-				"download" "1776647888"
-			}
-			"beta-public"
-			{
-				"gid" "6023504960706832923"
-				"size" "9354023330"
-				"download" "1807587520"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta-dev"
-			{
-				"gid" "9A9A809C47034FB49300922199164E9E"
-				"size" "DF59DD04F9E445C73BE3B06714B99C86"
-				"download" "4B0F12EA25CF91D5E338DBB963D06328"
-			}
-			"history-dev"
-			{
-				"gid" "399BF7CBFB1F0D1551881CAB4AFEDC51"
-				"size" "23C9277C042790181CF4DDC73339E9DE"
-				"download" "3682BB2111EE80DA8113BE1921B90635"
-			}
-			"testing"
-			{
-				"gid" "07C4CD6BB0C9996BE8C33DC0D207F1CA"
-				"size" "C3ADADD7FFFFB90E82DF8DB04D949324"
-				"download" "0DB7F739338A32920935BBDC8E35D4EE"
+				"gid" "4969364959832158929"
+				"size" "7944950549"
+				"download" "2355297920"
 			}
 		}
 	}
@@ -328,36 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "7128318991779794081"
-				"size" "8712910019"
-				"download" "1755480912"
-			}
-			"beta-public"
-			{
-				"gid" "1749911337897195930"
-				"size" "9273960267"
-				"download" "1785562896"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta-dev"
-			{
-				"gid" "904821EE77124950947C057C824D6D68"
-				"size" "01A451304899F98600A0DAB3BF44415D"
-				"download" "16227ACFA599DD157A5B22CC3A486965"
-			}
-			"history-dev"
-			{
-				"gid" "FE542569CC4B18BF7D014B221E02357A"
-				"size" "D42815D8273F11DC5A171FD1740226A9"
-				"download" "A62BF8591B81C75DB3DDF031B454CBF6"
-			}
-			"testing"
-			{
-				"gid" "74AEDD38CD3A86ED54CCFAC091C322A7"
-				"size" "C9935F39D462F4C45101672CDE0CE0F1"
-				"download" "BDEB6D68DD20DC1CB8825DC4D6F224F8"
+				"gid" "3305905910792030005"
+				"size" "7917601633"
+				"download" "2346648880"
 			}
 		}
 	}
@@ -365,34 +311,11 @@
 	{
 		"public"
 		{
-			"buildid" "14603197"
-			"timeupdated" "1717531463"
-		}
-		"beta-dev"
-		{
-			"buildid" "15232496"
-			"pwdrequired" "1"
-			"timeupdated" "1722550795"
-		}
-		"beta-public"
-		{
-			"buildid" "15232496"
-			"description" "Beta branch for public"
-			"timeupdated" "1722550776"
-		}
-		"history-dev"
-		{
-			"buildid" "13644941"
-			"pwdrequired" "1"
-			"timeupdated" "1717517260"
-		}
-		"testing"
-		{
-			"buildid" "15232496"
-			"pwdrequired" "1"
-			"timeupdated" "1722550805"
+			"buildid" "17556374"
+			"timeupdated" "1740848374"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -404,7 +327,7 @@
 		{
 			"root" "WinAppDataLocalLow"
 			"path" "Okron Studio/World Warfare _ Economics/SaveGames"
-			"pattern" "*.json.gz"
+			"pattern" "*.wwe_data"
 			"platforms"
 			{
 				"1" "Windows"
@@ -414,7 +337,7 @@
 		{
 			"root" "MacAppSupport"
 			"path" "com.Okron-Studio.World-Warfare---Economics/SaveGames"
-			"pattern" "*.json.gz"
+			"pattern" "*.wwe_data"
 			"platforms"
 			{
 				"1" "MacOS"
@@ -424,7 +347,7 @@
 		{
 			"root" "LinuxXdgConfigHome"
 			"path" "unity3d/Okron Studio/World Warfare _ Economics/SaveGames"
-			"pattern" "*.json.gz"
+			"pattern" "*.wwe_data"
 			"platforms"
 			{
 				"1" "Linux"
@@ -434,7 +357,7 @@
 		{
 			"root" "WinAppDataLocalLow"
 			"path" "Okron Studio/World Warfare _ Economics/SaveGames"
-			"pattern" "*.meta"
+			"pattern" "*.wwe_meta"
 			"platforms"
 			{
 				"1" "Windows"
@@ -444,7 +367,7 @@
 		{
 			"root" "MacAppSupport"
 			"path" "com.Okron-Studio.World-Warfare---Economics/SaveGames"
-			"pattern" "*.meta"
+			"pattern" "*.wwe_meta"
 			"platforms"
 			{
 				"1" "MacOS"
@@ -454,7 +377,7 @@
 		{
 			"root" "LinuxXdgConfigHome"
 			"path" "unity3d/Okron Studio/World Warfare _ Economics/SaveGames"
-			"pattern" "*.meta"
+			"pattern" "*.wwe_meta"
 			"platforms"
 			{
 				"1" "Linux"
@@ -462,3 +385,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27735527"
+"_sha" "d686bd8844ca6dbe9e35ea763fb3bfd34f926448"
+"_size" "6820"
