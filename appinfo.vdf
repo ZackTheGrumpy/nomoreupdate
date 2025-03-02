@@ -207,7 +207,7 @@
 {
 	"developer" "kamti"
 	"publisher" "kamti"
-	"listofdlc" "1838410,2212700"
+	"listofdlc" "1838410,2212700,3550830"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -262,9 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "6947039975387585816"
-				"size" "3903351729"
-				"download" "3149604624"
+				"gid" "8810624960632273388"
+				"size" "3909976702"
+				"download" "3164834464"
 			}
 			"oldone"
 			{
@@ -284,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "494284940019202085"
-				"size" "3923816189"
-				"download" "3154893440"
+				"gid" "8754524821473740670"
+				"size" "3930737154"
+				"download" "3170090912"
 			}
 			"oldone"
 			{
@@ -306,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "5784228013663459621"
-				"size" "3892228173"
-				"download" "3145897248"
+				"gid" "5364851604368922326"
+				"size" "3898934482"
+				"download" "3161096768"
 			}
 			"oldone"
 			{
@@ -322,8 +322,8 @@
 	{
 		"public"
 		{
-			"buildid" "17474198"
-			"timeupdated" "1740324147"
+			"buildid" "17565665"
+			"timeupdated" "1740927884"
 		}
 		"oldone"
 		{
@@ -340,6 +340,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "27620232"
-"_sha" "e0cd5037d0d6ca00f4bb3f1af4bd792ba7fe3613"
-"_size" "5813"
+"_change_number" "27742539"
+"_sha" "0f1c8390dedbdf0ae570d007ec00e25c57ca37de"
+"_size" "5822"
