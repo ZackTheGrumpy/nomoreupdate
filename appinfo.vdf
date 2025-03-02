@@ -74,18 +74,18 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
-		"schinese" "3be21cfa9e137a0c9677dd9a3529e73985fadc68/capsule_231x87_schinese.jpg"
-		"japanese" "b013c2fe6be0ed8c4d9fdd9a616f98daa181ccd2/capsule_231x87_japanese.jpg"
-		"koreana" "dee4f075173e83f83e250685d61612f6a2e559b6/capsule_231x87_koreana.jpg"
-		"tchinese" "1f53c958e9c94a4612ddf4c0f3b567ff32bd1ce5/capsule_231x87_tchinese.jpg"
+		"schinese" "971d4fb5bf4904ae29196d8f5e482f08bfe3ac0a/capsule_231x87_schinese.jpg"
+		"japanese" "f2a54a8b42152b58139d34aeb577801dd7ade726/capsule_231x87_japanese.jpg"
+		"koreana" "72efb1a432e3f3303d4b6bf2b0529010992cb00d/capsule_231x87_koreana.jpg"
+		"tchinese" "c67dc8cc1e2f3fc7b98e5da7b0dd1618bcdc2508/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
-		"japanese" "header_japanese.jpg"
-		"koreana" "header_koreana.jpg"
-		"tchinese" "header_tchinese.jpg"
+		"schinese" "644991024a7e4cc33b564d1e70e0e834c552435b/header_schinese.jpg"
+		"japanese" "fc4642da6b8622ef951213f7a6b2b32fcc20d60c/header_japanese.jpg"
+		"koreana" "55891b53b395a4d6e854cf08be874d1a088685bb/header_koreana.jpg"
+		"tchinese" "3f624e37042a0c9d72e274c75934ba0e3144cac4/header_tchinese.jpg"
 	}
 	"library_assets"
 	{
@@ -186,7 +186,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736740138"
+	"store_asset_mtime" "1740621469"
 	"associations"
 	{
 		"0"
@@ -309,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "2440131334581916491"
-				"size" "650065342"
-				"download" "239528144"
+				"gid" "7385482556216339328"
+				"size" "650071892"
+				"download" "239530128"
 			}
 		}
 	}
@@ -333,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "2514039094667734494"
-				"size" "650065342"
-				"download" "239537040"
+				"gid" "4600263036084503028"
+				"size" "650071892"
+				"download" "239539024"
 			}
 		}
 	}
@@ -343,8 +343,8 @@
 	{
 		"public"
 		{
-			"buildid" "17515416"
-			"timeupdated" "1740576177"
+			"buildid" "17565266"
+			"timeupdated" "1740921568"
 		}
 	}
 }
@@ -396,6 +396,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27675948"
-"_sha" "d6afe31cec101400bd3097b9ca47d52e612c372c"
-"_size" "9134"
+"_change_number" "27741871"
+"_sha" "c7624e60aa8b75ffc70bf24fdb41ef4001604f7d"
+"_size" "9298"
