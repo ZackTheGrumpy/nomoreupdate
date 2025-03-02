@@ -93,7 +93,49 @@
 			"height_pct" "80.77653763951555"
 		}
 	}
-	"store_asset_mtime" "1714121132"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "77.09302325581396"
+				"height_pct" "80.77653763951555"
+			}
+		}
+	}
+	"store_asset_mtime" "1737451131"
 	"associations"
 	{
 		"0"
@@ -109,7 +151,7 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "Iceberg Interactive"
+			"name" "Bad Viking"
 		}
 	}
 	"primary_genre" "28"
@@ -216,13 +258,13 @@
 	{
 		"0" "5716"
 		"1" "1664"
-		"2" "30358"
-		"3" "8369"
+		"2" "8369"
+		"3" "30358"
 		"4" "3834"
 		"5" "1654"
-		"6" "3871"
-		"7" "5613"
-		"8" "6426"
+		"6" "5613"
+		"7" "6426"
+		"8" "3871"
 		"9" "6971"
 		"10" "1742"
 		"11" "599"
@@ -235,8 +277,8 @@
 		"18" "4598"
 		"19" "4305"
 	}
-	"review_score" "9"
-	"review_percentage" "95"
+	"review_score" "8"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -283,30 +325,9 @@
 		{
 			"public"
 			{
-				"gid" "2507652799571089426"
-				"size" "716294653"
-				"download" "233894208"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pre-release"
-			{
-				"gid" "BBD75B794E2C754BD224AF82993C51B9"
-				"size" "2F6A3CFEDBAE4392BA214A6944ED0358"
-				"download" "0D24386C2216F25C4937764A3C34E899"
-			}
-			"qatesting"
-			{
-				"gid" "5F7C0D2769F9E6E5CA32F44305114A74"
-				"size" "9629CA2807086ADD3AD49C9CB5910C4D"
-				"download" "96CE96745F2F8116D8E4EED68B93E0AD"
-			}
-			"iceberg"
-			{
-				"gid" "2F167F828C2198ABCC6DB0810E53836E"
-				"size" "70F4C6A5992E32D27477CF7D57CD24E9"
-				"download" "4B77BF5C7D71AFC35C1777D51C5A2A82"
+				"gid" "5132607692592855863"
+				"size" "716009385"
+				"download" "234064560"
 			}
 		}
 	}
@@ -325,42 +346,16 @@
 				"download" "226929328"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"iceberg"
-			{
-				"gid" "4162D87376E35C5AF2986E42C6D69DDA"
-				"size" "D18E14FE39CDC13B02298F3592CA6FEC"
-				"download" "166DA0D660E5339216C89143478B02C6"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14587791"
-			"timeupdated" "1717433677"
-		}
-		"pre-release"
-		{
-			"buildid" "9706347"
-			"pwdrequired" "1"
-			"timeupdated" "1665664796"
-		}
-		"qatesting"
-		{
-			"buildid" "9706347"
-			"pwdrequired" "1"
-			"timeupdated" "1665664806"
-		}
-		"iceberg"
-		{
-			"buildid" "14484971"
-			"pwdrequired" "1"
-			"timeupdated" "1716566140"
+			"buildid" "14595000"
+			"timeupdated" "1717487518"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -395,6 +390,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23807858"
-"_sha" "68647e9b699f47d6c26100c475bc9b3c1674a42a"
-"_size" "7197"
+"_change_number" "27090348"
+"_sha" "b9bde6ae4bd87fff5141c72b84fdc26d06a551b4"
+"_size" "6755"
