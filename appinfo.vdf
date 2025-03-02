@@ -199,15 +199,15 @@
 		{
 			"public"
 			{
-				"gid" "3642290685091591291"
-				"size" "167270089"
-				"download" "101055584"
+				"gid" "5779929740895573741"
+				"size" "167260587"
+				"download" "101053728"
 			}
 			"beta"
 			{
-				"gid" "3642290685091591291"
-				"size" "167270089"
-				"download" "101055584"
+				"gid" "5779929740895573741"
+				"size" "167260587"
+				"download" "101053728"
 			}
 			"classicmode"
 			{
@@ -221,14 +221,14 @@
 	{
 		"public"
 		{
-			"buildid" "17511516"
-			"timeupdated" "1740557838"
+			"buildid" "17562009"
+			"timeupdated" "1740874674"
 		}
 		"beta"
 		{
-			"buildid" "17511516"
+			"buildid" "17562009"
 			"description" "Faction Test"
-			"timeupdated" "1740557811"
+			"timeupdated" "1740874166"
 		}
 		"classicmode"
 		{
@@ -259,6 +259,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27671181"
-"_sha" "d2c973102605730159a4b8258ca9a4a539b837f3"
+"_change_number" "27737608"
+"_sha" "e6460ecfffeba6039ec2cc87bc9bbf0b720544e1"
 "_size" "4296"
