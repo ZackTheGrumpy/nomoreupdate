@@ -26,8 +26,9 @@
 	"osextended" "macos64"
 	"content_descriptors"
 	{
-		"0" "2"
-		"1" "5"
+		"0" "1"
+		"1" "2"
+		"2" "5"
 	}
 	"steam_deck_compatibility"
 	{
@@ -234,14 +235,14 @@
 		"3" "4166"
 		"4" "1721"
 		"5" "4345"
-		"6" "1662"
-		"7" "4182"
+		"6" "4182"
+		"7" "1662"
 		"8" "4342"
 		"9" "21"
 		"10" "19"
-		"11" "492"
-		"12" "1687"
-		"13" "3859"
+		"11" "3859"
+		"12" "492"
+		"13" "1687"
 		"14" "6650"
 		"15" "4036"
 		"16" "4026"
@@ -353,33 +354,6 @@
 				"download" "3343232896"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C5A2863EA8D384EE353F55B3850603CA"
-				"size" "3813B11281E2D8C0A082D6F95F455A8F"
-				"download" "3FB59E167961155ACE872925030FC934"
-			}
-			"dlctest"
-			{
-				"gid" "E5A0CD6584849FBACDA91746837A5B46"
-				"size" "B828231E8986E07645C2A8827DFF8701"
-				"download" "1AAC367FBD0DFFBBFECC9D5E61C215E1"
-			}
-			"linuxtest"
-			{
-				"gid" "9BC9A4E663E9D17BBB7A610D946D3605"
-				"size" "D20C193139233C534DFD8D378154D57E"
-				"download" "4F2C9C2FC9689B9A8057E6DD7355B942"
-			}
-			"mactest"
-			{
-				"gid" "BB1B9CE7CC59EC0C017030A5B87492AA"
-				"size" "5A06D2C5162D6536FD748C394E478670"
-				"download" "C511B31AE743BFA971422525BC0DD24C"
-			}
-		}
 	}
 	"273300"
 	{
@@ -394,33 +368,6 @@
 				"gid" "7518923783983972229"
 				"size" "2304427255"
 				"download" "1992254608"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "D62F0B62B58E4FF2AD5F1490FA7F76A7"
-				"size" "897F6DA1D598BE4A94D3AE43CBA7B0EA"
-				"download" "F3BB2983B949E6656727122FA1DF2420"
-			}
-			"dlctest"
-			{
-				"gid" "B113B42B55223C74E0B926AE56783C1C"
-				"size" "F98797DB6C0ABCED7787F77A7E538080"
-				"download" "1AAC367FBD0DFFBBFECC9D5E61C215E1"
-			}
-			"linuxtest"
-			{
-				"gid" "F8B2C189B5D9E1AC15A98515CC4A969F"
-				"size" "445345D4E8D75CC9ADEACD5C83A800D1"
-				"download" "4F2C9C2FC9689B9A8057E6DD7355B942"
-			}
-			"mactest"
-			{
-				"gid" "F1C8794D8AC646E3C51385AE96FB0D99"
-				"size" "1483EFD1A465AC9076D520CF32A1B9EC"
-				"download" "C511B31AE743BFA971422525BC0DD24C"
 			}
 		}
 		"dlcappid" "273300"
@@ -440,21 +387,6 @@
 				"download" "2849755360"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C100765A751924A94D28BD1AC00E5C99"
-				"size" "3F330302735F41F0242D811135B1F2A1"
-				"download" "EAC50F767A2CD1AC4EC708960B188450"
-			}
-			"linuxtest"
-			{
-				"gid" "BB8258923BEBE2E120EBB33B9C9FFC4F"
-				"size" "7380D7C1869D505315A348F67BB056AA"
-				"download" "17F1AF4371F5653E4347276E6E549695"
-			}
-		}
 	}
 	"238323"
 	{
@@ -469,21 +401,6 @@
 				"gid" "3317545544496803274"
 				"size" "3401037827"
 				"download" "2813215248"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "366ABCF298D85F24D2B260ACC0DC5EA6"
-				"size" "36B97A59735EAC5AC534B01D3FD6B328"
-				"download" "224C6EBD3230B2AAFF069BCC7FF2DDB5"
-			}
-			"mactest"
-			{
-				"gid" "58F0F050984C95173E612D3323DE8B25"
-				"size" "7962BF6561B27767874B2B4BB3CA6095"
-				"download" "9876F606F2425C79A934E11C03BF6695"
 			}
 		}
 	}
@@ -503,21 +420,6 @@
 				"download" "2016638672"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "4C5400F0525B90888224E58444C511CE"
-				"size" "740891E3B599464EC669F8A939A7102D"
-				"download" "44A21EF57AF674F6955AD0CC8A43AF21"
-			}
-			"mactest"
-			{
-				"gid" "0F5FCF32477FE3ED6214C9EF6C7422F8"
-				"size" "8B8A98029DE08A8C416F61EE75F8A910"
-				"download" "AF33B4A2ACEFE9503E0C2CF805481258"
-			}
-		}
 	}
 	"238325"
 	{
@@ -535,21 +437,6 @@
 				"download" "2018178352"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C4D67571D1557216CC402CEC5D7F3910"
-				"size" "060112F2A18DD7F89F915F2708B313C7"
-				"download" "786F97C5D7A6B6BBC45FC09DC2630E09"
-			}
-			"linuxtest"
-			{
-				"gid" "54D4FFFC9C59815B4BA03DBFED28E09C"
-				"size" "684539F7F5EA66FC363094E5B26B7E87"
-				"download" "0F13B2C414BDCD32CD63BA0BDF88E7E8"
-			}
-		}
 	}
 	"branches"
 	{
@@ -557,30 +444,15 @@
 		{
 			"buildid" "576074"
 		}
-		"beta"
-		{
-			"buildid" "576074"
-			"pwdrequired" "1"
-		}
-		"dlctest"
-		{
-			"buildid" "253650"
-			"pwdrequired" "1"
-		}
-		"linuxtest"
-		{
-			"buildid" "570781"
-			"pwdrequired" "1"
-		}
-		"mactest"
-		{
-			"buildid" "570808"
-			"pwdrequired" "1"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10485760"
 	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "27280308"
+"_sha" "2d4fd7b92094955a253976ec90ecc541b6b187d4"
+"_size" "7540"
