@@ -168,7 +168,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729786769"
+	"store_asset_mtime" "1736367938"
 	"associations"
 	{
 		"0"
@@ -375,33 +375,6 @@
 				"download" "128262212208"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "221FC697DF0C9A0B26A861C7CA8316D0"
-				"size" "006BA3ACEB6E1F35E5C1C0F724DEA380"
-				"download" "7E6495685046D23F1B401975FCFC1CEC"
-			}
-			"delta"
-			{
-				"gid" "418FE95A23966BDAB4D47A83C4FFBDDF"
-				"size" "F90FF62A2E49B800375B9F4FAF4FE78A"
-				"download" "8ECBB59F3B80D8A4CA211FBC76F8B6C2"
-			}
-			"valve"
-			{
-				"gid" "ECBC131707714A04350F44D195E94B3E"
-				"size" "D08CAE534B6CD0A26AEE0EC971E18B1D"
-				"download" "AC69B08615704DAE6B60D994F7F6B041"
-			}
-			"beta"
-			{
-				"gid" "3878EC26A9D4109A3712323349102126"
-				"size" "3BBED08F8681F5E0EECD29611C0DA80B"
-				"download" "E47FC4185E7FB22CA15220872B487BCB"
-			}
-		}
 	}
 	"branches"
 	{
@@ -410,33 +383,10 @@
 			"buildid" "16180846"
 			"timeupdated" "1730383367"
 		}
-		"bluedove"
-		{
-			"buildid" "2883352"
-			"pwdrequired" "1"
-			"timeupdated" "1529595689"
-		}
-		"delta"
-		{
-			"buildid" "3289106"
-			"pwdrequired" "1"
-			"timeupdated" "1541795408"
-		}
-		"valve"
-		{
-			"buildid" "2800451"
-			"pwdrequired" "1"
-			"timeupdated" "1548901742"
-		}
-		"beta"
-		{
-			"buildid" "16180846"
-			"pwdrequired" "1"
-			"timeupdated" "1729861530"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25990378"
-"_sha" "4fa74b4c1b726fea957d0eb08570e3fd8b98db6e"
-"_size" "8996"
+"_change_number" "27353688"
+"_sha" "079d035f5246523d3bfa84d3e021915fb5c6b4cb"
+"_size" "7894"
