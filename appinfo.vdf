@@ -1,7 +1,7 @@
 "appid" "1240590"
 "common"
 {
-	"name" "Sir Whoopass"
+	"name" "Sir Whoopass™: Immortal Death"
 	"type" "Game"
 	"oslist" "windows"
 	"osarch" ""
@@ -162,11 +162,6 @@
 			"type" "publisher"
 			"name" "Aurora Punks"
 		}
-		"3"
-		{
-			"type" "franchise"
-			"name" "Sir Whoopass"
-		}
 	}
 	"primary_genre" "1"
 	"genres"
@@ -255,13 +250,13 @@
 		"0" "122"
 		"1" "4231"
 		"2" "1695"
-		"3" "19"
-		"4" "1685"
+		"3" "1685"
+		"4" "19"
 		"5" "3859"
 		"6" "10397"
 		"7" "1773"
-		"8" "4508"
-		"9" "4136"
+		"8" "4136"
+		"9" "4508"
 		"10" "1646"
 		"11" "4106"
 		"12" "4158"
@@ -314,150 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "394781008259556141"
-				"size" "22692904620"
-				"download" "8642113200"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"1.0.1-873"
-			{
-				"gid" "4C9865FBDD7F2742A03B7733CF4365AE"
-				"size" "6929B228ED208BCF0B9442938FF20398"
-				"download" "D8E952F4A9129C3FBDE3FD3F3B57F802"
-			}
-			"1.0.10-937"
-			{
-				"gid" "B0395FBF3814D19C84D172773E03A843"
-				"size" "DB4D92669BE9A8DC4034C607056F9DC7"
-				"download" "CB7E2697344C6792431E7BD152774772"
-			}
-			"1.0.2-875"
-			{
-				"gid" "BA74155C6974B1CF4AA63FE439A8FCC6"
-				"size" "7AFFACA3319E51E0719EE8ACB891B6C6"
-				"download" "93FF13D7444234D472210FA83014C3BB"
-			}
-			"1.0.3-879"
-			{
-				"gid" "24F93D7E41D715A9E81A2C0C94D5D14B"
-				"size" "B6F7F2069B4446078AE963C34CD1DAD0"
-				"download" "02BDF47B2397E7C138876524805696F4"
-			}
-			"1.0.4-887"
-			{
-				"gid" "874D8AD0EE2299BDEEB7CA44ABEE588F"
-				"size" "DCA5EAE10684A387655DFD661A62E500"
-				"download" "A08571F0C70A280361BFDBEAF795E04A"
-			}
-			"1.0.5-888"
-			{
-				"gid" "E27A7F0C85887DC1732FBD243F88D7F1"
-				"size" "3BC025EC6F345C2BF352C11A7171D878"
-				"download" "93CAA0265B0BE1E2A0EF300FA06F0FB2"
-			}
-			"1.0.6-889"
-			{
-				"gid" "1752C3FD0DAF5198DB542CAA42FE3213"
-				"size" "51AAC671BECB037763D885C8BC3CC7FA"
-				"download" "909C9D69AAACD37F167F479B78B293DA"
-			}
-			"1.0.7-900"
-			{
-				"gid" "452F45490601F5AD7915A48F7DEAE015"
-				"size" "89A9AF461C5797D65897C167F763C28F"
-				"download" "D83B9EB727298F43C9E56705F43FF9B4"
-			}
-			"1.0.8-904"
-			{
-				"gid" "296C2DB6FE487ACDFBFC0C91E33F2829"
-				"size" "875BCEB741E0BDACC5192201A94E7AD3"
-				"download" "D8C27E39A791BB4020AB48CFD0540352"
-			}
-			"1.0.9-935"
-			{
-				"gid" "139A2D3CB4DFA3DAD6FB1F642F65BFD7"
-				"size" "514F2C952CB9803698C51C820EEAB489"
-				"download" "2D085CF44941C011FD866BAA9C913C0D"
-			}
-			"2.0.0-964"
-			{
-				"gid" "F7963B713CE7129E24EB7E52DD119F52"
-				"size" "778F1702810761F6DEF6DFB5BFE1F440"
-				"download" "279D76A2ABB91D02083B100013AFF678"
-			}
-			"2.0.1-967"
-			{
-				"gid" "9D212B5BA37F43837D7589D89619F5DF"
-				"size" "46E6D7A7E4EEECC9CE2CB8E84DB558EA"
-				"download" "DD66CB350F17297C3B8596F9C8F499DB"
-			}
-			"2.0.1-969"
-			{
-				"gid" "F3626735CB27B239DAFE342E07F4FF51"
-				"size" "289BB203AF9D430BB66E21AA43A574AC"
-				"download" "26E83E21C400659215BD0AB37CB539AC"
-			}
-			"2.0.1-970"
-			{
-				"gid" "AD5717726313BF1F6EB5069724DF204D"
-				"size" "80DD61B8F82CAED26925DFB9DE572003"
-				"download" "C8D90358720A3CDAD96930C84A0D05DA"
-			}
-			"2.1.0-1012"
-			{
-				"gid" "C22B36EBEAD78E3195F3828EEE70BEC6"
-				"size" "EEF3A39AB4C35F7077372552E037DD23"
-				"download" "DE379384A58807CD5A17146D8703EA37"
-			}
-			"2.1.1-1028"
-			{
-				"gid" "B22E4411DC42F0AA4C036DCAF4B5FD1D"
-				"size" "0FB4394D51BDCC40AF97D4F2C8760332"
-				"download" "93AE62D086876D4FD593C20E90BFEA2D"
-			}
-			"beta1"
-			{
-				"gid" "B8800C69EFFAA7ACDB154BC0C339A1FB"
-				"size" "A0AFD23BB4B9D5F8DC22F126FC6F9A98"
-				"download" "4E6F385E4AD87808AD113B85349DCC50"
-			}
-			"beta2"
-			{
-				"gid" "0B2BF122B35CA020FEA771805D71E6F4"
-				"size" "71624D05403DF83EFA3755F7C62BE137"
-				"download" "430B2DCC9A5F8995C6190F31955AE9E4"
-			}
-			"beta3"
-			{
-				"gid" "8569D48671463DB10B7CB96E31A597D1"
-				"size" "0D7E38F17D22A416A28552692E989790"
-				"download" "1593249669788FBA5C2FD011D038DDC9"
-			}
-			"2.3.5-1211"
-			{
-				"gid" "236D2D8167DD87434592C73F90C834C0"
-				"size" "A11C63B84DCBE95D588A86BC4E9539A7"
-				"download" "E532785ABA784E4F03553CB5F5BDD0BB"
-			}
-			"3.0.8-test"
-			{
-				"gid" "2ADEA9D47B2ED3AE8F6F94F778F87C51"
-				"size" "3B54B3C761FF5CA10E44C5F4547C62D1"
-				"download" "330AD433B3FC114DA4F2AE739DCBA4ED"
-			}
-			"development"
-			{
-				"gid" "722EC891C240FC5CE28737513E64AAAD"
-				"size" "4E542A8A206D6E7B9C0B70373902737B"
-				"download" "EC56E8CE83416DAAE49598122DE3980E"
-			}
-			"experiment"
-			{
-				"gid" "61F00F0D6F5E1B12EAF85009730423AA"
-				"size" "E94CC5155983C775DE839ED5B814B732"
-				"download" "6894E0E3504FFDEF2782279820B555C7"
+				"gid" "6756701507222318939"
+				"size" "22694096918"
+				"download" "8641896400"
 			}
 		}
 	}
@@ -465,148 +319,11 @@
 	{
 		"public"
 		{
-			"buildid" "16287846"
-			"timeupdated" "1730734171"
-		}
-		"1.0.1-873"
-		{
-			"buildid" "9332949"
-			"pwdrequired" "1"
-			"timeupdated" "1660990510"
-		}
-		"1.0.10-937"
-		{
-			"buildid" "9787358"
-			"pwdrequired" "1"
-			"timeupdated" "1666628389"
-		}
-		"1.0.2-875"
-		{
-			"buildid" "9353440"
-			"pwdrequired" "1"
-			"timeupdated" "1660991171"
-		}
-		"1.0.3-879"
-		{
-			"buildid" "9373151"
-			"pwdrequired" "1"
-			"timeupdated" "1661281538"
-		}
-		"1.0.4-887"
-		{
-			"buildid" "9431315"
-			"pwdrequired" "1"
-			"timeupdated" "1662031961"
-		}
-		"1.0.5-888"
-		{
-			"buildid" "9441092"
-			"pwdrequired" "1"
-			"timeupdated" "1662273004"
-		}
-		"1.0.6-889"
-		{
-			"buildid" "9446044"
-			"pwdrequired" "1"
-			"timeupdated" "1662235049"
-		}
-		"1.0.7-900"
-		{
-			"buildid" "9545861"
-			"pwdrequired" "1"
-			"timeupdated" "1663602571"
-		}
-		"1.0.8-904"
-		{
-			"buildid" "9599713"
-			"pwdrequired" "1"
-			"timeupdated" "1664286400"
-		}
-		"1.0.9-935"
-		{
-			"buildid" "9785340"
-			"pwdrequired" "1"
-			"timeupdated" "1666616310"
-		}
-		"2.0.0-964"
-		{
-			"buildid" "10075211"
-			"pwdrequired" "1"
-			"timeupdated" "1670177280"
-		}
-		"2.0.1-967"
-		{
-			"buildid" "10114813"
-			"pwdrequired" "1"
-			"timeupdated" "1670597907"
-		}
-		"2.0.1-969"
-		{
-			"buildid" "10120684"
-			"pwdrequired" "1"
-			"timeupdated" "1670682059"
-		}
-		"2.0.1-970"
-		{
-			"buildid" "10128130"
-			"pwdrequired" "1"
-			"timeupdated" "1670848503"
-		}
-		"2.1.0-1012"
-		{
-			"buildid" "10464118"
-			"pwdrequired" "1"
-			"timeupdated" "1675365013"
-		}
-		"2.1.1-1028"
-		{
-			"buildid" "10629131"
-			"pwdrequired" "1"
-			"timeupdated" "1677246080"
-		}
-		"beta1"
-		{
-			"buildid" "8285725"
-			"pwdrequired" "1"
-			"timeupdated" "1646061062"
-		}
-		"beta2"
-		{
-			"buildid" "8848063"
-			"pwdrequired" "1"
-			"timeupdated" "1654062440"
-		}
-		"beta3"
-		{
-			"buildid" "9097703"
-			"pwdrequired" "1"
-			"timeupdated" "1657782111"
-		}
-		"2.3.5-1211"
-		{
-			"buildid" "14326730"
-			"pwdrequired" "1"
-			"timeupdated" "1720075725"
-		}
-		"3.0.8-test"
-		{
-			"buildid" "15876898"
-			"pwdrequired" "1"
-			"timeupdated" "1727854157"
-		}
-		"development"
-		{
-			"buildid" "16287846"
-			"pwdrequired" "1"
-			"timeupdated" "1730727390"
-		}
-		"experiment"
-		{
-			"buildid" "16251503"
-			"pwdrequired" "1"
-			"timeupdated" "1730382958"
+			"buildid" "17536967"
+			"timeupdated" "1740916056"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -623,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26039306"
-"_sha" "2d7aef34721214377a795429676904b8222f8fb8"
-"_size" "12543"
+"_change_number" "27741362"
+"_sha" "f9d2dafcbc1aa1599d5c2ad7f32a4c6000294441"
+"_size" "6044"
