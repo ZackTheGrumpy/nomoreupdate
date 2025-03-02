@@ -9,6 +9,7 @@
 	"metacritic_url" "pc/racethewtccgame"
 	"name" "Race: The WTCC Game"
 	"type" "game"
+	"restricted_countries" "DE"
 	"metacritic_name" "RACE - The WTCC Game"
 	"small_capsule"
 	{
@@ -18,6 +19,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "0000000899.jpg"
 	"associations"
 	{
 		"0"
@@ -231,6 +233,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23591175"
-"_sha" "c8cbbc036096794deed6822343caeda33f49d19c"
-"_size" "3850"
+"_change_number" "26253459"
+"_sha" "5953099a3958d2bf606357fe05473515c94c5637"
+"_size" "3920"
