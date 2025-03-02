@@ -12,6 +12,7 @@
 	"clienttga" "63984710cac48f55ce31b3eaec3f0f3d85d3d572"
 	"releasestate" "released"
 	"osarch" ""
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -57,9 +58,9 @@
 		{
 			"public"
 			{
-				"gid" "1923798258558304932"
-				"size" "44194776"
-				"download" "13804528"
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
 			}
 		}
 		"depotfromapp" "1007"
@@ -91,9 +92,9 @@
 		{
 			"public"
 			{
-				"gid" "4884950798805348056"
-				"size" "73781292"
-				"download" "20270768"
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
 			}
 		}
 		"depotfromapp" "1007"
@@ -113,15 +114,6 @@
 				"download" "1149580272"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "4DF24B89134CD1C47B25D1249983CBE3"
-				"size" "2144D7A416CB8125ACB2306F9A0D8474"
-				"download" "2F0D3C11EBBA6ED48B2E68C69AE21DC5"
-			}
-		}
 	}
 	"490502"
 	{
@@ -139,15 +131,6 @@
 				"download" "1045922016"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "ED2FA7909F200D70772B29793504B9BA"
-				"size" "78C5C21C5F5CA64B94A1F2B7F0149D1C"
-				"download" "3AE5A96DAB7FB1310CDAD376F54B3B8A"
-			}
-		}
 	}
 	"branches"
 	{
@@ -156,15 +139,10 @@
 			"buildid" "3612103"
 			"timeupdated" "1551633058"
 		}
-		"test"
-		{
-			"buildid" "2925358"
-			"pwdrequired" "1"
-			"timeupdated" "1530899122"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "20307700"
-"_sha" "6100d2a2b2c3b474c2e25777bf94b016c10bc2c1"
-"_size" "2687"
+"_change_number" "27209232"
+"_sha" "42ef989077f170501a36401f55e259835f733443"
+"_size" "2228"
