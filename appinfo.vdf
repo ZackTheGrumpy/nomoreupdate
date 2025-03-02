@@ -23,6 +23,7 @@
 		}
 	}
 	"app_retired_publisher_request" "1"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -53,9 +54,9 @@
 		{
 			"public"
 			{
-				"gid" "1923798258558304932"
-				"size" "44194776"
-				"download" "13804528"
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
 			}
 		}
 		"depotfromapp" "1007"
@@ -87,9 +88,9 @@
 		{
 			"public"
 			{
-				"gid" "4884950798805348056"
-				"size" "73781292"
-				"download" "20270768"
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
 			}
 		}
 		"depotfromapp" "1007"
@@ -103,21 +104,6 @@
 				"gid" "7434786363037661907"
 				"size" "3586334226"
 				"download" "2131320144"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "400E8E0C483CA22E442A350C6696A3F9"
-				"size" "094EB60CD27C1CD44C65EBF6E947DD70"
-				"download" "B08D9DF770009DC2054E2A1099DA0C7F"
-			}
-			"staging_parallel"
-			{
-				"gid" "0406D348628A434815F41244ED76D25B"
-				"size" "35AE8FED507530B13DF2B8B0B6C1E80C"
-				"download" "4CADFF567F5A587A53989659AA727764"
 			}
 		}
 	}
@@ -136,21 +122,6 @@
 				"download" "37537616"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "39DAD7AA4099255C814098383B64801D"
-				"size" "88C48606385E3F0D3F1A11289EA13968"
-				"download" "AC65F2669586F535536C694C6FA44A87"
-			}
-			"staging_parallel"
-			{
-				"gid" "F4089B37C5334AE2D3B0CDA136C0D5EF"
-				"size" "0C85EA176D45E08F6AC03C24C509517A"
-				"download" "F34DA7CD9F08CFEADBBF6514B72BB2A9"
-			}
-		}
 	}
 	"563933"
 	{
@@ -167,21 +138,6 @@
 				"download" "17734208"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "9A10AA85412397495B557B672025E018"
-				"size" "6BCF8B2D346D6488235D065379CB0ABA"
-				"download" "EDFFB2CD85ADA8340A7843E5A21C9790"
-			}
-			"staging_parallel"
-			{
-				"gid" "CB17EA908F0E2D6F1015EFB82A08C705"
-				"size" "D4F95E2D2EC251AE98106DE34B8F33F5"
-				"download" "04C494E6B1824929277DD7AE8C49BE64"
-			}
-		}
 	}
 	"branches"
 	{
@@ -190,21 +146,10 @@
 			"buildid" "2894704"
 			"timeupdated" "1530015038"
 		}
-		"staging"
-		{
-			"buildid" "2894704"
-			"pwdrequired" "1"
-			"timeupdated" "1529992511"
-		}
-		"staging_parallel"
-		{
-			"buildid" "2232783"
-			"pwdrequired" "1"
-			"timeupdated" "1509030573"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "20307700"
-"_sha" "79beb90188c457f125050c9e6a1b484cc886b462"
-"_size" "3642"
+"_change_number" "27015870"
+"_sha" "c10021cc4f4912419b14f190f4ad3c8339ad98ba"
+"_size" "2309"
