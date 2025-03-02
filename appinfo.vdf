@@ -22,6 +22,7 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"openvrsupport" "1"
+	"restricted_countries" "DE"
 	"metacritic_name" "Ancient Amuletor VR"
 	"small_capsule"
 	{
@@ -37,6 +38,7 @@
 		"tchinese" "header_tchinese.jpg"
 		"japanese" "header_japanese.jpg"
 	}
+	"store_screenshot" "ss_3ed87d610e2987fdeddfef2a84974e116845dc82.jpg"
 	"store_asset_mtime" "1528911038"
 	"associations"
 	{
@@ -222,3 +224,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "ecadce7f325447b53c49dfd37441f6fafc2d2812"
+"_size" "3771"
