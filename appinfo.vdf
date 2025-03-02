@@ -12,6 +12,7 @@
 	"clienticon" "8ed86e1eb060d83fcd89adf340d9b7ff7a72231c"
 	"clienttga" "403fcf6d3f78c4848f7ef6706450bba781f9e853"
 	"clienticns" "8ed86e1eb060d83fcd89adf340d9b7ff7a72231c"
+	"restricted_countries" "DE"
 	"metacritic_name" "Colorless Life"
 	"small_capsule"
 	{
@@ -21,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_ea771b59e12e00790f691c860e76a2ff6f9d4186.jpg"
 	"store_asset_mtime" "1499014296"
 	"associations"
 	{
@@ -79,7 +81,7 @@
 		"8" "9541"
 	}
 	"review_score" "5"
-	"review_percentage" "51"
+	"review_percentage" "48"
 }
 "extended"
 {
@@ -149,3 +151,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26771662"
+"_sha" "102023bf224dbe0caf21368eed89d266c5ea2777"
+"_size" "2536"
