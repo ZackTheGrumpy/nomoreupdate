@@ -123,7 +123,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737397344"
+	"store_asset_mtime" "1740945804"
 	"associations"
 	{
 		"0"
@@ -225,15 +225,9 @@
 		{
 			"public"
 			{
-				"gid" "9106869318654686580"
-				"size" "416049272"
-				"download" "117703776"
-			}
-			"beta"
-			{
-				"gid" "122909329236019265"
-				"size" "414833161"
-				"download" "118639936"
+				"gid" "9068372881963351363"
+				"size" "414875625"
+				"download" "118597504"
 			}
 		}
 	}
@@ -241,18 +235,12 @@
 	{
 		"public"
 		{
-			"buildid" "17068238"
-			"timeupdated" "1737397733"
-		}
-		"beta"
-		{
-			"buildid" "17396366"
-			"description" "beta 0.12"
-			"timeupdated" "1739812792"
+			"buildid" "17566824"
+			"timeupdated" "1740945513"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27550872"
-"_sha" "ce83c5be3aa3528ade3831793ede934510a60bb9"
-"_size" "4198"
+"_change_number" "27744643"
+"_sha" "3568634ad1dfa26eb42866fd51f2d8efe4892b35"
+"_size" "3979"
