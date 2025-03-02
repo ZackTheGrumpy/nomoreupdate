@@ -24,6 +24,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_cffaa2a7e449434a1388d46eec907e93a5e6598d.jpg"
 	"store_asset_mtime" "1713714047"
 	"associations"
 	{
@@ -116,9 +117,9 @@
 		{
 			"public"
 			{
-				"gid" "3381002053362768780"
-				"size" "143696356"
-				"download" "111528384"
+				"gid" "1381490077279130853"
+				"size" "275913243"
+				"download" "224518800"
 			}
 		}
 		"dlcappid" "2464590"
@@ -133,9 +134,9 @@
 		{
 			"public"
 			{
-				"gid" "130374590613120070"
-				"size" "143696356"
-				"download" "111528384"
+				"gid" "3325340580446680716"
+				"size" "275913243"
+				"download" "224518800"
 			}
 		}
 		"dlcappid" "2464590"
@@ -150,9 +151,9 @@
 		{
 			"public"
 			{
-				"gid" "2615102251559993444"
-				"size" "143696356"
-				"download" "111741744"
+				"gid" "5705196036475176502"
+				"size" "275913243"
+				"download" "224732160"
 			}
 		}
 		"dlcappid" "2464590"
@@ -161,8 +162,12 @@
 	{
 		"public"
 		{
-			"buildid" "14336587"
-			"timeupdated" "1715434099"
+			"buildid" "17565657"
+			"timeupdated" "1740927839"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27742531"
+"_sha" "4932fa2fe1271ef02d7cec9c8837c9151f449545"
+"_size" "2420"
