@@ -21,6 +21,55 @@
 	{
 		"0" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1740700800"
+		"tested_build_id" "17446581"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -169,13 +218,13 @@
 		"1" "7208"
 		"2" "4018"
 		"3" "599"
-		"4" "1742"
-		"5" "6426"
+		"4" "6426"
+		"5" "1742"
 		"6" "1667"
 		"7" "6971"
 		"8" "1721"
-		"9" "4486"
-		"10" "3799"
+		"9" "3799"
+		"10" "4486"
 		"11" "4947"
 		"12" "9551"
 		"13" "4604"
@@ -187,7 +236,7 @@
 		"19" "3871"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -223,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "536527905886469029"
-				"size" "5884864386"
-				"download" "2887145664"
+				"gid" "7345221944041561873"
+				"size" "5884897429"
+				"download" "2887143552"
 			}
 		}
 	}
@@ -233,8 +282,8 @@
 	{
 		"public"
 		{
-			"buildid" "17505893"
-			"timeupdated" "1740523793"
+			"buildid" "17578284"
+			"timeupdated" "1741030029"
 		}
 	}
 	"privatebranches" "1"
@@ -265,6 +314,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27665944"
-"_sha" "7151fe792084eabca13a0ec3b5fbf4245aa3b487"
-"_size" "4200"
+"_change_number" "27760404"
+"_sha" "2b2c13efc3d7d49643ad37b5ee681187124df858"
+"_size" "5433"
