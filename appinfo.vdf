@@ -279,6 +279,8 @@
 		}
 	}
 	"steam_release_date" "1739194320"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/door-kickers-2-task-force-north\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -413,9 +415,9 @@
 		{
 			"public"
 			{
-				"gid" "2381741293838480103"
-				"size" "201547084"
-				"download" "46282512"
+				"gid" "8193730423973472730"
+				"size" "201549978"
+				"download" "46274624"
 			}
 		}
 	}
@@ -425,9 +427,9 @@
 		{
 			"public"
 			{
-				"gid" "9131110835574188798"
-				"size" "2468224399"
-				"download" "1279862720"
+				"gid" "2775461818204933125"
+				"size" "2555680454"
+				"download" "1283657184"
 			}
 		}
 	}
@@ -435,8 +437,8 @@
 	{
 		"public"
 		{
-			"buildid" "17503140"
-			"timeupdated" "1740504099"
+			"buildid" "17575777"
+			"timeupdated" "1741014311"
 		}
 	}
 	"privatebranches" "1"
@@ -498,6 +500,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27660452"
-"_sha" "a6fbf838775e04f16384c439c4eb8716e26a9229"
-"_size" "10351"
+"_change_number" "27755948"
+"_sha" "ce081e0e90ae242dbd53b6cdbec7d083a255a851"
+"_size" "10491"
