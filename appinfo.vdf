@@ -252,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "9188194821028692249"
-				"size" "288337060"
-				"download" "22115488"
+				"gid" "4452792424687006432"
+				"size" "288341156"
+				"download" "22116640"
 			}
 			"1.5.1"
 			{
@@ -286,6 +286,12 @@
 				"size" "284055980"
 				"download" "21153088"
 			}
+			"1.9.2"
+			{
+				"gid" "3755723539256104877"
+				"size" "287385516"
+				"download" "21748992"
+			}
 		}
 	}
 	"workshopdepot" "1283970"
@@ -293,8 +299,8 @@
 	{
 		"public"
 		{
-			"buildid" "17570490"
-			"timeupdated" "1740982935"
+			"buildid" "17572599"
+			"timeupdated" "1740997642"
 		}
 		"1.5.1"
 		{
@@ -323,8 +329,14 @@
 		"1.8.6"
 		{
 			"buildid" "15254846"
-			"description" "last version"
+			"description" "1.8.6"
 			"timeupdated" "1736187578"
+		}
+		"1.9.2"
+		{
+			"buildid" "17250170"
+			"description" "last version"
+			"timeupdated" "1740991060"
 		}
 	}
 	"privatebranches" "1"
@@ -335,6 +347,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27749197"
-"_sha" "168606adabc450de967254c9fae4c7b8e6f8a51d"
-"_size" "6074"
+"_change_number" "27751933"
+"_sha" "d6d5ca488eb8dc7f33606fc8b32d1d8e913f69bf"
+"_size" "6291"
