@@ -43,8 +43,8 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"russian" "header_russian.jpg"
+		"english" "53bead10825063725bd6287afea8a4292517d936/header.jpg"
+		"russian" "0876cb3617461b6f57d80e9fe151f4b3aa3a2013/header_russian.jpg"
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 		"koreana" "header_koreana.jpg"
@@ -134,7 +134,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736851153"
+	"store_asset_mtime" "1741024542"
 	"associations"
 	{
 		"0"
@@ -394,15 +394,15 @@
 		{
 			"public"
 			{
-				"gid" "7685860369461075846"
-				"size" "1353549889"
-				"download" "993195168"
+				"gid" "1221036139489583084"
+				"size" "1449225342"
+				"download" "1087656544"
 			}
 			"beta-test"
 			{
-				"gid" "7685860369461075846"
-				"size" "1353549889"
-				"download" "993195168"
+				"gid" "1221036139489583084"
+				"size" "1449225342"
+				"download" "1087656544"
 			}
 		}
 	}
@@ -417,15 +417,15 @@
 		{
 			"public"
 			{
-				"gid" "6827182940768852457"
-				"size" "3099033940"
-				"download" "1103814736"
+				"gid" "77215080763128664"
+				"size" "3192373763"
+				"download" "1193407584"
 			}
 			"beta-test"
 			{
-				"gid" "6827182940768852457"
-				"size" "3099033940"
-				"download" "1103814736"
+				"gid" "77215080763128664"
+				"size" "3192373763"
+				"download" "1193407584"
 			}
 		}
 	}
@@ -433,14 +433,14 @@
 	{
 		"public"
 		{
-			"buildid" "17291383"
-			"timeupdated" "1739018496"
+			"buildid" "17577711"
+			"timeupdated" "1741024001"
 		}
 		"beta-test"
 		{
-			"buildid" "17291383"
+			"buildid" "17577711"
 			"description" "For beta testers"
-			"timeupdated" "1739018480"
+			"timeupdated" "1741024024"
 		}
 	}
 	"privatebranches" "1"
@@ -490,6 +490,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27378291"
-"_sha" "d0ae8237c2668d1702e24db44064c30192be54d4"
-"_size" "9368"
+"_change_number" "27759008"
+"_sha" "614ba70e81609c305f90abb96f1494266117859a"
+"_size" "9448"
