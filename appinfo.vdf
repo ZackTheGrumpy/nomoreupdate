@@ -82,18 +82,18 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732042081"
+	"store_asset_mtime" "1740843499"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "IBOLOGY LLC"
+			"name" "IBOL"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "IBOLOGY LLC"
+			"name" "IBOL"
 		}
 	}
 	"primary_genre" "2"
@@ -128,8 +128,8 @@
 		"0" "454187"
 		"1" "3942"
 		"2" "3834"
-		"3" "1695"
-		"4" "5125"
+		"3" "5125"
+		"4" "1695"
 		"5" "21"
 		"6" "1759"
 		"7" "122"
@@ -151,8 +151,8 @@
 }
 "extended"
 {
-	"developer" "IBOLOGY LLC"
-	"publisher" "IBOLOGY LLC"
+	"developer" "IBOL"
+	"publisher" "IBOL"
 	"homepage" "https://impress.games/press-kit/ibology/approaching-infinity"
 	"listofdlc" "1691390"
 	"dlcavailableonstore" "1"
@@ -185,9 +185,9 @@
 		{
 			"public"
 			{
-				"gid" "6792296600575897190"
-				"size" "232785733"
-				"download" "194993680"
+				"gid" "2993001338671847228"
+				"size" "197691617"
+				"download" "160576560"
 			}
 			"legacy17"
 			{
@@ -203,9 +203,9 @@
 			}
 			"betafromnowon"
 			{
-				"gid" "8330497276776758502"
-				"size" "233463930"
-				"download" "195416896"
+				"gid" "2993001338671847228"
+				"size" "197691617"
+				"download" "160576560"
 			}
 			"legacy18"
 			{
@@ -220,8 +220,8 @@
 	{
 		"public"
 		{
-			"buildid" "16883480"
-			"timeupdated" "1736024226"
+			"buildid" "17575177"
+			"timeupdated" "1741011528"
 		}
 		"legacy17"
 		{
@@ -237,9 +237,9 @@
 		}
 		"betafromnowon"
 		{
-			"buildid" "17098268"
+			"buildid" "17575177"
 			"description" "beta branch"
-			"timeupdated" "1737591225"
+			"timeupdated" "1741011473"
 		}
 		"legacy18"
 		{
@@ -389,6 +389,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27121302"
-"_sha" "5ea7440093eecdcf5c8c1a9c59f19205d772caa2"
-"_size" "7126"
+"_change_number" "27755106"
+"_sha" "66a59df4a0e7ca45d73df3285cd34281dd8624ed"
+"_size" "7098"
