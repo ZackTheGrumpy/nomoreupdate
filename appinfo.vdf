@@ -238,7 +238,7 @@
 		"16" "6426"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -305,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "3908950466906170122"
-				"size" "41117677305"
-				"download" "38571961440"
+				"gid" "8493889498934558321"
+				"size" "41120202454"
+				"download" "38578835072"
 			}
 		}
 	}
@@ -2420,18 +2420,107 @@
 	{
 		"public"
 		{
-			"buildid" "17153736"
-			"timeupdated" "1738544522"
+			"buildid" "17525251"
+			"timeupdated" "1740963673"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "10000000000"
+	"maxnumfiles" "500"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025SYSTEM/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025CHAMPIONSHIP/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025FIGHTSONG/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025GRANDPRIX/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025HIGHSCHOOL/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025PENNANT/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025RESUME_HIGHSCHOOL/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"7"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025RESUME_PENNANT/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"8"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025RESUME_STARPLAYER/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"9"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025RESUME_VERSUS/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"10"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025STARPLAYER/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"11"
+		{
+			"root" "WinMyDocuments"
+			"path" "KONAMI/Prospi2024/ST/Savedata/{64BitSteamID}/2025SYSTEM/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27281890"
-"_sha" "a02aed4c93fb77caa98352f182ef4780bcec41cc"
-"_size" "36770"
+"_change_number" "27747309"
+"_sha" "df0b56add8f4cc51e8905a42a08b46c622e8452f"
+"_size" "38846"
