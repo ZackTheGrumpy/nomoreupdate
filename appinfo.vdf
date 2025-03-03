@@ -145,7 +145,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726164368"
+	"store_asset_mtime" "1741025279"
 	"associations"
 	{
 		"0"
@@ -172,6 +172,9 @@
 		"category_23" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -266,11 +269,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"arabic"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"czech"
 		{
 			"supported" "true"
@@ -282,11 +280,6 @@
 			"subtitles" "true"
 		}
 		"hungarian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"swedish"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -334,13 +327,34 @@
 	{
 		"0"
 		{
-			"executable" "RetailCompanySim.exe"
-			"type" "default"
+			"executable" "Multi/RetailCompanySim.exe"
+			"arguments" "Multi"
+			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "New Version"
+			}
+			"description" "New Version"
+		}
+		"1"
+		{
+			"executable" "RetailCompanySim.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Old Version"
+			}
+			"description" "Old Version"
 		}
 	}
 }
@@ -379,9 +393,9 @@
 		{
 			"public"
 			{
-				"gid" "7850407589726351410"
-				"size" "1481738930"
-				"download" "1382964976"
+				"gid" "8363678608720869782"
+				"size" "3404601619"
+				"download" "2344557648"
 			}
 		}
 	}
@@ -389,10 +403,11 @@
 	{
 		"public"
 		{
-			"buildid" "17051521"
-			"timeupdated" "1737223373"
+			"buildid" "17505125"
+			"timeupdated" "1741024301"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -413,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27057728"
-"_sha" "472a439094f14b37653107eaa30657988fddab09"
-"_size" "7174"
+"_change_number" "27759275"
+"_sha" "a001cfb48405b5481eb40cc47db6872dd4492769"
+"_size" "7497"
