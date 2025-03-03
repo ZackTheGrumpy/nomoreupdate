@@ -26,6 +26,50 @@
 		"japanese" "1"
 		"brazilian" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1738713600"
+		"tested_build_id" "17228532"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -108,7 +152,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737063480"
+	"store_asset_mtime" "1740403294"
 	"associations"
 	{
 		"0"
@@ -266,7 +310,7 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -312,21 +356,21 @@
 		{
 			"public"
 			{
-				"gid" "6444796285885788590"
-				"size" "677440600"
-				"download" "204914176"
+				"gid" "4044230425005173424"
+				"size" "677442184"
+				"download" "204914800"
 			}
 			"old_stable"
 			{
-				"gid" "1333307337039777674"
-				"size" "676745176"
-				"download" "204823952"
-			}
-			"open_beta"
-			{
 				"gid" "6444796285885788590"
 				"size" "677440600"
 				"download" "204914176"
+			}
+			"open_beta"
+			{
+				"gid" "4044230425005173424"
+				"size" "677442184"
+				"download" "204914800"
 			}
 		}
 	}
@@ -390,20 +434,20 @@
 	{
 		"public"
 		{
-			"buildid" "17228532"
-			"timeupdated" "1738615571"
+			"buildid" "17311711"
+			"timeupdated" "1741020374"
 		}
 		"old_stable"
 		{
-			"buildid" "17132082"
+			"buildid" "17228532"
 			"description" "Older stable releases"
-			"timeupdated" "1738372073"
+			"timeupdated" "1741019389"
 		}
 		"open_beta"
 		{
-			"buildid" "17228532"
+			"buildid" "17311711"
 			"description" "Open beta for players"
-			"timeupdated" "1738615261"
+			"timeupdated" "1739538922"
 		}
 	}
 	"privatebranches" "1"
@@ -457,6 +501,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27296076"
-"_sha" "75ecb633eec733b58228966cf06d4398e548bff7"
-"_size" "8459"
+"_change_number" "27757799"
+"_sha" "b1b68b33472752c89425131be7fc8a95827133a7"
+"_size" "9549"
