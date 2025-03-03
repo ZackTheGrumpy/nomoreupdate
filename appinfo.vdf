@@ -163,8 +163,8 @@
 		"9" "1664"
 		"10" "4182"
 		"11" "1756"
-		"12" "3871"
-		"13" "21"
+		"12" "21"
+		"13" "3871"
 		"14" "1698"
 	}
 	"review_score" "9"
@@ -213,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "1112084969583896968"
-				"size" "436972621"
-				"download" "356102352"
+				"gid" "7918565669028214791"
+				"size" "436975511"
+				"download" "356103232"
 			}
 		}
 	}
@@ -229,24 +229,25 @@
 		{
 			"public"
 			{
-				"gid" "2788527650811901465"
-				"size" "470205566"
-				"download" "367300688"
+				"gid" "7069921879038556631"
+				"size" "470204452"
+				"download" "367296992"
 			}
 		}
 	}
+	"workshopdepot" "1590230"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16548100"
-			"timeupdated" "1732686624"
+			"buildid" "17579844"
+			"timeupdated" "1741036276"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "5000000"
+	"quota" "1048576000"
 	"maxnumfiles" "100"
 	"savefiles"
 	{
@@ -292,6 +293,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26379881"
-"_sha" "34e53e1be0e4719b7ab63ffea492f68a6ba1a231"
-"_size" "5331"
+"_change_number" "27761654"
+"_sha" "f290484fbc03622017da30a3409a7acfb11cd9ef"
+"_size" "5363"
