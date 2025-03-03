@@ -17,8 +17,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"test_timestamp" "1671580800"
-		"tested_build_id" "7956164"
+		"test_timestamp" "1740700800"
+		"tested_build_id" "17490314"
 		"tests"
 		{
 			"0"
@@ -44,11 +44,6 @@
 			"4"
 			{
 				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
-			}
-			"5"
-			{
-				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
@@ -62,9 +57,10 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "native"
 			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Super Bit Blaster XL"
@@ -319,15 +315,9 @@
 		{
 			"public"
 			{
-				"gid" "3520457139136504319"
-				"size" "124257964"
-				"download" "71661440"
-			}
-			"version31"
-			{
-				"gid" "3520457139136504319"
-				"size" "124257964"
-				"download" "71661440"
+				"gid" "4250270873861904231"
+				"size" "124262237"
+				"download" "71662752"
 			}
 		}
 	}
@@ -342,15 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "4020419296068964281"
-				"size" "116651995"
-				"download" "69541808"
-			}
-			"version31"
-			{
-				"gid" "4020419296068964281"
-				"size" "116651995"
-				"download" "69541808"
+				"gid" "7536018894658129694"
+				"size" "116656758"
+				"download" "69542816"
 			}
 		}
 	}
@@ -365,15 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "4820522129041771566"
-				"size" "121459862"
-				"download" "69040560"
-			}
-			"version31"
-			{
-				"gid" "4820522129041771566"
-				"size" "121459862"
-				"download" "69040560"
+				"gid" "6944612970364850945"
+				"size" "121464394"
+				"download" "69041680"
 			}
 		}
 	}
@@ -393,26 +371,14 @@
 				"size" "129824906"
 				"download" "86422192"
 			}
-			"version31"
-			{
-				"gid" "2612296441532328588"
-				"size" "129824906"
-				"download" "86422192"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17490314"
-			"timeupdated" "1740447781"
-		}
-		"version31"
-		{
-			"buildid" "17490314"
-			"description" "version31"
-			"timeupdated" "1740432100"
+			"buildid" "17569796"
+			"timeupdated" "1740975285"
 		}
 	}
 }
@@ -465,6 +431,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27647227"
-"_sha" "85098d47a9266205239b73fdad980c6aef4a62a1"
-"_size" "8173"
+"_change_number" "27748300"
+"_sha" "4085dd03ec6a242fd0c7eb69b2c4e72e786f5316"
+"_size" "7494"
