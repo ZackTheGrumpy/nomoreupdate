@@ -23,6 +23,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -71,14 +72,25 @@
 				"height_pct" "51.73606401736064"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "65f6983f6d22ee48e2ba7d3356339436e7d904c9/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "65f6983f6d22ee48e2ba7d3356339436e7d904c9/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1704389268"
+	"store_asset_mtime" "1738145966"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Whale Rock Games"
+			"name" "WRG"
 		}
 		"1"
 		{
@@ -212,7 +224,7 @@
 }
 "extended"
 {
-	"developer" "Whale Rock Games"
+	"developer" "WRG"
 	"publisher" "Whale Rock Games"
 	"homepage" "https://store.steampowered.com/app/755980/_DEPLOYMENT/"
 }
@@ -259,9 +271,9 @@
 		{
 			"public"
 			{
-				"gid" "8426324052758379208"
-				"size" "1905962446"
-				"download" "558415968"
+				"gid" "1648730477906355011"
+				"size" "1902265372"
+				"download" "557252896"
 			}
 		}
 	}
@@ -269,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "13091948"
-			"timeupdated" "1704388820"
+			"buildid" "17576262"
+			"timeupdated" "1741016831"
 		}
 	}
 }
@@ -303,6 +315,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26956403"
-"_sha" "5072e19f944204cc128cbccee60531323181ae72"
-"_size" "4627"
+"_change_number" "27756698"
+"_sha" "feab1e793b5ddaf88391e5ae6d0eb39e410fa574"
+"_size" "4866"
