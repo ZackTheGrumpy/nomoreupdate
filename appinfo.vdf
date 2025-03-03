@@ -58,11 +58,11 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "8e23ad8d0bd084f162bfb002e890ba5c29bd0d66/capsule_231x87.jpg"
+		"english" "a6102ac73059059d9d2f66acd6049beaa9125b3a/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "466366f9cda92e5f889bbeb2fe071b4b63d6cdcf/header.jpg"
 	}
 	"library_assets"
 	{
@@ -83,11 +83,11 @@
 		{
 			"image"
 			{
-				"english" "672e5afbdde3173133db1d3353d09f70f3c74784/library_600x900.jpg"
+				"english" "21d4359a22b3553e74ef0fecaab3e9572d36718d/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "672e5afbdde3173133db1d3353d09f70f3c74784/library_600x900_2x.jpg"
+				"english" "21d4359a22b3553e74ef0fecaab3e9572d36718d/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -114,15 +114,15 @@
 		{
 			"image"
 			{
-				"english" "494d03c9cefc04d682ccd307f8972d64f8a38136/library_header.jpg"
+				"english" "466366f9cda92e5f889bbeb2fe071b4b63d6cdcf/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "494d03c9cefc04d682ccd307f8972d64f8a38136/library_header_2x.jpg"
+				"english" "466366f9cda92e5f889bbeb2fe071b4b63d6cdcf/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1739180373"
+	"store_asset_mtime" "1740985835"
 	"associations"
 	{
 		"0"
@@ -290,9 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "8359220698631933787"
-				"size" "259537393"
-				"download" "169170224"
+				"gid" "2169435482549704118"
+				"size" "259657976"
+				"download" "169201648"
 			}
 		}
 	}
@@ -306,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "7843957182829558196"
-				"size" "271603571"
-				"download" "184105984"
+				"gid" "3081588924125605501"
+				"size" "271760698"
+				"download" "184148048"
 			}
 		}
 	}
@@ -322,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "39512325260134587"
-				"size" "298256213"
-				"download" "179713680"
+				"gid" "4106264884369828919"
+				"size" "298435669"
+				"download" "179784624"
 			}
 		}
 	}
@@ -332,8 +332,8 @@
 	{
 		"public"
 		{
-			"buildid" "17323875"
-			"timeupdated" "1739455728"
+			"buildid" "17456895"
+			"timeupdated" "1740986041"
 		}
 	}
 	"privatebranches" "1"
@@ -344,6 +344,6 @@
 	"maxnumfiles" "3"
 }
 "_missing_token" "False"
-"_change_number" "27613371"
-"_sha" "59e646ac9c5f704dbc9d8df3eb14230d82d634d4"
-"_size" "5963"
+"_change_number" "27749679"
+"_sha" "9855afc5441e2968f4c09088ac8888f4bb98b8ac"
+"_size" "6006"
