@@ -311,7 +311,7 @@
 		"16" "597"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "56"
 }
 "extended"
 {
@@ -379,27 +379,6 @@
 				"download" "1381181792"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"game_swing_testing"
-			{
-				"gid" "6138DD1C3E953DADE21AE18CF62D9238"
-				"size" "5D045F56AC2B18CE636305E7A895BD46"
-				"download" "88AE5EB989B4D5544528C5AC64D2B321"
-			}
-			"internaltesting"
-			{
-				"gid" "CA18A785417DE118C1DF8D9FA08BFD8A"
-				"size" "30590573CF746496DE835CC5DF539FE9"
-				"download" "87B7A5198DD3DAF285A4422A4B517C26"
-			}
-			"test"
-			{
-				"gid" "0D0CC894D36829B7CFE1231B782F08BC"
-				"size" "9A48E272F0F3D95D69F590424880B524"
-				"download" "16EAFE6D654D382A98A492F03140D27C"
-			}
-		}
 	}
 	"1716751"
 	{
@@ -407,9 +386,9 @@
 		{
 			"public"
 			{
-				"gid" "6750736260530963906"
-				"size" "256391736"
-				"download" "258388880"
+				"gid" "4788942746956806336"
+				"size" "239748504"
+				"download" "241609632"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -421,27 +400,10 @@
 			"buildid" "14974165"
 			"timeupdated" "1721115762"
 		}
-		"game_swing_testing"
-		{
-			"buildid" "7582028"
-			"pwdrequired" "1"
-			"timeupdated" "1635431098"
-		}
-		"internaltesting"
-		{
-			"buildid" "14974165"
-			"pwdrequired" "1"
-			"timeupdated" "1720514460"
-		}
-		"test"
-		{
-			"buildid" "16328407"
-			"pwdrequired" "1"
-			"timeupdated" "1730988024"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26258877"
-"_sha" "39ab60fdeb25854928ff6b0edb6078cdf6da47e9"
-"_size" "7846"
+"_change_number" "27756976"
+"_sha" "28d98ee08a2d7c79259d14c202c3bd01a2d19f43"
+"_size" "6975"
