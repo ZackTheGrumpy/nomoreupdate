@@ -249,14 +249,14 @@
 		"4" "122"
 		"5" "3859"
 		"6" "1685"
-		"7" "19"
-		"8" "492"
+		"7" "492"
+		"8" "19"
 		"9" "21"
 		"10" "3871"
 		"11" "1716"
 		"12" "4791"
-		"13" "3959"
-		"14" "3841"
+		"13" "3841"
+		"14" "3959"
 		"15" "4885"
 		"16" "1684"
 		"17" "4026"
@@ -364,21 +364,6 @@
 				"download" "882563344"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "5813E8251D4F33529D74D85B604F8052"
-				"size" "1F3EB4808D2648D4270AFFAB14562DAD"
-				"download" "55F40BDB54046D580C2BFB735DBDEBF0"
-			}
-			"pasclosedtest"
-			{
-				"gid" "3468DAC3755588838C88584B4894CA40"
-				"size" "F55726D4696DCAE663A3944F60AAE2AC"
-				"download" "D14F967E85CB601A4A1194EE5B1F7C1A"
-			}
-		}
 	}
 	"269211"
 	{
@@ -387,9 +372,9 @@
 		{
 			"public"
 			{
-				"gid" "4601700420350005584"
-				"size" "2953931953"
-				"download" "1362386240"
+				"gid" "2337324374831941547"
+				"size" "2953932465"
+				"download" "1362398688"
 			}
 			"herosiege1"
 			{
@@ -398,34 +383,13 @@
 				"download" "872933056"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "17747C72BCB51C36762F467A42C5ED21"
-				"size" "B49AD273EF876D038D3A2D3352FC36ED"
-				"download" "FE2E459D3A9C901A128DD03A7AE515A2"
-			}
-			"pasclosedtest"
-			{
-				"gid" "1ADDFA8C69DA6F6722E167D2B939B582"
-				"size" "F7245EF6DBAA2A2E48FA08ECAA580190"
-				"download" "8ACE8140CACC8204097F37711C788433"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17039799"
-			"timeupdated" "1737116457"
-		}
-		"closedbeta"
-		{
-			"buildid" "11497426"
-			"pwdrequired" "1"
-			"timeupdated" "1687039664"
+			"buildid" "17576064"
+			"timeupdated" "1741015727"
 		}
 		"herosiege1"
 		{
@@ -433,13 +397,8 @@
 			"description" "Hero Siege 5.9.6"
 			"timeupdated" "1698859553"
 		}
-		"pasclosedtest"
-		{
-			"buildid" "16733677"
-			"pwdrequired" "1"
-			"timeupdated" "1734085496"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -447,6 +406,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27042100"
-"_sha" "da593be1a9ddd3dae59ac6a849fc87966c96a175"
-"_size" "8698"
+"_change_number" "27756371"
+"_sha" "83fb9ec00d1bfc8abc286d7ee9968c4cc00f7ddd"
+"_size" "7728"
