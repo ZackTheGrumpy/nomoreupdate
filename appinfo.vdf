@@ -286,29 +286,33 @@
 			"workingdir" "launcher\\"
 			"type" "none"
 		}
-		"3"
+		"5"
 		{
-			"executable" "launcher\\eac_launcher.exe"
-			"arguments" "-eac_launcher_settings vermintide2.json"
-			"workingdir" "launcher\\"
+			"executable" "start_protected_game.exe"
+			"arguments" "-anticheat_settings=vermintide2.json"
+			"config"
+			{
+				"betakey" "temporary_launcher_workaround"
+			}
+			"description_loc"
+			{
+				"english" "Bypass Launcher"
+			}
 			"description" "Bypass Launcher"
-			"type" "none"
-			"config"
-			{
-				"betakey" "temporary_launcher_workaround"
-			}
 		}
-		"4"
+		"6"
 		{
-			"executable" "launcher\\eac_launcher.exe"
-			"arguments" "-eac_launcher_settings vermintide2_dx12.json"
-			"workingdir" "launcher\\"
-			"description" "Bypass Launcher (dx12)"
-			"type" "none"
+			"executable" "start_protected_game.exe"
+			"arguments" "-anticheat_settings=vermintide2_dx12.json"
 			"config"
 			{
 				"betakey" "temporary_launcher_workaround"
 			}
+			"description_loc"
+			{
+				"english" "Bypass Launcher DX12"
+			}
+			"description" "Bypass Launcher DX12"
 		}
 	}
 }
@@ -377,15 +381,15 @@
 		{
 			"public"
 			{
-				"gid" "3056199108142590028"
-				"size" "65499308896"
-				"download" "41860190384"
+				"gid" "6909253802956311164"
+				"size" "65499311118"
+				"download" "41860192496"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "3056199108142590028"
-				"size" "65499308896"
-				"download" "41860190384"
+				"gid" "6909253802956311164"
+				"size" "65499311118"
+				"download" "41860192496"
 			}
 		}
 	}
@@ -395,15 +399,15 @@
 		{
 			"public"
 			{
-				"gid" "5424450513997223391"
-				"size" "118125284"
-				"download" "64211536"
+				"gid" "4642656104001527764"
+				"size" "114460552"
+				"download" "62529040"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "5424450513997223391"
-				"size" "118125284"
-				"download" "64211536"
+				"gid" "4642656104001527764"
+				"size" "114460552"
+				"download" "62529040"
 			}
 		}
 	}
@@ -413,15 +417,15 @@
 		{
 			"public"
 			{
-				"gid" "1576412205051431427"
-				"size" "243918802"
-				"download" "62930880"
+				"gid" "6373445031484599725"
+				"size" "287050819"
+				"download" "72217024"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "1576412205051431427"
-				"size" "243918802"
-				"download" "62930880"
+				"gid" "6373445031484599725"
+				"size" "287050819"
+				"download" "72217024"
 			}
 		}
 	}
@@ -431,15 +435,15 @@
 		{
 			"public"
 			{
-				"gid" "2364685194504972606"
-				"size" "294795268"
-				"download" "72218720"
+				"gid" "5643637517204591070"
+				"size" "331310036"
+				"download" "78228608"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "2364685194504972606"
-				"size" "294795268"
-				"download" "72218720"
+				"gid" "5643637517204591070"
+				"size" "331310036"
+				"download" "78228608"
 			}
 		}
 	}
@@ -477,14 +481,14 @@
 	{
 		"public"
 		{
-			"buildid" "17319361"
-			"timeupdated" "1739267845"
+			"buildid" "17575816"
+			"timeupdated" "1741014496"
 		}
 		"temporary_launcher_workaround"
 		{
-			"buildid" "17319346"
+			"buildid" "17575797"
 			"description" "Bypass Launcher"
-			"timeupdated" "1739267755"
+			"timeupdated" "1741014420"
 		}
 	}
 	"privatebranches" "1"
@@ -496,6 +500,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27417409"
-"_sha" "2644ddaad6adc5ca03c73f047935e1078b70b806"
-"_size" "9291"
+"_change_number" "27757120"
+"_sha" "4399a6c782b10c671ed46dabfdaa0d47d7b438a8"
+"_size" "9320"
