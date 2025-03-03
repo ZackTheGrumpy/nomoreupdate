@@ -258,8 +258,8 @@
 	"gameid" "1490840"
 	"store_tags"
 	{
-		"0" "21"
-		"1" "4486"
+		"0" "4486"
+		"1" "21"
 		"2" "18594"
 		"3" "4106"
 		"4" "1742"
@@ -327,15 +327,6 @@
 				"download" "10789311888"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "56702810BA7C2500DD2FAB1F79508C55"
-				"size" "3F1AFA479B66F1878BB8C7462F8C124F"
-				"download" "2FE58F59FD841F4E5F183D9036D44527"
-			}
-		}
 	}
 	"1490842"
 	{
@@ -348,18 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "6328999954836144694"
-				"size" "121746649"
-				"download" "26995472"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "EBFCA2D3FFDFDD8E2B2F588450E1B667"
-				"size" "4070A4D511E387B981D07D19610A614F"
-				"download" "A49BBAD2E955D16DBD7ADF92D6074852"
+				"gid" "1118507513968665636"
+				"size" "122276286"
+				"download" "27031584"
 			}
 		}
 	}
@@ -374,18 +356,9 @@
 		{
 			"public"
 			{
-				"gid" "6798967544391366930"
-				"size" "136115913"
-				"download" "31136448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "06727DE1C222C9F237B3BB3434C8D50C"
-				"size" "4BA79A07F4DDA072D6EB56848DC2EB75"
-				"download" "13FCBA6246A25FA3F17B0128D838F190"
+				"gid" "6001576736844769447"
+				"size" "136662582"
+				"download" "31160480"
 			}
 		}
 	}
@@ -400,18 +373,9 @@
 		{
 			"public"
 			{
-				"gid" "3270429422758370279"
-				"size" "142626581"
-				"download" "35569504"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "D352F07C10A35B6A6100A38F85EA23F5"
-				"size" "6C229A5AFF6F6BAFF5FD4FAA8739ACF4"
-				"download" "A74F96826572EC7C93B23C0397EF587A"
+				"gid" "6063317704105481854"
+				"size" "143177727"
+				"download" "35758272"
 			}
 		}
 	}
@@ -419,19 +383,18 @@
 	{
 		"public"
 		{
-			"buildid" "14387429"
-			"timeupdated" "1715942039"
-		}
-		"development"
-		{
-			"buildid" "14387429"
-			"pwdrequired" "1"
-			"timeupdated" "1715852899"
+			"buildid" "17576566"
+			"timeupdated" "1741018174"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "1000000"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "27757095"
+"_sha" "4ed1850b9e5bb2e116398fec99811ed0a2fbff2f"
+"_size" "6528"
