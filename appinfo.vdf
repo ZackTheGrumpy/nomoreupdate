@@ -36,6 +36,51 @@
 			"height_pct" "79.16666666666669"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50.60247894968052"
+				"height_pct" "79.16666666666669"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1713359015"
 	"associations"
 	{
@@ -178,18 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "6667544774254874953"
-				"size" "1168943677"
-				"download" "376447280"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "ADE6EF8338A91E113242791E503B0AF4"
-				"size" "65DFE32384331699AC42BEEBED50D7D1"
-				"download" "3414D83149B63B5B1057C4D9BBAFFD34"
+				"gid" "4423660104745230536"
+				"size" "1100156532"
+				"download" "365636496"
 			}
 		}
 	}
@@ -203,18 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "8421397443663984954"
-				"size" "1120084562"
-				"download" "371844992"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "5DEF89CE6A4E8EF2C410CF62E714B3AD"
-				"size" "0AEBE6B37AC4C81248FA8D704B1660B6"
-				"download" "EEBC4C14061E2FA7025CDF78E85216DC"
+				"gid" "2622029228860732461"
+				"size" "1125277378"
+				"download" "373445280"
 			}
 		}
 	}
@@ -224,16 +251,11 @@
 	{
 		"public"
 		{
-			"buildid" "14133844"
-			"timeupdated" "1713971842"
-		}
-		"beta"
-		{
-			"buildid" "14133844"
-			"pwdrequired" "1"
-			"timeupdated" "1713796928"
+			"buildid" "17545561"
+			"timeupdated" "1741029673"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -242,3 +264,7 @@
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "27760320"
+"_sha" "f715d7a8d04758f94eac18690956405093c4d45c"
+"_size" "4317"
