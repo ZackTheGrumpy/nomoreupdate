@@ -115,7 +115,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1716223272"
+	"store_asset_mtime" "1732572049"
 	"associations"
 	{
 		"0"
@@ -165,26 +165,26 @@
 	"gameid" "1677310"
 	"store_tags"
 	{
-		"0" "122"
-		"1" "1742"
+		"0" "1742"
+		"1" "122"
 		"2" "44868"
-		"3" "10695"
-		"4" "3871"
-		"5" "5608"
+		"3" "5608"
+		"4" "10695"
+		"5" "3871"
 		"6" "4325"
 		"7" "3854"
 		"8" "4182"
 		"9" "1684"
 		"10" "4252"
-		"11" "3964"
-		"12" "4166"
-		"13" "6815"
+		"11" "1721"
+		"12" "3964"
+		"13" "4166"
 		"14" "10679"
-		"15" "6426"
-		"16" "1721"
-		"17" "4085"
-		"18" "4562"
-		"19" "4057"
+		"15" "6815"
+		"16" "6426"
+		"17" "492"
+		"18" "4085"
+		"19" "4562"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -226,54 +226,9 @@
 		{
 			"public"
 			{
-				"gid" "6844753075205927627"
-				"size" "566734678"
-				"download" "294658864"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "67A0C6B2B426A1DC4723E82314BB08BF"
-				"size" "1E8AEF9CDB23D0A797CBCC394D061173"
-				"download" "08E68D1B16C57ED133F7E2E1920136F3"
-			}
-			"development"
-			{
-				"gid" "E605F4853C6420AC49157B42B16DBDF9"
-				"size" "1A671C1400C7FE23A09D55180889F7BC"
-				"download" "AF31FCC6F98247E007DB78D186997FEB"
-			}
-			"internal"
-			{
-				"gid" "20AF247DA51397A481527C4EA9EC85F4"
-				"size" "73543A25E47EE3338DF823BF1DB4370B"
-				"download" "2708B3C8901958BFDF631688EB6DF8B5"
-			}
-			"localization"
-			{
-				"gid" "354D64E136AF89EE054F313D543817AB"
-				"size" "2ED48F0EF8CD0932FFB625E323ABD199"
-				"download" "025E1CF034CFD3325DE0881B594581BA"
-			}
-			"ludonarracon"
-			{
-				"gid" "9CC9CC238D109F303A9F6ABB7CF4D294"
-				"size" "61D5B40791447F5B9173DDD014B19788"
-				"download" "4AA0AF50641BF9026FBCEEE6D03BED0B"
-			}
-			"mactest"
-			{
-				"gid" "E6C37D36191CD24C1E2E5973191A293C"
-				"size" "02632C9827D8061066AC2C00F6575D91"
-				"download" "8B6B230B494180EBDF2C074A660A9FB6"
-			}
-			"qa_branch"
-			{
-				"gid" "B62045B0928D8B469D09B5F57055D559"
-				"size" "8DDDFA7DC1089B3D1E7727249F038C4C"
-				"download" "A2504F0FFA37314314AFA6E0628C1576"
+				"gid" "5338545446407094124"
+				"size" "560188208"
+				"download" "288134672"
 			}
 		}
 	}
@@ -281,52 +236,11 @@
 	{
 		"public"
 		{
-			"buildid" "14921227"
-			"timeupdated" "1720023424"
-		}
-		"demo"
-		{
-			"buildid" "9636900"
-			"pwdrequired" "1"
-			"timeupdated" "1664715118"
-		}
-		"development"
-		{
-			"buildid" "12761101"
-			"pwdrequired" "1"
-			"timeupdated" "1700576445"
-		}
-		"internal"
-		{
-			"buildid" "12761101"
-			"pwdrequired" "1"
-			"timeupdated" "1700576406"
-		}
-		"localization"
-		{
-			"buildid" "12962357"
-			"pwdrequired" "1"
-			"timeupdated" "1702583803"
-		}
-		"ludonarracon"
-		{
-			"buildid" "10250230"
-			"pwdrequired" "1"
-			"timeupdated" "1672842293"
-		}
-		"mactest"
-		{
-			"buildid" "13627489"
-			"pwdrequired" "1"
-			"timeupdated" "1709498716"
-		}
-		"qa_branch"
-		{
-			"buildid" "14692660"
-			"pwdrequired" "1"
-			"timeupdated" "1718200912"
+			"buildid" "17574594"
+			"timeupdated" "1741008504"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -342,3 +256,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27754319"
+"_sha" "54c46a05467f46038f9df2b4d4afd799955d3e21"
+"_size" "4507"
