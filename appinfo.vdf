@@ -295,7 +295,7 @@
 	"publisher" "Kube Games"
 	"homepage" "http://imperiumsgame.com"
 	"gamemanualurl" "https://store.steampowered.com/manual/1183470/"
-	"listofdlc" "1404250,1520480,1839160,2250440"
+	"listofdlc" "1404250,1520480,1839160,2250440,3474490,3526220"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -386,9 +386,9 @@
 		{
 			"public"
 			{
-				"gid" "6478062251837037832"
-				"size" "5110376505"
-				"download" "4036505040"
+				"gid" "3892392145400860175"
+				"size" "5110377529"
+				"download" "4036504768"
 			}
 			"last"
 			{
@@ -404,15 +404,15 @@
 			}
 			"privatetest"
 			{
-				"gid" "6478062251837037832"
-				"size" "5110376505"
-				"download" "4036505040"
+				"gid" "3892392145400860175"
+				"size" "5110377529"
+				"download" "4036504768"
 			}
 			"publictest"
 			{
-				"gid" "6478062251837037832"
-				"size" "5110376505"
-				"download" "4036505040"
+				"gid" "3892392145400860175"
+				"size" "5110377529"
+				"download" "4036504768"
 			}
 		}
 	}
@@ -593,8 +593,8 @@
 	{
 		"public"
 		{
-			"buildid" "17514927"
-			"timeupdated" "1740574076"
+			"buildid" "17564714"
+			"timeupdated" "1740983672"
 		}
 		"last"
 		{
@@ -610,15 +610,15 @@
 		}
 		"privatetest"
 		{
-			"buildid" "17514927"
+			"buildid" "17564714"
 			"description" "Testing of particular issue with particular player"
-			"timeupdated" "1740574045"
+			"timeupdated" "1740912870"
 		}
 		"publictest"
 		{
-			"buildid" "17514927"
+			"buildid" "17564714"
 			"description" "Public test of issues and new features"
-			"timeupdated" "1740574037"
+			"timeupdated" "1740912878"
 		}
 	}
 	"privatebranches" "1"
@@ -642,6 +642,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27675469"
-"_sha" "7daac51895e06de017c33b0883849b9664650bfb"
-"_size" "11431"
+"_change_number" "27749315"
+"_sha" "97aecba7eade58d2062c77b702dfff33dd1fc3b7"
+"_size" "11447"
