@@ -207,7 +207,7 @@
 		"19" "128"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -289,9 +289,9 @@
 		{
 			"public"
 			{
-				"gid" "7101585979907385647"
-				"size" "7099350094"
-				"download" "6892284192"
+				"gid" "9179929137402518105"
+				"size" "7255040490"
+				"download" "6931616400"
 			}
 		}
 	}
@@ -307,8 +307,8 @@
 	{
 		"public"
 		{
-			"buildid" "17076848"
-			"timeupdated" "1737533565"
+			"buildid" "17576744"
+			"timeupdated" "1741025174"
 		}
 	}
 	"privatebranches" "1"
@@ -321,14 +321,17 @@
 	{
 		"0"
 		{
-			"root" "gameinstall"
-			"path" "CASE 2 Animatronics Survival/Case2/Saved/SaveGames/"
+			"root" "WinAppDataLocal"
+			"path" "Case2/Saved/SaveGames"
 			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
 		}
 	}
-	"appidredirect" "722960"
 }
 "_missing_token" "False"
-"_change_number" "27108076"
-"_sha" "0b7e117b3ee6bd7a43f9177900d27f5b4614029a"
-"_size" "5139"
+"_change_number" "27759214"
+"_sha" "2b27c7779072124365eb7261ad0af4ed8ef1dc07"
+"_size" "5133"
