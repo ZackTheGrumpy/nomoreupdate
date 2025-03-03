@@ -215,15 +215,9 @@
 		{
 			"public"
 			{
-				"gid" "380914064683205385"
-				"size" "7716455322"
-				"download" "2958270496"
-			}
-			"2024.4.4"
-			{
-				"gid" "933276038859941146"
-				"size" "7679020820"
-				"download" "2949094288"
+				"gid" "2969547580560891519"
+				"size" "8909277314"
+				"download" "3298928096"
 			}
 			"2024.5.x"
 			{
@@ -231,47 +225,14 @@
 				"size" "7716455322"
 				"download" "2958270496"
 			}
-			"experimental-2024.6"
-			{
-				"gid" "8858063705833646106"
-				"size" "7939374344"
-				"download" "3022872272"
-			}
-			"previous"
-			{
-				"gid" "7354064618380832233"
-				"size" "7716311064"
-				"download" "2958207744"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "450EA29E5AFF30D9AD7CEC10FE859B96"
-				"size" "202E4DF79207529A2A1A8F46B79A8C7E"
-				"download" "EEFAFC5FAA9A77E9DA2514C9534D67E5"
-			}
-			"preview"
-			{
-				"gid" "0914E85B7D351E0FAA80BC7403892195"
-				"size" "3F8520CA18536EFEC2E7C2C70B26DCD9"
-				"download" "A03B2B0C00DB04885C99583DD006FF8A"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15169177"
-			"timeupdated" "1722045050"
-		}
-		"2024.4.4"
-		{
-			"buildid" "14572408"
-			"description" "2024.4.4"
-			"timeupdated" "1720731450"
+			"buildid" "17575382"
+			"timeupdated" "1741013043"
 		}
 		"2024.5.x"
 		{
@@ -279,31 +240,8 @@
 			"description" "2024.5.x"
 			"timeupdated" "1722045022"
 		}
-		"experimental"
-		{
-			"buildid" "15509313"
-			"pwdrequired" "1"
-			"timeupdated" "1724785351"
-		}
-		"experimental-2024.6"
-		{
-			"buildid" "15782612"
-			"description" "Experimental 2024.6.x build"
-			"timeupdated" "1726957786"
-		}
-		"preview"
-		{
-			"buildid" "15782612"
-			"pwdrequired" "1"
-			"timeupdated" "1726946266"
-		}
-		"previous"
-		{
-			"buildid" "15083054"
-			"description" "Previous build."
-			"timeupdated" "1722002426"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -319,3 +257,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27755639"
+"_sha" "44a9a89c923702590f49b539322283913b21bac6"
+"_size" "4658"
