@@ -9,8 +9,9 @@
 	"clienttga" "7ffc067b2d5376a6efd4ae01f5fda1efebb86e3a"
 	"clienticon" "77f300bccd5d65aa42915504329bd839e7999900"
 	"icon" "5cd7c2b80eb7259a7c39c4456fa19b62adff669c"
-	"oslist" "windows,macos,linux"
+	"oslist" "windows,macos"
 	"osarch" ""
+	"osextended" ""
 	"metacritic_name" "MegaRace 1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -25,6 +26,21 @@
 	{
 		"library_capsule" "en"
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_0d9f54c33c98be9024e7d3a23362e74dfd7c4b1b.jpg"
 	"store_asset_mtime" "1568982539"
 	"associations"
 	{
@@ -54,6 +70,7 @@
 	{
 		"category_2" "1"
 		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -202,18 +219,9 @@
 		{
 			"public"
 			{
-				"gid" "1495041481454366923"
+				"gid" "4110534173403737536"
 				"size" "548667210"
 				"download" "390226384"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"prerelease"
-			{
-				"gid" "CEC496E8AABF6186DB8FE4DD852AC1EB"
-				"size" "69D1B3696329EBF461F2C57337D95262"
-				"download" "ADC78E435013E5F6BE9E45BAF4233BB9"
 			}
 		}
 	}
@@ -233,15 +241,6 @@
 				"download" "392149344"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"prerelease"
-			{
-				"gid" "488DF762AEA1652EB0B96861BCD05641"
-				"size" "803869C91D206A0EAFDF0847BF841070"
-				"download" "5432731403E8FA21336442A19CCB1792"
-			}
-		}
 	}
 	"730583"
 	{
@@ -257,15 +256,6 @@
 				"gid" "5813983906614568736"
 				"size" "550848967"
 				"download" "392149344"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"prerelease"
-			{
-				"gid" "306DA8A34E1EAD2C8D9B18A9DCDB1392"
-				"size" "803869C91D206A0EAFDF0847BF841070"
-				"download" "5432731403E8FA21336442A19CCB1792"
 			}
 		}
 	}
@@ -285,15 +275,6 @@
 				"download" "392149344"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"prerelease"
-			{
-				"gid" "D3F4B6CB83150138447C22B8F6A73159"
-				"size" "803869C91D206A0EAFDF0847BF841070"
-				"download" "5432731403E8FA21336442A19CCB1792"
-			}
-		}
 	}
 	"730585"
 	{
@@ -309,15 +290,6 @@
 				"gid" "1502647120595457770"
 				"size" "550848967"
 				"download" "392149344"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"prerelease"
-			{
-				"gid" "94214383BDE518D1D58DA231B9D1CFA6"
-				"size" "803869C91D206A0EAFDF0847BF841070"
-				"download" "5432731403E8FA21336442A19CCB1792"
 			}
 		}
 	}
@@ -337,15 +309,6 @@
 				"download" "391394656"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"prerelease"
-			{
-				"gid" "2B19F1CFCC248D1C54390BA7EEC298B4"
-				"size" "4C768AE74B52036B5D02716800323912"
-				"download" "9A4AD946650FA7616A18FB4B48A1BDD9"
-			}
-		}
 	}
 	"730587"
 	{
@@ -356,14 +319,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"prerelease"
+			"public"
 			{
-				"gid" "E653D360DC53E7AE55B5274228E98F3A"
-				"size" "28CD5698403546F26D69977B68663A08"
-				"download" "5C4A8E6B6B8D4984B0AAC5C5AC85E637"
+				"gid" "3280293948674266988"
+				"size" "526369408"
+				"download" "367679984"
 			}
 		}
 	}
@@ -376,14 +336,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"prerelease"
+			"public"
 			{
-				"gid" "B571BA30DDA3415C8519625654E97EEE"
-				"size" "5A65C3C77612DEC4A6EE705AD3DDAB61"
-				"download" "7D103993EAF77FD9FF9268C46CB3495B"
+				"gid" "199411529828748811"
+				"size" "544305185"
+				"download" "386328512"
 			}
 		}
 	}
@@ -396,14 +353,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"prerelease"
+			"public"
 			{
-				"gid" "A82FDF6CB2DE56D16722F601499517D6"
-				"size" "5A65C3C77612DEC4A6EE705AD3DDAB61"
-				"download" "7D103993EAF77FD9FF9268C46CB3495B"
+				"gid" "7481212619510294020"
+				"size" "544305185"
+				"download" "386328512"
 			}
 		}
 	}
@@ -411,18 +365,13 @@
 	{
 		"public"
 		{
-			"buildid" "2333144"
-			"timeupdated" "1512147219"
-		}
-		"prerelease"
-		{
 			"buildid" "2313943"
-			"pwdrequired" "1"
-			"timeupdated" "1511536011"
+			"timeupdated" "1741010455"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "21763081"
-"_sha" "0685e43561be4f758f609d53b47eddf05fa6e7da"
-"_size" "7048"
+"_change_number" "27754805"
+"_sha" "5c63034710414f97c9cce11d5f81c25b7937ddaf"
+"_size" "5714"
