@@ -93,6 +93,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -136,6 +137,8 @@
 		"5" "12095"
 		"6" "6650"
 	}
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -154,9 +157,9 @@
 		{
 			"public"
 			{
-				"gid" "2264255582251444665"
-				"size" "878698973"
-				"download" "794323680"
+				"gid" "6709507911070544379"
+				"size" "1361114601"
+				"download" "1221331232"
 			}
 		}
 		"dlcappid" "2982460"
@@ -165,12 +168,13 @@
 	{
 		"public"
 		{
-			"buildid" "16802509"
-			"timeupdated" "1734621501"
+			"buildid" "17570963"
+			"timeupdated" "1741022257"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26715946"
-"_sha" "7c583784e052f4c7ac2daaee17f96650e4e092bd"
-"_size" "2922"
+"_change_number" "27758363"
+"_sha" "cb6fd6ff2ff8677b4e1eb2bc8648ff345f2efd21"
+"_size" "3021"
