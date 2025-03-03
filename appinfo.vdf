@@ -72,7 +72,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "eadcfe7e9dd0cc15599deff4e7cff5524f6111db/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -83,6 +83,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -123,8 +124,19 @@
 				"english" "logo.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "0cf768f74a4e9210905bdd8ef12d82aae6981104/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0cf768f74a4e9210905bdd8ef12d82aae6981104/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1710420866"
+	"store_asset_mtime" "1737641074"
 	"associations"
 	{
 		"0"
@@ -266,9 +278,9 @@
 		{
 			"public"
 			{
-				"gid" "6467052569448702076"
-				"size" "2296260282"
-				"download" "1843570112"
+				"gid" "4979739387953010769"
+				"size" "2396578225"
+				"download" "1895832784"
 			}
 			"2023.1.9"
 			{
@@ -290,15 +302,15 @@
 			}
 			"beta"
 			{
-				"gid" "6467052569448702076"
-				"size" "2296260282"
-				"download" "1843570112"
+				"gid" "4979739387953010769"
+				"size" "2396578225"
+				"download" "1895832784"
 			}
 			"previous"
 			{
-				"gid" "4607493383058249073"
-				"size" "2225973746"
-				"download" "1791477520"
+				"gid" "6467052569448702076"
+				"size" "2296260282"
+				"download" "1843570112"
 			}
 		}
 	}
@@ -315,8 +327,8 @@
 	{
 		"public"
 		{
-			"buildid" "16862763"
-			"timeupdated" "1736170857"
+			"buildid" "17553928"
+			"timeupdated" "1741018061"
 		}
 		"2023.1.9"
 		{
@@ -339,15 +351,15 @@
 		}
 		"beta"
 		{
-			"buildid" "16862763"
+			"buildid" "17553928"
 			"description" "Test upcoming patches"
-			"timeupdated" "1736096270"
+			"timeupdated" "1740784185"
 		}
 		"previous"
 		{
-			"buildid" "15153608"
+			"buildid" "16862763"
 			"description" "the build before the most recent"
-			"timeupdated" "1731601598"
+			"timeupdated" "1741018028"
 		}
 	}
 	"privatebranches" "1"
@@ -367,6 +379,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26878438"
-"_sha" "5b80b212e0d503a7a7bb04430071a289139c9737"
-"_size" "6702"
+"_change_number" "27757070"
+"_sha" "e5f6a927af8b38f7cd5fb4fd301ef0930cbc4929"
+"_size" "7008"
