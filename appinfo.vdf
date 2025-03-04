@@ -161,81 +161,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"english"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"french"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"italian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"german"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"spanish"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"danish"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"russian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"hungarian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"turkish"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"norwegian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"japanese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"tchinese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"portuguese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"vietnamese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"koreana"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 	}
 	"steam_release_date" "1691546427"
 	"community_visible_stats" "1"
@@ -289,9 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "7502252592741549220"
-				"size" "654517149"
-				"download" "164506928"
+				"gid" "3322944946990135543"
+				"size" "654534981"
+				"download" "164508912"
 			}
 		}
 	}
@@ -299,8 +224,8 @@
 	{
 		"public"
 		{
-			"buildid" "17574291"
-			"timeupdated" "1741006798"
+			"buildid" "17587619"
+			"timeupdated" "1741085522"
 		}
 	}
 }
@@ -319,6 +244,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27753875"
-"_sha" "0fd8839d02d8a626baf83c4e006ab55a9f679475"
-"_size" "5492"
+"_change_number" "27772366"
+"_sha" "5862873082289aada3029c1d14e1918698a710a9"
+"_size" "4418"
