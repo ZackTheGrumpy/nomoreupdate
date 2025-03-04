@@ -113,7 +113,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1696048178"
+	"store_asset_mtime" "1740876567"
 	"associations"
 	{
 		"0"
@@ -169,6 +169,7 @@
 		}
 	}
 	"steam_release_date" "1698127348"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1931940/allnews/"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1931940"
@@ -176,16 +177,16 @@
 	{
 		"0" "3799"
 		"1" "1674"
-		"2" "7208"
-		"3" "44868"
+		"2" "44868"
+		"3" "7208"
 		"4" "5716"
 		"5" "9204"
 		"6" "1742"
 		"7" "21"
 		"8" "4166"
 		"9" "1738"
-		"10" "4085"
-		"11" "4726"
+		"10" "4726"
+		"11" "4085"
 		"12" "5608"
 		"13" "4182"
 		"14" "5379"
@@ -196,14 +197,14 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
 	"developer" "1000-REKA"
 	"publisher" "1000-REKA"
 	"homepage" "https://hayasakinokuroyuri.com/"
-	"listofdlc" "1951010,1951090,1954430,2697130,2869360,2869370"
+	"listofdlc" "1951010,1951090,1954430,2697130,2869360,2869370,2869380"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -281,24 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "3552119067308591198"
-				"size" "1680811487"
-				"download" "1513510944"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "359E84E1814386F5E3D4C615EB516E1C"
-				"size" "9C1F96C6E621CFF970DA7C6D91DBCE4B"
-				"download" "E1D8660B63467028FD630CDF671F943B"
-			}
-			"develop"
-			{
-				"gid" "AE587F8D1FFEECDF2FB1C786401AA24B"
-				"size" "1B137626D16F02CA66210DAAB2BC0FC2"
-				"download" "9BCFF82ACB4EE0DF785105F86F71926D"
+				"gid" "4767814378784663723"
+				"size" "1690143116"
+				"download" "1521881552"
 			}
 		}
 	}
@@ -306,22 +292,11 @@
 	{
 		"public"
 		{
-			"buildid" "16129306"
-			"timeupdated" "1729679020"
-		}
-		"beta"
-		{
-			"buildid" "16129306"
-			"pwdrequired" "1"
-			"timeupdated" "1729555920"
-		}
-		"develop"
-		{
-			"buildid" "16129306"
-			"pwdrequired" "1"
-			"timeupdated" "1729555929"
+			"buildid" "17586786"
+			"timeupdated" "1741084827"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -338,6 +313,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25855505"
-"_sha" "a3cea50281dd83a8767a4b2f3caa815b09925441"
-"_size" "6267"
+"_change_number" "27772206"
+"_sha" "df8f95a2d61a8e9b93fe3632b516e7db147733e9"
+"_size" "5793"
