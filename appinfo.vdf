@@ -141,12 +141,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "ReficGames"
+			"name" "Refic Games"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "ReficGames"
+			"name" "Refic Games"
 		}
 	}
 	"primary_genre" "2"
@@ -194,8 +194,8 @@
 		"2" "3959"
 		"3" "7332"
 		"4" "32322"
-		"5" "1676"
-		"6" "1716"
+		"5" "1716"
+		"6" "1676"
 		"7" "4182"
 		"8" "1708"
 		"9" "4191"
@@ -215,8 +215,8 @@
 }
 "extended"
 {
-	"developer" "ReficGames"
-	"publisher" "ReficGames"
+	"developer" "Refic Games"
+	"publisher" "Refic Games"
 	"homepage" "https://www.reficgames.com/"
 }
 "config"
@@ -250,15 +250,15 @@
 		{
 			"public"
 			{
-				"gid" "1174916679141652835"
-				"size" "1672428965"
-				"download" "439321664"
+				"gid" "7420033373782190679"
+				"size" "1941798640"
+				"download" "537295680"
 			}
 			"beta_branch"
 			{
-				"gid" "1174916679141652835"
-				"size" "1672428965"
-				"download" "439321664"
+				"gid" "7420033373782190679"
+				"size" "1941798640"
+				"download" "537295680"
 			}
 		}
 	}
@@ -266,14 +266,14 @@
 	{
 		"public"
 		{
-			"buildid" "16806840"
-			"timeupdated" "1734647235"
+			"buildid" "17589809"
+			"timeupdated" "1741100845"
 		}
 		"beta_branch"
 		{
-			"buildid" "16806840"
+			"buildid" "17589809"
 			"description" "Public Test Branch"
-			"timeupdated" "1734647206"
+			"timeupdated" "1741100791"
 		}
 	}
 	"privatebranches" "1"
@@ -307,6 +307,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26722749"
-"_sha" "99f60fac1e5e818040d8ef3f481538d732caac04"
-"_size" "5362"
+"_change_number" "27776711"
+"_sha" "53af803027d5d0df5aa0d6117df1146592439e4b"
+"_size" "5366"
