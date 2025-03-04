@@ -178,10 +178,24 @@
 		"0"
 		{
 			"executable" "autorun.exe"
-			"description" "Launch"
 			"config"
 			{
 				"oslist" "windows"
+				"betakey" "default beta"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"betakey" "devtest"
 			}
 		}
 	}
@@ -203,7 +217,7 @@
 		{
 			"public"
 			{
-				"gid" "8450679517930619280"
+				"gid" "3698241144636430676"
 				"size" "2594356008"
 				"download" "1767501168"
 			}
@@ -215,12 +229,24 @@
 			}
 		}
 	}
+	"297752"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "600655310038589144"
+				"size" "3599863"
+				"download" "1271952"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "1284129"
-			"timeupdated" "1471431551"
+			"buildid" "17350079"
+			"timeupdated" "1741083101"
 		}
 		"beta"
 		{
@@ -228,6 +254,7 @@
 			"timeupdated" "1471431154"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -244,3 +271,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27771669"
+"_sha" "c270e6ec9d5e65969f1f258255b5fae127b3a08a"
+"_size" "4714"
