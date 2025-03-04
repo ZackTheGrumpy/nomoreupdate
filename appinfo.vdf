@@ -336,6 +336,7 @@
 			}
 		}
 	}
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -375,9 +376,9 @@
 		{
 			"public"
 			{
-				"gid" "4180529811002727235"
-				"size" "164007862631"
-				"download" "145321963264"
+				"gid" "4202943127958984990"
+				"size" "163945040295"
+				"download" "145309054880"
 			}
 		}
 	}
@@ -400,8 +401,8 @@
 	{
 		"public"
 		{
-			"buildid" "17360673"
-			"timeupdated" "1739554224"
+			"buildid" "17541448"
+			"timeupdated" "1741090414"
 		}
 	}
 	"privatebranches" "1"
@@ -437,6 +438,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27484124"
-"_sha" "3073f44d1ae326ac6d6c6a727940b4451d624a47"
-"_size" "7306"
+"_change_number" "27773650"
+"_sha" "2731cb79ec767bca18001772728216331eccbecd"
+"_size" "7336"
