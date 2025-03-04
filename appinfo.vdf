@@ -6,9 +6,9 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
-	"clienttga" "5c52aa2c4e9135865d4a1128bff5063196968f2c"
-	"clienticon" "83c2d4ca844d6b26fcbb9921b926d04cef41a0e7"
-	"icon" "94bb8057ccab7233b870acf6a5a14104571e94a9"
+	"clienttga" "c7d27b625af0c761e9428cc3bba0435fad5fd241"
+	"clienticon" "84b4bfbdbacd20cb1e05a4ad3d445bed06e27972"
+	"icon" "f19387b5848eae23e5746972aa27765bc10d7bcf"
 	"linuxclienticon" "88ece4c80b20f1d0da9ca39318b14b5b7d9582cd"
 	"releasestate" "released"
 	"exfgls" "1"
@@ -19,9 +19,11 @@
 			"id" "1491000_eula_0"
 			"name" "War Robots: Frontiers EULA"
 			"url" "https://store.steampowered.com//eula/1491000_eula_0"
-			"version" "3"
+			"version" "6"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "48665c6200f97cc70e0944620a9038df6df1be4d/capsule_231x87.jpg"
@@ -40,8 +42,8 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "41.19004982705514"
-			"height_pct" "101.38888888888889"
+			"width_pct" "34.669714126603225"
+			"height_pct" "105.55555555555556"
 		}
 	}
 	"library_assets_full"
@@ -61,18 +63,18 @@
 		{
 			"image"
 			{
-				"english" "7be53c04cc0312dbea36033315631d79fa41346d/library_hero.jpg"
+				"english" "66ca89a79c281d18a5b950d3ab944c6f0b582132/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "7be53c04cc0312dbea36033315631d79fa41346d/library_hero_2x.jpg"
+				"english" "66ca89a79c281d18a5b950d3ab944c6f0b582132/library_hero_2x.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "7be53c04cc0312dbea36033315631d79fa41346d/library_hero_blur.jpg"
+				"english" "66ca89a79c281d18a5b950d3ab944c6f0b582132/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -80,8 +82,8 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "41.19004982705514"
-				"height_pct" "101.38888888888889"
+				"width_pct" "34.669714126603225"
+				"height_pct" "105.55555555555556"
 			}
 			"image"
 			{
@@ -96,15 +98,15 @@
 		{
 			"image"
 			{
-				"english" "975cb0a0f2f0a7b180efd4a8e13dcd31b2ac9ff9/library_header.jpg"
+				"english" "791b3f9f9a0ec4e61b9ba7651916d18b51753502/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "975cb0a0f2f0a7b180efd4a8e13dcd31b2ac9ff9/library_header_2x.jpg"
+				"english" "791b3f9f9a0ec4e61b9ba7651916d18b51753502/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1739295215"
+	"store_asset_mtime" "1741109868"
 	"associations"
 	{
 		"0"
@@ -123,12 +125,12 @@
 			"name" "MY.GAMES"
 		}
 	}
-	"primary_genre" "1"
+	"primary_genre" "37"
 	"genres"
 	{
 		"0" "1"
 		"1" "28"
-		"2" "70"
+		"2" "37"
 	}
 	"category"
 	{
@@ -137,6 +139,13 @@
 		"category_36" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_27" "1"
+		"category_35" "1"
 	}
 	"supported_languages"
 	{
@@ -144,10 +153,6 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
-		}
-		"french"
-		{
-			"supported" "true"
 		}
 		"german"
 		{
@@ -157,27 +162,7 @@
 		{
 			"supported" "true"
 		}
-		"russian"
-		{
-			"supported" "true"
-		}
-		"turkish"
-		{
-			"supported" "true"
-		}
-		"japanese"
-		{
-			"supported" "true"
-		}
 		"schinese"
-		{
-			"supported" "true"
-		}
-		"tchinese"
-		{
-			"supported" "true"
-		}
-		"polish"
 		{
 			"supported" "true"
 		}
@@ -185,32 +170,56 @@
 		{
 			"supported" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
 	}
-	"steam_release_date" "1669294794"
+	"steam_release_date" "1741110486"
 	"community_hub_visible" "1"
 	"gameid" "1491000"
 	"store_tags"
 	{
-		"0" "3814"
-		"1" "4821"
-		"2" "1775"
-		"3" "3859"
-		"4" "19"
-		"5" "5547"
-		"6" "5752"
-		"7" "3942"
-		"8" "4295"
-		"9" "1774"
-		"10" "599"
-		"11" "3993"
-		"12" "1697"
-		"13" "5363"
-		"14" "1678"
-		"15" "11104"
-		"16" "493"
-		"17" "3843"
-		"18" "4191"
-		"19" "5350"
+		"0" "113"
+		"1" "3814"
+		"2" "4821"
+		"3" "1775"
+		"4" "3859"
+		"5" "19"
+		"6" "5547"
+		"7" "5752"
+		"8" "3942"
+		"9" "4295"
+		"10" "1774"
+		"11" "1697"
+		"12" "5711"
+		"13" "599"
+		"14" "3993"
+		"15" "5363"
+		"16" "1678"
+		"17" "4191"
+		"18" "5350"
+		"19" "493"
 	}
 	"review_score" "6"
 	"review_percentage" "75"
@@ -221,7 +230,8 @@
 	"developer" "MY.GAMES"
 	"publisher" "MY.GAMES"
 	"homepage" "https://warrobotsfrontiers.com/"
-	"listofdlc" "2186170,2186180,2186190"
+	"isfreeapp" "1"
+	"listofdlc" "2186150,2186170,2186180,2186190,3556520,3556530,3556540,3556550"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -232,7 +242,7 @@
 		"0"
 		{
 			"executable" "WarRobotsSteamLoader.exe"
-			"arguments" "-fromsteam"
+			"arguments" "-fromsteam -nosplash"
 			"type" "default"
 			"config"
 			{
@@ -272,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "1088726495407671620"
-				"size" "9098525530"
-				"download" "8598138768"
+				"gid" "1063002944066813183"
+				"size" "10480675800"
+				"download" "9957397168"
 			}
 		}
 	}
@@ -282,13 +292,13 @@
 	{
 		"public"
 		{
-			"buildid" "17347796"
-			"timeupdated" "1739440978"
+			"buildid" "17589302"
+			"timeupdated" "1741110603"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27456605"
-"_sha" "957b93e7175e97d05a9167d51684d15ea72d254a"
-"_size" "4884"
+"_change_number" "27779664"
+"_sha" "067281a50671a08d9158828806ca298cc0503ba2"
+"_size" "5169"
