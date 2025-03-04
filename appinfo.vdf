@@ -197,15 +197,15 @@
 		{
 			"public"
 			{
-				"gid" "8959409142844549764"
-				"size" "524371931"
-				"download" "349247232"
+				"gid" "5301297924336032484"
+				"size" "524369496"
+				"download" "349248656"
 			}
 			"compatibility"
 			{
-				"gid" "77838533930910650"
-				"size" "489244580"
-				"download" "337768880"
+				"gid" "7118530690056163439"
+				"size" "489098366"
+				"download" "337608128"
 			}
 		}
 	}
@@ -238,14 +238,14 @@
 	{
 		"public"
 		{
-			"buildid" "17589853"
-			"timeupdated" "1741095896"
+			"buildid" "17590546"
+			"timeupdated" "1741099627"
 		}
 		"compatibility"
 		{
-			"buildid" "17531890"
+			"buildid" "17591053"
 			"description" "无法进入游戏专用"
-			"timeupdated" "1740663896"
+			"timeupdated" "1741102099"
 		}
 	}
 	"privatebranches" "1"
@@ -265,6 +265,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27775183"
-"_sha" "c85e08b3a26136b7559cbc469fc22e212600bd8f"
-"_size" "4364"
+"_change_number" "27777106"
+"_sha" "e25e8b118be5535a11c19205b38c5d587c721e78"
+"_size" "4366"
