@@ -284,10 +284,10 @@
 		"10" "4026"
 		"11" "21"
 		"12" "16094"
-		"13" "19"
-		"14" "3810"
-		"15" "6730"
-		"16" "1697"
+		"13" "3810"
+		"14" "6730"
+		"15" "1697"
+		"16" "19"
 		"17" "4182"
 		"18" "493"
 		"19" "492"
@@ -390,9 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "7815399956763978340"
-				"size" "2340691335"
-				"download" "1238623424"
+				"gid" "6285756173395450967"
+				"size" "1601362045"
+				"download" "1349153840"
 			}
 			"default_preml"
 			{
@@ -402,9 +402,9 @@
 			}
 			"default_old"
 			{
-				"gid" "7890609055808802603"
-				"size" "2340674812"
-				"download" "1238609856"
+				"gid" "7815399956763978340"
+				"size" "2340691335"
+				"download" "1238623424"
 			}
 			"default_preal"
 			{
@@ -419,39 +419,6 @@
 				"download" "1207319216"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "0C5436E8440EF0B611A144CDCB4469A8"
-				"size" "6374CEDD3864B25BAACF2D6B2D0E8A06"
-				"download" "F35C8D29E16C8AC3A08BC69A05BF5779"
-			}
-			"experimental"
-			{
-				"gid" "EE0EABB6D9E38FFE2C916971BEBA0EE5"
-				"size" "4D2EB1C196C2E6BD7AEC436DA82FB776"
-				"download" "FAA4007FFF22DB0984F4D5BFD1311BD2"
-			}
-			"internal-test"
-			{
-				"gid" "E7AFE6ECC1263C0FD9E8A72175520B71"
-				"size" "6CABA25AD055138B8AC32C7278AF5401"
-				"download" "EF2A5C59C33D011C7BE8C66E509F7568"
-			}
-			"public-test"
-			{
-				"gid" "38C1E3C715D0F20F525B5FB531AE05CB"
-				"size" "0BFCC2AA94F98C929FF0046D5A3D35F6"
-				"download" "2DDC9BFFCABAC320CF4470AE1A43A5E5"
-			}
-			"unstable"
-			{
-				"gid" "6110C2B158856768B079B941E6C62D5A"
-				"size" "B734D6A8A5BA03E90F0E4FD0D648292F"
-				"download" "1B6C6CF27FECCE8FA547CE0E333C1886"
-			}
-		}
 	}
 	"892972"
 	{
@@ -463,9 +430,9 @@
 		{
 			"public"
 			{
-				"gid" "342753060102212408"
-				"size" "2291051126"
-				"download" "1229740864"
+				"gid" "1933325524062736990"
+				"size" "1552009641"
+				"download" "1343434224"
 			}
 			"default_preml"
 			{
@@ -475,9 +442,9 @@
 			}
 			"default_old"
 			{
-				"gid" "3208396899566460743"
-				"size" "2291035643"
-				"download" "1229731824"
+				"gid" "342753060102212408"
+				"size" "2291051126"
+				"download" "1229740864"
 			}
 			"default_preal"
 			{
@@ -492,39 +459,6 @@
 				"download" "1199531872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "4912A35A893F8C7D796572F831F52C58"
-				"size" "1EA8447FB727D51A2F268C7F957E34B1"
-				"download" "568E026833A7C8FC188F7C3DBC89E4FC"
-			}
-			"experimental"
-			{
-				"gid" "5E83267604A3BFB10C8E33220C01CF62"
-				"size" "939F58F7FD112376FC163B2527EA42ED"
-				"download" "3664F4DB648625CEEAC70741DAA6F63A"
-			}
-			"internal-test"
-			{
-				"gid" "5C88E2843B019953436AEAB0F92ABC8C"
-				"size" "E7429856E45E32D8277B98EACEE96EBC"
-				"download" "8E97E7C8B4FF51018629C842C2C0BAC1"
-			}
-			"public-test"
-			{
-				"gid" "3508C44A4A7F02EF5A5E9D2E9A0E27FA"
-				"size" "2F76120CDBF1CBB398028610F8CA9387"
-				"download" "08295072D08244BB47AD99A25C1CC68E"
-			}
-			"unstable"
-			{
-				"gid" "2913E086EB58FE934F3316D58425B96E"
-				"size" "F4C091C7751D0D83D117ECC92C7EF259"
-				"download" "DB64D47A1320059B39948CC669D71ECC"
-			}
-		}
 	}
 	"892973"
 	{
@@ -536,9 +470,9 @@
 		{
 			"public"
 			{
-				"gid" "4112571468963837565"
-				"size" "2348753744"
-				"download" "1233691968"
+				"gid" "1026167532025020581"
+				"size" "1604013053"
+				"download" "1337629680"
 			}
 			"default_preml"
 			{
@@ -548,9 +482,9 @@
 			}
 			"default_old"
 			{
-				"gid" "7132605340801306785"
-				"size" "2350558964"
-				"download" "1233964880"
+				"gid" "4112571468963837565"
+				"size" "2348753744"
+				"download" "1233691968"
 			}
 			"default_preal"
 			{
@@ -565,46 +499,13 @@
 				"download" "1203178976"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "DFDD5D6EF17979BC57C00C4F451AA855"
-				"size" "6A9006D8E3FC59CE17427E1DD9C2153A"
-				"download" "23773E0DB5AE3EEB676DE33A895EE6F1"
-			}
-			"experimental"
-			{
-				"gid" "EA8B0CE5C6F02E8242C097BF9935B798"
-				"size" "94386FACF9B705B8DD707BA9CB71F0C6"
-				"download" "16E39E512F186ED8EE5954D4D53C5BE1"
-			}
-			"internal-test"
-			{
-				"gid" "E5402895C712DD7DBA10446F33F8D9D2"
-				"size" "66E666D8D8D1F3C808A717F958430024"
-				"download" "60BDB56502978B14C6A345A4D4702BCA"
-			}
-			"public-test"
-			{
-				"gid" "69D4DB3D21C0BEE6D6932DB79DBE090D"
-				"size" "4B92FF5062E678A3C3EE9456A6975B1C"
-				"download" "CB9B616853B999A7003ECA4DFC82BC79"
-			}
-			"unstable"
-			{
-				"gid" "C0C63BC11B8A97052ED1500BD4300C1A"
-				"size" "E736479EB46472F2E36F9BD531B1ED5E"
-				"download" "8CF3949164E3F9C950C1F5615E6A4847"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16375457"
-			"timeupdated" "1732006974"
+			"buildid" "17530374"
+			"timeupdated" "1741079778"
 		}
 		"default_preml"
 		{
@@ -612,17 +513,11 @@
 			"description" "Last stable build before Mistlands"
 			"timeupdated" "1671524474"
 		}
-		"press"
-		{
-			"buildid" "13751253"
-			"pwdrequired" "1"
-			"timeupdated" "1710505494"
-		}
 		"default_old"
 		{
-			"buildid" "16223075"
+			"buildid" "16375457"
 			"description" "Previous stable"
-			"timeupdated" "1732006883"
+			"timeupdated" "1741079700"
 		}
 		"default_preal"
 		{
@@ -636,31 +531,8 @@
 			"description" "\tLast stable build before Bog Witch"
 			"timeupdated" "1730189215"
 		}
-		"experimental"
-		{
-			"buildid" "16342543"
-			"pwdrequired" "1"
-			"timeupdated" "1731074277"
-		}
-		"internal-test"
-		{
-			"buildid" "16136475"
-			"pwdrequired" "1"
-			"timeupdated" "1729601764"
-		}
-		"public-test"
-		{
-			"buildid" "16375457"
-			"pwdrequired" "1"
-			"timeupdated" "1731498067"
-		}
-		"unstable"
-		{
-			"buildid" "16375457"
-			"pwdrequired" "1"
-			"timeupdated" "1731399631"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -702,6 +574,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26258274"
-"_sha" "f9927a67f773a3e0a67962e7238bc7cd7adc1c5c"
-"_size" "13950"
+"_change_number" "27770728"
+"_sha" "ae8c6d05421c81878c7516b6d6d7114bba05c33e"
+"_size" "10702"
