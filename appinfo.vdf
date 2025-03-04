@@ -181,8 +181,8 @@
 		"11" "4175"
 		"12" "5186"
 		"13" "5608"
-		"14" "9130"
-		"15" "5611"
+		"14" "5611"
+		"15" "9130"
 		"16" "7926"
 		"17" "12095"
 		"18" "4182"
@@ -197,7 +197,7 @@
 	"developer" "Duoyi Games"
 	"publisher" "Duoyi Games"
 	"homepage" "https://zmde.yijoys.com/"
-	"listofdlc" "3452360"
+	"listofdlc" "3452360,3557070"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -264,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "1956025662615120301"
-				"size" "1119879062"
-				"download" "990426976"
+				"gid" "7898942540064619036"
+				"size" "1123060963"
+				"download" "991481232"
 			}
 		}
 	}
@@ -278,8 +278,8 @@
 	{
 		"public"
 		{
-			"buildid" "17556011"
-			"timeupdated" "1740800201"
+			"buildid" "17583071"
+			"timeupdated" "1741058557"
 		}
 	}
 	"privatebranches" "1"
@@ -294,6 +294,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27731053"
-"_sha" "5bffe05c5e7ab2c1eb7fa711bda94c761225da84"
-"_size" "5848"
+"_change_number" "27766492"
+"_sha" "7ff880837922aa989c5499511af5feeec63d2c00"
+"_size" "5856"
