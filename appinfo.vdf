@@ -17,6 +17,7 @@
 		"0" "1"
 		"1" "5"
 	}
+	"restricted_countries" "DE"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -141,7 +142,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -174,9 +175,9 @@
 		{
 			"public"
 			{
-				"gid" "1026768996994416000"
-				"size" "972899672"
-				"download" "934000608"
+				"gid" "3649059170931608248"
+				"size" "974011720"
+				"download" "934861504"
 			}
 		}
 	}
@@ -184,8 +185,12 @@
 	{
 		"public"
 		{
-			"buildid" "8062624"
-			"timeupdated" "1642780509"
+			"buildid" "17585692"
+			"timeupdated" "1741076844"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27769868"
+"_sha" "4e805b965766d495d937f79ee5012a276856c2a3"
+"_size" "3134"
