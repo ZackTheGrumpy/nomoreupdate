@@ -392,9 +392,9 @@
 		{
 			"public"
 			{
-				"gid" "6541359627599461592"
-				"size" "19460337099"
-				"download" "12994043472"
+				"gid" "1972519089886918126"
+				"size" "19464713703"
+				"download" "12995674752"
 			}
 			"pre_co-op"
 			{
@@ -404,9 +404,9 @@
 			}
 			"public_testing"
 			{
-				"gid" "6541359627599461592"
-				"size" "19460337099"
-				"download" "12994043472"
+				"gid" "1972519089886918126"
+				"size" "19464713703"
+				"download" "12995674752"
 			}
 		}
 	}
@@ -514,8 +514,8 @@
 	{
 		"public"
 		{
-			"buildid" "17336837"
-			"timeupdated" "1739809433"
+			"buildid" "17531546"
+			"timeupdated" "1741086462"
 		}
 		"pre_co-op"
 		{
@@ -525,9 +525,9 @@
 		}
 		"public_testing"
 		{
-			"buildid" "17336837"
+			"buildid" "17531546"
 			"description" "Public testing branch before public release"
-			"timeupdated" "1739809165"
+			"timeupdated" "1741086498"
 		}
 	}
 	"privatebranches" "1"
@@ -551,6 +551,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27519129"
-"_sha" "93f6dd905404d1fc109d769d8f830823c4df9966"
+"_change_number" "27772658"
+"_sha" "413962df5076397656cb73953e813f6a0fe265e8"
 "_size" "9796"
