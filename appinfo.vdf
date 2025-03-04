@@ -86,6 +86,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -117,6 +118,13 @@
 			"image"
 			{
 				"english" "ffb58542c0b9d64c829fadc6a9c546d9879dbbd7/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ffb58542c0b9d64c829fadc6a9c546d9879dbbd7/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -274,26 +282,26 @@
 		"0" "4231"
 		"1" "4777"
 		"2" "1742"
-		"3" "19"
-		"4" "4434"
+		"3" "4434"
+		"4" "19"
 		"5" "1684"
 		"6" "122"
 		"7" "4604"
 		"8" "4182"
-		"9" "1697"
-		"10" "4145"
+		"9" "4145"
+		"10" "1697"
 		"11" "4191"
-		"12" "5608"
-		"13" "4057"
+		"12" "4057"
+		"13" "5608"
 		"14" "5984"
 		"15" "4166"
 		"16" "10695"
 		"17" "1756"
 		"18" "4667"
-		"19" "44868"
+		"19" "1646"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -350,78 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "2113222725677770136"
-				"size" "136284734973"
-				"download" "122039153808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop_debug"
-			{
-				"gid" "04F0F4C92DF946D7EDC010237E2AE7A2"
-				"size" "F7CEF4920D59A4636CBD86F63C58E2EE"
-				"download" "DBE1764A0ECC6B698C2AD96B1CA6852D"
-			}
-			"develop_debug_trunk"
-			{
-				"gid" "EF55A4435CD657DFA8FA30561B65CF48"
-				"size" "EBA3D6BF47DF1F839D2A24397B942456"
-				"download" "E12A6669C13FDEF73F1A9DC00C2FD4F2"
-			}
-			"develop_release"
-			{
-				"gid" "69D36A9113676092BB5DEFC71ACC21AA"
-				"size" "9110B29280D81597312C3DC88444E1D4"
-				"download" "9D5C31D69D42753674D749F5121C8FE1"
-			}
-			"release"
-			{
-				"gid" "D0367B39561234802710D79463903547"
-				"size" "5C4D320A5BE4E8913BDBDF03BD210777"
-				"download" "63591BE511A4AE4B234E71CBF8890D9D"
-			}
-			"v1.0.2_debug"
-			{
-				"gid" "1F48CE18A7EF1507D6CF0A18352BFE85"
-				"size" "7815BC83531DB6F5674FBEC162391511"
-				"download" "82184CEBDBABFB6EBB44531E208EBAA2"
-			}
-			"v1.0.1_debug"
-			{
-				"gid" "C22476C0E8CCC2299520C2FAEC0CCF39"
-				"size" "22A53395EF34C575CF72D72707E35DB0"
-				"download" "6C27B4A50F35B5FFA555F338A4715B8B"
-			}
-			"v1.0.0_debug"
-			{
-				"gid" "DCA8BD0D57F17184999A109D7738E62D"
-				"size" "862EDD5D50995A065BBC01E2D4577289"
-				"download" "0CBE677D3278DF96202EB4BD246587BC"
-			}
-			"v1.0.2_release"
-			{
-				"gid" "E4FB73BBAB53F82BF44BE6E042DFC7D6"
-				"size" "98C8B446EC9F941C0DDC5FE574FACC8F"
-				"download" "5F6435ABC7215925CC4E816CF6242067"
-			}
-			"v1.0.1_release"
-			{
-				"gid" "806CA83D7EE18637F859FAB15D8E9A83"
-				"size" "1A3B38209CFFAB039C8DCF1D2A0C1415"
-				"download" "FB4BD77112390E208F35E11590A4F72F"
-			}
-			"v1.0.0_release"
-			{
-				"gid" "B9D07FD0BD28763020AD346137E5CD89"
-				"size" "89719530907BC191691CE04CDCEA505C"
-				"download" "92CBD2CE169698C9ECB0F19A8DA3036E"
-			}
-			"for_valve"
-			{
-				"gid" "D20513246DAF67855FA32F6A97E66E3F"
-				"size" "29FBB3281000968E0D54F91EA557B1F0"
-				"download" "6753A053CF6E2A5B576F0D2E3030B7D8"
+				"gid" "8473560965998297727"
+				"size" "136016506529"
+				"download" "121860338640"
 			}
 		}
 	}
@@ -433,21 +372,6 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"develop_release"
-			{
-				"gid" "58962C25AF553C7FC61FE8C65F91307E"
-				"size" "B6D1B1D1DE1607E2BB340621451CF50D"
-				"download" "87CA3FA9D6473D3B353551DBA8ABCC89"
-			}
-			"for_valve"
-			{
-				"gid" "F6990E317EACE6BDF8BF69921CE909E6"
-				"size" "08CCD579E5EA91FE3765E96F5ABB50A9"
-				"download" "A04BA8D1386A839FDDADFAA93A65CA5A"
-			}
 		}
 	}
 	"2515022"
@@ -466,150 +390,16 @@
 				"download" "8450858048"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"develop_debug"
-			{
-				"gid" "60DBF0CC774998A758F714A0E50C3FD4"
-				"size" "CA3BF9381C91B39899AE49F675A898DF"
-				"download" "66D34FC38F6C8CBC534604BA189826F6"
-			}
-			"develop_debug_trunk"
-			{
-				"gid" "C83EEAF34506DC1AC7E5DDBF1A9B7874"
-				"size" "C071F1EFCC9C5A43169080E0C0905E14"
-				"download" "E19FCE8403FBC240E675A4329AD427D7"
-			}
-			"develop_release"
-			{
-				"gid" "79ACC5DD41F54613133659D8F38A9F76"
-				"size" "BC76D3608EC25DE3C8A5E3B9C5D95616"
-				"download" "ED83C0BED2B97C6A61D7BF63203EB76E"
-			}
-			"release"
-			{
-				"gid" "998B0F7F90EA5817B2FF40F1BE14A9BB"
-				"size" "2A3BE458B7060AB3B64A5C6CFFC387D2"
-				"download" "E7B3C7BD322EA4500F748A844D5B2779"
-			}
-			"v1.0.2_debug"
-			{
-				"gid" "20551426CEA17FF0F3CD1D7AB18F6561"
-				"size" "2D6B029BE0EC8DE85B019F0E43B40619"
-				"download" "1FBE35C5F0C65E331D7E2A8A61E008EE"
-			}
-			"v1.0.1_debug"
-			{
-				"gid" "1EFCA06E1797450374D558F656647969"
-				"size" "EB9D18CE0C1A338009D8E8E30D684051"
-				"download" "8B5AAB6DF22D44AB4E9F8AC91E198202"
-			}
-			"v1.0.0_debug"
-			{
-				"gid" "5EAC6AA61DF87264BE1E67B234E64D72"
-				"size" "2729615CC5473D3DDC6EAA5E1D0867FD"
-				"download" "AEF39293AFB974963D0D0ADB9C1E7B46"
-			}
-			"v1.0.2_release"
-			{
-				"gid" "8C5820CF80648B40326C6F7BF823625D"
-				"size" "EF5BDDB16A9B700AB69355A25D1BDF67"
-				"download" "66465234C571405AFE5E1DBBA374BD85"
-			}
-			"v1.0.1_release"
-			{
-				"gid" "A917660349121E6963CA7E515A8955F4"
-				"size" "BCEEBEDDD3CE0D3B86F9FF5181EACA70"
-				"download" "E053625E89646CD9658AB32F73FA5F5E"
-			}
-			"v1.0.0_release"
-			{
-				"gid" "51A028B36C028CC3715AB794CC602CB9"
-				"size" "F2D9EFD8DD45C62EA406BB76A9F3B02E"
-				"download" "E5E055F24136561FA8D816BBD268DF22"
-			}
-			"for_valve"
-			{
-				"gid" "D79805B45603B3675C5C8CB6C0C30732"
-				"size" "4FE3F89DDE16EC6438ED7CF58727363F"
-				"download" "790C5D90C403AD45243E26142EC8CB09"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16074714"
-			"timeupdated" "1729162277"
-		}
-		"develop_debug"
-		{
-			"buildid" "16073420"
-			"pwdrequired" "1"
-			"timeupdated" "1729122782"
-		}
-		"develop_debug_trunk"
-		{
-			"buildid" "16088787"
-			"pwdrequired" "1"
-			"timeupdated" "1729211300"
-		}
-		"develop_release"
-		{
-			"buildid" "16074748"
-			"pwdrequired" "1"
-			"timeupdated" "1729132099"
-		}
-		"release"
-		{
-			"buildid" "16074714"
-			"pwdrequired" "1"
-			"timeupdated" "1729131821"
-		}
-		"v1.0.2_debug"
-		{
-			"buildid" "16073420"
-			"pwdrequired" "1"
-			"timeupdated" "1729155751"
-		}
-		"v1.0.1_debug"
-		{
-			"buildid" "15822726"
-			"pwdrequired" "1"
-			"timeupdated" "1727421818"
-		}
-		"v1.0.0_debug"
-		{
-			"buildid" "15550182"
-			"pwdrequired" "1"
-			"timeupdated" "1726549438"
-		}
-		"v1.0.2_release"
-		{
-			"buildid" "16074714"
-			"pwdrequired" "1"
-			"timeupdated" "1729155708"
-		}
-		"v1.0.1_release"
-		{
-			"buildid" "15823139"
-			"pwdrequired" "1"
-			"timeupdated" "1727421844"
-		}
-		"v1.0.0_release"
-		{
-			"buildid" "15550509"
-			"pwdrequired" "1"
-			"timeupdated" "1726549449"
-		}
-		"for_valve"
-		{
-			"buildid" "15550533"
-			"pwdrequired" "1"
-			"timeupdated" "1725064968"
+			"buildid" "17373708"
+			"timeupdated" "1741057749"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -630,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25776779"
-"_sha" "b0a4b631c168a58959224a30c0b67f91f9f87ce1"
-"_size" "12477"
+"_change_number" "27766357"
+"_sha" "1e69c9ceccd2cd06a0ece91720201c3e1a9e3b77"
+"_size" "7068"
