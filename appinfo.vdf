@@ -300,6 +300,12 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1692378060"
 	"workshop_visible" "1"
@@ -329,7 +335,7 @@
 		"19" "6310"
 	}
 	"review_score" "5"
-	"review_percentage" "65"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -384,9 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "634606212738273699"
-				"size" "465718596"
-				"download" "107455232"
+				"gid" "4569563979917028728"
+				"size" "465727496"
+				"download" "107456800"
 			}
 			"alpha12p29"
 			{
@@ -406,9 +412,9 @@
 		{
 			"public"
 			{
-				"gid" "6943662666392717624"
-				"size" "435665573"
-				"download" "112434432"
+				"gid" "7045880308143313385"
+				"size" "435667797"
+				"download" "112432032"
 			}
 			"alpha12p29"
 			{
@@ -428,9 +434,9 @@
 		{
 			"public"
 			{
-				"gid" "9174692802222978755"
-				"size" "462988602"
-				"download" "106205152"
+				"gid" "5521044254375489417"
+				"size" "462990842"
+				"download" "106201376"
 			}
 			"alpha12p29"
 			{
@@ -445,8 +451,8 @@
 	{
 		"public"
 		{
-			"buildid" "17566292"
-			"timeupdated" "1740944777"
+			"buildid" "17584284"
+			"timeupdated" "1741067377"
 		}
 		"alpha12p29"
 		{
@@ -498,6 +504,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27744530"
-"_sha" "36aac45c68358133001bc28caad0ef73c75cc6ee"
-"_size" "8692"
+"_change_number" "27767876"
+"_sha" "84dfd52bc0ed3941307bf024d5ba3f9d1357b19c"
+"_size" "8787"
