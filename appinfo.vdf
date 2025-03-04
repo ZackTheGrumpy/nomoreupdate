@@ -139,6 +139,10 @@
 		{
 			"supported" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1735984092"
 	"community_hub_visible" "1"
@@ -190,9 +194,9 @@
 		{
 			"public"
 			{
-				"gid" "7087294457458196611"
-				"size" "1669342605"
-				"download" "284418080"
+				"gid" "2672551395766568169"
+				"size" "1771213347"
+				"download" "295417856"
 			}
 		}
 	}
@@ -200,8 +204,8 @@
 	{
 		"public"
 		{
-			"buildid" "17369173"
-			"timeupdated" "1739586488"
+			"buildid" "17580155"
+			"timeupdated" "1741048852"
 		}
 	}
 }
@@ -222,6 +226,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27526752"
-"_sha" "1d39d11987fecce4f83ef415b23b1bbad25963e0"
-"_size" "3804"
+"_change_number" "27764554"
+"_sha" "339a185a9675439311f43085cfb2d0318e17174d"
+"_size" "3849"
