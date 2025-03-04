@@ -404,86 +404,6 @@
 				"ownsdlc" "813491"
 			}
 		}
-		"8"
-		{
-			"executable" "RainbowSix_DX11.exe"
-			"arguments" "-uplay_steam_mode"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"ownsdlc" "461960"
-			}
-			"description_loc"
-			{
-				"english" "Play Tom Clancy\'s Rainbow Six Siege - DX11"
-			}
-			"description" "Play Tom Clancy\'s Rainbow Six Siege - DX11"
-		}
-		"9"
-		{
-			"executable" "RainbowSix_DX11.exe"
-			"arguments" "-upc_steam_required_product_id 3315 -uplay_steam_mode"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"ownsdlc" "485320"
-			}
-			"description_loc"
-			{
-				"english" "Tom Clancy\'s Rainbow Six Siege - DX11"
-			}
-			"description" "Tom Clancy\'s Rainbow Six Siege - DX11"
-		}
-		"10"
-		{
-			"executable" "RainbowSix_DX11.exe"
-			"arguments" "-upc_steam_required_product_id 3315 -uplay_steam_mode"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"ownsdlc" "485321"
-			}
-			"description_loc"
-			{
-				"english" "Tom Clancy\'s Rainbow Six Siege - DX11"
-			}
-			"description" "Tom Clancy\'s Rainbow Six Siege - DX11"
-		}
-		"11"
-		{
-			"executable" "RainbowSix_DX11.exe"
-			"arguments" "-upc_steam_required_product_id 3658 -uplay_steam_mode"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"ownsdlc" "813490"
-			}
-			"description_loc"
-			{
-				"english" "Tom Clancy\'s Rainbow Six Siege - DX11"
-			}
-			"description" "Tom Clancy\'s Rainbow Six Siege - DX11"
-		}
-		"12"
-		{
-			"executable" "RainbowSix_DX11.exe"
-			"arguments" "-upc_steam_required_product_id 3658 -uplay_steam_mode"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"ownsdlc" "813491"
-			}
-			"description_loc"
-			{
-				"english" "Tom Clancy\'s Rainbow Six Siege - DX11"
-			}
-			"description" "Tom Clancy\'s Rainbow Six Siege - DX11"
-		}
 	}
 	"steamcontrollertemplateindex" "1"
 	"steamcontrollertouchtemplateindex" "1"
@@ -568,9 +488,9 @@
 		{
 			"public"
 			{
-				"gid" "4642385321366227870"
-				"size" "55316615874"
-				"download" "53279369984"
+				"gid" "8542711540144632540"
+				"size" "56749537216"
+				"download" "54600454912"
 			}
 			"local"
 			{
@@ -612,9 +532,9 @@
 		{
 			"public"
 			{
-				"gid" "5010958719779737876"
-				"size" "601470459"
-				"download" "493093184"
+				"gid" "6027126175183776647"
+				"size" "624244219"
+				"download" "511586144"
 			}
 			"local"
 			{
@@ -634,9 +554,9 @@
 		{
 			"public"
 			{
-				"gid" "8592182469049385794"
-				"size" "665004864"
-				"download" "558548208"
+				"gid" "3933885544310630089"
+				"size" "689908544"
+				"download" "579207344"
 			}
 			"local"
 			{
@@ -656,9 +576,9 @@
 		{
 			"public"
 			{
-				"gid" "7906833530843755745"
-				"size" "660354868"
-				"download" "552638480"
+				"gid" "8732807291142399667"
+				"size" "684111668"
+				"download" "572075600"
 			}
 			"local"
 			{
@@ -678,9 +598,9 @@
 		{
 			"public"
 			{
-				"gid" "9145397592711948557"
-				"size" "1323773142"
-				"download" "1108115344"
+				"gid" "225253886656336720"
+				"size" "1373088982"
+				"download" "1148874752"
 			}
 			"local"
 			{
@@ -700,9 +620,9 @@
 		{
 			"public"
 			{
-				"gid" "8035577129942907778"
-				"size" "662025807"
-				"download" "554462640"
+				"gid" "4834319180227958769"
+				"size" "686470735"
+				"download" "574662096"
 			}
 			"local"
 			{
@@ -854,9 +774,9 @@
 		{
 			"public"
 			{
-				"gid" "1170430433922851133"
-				"size" "614740444"
-				"download" "505822144"
+				"gid" "7771015212642095191"
+				"size" "638431708"
+				"download" "525256640"
 			}
 			"local"
 			{
@@ -876,9 +796,9 @@
 		{
 			"public"
 			{
-				"gid" "4050601361019023825"
-				"size" "617533230"
-				"download" "509787952"
+				"gid" "2512848473506198550"
+				"size" "641191726"
+				"download" "529220656"
 			}
 			"local"
 			{
@@ -894,9 +814,9 @@
 		{
 			"public"
 			{
-				"gid" "5125290594808998300"
-				"size" "5684771"
-				"download" "5107280"
+				"gid" "6764165128845305373"
+				"size" "5692865"
+				"download" "5120944"
 			}
 			"local"
 			{
@@ -912,9 +832,9 @@
 		{
 			"public"
 			{
-				"gid" "4991874048978630569"
-				"size" "5508264"
-				"download" "5062016"
+				"gid" "5834248758473369633"
+				"size" "5515702"
+				"download" "5060928"
 			}
 			"local"
 			{
@@ -931,9 +851,9 @@
 		{
 			"public"
 			{
-				"gid" "4113680350012925961"
-				"size" "32850411520"
-				"download" "33026833568"
+				"gid" "2607280485967462998"
+				"size" "33458192384"
+				"download" "33604099040"
 			}
 			"local"
 			{
@@ -997,9 +917,9 @@
 		{
 			"public"
 			{
-				"gid" "204719585232940696"
-				"size" "661075621"
-				"download" "553406800"
+				"gid" "6847008445461491019"
+				"size" "685913765"
+				"download" "574017472"
 			}
 		}
 	}
@@ -1025,9 +945,9 @@
 		{
 			"public"
 			{
-				"gid" "6750736260530963906"
-				"size" "256391736"
-				"download" "258388880"
+				"gid" "4788942746956806336"
+				"size" "239748504"
+				"download" "241609632"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -1036,8 +956,8 @@
 	{
 		"public"
 		{
-			"buildid" "17408294"
-			"timeupdated" "1739887466"
+			"buildid" "17590475"
+			"timeupdated" "1741099320"
 		}
 		"local"
 		{
@@ -1057,6 +977,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27535598"
-"_sha" "cd5efc818b8dd233695987f4b80d69574963ea53"
-"_size" "18059"
+"_change_number" "27776339"
+"_sha" "ac028ca23590249cd6c391167dad398808cac65d"
+"_size" "16212"
