@@ -273,8 +273,8 @@
 {
 	"developer" "Color Gray Games"
 	"publisher" "Playstack"
-	"homepage" "https://www.thegoldenidol.com/"
-	"listofdlc" "3333860"
+	"homepage" "https://www.riseofthegoldenidol.com/"
+	"listofdlc" "3333860,3333870"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -379,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "2309943161383130062"
-				"size" "2698208227"
-				"download" "2570216288"
+				"gid" "3005283972833490974"
+				"size" "2751152542"
+				"download" "2623170096"
 			}
 		}
 	}
@@ -398,9 +398,9 @@
 		{
 			"public"
 			{
-				"gid" "4940660890209260966"
-				"size" "2774377199"
-				"download" "2587522704"
+				"gid" "7306914799043667432"
+				"size" "2791725602"
+				"download" "2603293120"
 			}
 		}
 	}
@@ -413,14 +413,33 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "8242354204231221582"
+				"size" "500573040"
+				"download" "485511216"
+			}
+		}
+	}
+	"3333860"
+	{
+		"dlcappid" "3333860"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5416100811578070731"
+				"size" "500573040"
+				"download" "485511216"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16802291"
-			"timeupdated" "1734620524"
+			"buildid" "17591080"
+			"timeupdated" "1741103349"
 		}
 	}
 	"privatebranches" "1"
@@ -454,6 +473,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27236235"
-"_sha" "301e6c3684691a9a6eb99a610061b606858b3417"
-"_size" "8492"
+"_change_number" "27777522"
+"_sha" "eb3e07c5a6104fb10c3f26b40107f8bcf4beb4a5"
+"_size" "8802"
