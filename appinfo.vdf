@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "2001227197062818774"
+				"gid" "6695411831684695498"
 				"size" "12009593532"
-				"download" "9454949200"
+				"download" "9454949648"
 			}
 		}
 	}
@@ -386,13 +386,13 @@
 	{
 		"public"
 		{
-			"buildid" "17527523"
-			"timeupdated" "1740644417"
+			"buildid" "17582641"
+			"timeupdated" "1741068284"
 		}
 	}
 	"appmanagesdlc" "1"
 }
 "_missing_token" "False"
-"_change_number" "27691811"
-"_sha" "dbde74169ad7bcc8e1f899f526330b5633925708"
+"_change_number" "27768037"
+"_sha" "1188e39c940b5080596489469fede6bd5e7c49e0"
 "_size" "6411"
