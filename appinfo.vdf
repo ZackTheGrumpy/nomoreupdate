@@ -417,15 +417,15 @@
 		{
 			"public"
 			{
-				"gid" "6373445031484599725"
-				"size" "287050819"
-				"download" "72217024"
+				"gid" "5240748077428524498"
+				"size" "287052224"
+				"download" "72217264"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "6373445031484599725"
-				"size" "287050819"
-				"download" "72217024"
+				"gid" "5240748077428524498"
+				"size" "287052224"
+				"download" "72217264"
 			}
 		}
 	}
@@ -481,14 +481,14 @@
 	{
 		"public"
 		{
-			"buildid" "17575816"
-			"timeupdated" "1741014496"
+			"buildid" "17590028"
+			"timeupdated" "1741096879"
 		}
 		"temporary_launcher_workaround"
 		{
-			"buildid" "17575797"
+			"buildid" "17590005"
 			"description" "Bypass Launcher"
-			"timeupdated" "1741014420"
+			"timeupdated" "1741096751"
 		}
 	}
 	"privatebranches" "1"
@@ -500,6 +500,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27757120"
-"_sha" "4399a6c782b10c671ed46dabfdaa0d47d7b438a8"
+"_change_number" "27775438"
+"_sha" "75f742d6a6706186bfdb15b5897fbbbe0782d0a9"
 "_size" "9320"
