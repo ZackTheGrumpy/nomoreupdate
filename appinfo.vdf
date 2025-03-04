@@ -55,15 +55,35 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1726790400"
-		"tested_build_id" "15756052"
+		"category" "2"
+		"test_timestamp" "1740528000"
+		"tested_build_id" "17421920"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
 		"configuration"
@@ -76,7 +96,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-3RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -154,7 +174,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737984327"
+	"store_asset_mtime" "1740668708"
 	"associations"
 	{
 		"0"
@@ -287,8 +307,8 @@
 		"10" "12472"
 		"11" "7332"
 		"12" "6426"
-		"13" "4667"
-		"14" "1756"
+		"13" "1756"
+		"14" "4667"
 		"15" "26921"
 		"16" "9803"
 		"17" "4754"
@@ -296,7 +316,7 @@
 		"19" "1670"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -369,9 +389,9 @@
 		{
 			"public"
 			{
-				"gid" "1575929022904913320"
-				"size" "15298126173"
-				"download" "12056169072"
+				"gid" "5625557849574666827"
+				"size" "15299227967"
+				"download" "12055946688"
 			}
 		}
 	}
@@ -448,8 +468,8 @@
 	{
 		"public"
 		{
-			"buildid" "17160870"
-			"timeupdated" "1738086398"
+			"buildid" "17588985"
+			"timeupdated" "1741099967"
 		}
 	}
 	"privatebranches" "1"
@@ -487,6 +507,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27205199"
-"_sha" "bd461f3226eebb148bacf4cf657ce68883d78203"
-"_size" "8061"
+"_change_number" "27776435"
+"_sha" "1612ecc68269f3d8a7c6682409194c460f148913"
+"_size" "8566"
