@@ -151,8 +151,8 @@
 		"2" "1742"
 		"3" "7208"
 		"4" "122"
-		"5" "15045"
-		"6" "44868"
+		"5" "44868"
+		"6" "15045"
 		"7" "5984"
 		"8" "3799"
 		"9" "4255"
@@ -168,13 +168,13 @@
 		"19" "5608"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "86"
 }
 "extended"
 {
 	"developer" "REZEROR STUDIO"
 	"publisher" "LoveStoryProject"
-	"listofdlc" "3320290"
+	"listofdlc" "3320290,3452920"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -201,9 +201,9 @@
 		{
 			"public"
 			{
-				"gid" "8672086841205099666"
-				"size" "3524382958"
-				"download" "638253888"
+				"gid" "7690883792987140597"
+				"size" "3597099546"
+				"download" "646714384"
 			}
 		}
 	}
@@ -212,8 +212,8 @@
 	{
 		"public"
 		{
-			"buildid" "16915752"
-			"timeupdated" "1736166625"
+			"buildid" "17584309"
+			"timeupdated" "1741076548"
 		}
 	}
 	"privatebranches" "1"
@@ -239,6 +239,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27053442"
-"_sha" "754e114ecff383207599ce83acaa3fc16e27ddcf"
-"_size" "4000"
+"_change_number" "27769785"
+"_sha" "efdd8a572c1620c8952bc472f995064daa733809"
+"_size" "4008"
