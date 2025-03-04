@@ -85,7 +85,7 @@
 	"gameid" "2009240"
 	"exfgls" "9"
 	"review_score" "5"
-	"review_percentage" "52"
+	"review_percentage" "51"
 }
 "extended"
 {
@@ -119,9 +119,9 @@
 		{
 			"public"
 			{
-				"gid" "5807149990128890686"
-				"size" "57145226971"
-				"download" "53617008208"
+				"gid" "5784639120934302236"
+				"size" "57146125848"
+				"download" "53617770880"
 			}
 		}
 	}
@@ -130,8 +130,8 @@
 	{
 		"public"
 		{
-			"buildid" "17404244"
-			"timeupdated" "1739869243"
+			"buildid" "17525696"
+			"timeupdated" "1740636766"
 		}
 	}
 }
