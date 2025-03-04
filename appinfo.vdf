@@ -294,24 +294,24 @@
 	"store_tags"
 	{
 		"0" "9"
-		"1" "4754"
-		"2" "1741"
+		"1" "1741"
+		"2" "4754"
 		"3" "4364"
 		"4" "4853"
 		"5" "6310"
 		"6" "5372"
 		"7" "17770"
 		"8" "6426"
-		"9" "1721"
-		"10" "9541"
+		"9" "9541"
+		"10" "1721"
 		"11" "4604"
 		"12" "3952"
-		"13" "1678"
-		"14" "1770"
+		"13" "1770"
+		"14" "1678"
 		"15" "16094"
 		"16" "4342"
-		"17" "9204"
-		"18" "1667"
+		"17" "1667"
+		"18" "9204"
 		"19" "4684"
 	}
 	"review_score" "8"
@@ -358,132 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "4931160729540482288"
-				"size" "5460012639"
-				"download" "4250229952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"localisation_qa"
-			{
-				"gid" "2AF318923CC830B2BFE2831F0E4F8E97"
-				"size" "06FD4973C3669A0AB5519E68F97A6170"
-				"download" "036D08587D140D195A8A206641241EAA"
-			}
-			"master_publishing"
-			{
-				"gid" "2954BADDE260C11E64A1C20FB82C1368"
-				"size" "9EB7B80DA72C3D18D02016A2D5BF9915"
-				"download" "60B907C3A3327E63B60D04F16374994F"
-			}
-			"master_retail_multiplayer"
-			{
-				"gid" "50EA7E3ED3AC22D6723DDB3756454AED"
-				"size" "AC6E457D8E514F37516B6A1A432831B5"
-				"download" "98F9ACBAE7520CBDF9D0D16739EE31D1"
-			}
-			"master_staging"
-			{
-				"gid" "F57CC393E68F87691DC598AD36FB9C04"
-				"size" "410E586FC6EE5CC04DA26BC6FC99C57D"
-				"download" "A92C958F16D6976934EBE38391CE55C5"
-			}
-			"milestone_kowloon_ms01_rc1_sandbox"
-			{
-				"gid" "A6173DF00464EEE7F3E6CBDF05383746"
-				"size" "D8BC330B27732D79EAACCC2D3676CA0A"
-				"download" "68E1CB7F9F50F85FCBD370AD0ED81056"
-			}
-			"ms02-kn"
-			{
-				"gid" "1D0B6CE9744C51398745C0A762D231F3"
-				"size" "EE8808362AB481D6EDA2B984856E7039"
-				"download" "6EF1F5AE537CAC4B00CACDE79869E85D"
-			}
-			"ms03-kn"
-			{
-				"gid" "CE3EE24849B030A08CC8C892281EEC71"
-				"size" "EA8A027915ABAFBFD00D0351454E14AB"
-				"download" "A218E402D6A7FA3C0DE400800E6FF447"
-			}
-			"studio_games"
-			{
-				"gid" "ADC0C20C52D7B7D8F164ABDFE9A74048"
-				"size" "3E60DE3F4E32826D324330745BB30921"
-				"download" "29B043D7381B2A8E78E4381BE02725D0"
-			}
-			"master_retail"
-			{
-				"gid" "769144177F207BD51F01F007DB8E7B74"
-				"size" "95A059FE4A2F2B4CFB2EF3E73A0DB6F4"
-				"download" "7675823D2506468038CE05458D757FBF"
-			}
-			"master_sandbox"
-			{
-				"gid" "C48C3BA8B9DB8CCA3EA8DCCB75A77B9F"
-				"size" "B00BE6591006388C7CBD9FF0BEB78CD0"
-				"download" "4BD7ABB89D9C73B11AC383FD068A663A"
-			}
-			"release_1_1_1_release_retail"
-			{
-				"gid" "EF19398441067D0EAF67260B297F5911"
-				"size" "CF7A45E1FC3A4BC6256F5893C0B48335"
-				"download" "5E4BA3220DD7C13F4E3B9AFB9F7E2382"
-			}
-			"release_1_1_1_staging_sandbox"
-			{
-				"gid" "5CD420DAF8F7B23536638DCF3B29FF9C"
-				"size" "2ADF07768D9CFF816FFE4AD4303E3C56"
-				"download" "2530A1FBDB995F386BAFF018FB4D7A8F"
-			}
-			"release_1_1_1p4_release_retail"
-			{
-				"gid" "959203876808F07A2799F14E5D62C23A"
-				"size" "A3EA56DCD4A1E3DCC2C542B4ABE0DB8E"
-				"download" "A6711F7BFB8DF675744FA02CF0965446"
-			}
-			"release_1_1_1p4_staging_sandbox"
-			{
-				"gid" "99C4495C06771090A140039533048805"
-				"size" "D6740363AA8C29AB8D6035702FCB015D"
-				"download" "993905AE6984FDDD1D9C71B84580BB60"
-			}
-			"release_1_1_2_release_retail"
-			{
-				"gid" "6ECC7A225F8B49618372360728538398"
-				"size" "0C8C6B0DC322C80D51E4D7839F54B8A1"
-				"download" "1A9B89F3C9C230C6828C0B3AFCEE6716"
-			}
-			"release_1_1_2_staging_sandbox"
-			{
-				"gid" "D024D0A2AA26F9CA033C00FA77232E06"
-				"size" "81257D159DC6EEC7D1F9BF8C1F6F061C"
-				"download" "6BB94867E94FFBA6A21919F078CEA6FD"
-			}
-			"release_1_1_2p1_release_retail"
-			{
-				"gid" "1950FF535C48D2CF7092EB22FA9FEE4C"
-				"size" "2C7B7D7BAAEA54E2AC0631A4F1E50F0E"
-				"download" "A500003FA119AD1E7953BDED8CCB08D6"
-			}
-			"release_1_1_2p1_staging_sandbox"
-			{
-				"gid" "B6D6949F4CC69E4A9D07BBFCEDEA3FE2"
-				"size" "EEEEB6F23BC91E36374BF59E08287B9E"
-				"download" "F719F57D4127B0C88A76920770CDBE7B"
-			}
-			"release_internal_studio_games_staging_sandbox"
-			{
-				"gid" "42F7C2B3DCBE4A379A8F31E8E5A574AA"
-				"size" "3A051285ADF430B8CEBA72039860EEDF"
-				"download" "3AC09F86631638BAFFD1F7D82559ABCE"
-			}
-			"release_testmanu_staging_sandbox"
-			{
-				"gid" "5412DCF81116294215918C4CDA11315A"
-				"size" "67C6EB5624CC7F2FF7C57BCBE393549E"
-				"download" "7EAF5E1F56659BD7E1F2A37500E8FC3F"
+				"gid" "5154390426914688806"
+				"size" "5466995968"
+				"download" "4256497200"
 			}
 		}
 	}
@@ -492,130 +369,11 @@
 	{
 		"public"
 		{
-			"buildid" "14840662"
-			"timeupdated" "1719448163"
-		}
-		"localisation_qa"
-		{
-			"buildid" "13318315"
-			"pwdrequired" "1"
-			"timeupdated" "1706658478"
-		}
-		"master_publishing"
-		{
-			"buildid" "14063944"
-			"pwdrequired" "1"
-			"timeupdated" "1713227942"
-		}
-		"master_retail_multiplayer"
-		{
-			"buildid" "14017681"
-			"pwdrequired" "1"
-			"timeupdated" "1712809096"
-		}
-		"master_staging"
-		{
-			"buildid" "13243542"
-			"pwdrequired" "1"
-			"timeupdated" "1705974259"
-		}
-		"milestone_kowloon_ms01_rc1_sandbox"
-		{
-			"buildid" "12803808"
-			"pwdrequired" "1"
-			"timeupdated" "1701057735"
-		}
-		"ms02-kn"
-		{
-			"buildid" "8429106"
-			"pwdrequired" "1"
-			"timeupdated" "1648104805"
-		}
-		"ms03-kn"
-		{
-			"buildid" "9932523"
-			"pwdrequired" "1"
-			"timeupdated" "1668471752"
-		}
-		"studio_games"
-		{
-			"buildid" "14141855"
-			"pwdrequired" "1"
-			"timeupdated" "1713853611"
-		}
-		"master_retail"
-		{
-			"buildid" "14579641"
-			"pwdrequired" "1"
-			"timeupdated" "1717376317"
-		}
-		"master_sandbox"
-		{
-			"buildid" "14476189"
-			"pwdrequired" "1"
-			"timeupdated" "1716513351"
-		}
-		"release_1_1_1_release_retail"
-		{
-			"buildid" "14370806"
-			"pwdrequired" "1"
-			"timeupdated" "1715747780"
-		}
-		"release_1_1_1_staging_sandbox"
-		{
-			"buildid" "14370780"
-			"pwdrequired" "1"
-			"timeupdated" "1715747577"
-		}
-		"release_1_1_1p4_release_retail"
-		{
-			"buildid" "14462820"
-			"pwdrequired" "1"
-			"timeupdated" "1716432023"
-		}
-		"release_1_1_1p4_staging_sandbox"
-		{
-			"buildid" "14462703"
-			"pwdrequired" "1"
-			"timeupdated" "1716431098"
-		}
-		"release_1_1_2_release_retail"
-		{
-			"buildid" "14787794"
-			"pwdrequired" "1"
-			"timeupdated" "1718926392"
-		}
-		"release_1_1_2_staging_sandbox"
-		{
-			"buildid" "14737452"
-			"pwdrequired" "1"
-			"timeupdated" "1718589240"
-		}
-		"release_1_1_2p1_release_retail"
-		{
-			"buildid" "14840662"
-			"pwdrequired" "1"
-			"timeupdated" "1719381488"
-		}
-		"release_1_1_2p1_staging_sandbox"
-		{
-			"buildid" "14814914"
-			"pwdrequired" "1"
-			"timeupdated" "1719214767"
-		}
-		"release_internal_studio_games_staging_sandbox"
-		{
-			"buildid" "14447983"
-			"pwdrequired" "1"
-			"timeupdated" "1716334340"
-		}
-		"release_testmanu_staging_sandbox"
-		{
-			"buildid" "14463279"
-			"pwdrequired" "1"
-			"timeupdated" "1716435600"
+			"buildid" "17584455"
+			"timeupdated" "1741071049"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -646,3 +404,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27768584"
+"_sha" "d23d48f38ed93e7fc2e4e5cf7cdec5c83bde5fb5"
+"_size" "8116"
