@@ -325,126 +325,9 @@
 		{
 			"public"
 			{
-				"gid" "5418745512668761974"
-				"size" "2507854034"
-				"download" "1970762080"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"risk_of_change"
-			{
-				"gid" "8581A714C27EB3360406A60487F00157"
-				"size" "0D287A428E37FB31D5D6056967F30870"
-				"download" "B6959DD0F8FDC343F36242F5E1E5F291"
-			}
-			"the_gupworks"
-			{
-				"gid" "8C28A2124F7A5D280F189490298A58DE"
-				"size" "B2239FB7EC5F7E9359B08441EB5E1238"
-				"download" "4F4D2F115656C8116BBA75172BEC3A43"
-			}
-			"twisted_elite"
-			{
-				"gid" "78CE0BC4F0780BE808819C62D1BE3B45"
-				"size" "33CCA2C9FE12D00EE59C9A6329F375A0"
-				"download" "B55961713B0B4009319C2A042384B935"
-			}
-			"all_blindpests"
-			{
-				"gid" "BCA8B86AB9B18838712956184FCF21A9"
-				"size" "6EDD7A5BC391B6785DBE1D40FD5AEDB9"
-				"download" "4338BE8E2AE10A55D96CDFC034FE7205"
-			}
-			"gbx_internal"
-			{
-				"gid" "34BDAF63FCE42ED563214B2F5BC0B9F6"
-				"size" "28B4245FD6373DABA65FCCA884747D0A"
-				"download" "1572F12437EAE3C89BAF101F3C9EED1B"
-			}
-			"hardware"
-			{
-				"gid" "773562D1E61DEA4A2078E23D834C3934"
-				"size" "1F0E8D4D6A9163B086F4422B21977E7E"
-				"download" "22F54338B2A40A46B7B700075B67B02A"
-			}
-			"consumed_diosbestfriend"
-			{
-				"gid" "528089103274891A343103091899C419"
-				"size" "08633A33AC8784DF96407350FA60B1AC"
-				"download" "602308665B17243B337613D9A76B630C"
-			}
-			"ceremonial_dagger"
-			{
-				"gid" "EC987397163F5D1E87314EA49232A304"
-				"size" "CE4C66EB6A030A1B9DCA5C266F5AEDF8"
-				"download" "D26F720CE0B881586E6E278827BEA0DD"
-			}
-			"reaper"
-			{
-				"gid" "1893D6839B7DC425ADDB832FB8089778"
-				"size" "49152DF6E1E79724F51E7DCB1845A930"
-				"download" "F5CE5F0E9C279CC5F2E3C34BAE63FBDB"
-			}
-			"bens_raincoat"
-			{
-				"gid" "C42CF1E1C25BAC163E09E4752E9B7656"
-				"size" "3B1ADD1A1EC9C04AC48EE26101EF77A8"
-				"download" "8DCB1B05D414A8BE958658F428E0E571"
-			}
-			"apirefs"
-			{
-				"gid" "24EAF0742A9A7CE637FF55F71F5D5488"
-				"size" "3C072547FD4785E2D636432F6F2D5D2A"
-				"download" "DF75EDCBC8B0644207BA6339DB331C33"
-			}
-			"cu_7"
-			{
-				"gid" "08EA56A73439573259BA6E47EC463227"
-				"size" "11985CC97710DFAED25689E99AEC16A4"
-				"download" "FBDA7BD7C25506679285BDB3AE2EAE4E"
-			}
-			"cu_7.5"
-			{
-				"gid" "4CA8A028BF5947D8510181DEFBD482F8"
-				"size" "D9484BE7E0AB32818AEE31F59CBF7581"
-				"download" "A7E55C98A80A6B7BB22E9D3C81961FAD"
-			}
-			"hopoo"
-			{
-				"gid" "4296DF47B5E4E42DBCCD7A77502AB358"
-				"size" "7EDF1F5AD1350B92F5DE58CE4BF8E32C"
-				"download" "8649F1D0A20DDFF44E2D444BD52701EB"
-			}
-			"press"
-			{
-				"gid" "A16FC4EDD63C02E7368B7D3181FED1B6"
-				"size" "08DF67C362BEB189BFCA2534FDE1C0D8"
-				"download" "B087061BE6135CC86993122BB79E3ADB"
-			}
-			"press_sots"
-			{
-				"gid" "76643C41F3105D725FD8FBC567F22F57"
-				"size" "8AB5E7982472624EF9C1530BDF59BDA7"
-				"download" "8C973946C01B43D4903853F5749A388D"
-			}
-			"qa_internal"
-			{
-				"gid" "9EB925B896842C7E609EC670717BD82A"
-				"size" "5E8D58DB1E82EEE36F78F480CDF440E9"
-				"download" "B30ADE94AC5F64239C1408D5E1606387"
-			}
-			"qa_production"
-			{
-				"gid" "A467ACB4C90DA968204B24C1DE2A7EB7"
-				"size" "C46873F35A0078305B4AF1F43E6DD6A6"
-				"download" "8BB609BFAD89308C0CA76B9C6F500280"
-			}
-			"steam_china_only"
-			{
-				"gid" "CF6921834C4D2306693B014426A79E01"
-				"size" "2C345F33988FC29AA346472D6125F562"
-				"download" "DAB759C06CA4BC6DA9D9CE668D5DB335"
+				"gid" "6971805131910532689"
+				"size" "2499158762"
+				"download" "1969579504"
 			}
 		}
 	}
@@ -452,125 +335,11 @@
 	{
 		"public"
 		{
-			"buildid" "16545291"
-			"timeupdated" "1733853291"
-		}
-		"risk_of_change"
-		{
-			"buildid" "16127201"
-			"pwdrequired" "1"
-			"timeupdated" "1729541282"
-		}
-		"the_gupworks"
-		{
-			"buildid" "16545291"
-			"pwdrequired" "1"
-			"timeupdated" "1733324635"
-		}
-		"twisted_elite"
-		{
-			"buildid" "16686964"
-			"pwdrequired" "1"
-			"timeupdated" "1733787746"
-		}
-		"all_blindpests"
-		{
-			"buildid" "16545283"
-			"pwdrequired" "1"
-			"timeupdated" "1733328751"
-		}
-		"gbx_internal"
-		{
-			"buildid" "9581170"
-			"pwdrequired" "1"
-			"timeupdated" "1732288137"
-		}
-		"hardware"
-		{
-			"buildid" "16688632"
-			"pwdrequired" "1"
-			"timeupdated" "1733800540"
-		}
-		"consumed_diosbestfriend"
-		{
-			"buildid" "16688639"
-			"pwdrequired" "1"
-			"timeupdated" "1733800593"
-		}
-		"ceremonial_dagger"
-		{
-			"buildid" "16699674"
-			"pwdrequired" "1"
-			"timeupdated" "1733867070"
-		}
-		"reaper"
-		{
-			"buildid" "16699685"
-			"pwdrequired" "1"
-			"timeupdated" "1733867122"
-		}
-		"bens_raincoat"
-		{
-			"buildid" "15621886"
-			"pwdrequired" "1"
-			"timeupdated" "1725666159"
-		}
-		"apirefs"
-		{
-			"buildid" "6479093"
-			"pwdrequired" "1"
-			"timeupdated" "1617321548"
-		}
-		"cu_7"
-		{
-			"buildid" "8289039"
-			"pwdrequired" "1"
-			"timeupdated" "1649097735"
-		}
-		"cu_7.5"
-		{
-			"buildid" "12557276"
-			"pwdrequired" "1"
-			"timeupdated" "1698437670"
-		}
-		"hopoo"
-		{
-			"buildid" "15120602"
-			"pwdrequired" "1"
-			"timeupdated" "1722388559"
-		}
-		"press"
-		{
-			"buildid" "4164475"
-			"pwdrequired" "1"
-			"timeupdated" "1568303781"
-		}
-		"press_sots"
-		{
-			"buildid" "15390647"
-			"pwdrequired" "1"
-			"timeupdated" "1724255125"
-		}
-		"qa_internal"
-		{
-			"buildid" "12894938"
-			"pwdrequired" "1"
-			"timeupdated" "1701905278"
-		}
-		"qa_production"
-		{
-			"buildid" "12605776"
-			"pwdrequired" "1"
-			"timeupdated" "1698957309"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "8476135"
-			"pwdrequired" "1"
-			"timeupdated" "1648760241"
+			"buildid" "17431597"
+			"timeupdated" "1741118273"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -578,6 +347,6 @@
 	"maxnumfiles" "50"
 }
 "_missing_token" "False"
-"_change_number" "26582788"
-"_sha" "19ff777129bb361b59b16194ef182df046639d59"
-"_size" "12051"
+"_change_number" "27781612"
+"_sha" "82c54c016d74e18e370650e05b299fd92856af99"
+"_size" "6601"
