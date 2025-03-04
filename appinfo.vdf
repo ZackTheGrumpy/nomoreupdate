@@ -23,37 +23,32 @@
 	"osextended" ""
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1738713600"
-		"tested_build_id" "17078372"
+		"category" "3"
+		"test_timestamp" "1740787200"
+		"tested_build_id" "17517801"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
-			}
-			"1"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
-			}
-			"2"
-			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
-			"3"
+			"1"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
-			"4"
+			"2"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
-			"5"
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -307,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "6344863286738499627"
-				"size" "19503888022"
-				"download" "8887174544"
+				"gid" "5359380157756385892"
+				"size" "19507114918"
+				"download" "8889065824"
 			}
 		}
 	}
@@ -317,8 +312,8 @@
 	{
 		"public"
 		{
-			"buildid" "17457189"
-			"timeupdated" "1740499356"
+			"buildid" "17538428"
+			"timeupdated" "1741103807"
 		}
 	}
 	"privatebranches" "1"
@@ -338,6 +333,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27659001"
-"_sha" "4f2868d2a1fff916b3b926a28de1c848631aba8d"
-"_size" "6351"
+"_change_number" "27777689"
+"_sha" "83182e22235157f3f3e1d00960fba5277ea35f5d"
+"_size" "6235"
