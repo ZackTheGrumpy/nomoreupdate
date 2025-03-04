@@ -27,10 +27,12 @@
 		"czech" "1"
 		"turkish" "1"
 		"brazilian" "1"
+		"ukrainian" "1"
 	}
 	"name_localized"
 	{
 		"russian" "Герой Королевства: Утраченные Сказания 3"
+		"ukrainian" "Герой Королівства: Втрачені оповіді 3"
 	}
 	"steam_deck_compatibility"
 	{
@@ -248,6 +250,10 @@
 		{
 			"supported" "true"
 		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1732633231"
 	"community_visible_stats" "1"
@@ -277,7 +283,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -324,7 +330,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,italian,spanish,russian,polish,danish,dutch,hungarian,czech,turkish,brazilian"
+	"baselanguages" "english,german,french,italian,spanish,russian,polish,danish,dutch,hungarian,czech,turkish,brazilian,ukrainian"
 	"3340811"
 	{
 		"config"
@@ -335,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "6241437348862174665"
-				"size" "444398558"
-				"download" "196298688"
+				"gid" "768907344824380191"
+				"size" "444550780"
+				"download" "196331552"
 			}
 		}
 	}
@@ -351,9 +357,9 @@
 		{
 			"public"
 			{
-				"gid" "7397049465298398509"
-				"size" "2691472"
-				"download" "763536"
+				"gid" "813156057992563093"
+				"size" "2696592"
+				"download" "764256"
 			}
 		}
 	}
@@ -367,9 +373,9 @@
 		{
 			"public"
 			{
-				"gid" "8141063221320092498"
-				"size" "463238278"
-				"download" "199850992"
+				"gid" "5963232314488270001"
+				"size" "463391492"
+				"download" "199881680"
 			}
 		}
 	}
@@ -383,9 +389,9 @@
 		{
 			"public"
 			{
-				"gid" "3079764169032252948"
-				"size" "1671393"
-				"download" "533472"
+				"gid" "3629338859515872866"
+				"size" "1672129"
+				"download" "533760"
 			}
 		}
 	}
@@ -393,8 +399,8 @@
 	{
 		"public"
 		{
-			"buildid" "17121587"
-			"timeupdated" "1737733443"
+			"buildid" "17576802"
+			"timeupdated" "1741085011"
 		}
 	}
 }
@@ -404,6 +410,6 @@
 	"maxnumfiles" "6"
 }
 "_missing_token" "False"
-"_change_number" "27586602"
-"_sha" "6c0bd2922df3a80508ed1c85f60a7c59913aa130"
-"_size" "7124"
+"_change_number" "27772390"
+"_sha" "4a8cfe926daad951aa9ca49d7170d1181efe61bb"
+"_size" "7288"
