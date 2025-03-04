@@ -232,9 +232,21 @@
 		{
 			"public"
 			{
+				"gid" "5253195145335584685"
+				"size" "310380285"
+				"download" "101712784"
+			}
+			"v1.20.5"
+			{
 				"gid" "3827044307616000209"
 				"size" "303833793"
 				"download" "101067408"
+			}
+			"v130beta"
+			{
+				"gid" "5253195145335584685"
+				"size" "310380285"
+				"download" "101712784"
 			}
 		}
 	}
@@ -242,8 +254,20 @@
 	{
 		"public"
 		{
+			"buildid" "17573110"
+			"timeupdated" "1741058022"
+		}
+		"v1.20.5"
+		{
 			"buildid" "16979629"
-			"timeupdated" "1736688588"
+			"description" "Older version"
+			"timeupdated" "1741058892"
+		}
+		"v130beta"
+		{
+			"buildid" "17573110"
+			"description" "v130"
+			"timeupdated" "1741000135"
 		}
 	}
 	"privatebranches" "1"
@@ -267,6 +291,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26962087"
-"_sha" "2200194d9fe9cda28dc43ff7997a180c20308a0c"
-"_size" "4590"
+"_change_number" "27766836"
+"_sha" "cb89d44ec2ee64adda2558d559553ee608e37c40"
+"_size" "5043"
