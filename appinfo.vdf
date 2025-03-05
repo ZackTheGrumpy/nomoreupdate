@@ -103,7 +103,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739395883"
+	"store_asset_mtime" "1741178814"
 	"associations"
 	{
 		"0"
@@ -132,7 +132,6 @@
 	{
 		"0" "23"
 		"1" "2"
-		"2" "70"
 	}
 	"category"
 	{
@@ -159,8 +158,24 @@
 		{
 			"supported" "true"
 		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
 	}
-	"steam_release_date" "1730718192"
+	"steam_release_date" "1741179303"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1586860"
@@ -242,15 +257,15 @@
 		{
 			"public"
 			{
-				"gid" "2402540690821575285"
-				"size" "1006342351"
-				"download" "878434848"
+				"gid" "1545879434519236698"
+				"size" "1129975668"
+				"download" "1013072016"
 			}
 			"publictest"
 			{
-				"gid" "8132374136004575144"
-				"size" "1129073921"
-				"download" "1012293088"
+				"gid" "1545879434519236698"
+				"size" "1129975668"
+				"download" "1013072016"
 			}
 		}
 	}
@@ -281,19 +296,19 @@
 	{
 		"public"
 		{
-			"buildid" "16777150"
-			"timeupdated" "1734465106"
+			"buildid" "17590057"
+			"timeupdated" "1741179055"
 		}
 		"publictest"
 		{
-			"buildid" "17469685"
+			"buildid" "17590057"
 			"description" "Purgatory of the Devil, where the upcoming update is first available to you, sinners."
-			"timeupdated" "1740262106"
+			"timeupdated" "1741097000"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27614330"
-"_sha" "5ca211f663fd3771d2243f6f470ff0a64a1e9537"
-"_size" "4969"
+"_change_number" "27794847"
+"_sha" "0f93d6204eface5c10cf06deb182d6e81ccfa180"
+"_size" "5147"
