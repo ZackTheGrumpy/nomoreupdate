@@ -18,6 +18,7 @@
 		"tchinese" "莎拉的黑店"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -115,7 +116,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731554148"
+	"store_asset_mtime" "1739269809"
 	"associations"
 	{
 		"0"
@@ -147,6 +148,11 @@
 	{
 		"category_2" "1"
 		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -245,6 +251,9 @@
 			"description" "for macOS"
 		}
 	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+	"steamcontrollertemplateindex" "4"
 }
 "depots"
 {
@@ -259,9 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "3756658883140288272"
-				"size" "1069503090"
-				"download" "187332176"
+				"gid" "5628644958176590082"
+				"size" "1068556615"
+				"download" "184402544"
 			}
 		}
 	}
@@ -275,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "4293547491826688493"
-				"size" "332342165"
-				"download" "225546064"
+				"gid" "7184434536897679308"
+				"size" "329456984"
+				"download" "221767408"
 			}
 		}
 	}
@@ -286,8 +295,8 @@
 	{
 		"public"
 		{
-			"buildid" "16996073"
-			"timeupdated" "1737020582"
+			"buildid" "17601420"
+			"timeupdated" "1741166493"
 		}
 	}
 	"privatebranches" "1"
@@ -296,8 +305,6 @@
 {
 	"quota" "10000000"
 	"maxnumfiles" "10"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 	"sync_while_suspended" "1"
 	"savefiles"
 	{
@@ -343,6 +350,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27022244"
-"_sha" "2e0efea7b60b65327dc16e46e67c3510b47c019d"
-"_size" "6186"
+"_change_number" "27791473"
+"_sha" "ab459ef483ad95ffa5c5d2cfc95c1ae1acf9ad38"
+"_size" "6390"
