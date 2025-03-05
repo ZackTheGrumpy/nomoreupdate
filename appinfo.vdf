@@ -176,13 +176,13 @@
 		"16" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "75"
 }
 "extended"
 {
 	"developer" "StarChess"
 	"publisher" "StarChess"
-	"listofdlc" "3410950,3410970"
+	"listofdlc" "3410950,3410960,3410970"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -259,15 +259,15 @@
 		{
 			"public"
 			{
-				"gid" "681143818632133880"
-				"size" "16474091407"
-				"download" "15266831504"
+				"gid" "8727457251095352621"
+				"size" "16565318988"
+				"download" "15333095536"
 			}
 			"beta"
 			{
-				"gid" "681143818632133880"
-				"size" "16474091407"
-				"download" "15266831504"
+				"gid" "8727457251095352621"
+				"size" "16565318988"
+				"download" "15333095536"
 			}
 		}
 	}
@@ -275,14 +275,14 @@
 	{
 		"public"
 		{
-			"buildid" "17117735"
-			"timeupdated" "1737713438"
+			"buildid" "17597837"
+			"timeupdated" "1741156835"
 		}
 		"beta"
 		{
-			"buildid" "17117735"
+			"buildid" "17597837"
 			"description" "用于测试"
-			"timeupdated" "1737713421"
+			"timeupdated" "1741146553"
 		}
 	}
 }
@@ -309,6 +309,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27146944"
-"_sha" "3c0d5e828a237d56ff2d22e63dfc2444e11b4185"
-"_size" "5360"
+"_change_number" "27789276"
+"_sha" "ae079f2314fa69b0f543e5b4c0c5481c0bfb87c2"
+"_size" "5370"
