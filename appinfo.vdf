@@ -25,6 +25,7 @@
 		"english" "1"
 		"german" "1"
 		"french" "1"
+		"koreana" "1"
 		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
@@ -274,6 +275,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1652943590"
 	"metacritic_score" "80"
@@ -447,15 +453,15 @@
 		{
 			"public"
 			{
-				"gid" "6752815796965856985"
-				"size" "7513297131"
-				"download" "3578387840"
+				"gid" "9204304365315914632"
+				"size" "7513299364"
+				"download" "3578388416"
 			}
 			"test"
 			{
-				"gid" "4624122159611653737"
-				"size" "7512941965"
-				"download" "3570344736"
+				"gid" "7376448858548546106"
+				"size" "7525883075"
+				"download" "3572785952"
 			}
 		}
 	}
@@ -470,15 +476,15 @@
 		{
 			"public"
 			{
-				"gid" "2474924385053739147"
-				"size" "7167203857"
-				"download" "3362998000"
+				"gid" "7969988056784776499"
+				"size" "7167206090"
+				"download" "3362998544"
 			}
 			"test"
 			{
-				"gid" "5372864593256406226"
-				"size" "7264314438"
-				"download" "3365839824"
+				"gid" "4782644073135078706"
+				"size" "7277255553"
+				"download" "3368496864"
 			}
 		}
 	}
@@ -493,15 +499,15 @@
 		{
 			"public"
 			{
-				"gid" "2240152737298321527"
-				"size" "7156890446"
-				"download" "3350941280"
+				"gid" "1577381227080832757"
+				"size" "7156892679"
+				"download" "3350941408"
 			}
 			"test"
 			{
-				"gid" "3021703249816009915"
-				"size" "7185801291"
-				"download" "3342750256"
+				"gid" "7522884055489884542"
+				"size" "7198742402"
+				"download" "3345829136"
 			}
 		}
 	}
@@ -509,14 +515,14 @@
 	{
 		"public"
 		{
-			"buildid" "17551291"
-			"timeupdated" "1740767221"
+			"buildid" "17595363"
+			"timeupdated" "1741128104"
 		}
 		"test"
 		{
-			"buildid" "17428332"
+			"buildid" "17551551"
 			"description" "Testing Branch for the next version"
-			"timeupdated" "1740000830"
+			"timeupdated" "1740770921"
 		}
 	}
 	"privatebranches" "1"
@@ -577,6 +583,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27723361"
-"_sha" "62bae54687e3d6d461cdc72953e040a21e1ed00c"
-"_size" "12545"
+"_change_number" "27783679"
+"_sha" "3aa8d00fa96e00d60a1a3e93c53c3b2557b5879a"
+"_size" "12634"
