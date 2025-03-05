@@ -222,15 +222,15 @@
 		{
 			"public"
 			{
-				"gid" "4400322405813363628"
-				"size" "7068062248"
-				"download" "1639304848"
+				"gid" "1410798964991399372"
+				"size" "7290951498"
+				"download" "1677010608"
 			}
 			"openbeta"
 			{
-				"gid" "4400322405813363628"
-				"size" "7068062248"
-				"download" "1639304848"
+				"gid" "1410798964991399372"
+				"size" "7290951498"
+				"download" "1677010608"
 			}
 		}
 	}
@@ -239,19 +239,19 @@
 	{
 		"public"
 		{
-			"buildid" "17269837"
-			"timeupdated" "1738863072"
+			"buildid" "17587671"
+			"timeupdated" "1741124310"
 		}
 		"openbeta"
 		{
-			"buildid" "17269837"
+			"buildid" "17587671"
 			"description" "Test Channel for the public that owns the game"
-			"timeupdated" "1738863007"
+			"timeupdated" "1741088286"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27349696"
-"_sha" "8d53ca133ef7a6d4b2b35b41338369a3cf43baf2"
+"_change_number" "27782860"
+"_sha" "48d49e55175cfe8b1d15e81608a0275b4dd2b425"
 "_size" "4438"
