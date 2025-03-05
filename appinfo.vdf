@@ -86,7 +86,7 @@
 	"header_image"
 	{
 		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
+		"schinese" "f33cc4075cd3bf09f6a4045610fe10a3eede0b19/header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 		"koreana" "header_koreana.jpg"
 		"japanese" "header_japanese.jpg"
@@ -177,7 +177,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730735998"
+	"store_asset_mtime" "1741186935"
 	"associations"
 	{
 		"0"
@@ -294,7 +294,7 @@
 		"19" "4166"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -320,15 +320,15 @@
 		{
 			"public"
 			{
-				"gid" "3993872673083634128"
-				"size" "4980237010"
-				"download" "1532221632"
+				"gid" "6361726542600663229"
+				"size" "5712379530"
+				"download" "1738258848"
 			}
 			"beta"
 			{
-				"gid" "578348924082876306"
-				"size" "4979972775"
-				"download" "1532207504"
+				"gid" "6361726542600663229"
+				"size" "5712379530"
+				"download" "1738258848"
 			}
 		}
 	}
@@ -337,16 +337,17 @@
 	{
 		"public"
 		{
-			"buildid" "16407717"
-			"timeupdated" "1731596636"
+			"buildid" "17606069"
+			"timeupdated" "1741188159"
 		}
 		"beta"
 		{
-			"buildid" "16162379"
+			"buildid" "17606069"
 			"description" "pre-release updates. (Unstable)"
-			"timeupdated" "1729758556"
+			"timeupdated" "1741187876"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -376,6 +377,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26195037"
-"_sha" "c83888a02d59594e6ef0a96158d6a12280881f7d"
-"_size" "7344"
+"_change_number" "27797325"
+"_sha" "8623d18f201b09418b9db08da30d574a713ac73b"
+"_size" "7411"
