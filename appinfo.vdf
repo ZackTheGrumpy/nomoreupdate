@@ -155,6 +155,8 @@
 		"12" "12472"
 		"13" "3993"
 	}
+	"review_score" "5"
+	"review_percentage" "46"
 }
 "extended"
 {
@@ -184,9 +186,9 @@
 		{
 			"public"
 			{
-				"gid" "6676272184749498460"
-				"size" "5236818562"
-				"download" "763434304"
+				"gid" "7495565992411173726"
+				"size" "5236823066"
+				"download" "763435280"
 			}
 		}
 	}
@@ -194,12 +196,12 @@
 	{
 		"public"
 		{
-			"buildid" "17597699"
-			"timeupdated" "1741140534"
+			"buildid" "17601717"
+			"timeupdated" "1741169112"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27786269"
-"_sha" "e6e2307a099ba68e356a0434c009cf6eaf339709"
-"_size" "3200"
+"_change_number" "27792189"
+"_sha" "e7dfebd0ec956d32a6b8ad73eb08142f9e1e2cad"
+"_size" "3250"
