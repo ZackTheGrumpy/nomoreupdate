@@ -192,9 +192,9 @@
 		{
 			"public"
 			{
-				"gid" "488229704896698340"
-				"size" "906566506"
-				"download" "359942352"
+				"gid" "5441974623684451085"
+				"size" "906567096"
+				"download" "359944672"
 			}
 			"20250225"
 			{
@@ -220,8 +220,8 @@
 	{
 		"public"
 		{
-			"buildid" "17571472"
-			"timeupdated" "1740991203"
+			"buildid" "17597515"
+			"timeupdated" "1741141640"
 		}
 		"20250225"
 		{
@@ -232,7 +232,7 @@
 		"ea0.8.1-24.12.18"
 		{
 			"buildid" "16784265"
-			"description" "EA版本24年12月18日"
+			"description" "EA.24.12.18(旧UI版)"
 			"timeupdated" "1737690731"
 		}
 		"public_test"
@@ -263,6 +263,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27750528"
-"_sha" "74a7b79394bb6311a7bc6a3162f73363c09d9b81"
-"_size" "4256"
+"_change_number" "27786540"
+"_sha" "2f77e1a36f1e1743931647242b12459e80c0f8be"
+"_size" "4255"
