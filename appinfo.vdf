@@ -251,15 +251,15 @@
 		{
 			"public"
 			{
-				"gid" "8753533514444278027"
-				"size" "252677313"
-				"download" "78207024"
+				"gid" "1756416812267828661"
+				"size" "251805537"
+				"download" "78163504"
 			}
 			"beta"
 			{
-				"gid" "687766704915754579"
-				"size" "253973969"
-				"download" "78232464"
+				"gid" "1756416812267828661"
+				"size" "251805537"
+				"download" "78163504"
 			}
 			"dunhero-0.2.1"
 			{
@@ -285,15 +285,15 @@
 		{
 			"public"
 			{
-				"gid" "2603465336917524417"
-				"size" "255193962"
-				"download" "77163552"
+				"gid" "1403697326446929725"
+				"size" "254323258"
+				"download" "77146768"
 			}
 			"beta"
 			{
-				"gid" "181875017960055237"
-				"size" "256490618"
-				"download" "77192576"
+				"gid" "1403697326446929725"
+				"size" "254323258"
+				"download" "77146768"
 			}
 			"dunhero-0.2.1"
 			{
@@ -313,14 +313,14 @@
 	{
 		"public"
 		{
-			"buildid" "17576360"
-			"timeupdated" "1741017113"
+			"buildid" "17603538"
+			"timeupdated" "1741175501"
 		}
 		"beta"
 		{
-			"buildid" "17553417"
+			"buildid" "17603538"
 			"description" "Beta Version (Might be unstable)"
-			"timeupdated" "1740779740"
+			"timeupdated" "1741175513"
 		}
 		"dunhero-0.2.1"
 		{
@@ -366,6 +366,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27756799"
-"_sha" "d9e0c31beb09d66fee7a83a3aeea7049d754cf2c"
-"_size" "6415"
+"_change_number" "27793902"
+"_sha" "7c05d4d85b0af04e844404c8912dcdeeb91fb65b"
+"_size" "6417"
