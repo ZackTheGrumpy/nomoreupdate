@@ -10,6 +10,55 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739923200"
+		"tested_build_id" "16327016"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputHasNonblockingIssues"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -102,6 +151,11 @@
 		{
 			"type" "publisher"
 			"name" "Krillbite Studio"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "The Iterative Collective"
 		}
 	}
 	"primary_genre" "25"
@@ -214,8 +268,8 @@
 		"10" "597"
 		"11" "3839"
 		"12" "12472"
-		"13" "4252"
-		"14" "1100687"
+		"13" "1100687"
+		"14" "4252"
 		"15" "3810"
 		"16" "1695"
 		"17" "4182"
@@ -256,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "6226657941307926860"
-				"size" "2457675357"
-				"download" "1869963920"
+				"gid" "168891057964116192"
+				"size" "2457469702"
+				"download" "1869714288"
 			}
 		}
 	}
@@ -266,8 +320,8 @@
 	{
 		"public"
 		{
-			"buildid" "17334321"
-			"timeupdated" "1739444103"
+			"buildid" "17604239"
+			"timeupdated" "1741179147"
 		}
 	}
 	"privatebranches" "1"
@@ -292,6 +346,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27457431"
-"_sha" "c0d274592f2276b7786ba416d786e292848734cb"
-"_size" "4810"
+"_change_number" "27794807"
+"_sha" "3f4d92634a1b8dbac726089935f8c067b9f94c7e"
+"_size" "6110"
