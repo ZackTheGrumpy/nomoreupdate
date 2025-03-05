@@ -25,7 +25,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "fbab1ca08d123ea86ed7972fe28e99512813421a/capsule_231x87.jpg"
+		"english" "dbd511e0133d121ca351ec44ffc703b3c10ad4ee/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -97,7 +97,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727412320"
+	"store_asset_mtime" "1733740776"
 	"associations"
 	{
 		"0"
@@ -151,26 +151,28 @@
 		"6" "6426"
 		"7" "4947"
 		"8" "6869"
-		"9" "6971"
-		"10" "1742"
-		"11" "4182"
-		"12" "4175"
+		"9" "492"
+		"10" "6971"
+		"11" "1742"
+		"12" "4182"
 		"13" "4486"
-		"14" "9551"
-		"15" "4242"
-		"16" "4295"
-		"17" "1680"
-		"18" "4136"
-		"19" "4711"
+		"14" "21"
+		"15" "4175"
+		"16" "9551"
+		"17" "4242"
+		"18" "4295"
+		"19" "1680"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
 	"developer" "1Thousand"
 	"publisher" "1Thousand"
 	"homepage" "https://twitter.com/1ThousandDev"
+	"listofdlc" "3552650"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -207,9 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "5360555094064701020"
-				"size" "5463140419"
-				"download" "4427405360"
+				"gid" "4790233911682642588"
+				"size" "5476230937"
+				"download" "4431071456"
 			}
 		}
 	}
@@ -223,9 +225,9 @@
 		{
 			"public"
 			{
-				"gid" "7601254946646334074"
-				"size" "5462053862"
-				"download" "4426772256"
+				"gid" "8204886614958089259"
+				"size" "5475144380"
+				"download" "4430438352"
 			}
 		}
 	}
@@ -233,8 +235,8 @@
 	{
 		"public"
 		{
-			"buildid" "15831537"
-			"timeupdated" "1727323852"
+			"buildid" "17602010"
+			"timeupdated" "1741168102"
 		}
 	}
 }
@@ -252,3 +254,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27791869"
+"_sha" "95c035caf78c4b98885f64d15f1640e1a609ffa6"
+"_size" "4006"
