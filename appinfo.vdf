@@ -147,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723818374"
+	"store_asset_mtime" "1738251988"
 	"associations"
 	{
 		"0"
@@ -318,8 +318,8 @@
 		"1" "3871"
 		"2" "599"
 		"3" "1100689"
-		"4" "1662"
-		"5" "3859"
+		"4" "3859"
+		"5" "1662"
 		"6" "3810"
 		"7" "1695"
 		"8" "1702"
@@ -331,8 +331,8 @@
 		"14" "3843"
 		"15" "87918"
 		"16" "255534"
-		"17" "4166"
-		"18" "4182"
+		"17" "4182"
+		"18" "4166"
 		"19" "493"
 	}
 	"review_score" "8"
@@ -456,46 +456,46 @@
 	"uselaunchcommandline" "1"
 	"steamcontrollerconfigdetails"
 	{
-		"3021993242"
-		{
-			"controller_type" "controller_ps5"
-			"enabled_branches" "default,betafixes,buildtest,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1"
-			"use_action_block" "false"
-		}
-		"3022004665"
-		{
-			"controller_type" "controller_xboxone"
-			"enabled_branches" "default,betafixes,buildtest,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1"
-			"use_action_block" "false"
-		}
-		"3022007895"
-		{
-			"controller_type" "controller_ps4"
-			"enabled_branches" "default,betafixes,buildtest,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1"
-			"use_action_block" "false"
-		}
-		"3022011601"
-		{
-			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "default,betafixes,buildtest,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1"
-			"use_action_block" "false"
-		}
-		"3022016949"
-		{
-			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "default,betafixes,buildtest,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1"
-			"use_action_block" "false"
-		}
-		"3022019367"
-		{
-			"controller_type" "controller_xbox360"
-			"enabled_branches" "default,betafixes,buildtest,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1"
-			"use_action_block" "false"
-		}
-		"3022029543"
+		"3430857987"
 		{
 			"controller_type" "controller_neptune"
-			"enabled_branches" "default,betafixes,buildtest,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1"
+			"enabled_branches" "default,betafixes,buildtest,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1,v0.29.0,v0.30.0"
+			"use_action_block" "false"
+		}
+		"3430857785"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,betafixes,buildtest,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1,v0.29.0,v0.30.0"
+			"use_action_block" "false"
+		}
+		"3430864397"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,betafixes,buildtest,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1,v0.29.0,v0.30.0"
+			"use_action_block" "false"
+		}
+		"3430865746"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,betafixes,buildtest,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1,v0.29.0,v0.30.0"
+			"use_action_block" "false"
+		}
+		"3430866458"
+		{
+			"controller_type" "controller_generic"
+			"enabled_branches" "default,betafixes,buildtest,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1,v0.29.0,v0.30.0"
+			"use_action_block" "false"
+		}
+		"3431386110"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,betafixes,buildtest,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1,v0.29.0,v0.30.0"
+			"use_action_block" "false"
+		}
+		"3431388069"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,betafixes,buildtest,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28,v0.21.29,v0.22.0,v0.22.1,v0.23.0,v0.23.1,v0.24.0,v0.24.1,v0.24.2,v0.25.0,v0.25.1,v0.26.0,v0.26.1,v0.27.0,v0.28.0,v0.28.1,v0.29.0,v0.30.0"
 			"use_action_block" "false"
 		}
 	}
@@ -520,12 +520,6 @@
 				"gid" "2639262864618925425"
 				"size" "398992651"
 				"download" "279069936"
-			}
-			"v0.21.23"
-			{
-				"gid" "7467126851982166657"
-				"size" "342489282"
-				"download" "215715664"
 			}
 			"v0.21.24"
 			{
@@ -653,6 +647,12 @@
 				"size" "398992651"
 				"download" "279069936"
 			}
+			"v0.30.0"
+			{
+				"gid" "2639262864618925425"
+				"size" "398992651"
+				"download" "279069936"
+			}
 		}
 	}
 	"1169043"
@@ -666,15 +666,9 @@
 		{
 			"public"
 			{
-				"gid" "1066588980222602409"
-				"size" "448160977"
-				"download" "315738192"
-			}
-			"v0.21.23"
-			{
-				"gid" "1586739721671068601"
-				"size" "359106370"
-				"download" "219400912"
+				"gid" "5928023223217824460"
+				"size" "454198748"
+				"download" "313123808"
 			}
 			"v0.21.24"
 			{
@@ -802,6 +796,12 @@
 				"size" "447087935"
 				"download" "315022912"
 			}
+			"v0.30.0"
+			{
+				"gid" "1066588980222602409"
+				"size" "448160977"
+				"download" "315738192"
+			}
 		}
 	}
 	"1169044"
@@ -814,15 +814,9 @@
 		{
 			"public"
 			{
-				"gid" "3661660202855259039"
-				"size" "453678152"
-				"download" "320908464"
-			}
-			"v0.21.23"
-			{
-				"gid" "6798656273683115627"
-				"size" "367997431"
-				"download" "214880256"
+				"gid" "239789174429400319"
+				"size" "435842018"
+				"download" "308195904"
 			}
 			"v0.21.24"
 			{
@@ -950,6 +944,12 @@
 				"size" "452605110"
 				"download" "315155776"
 			}
+			"v0.30.0"
+			{
+				"gid" "3661660202855259039"
+				"size" "453678152"
+				"download" "320908464"
+			}
 		}
 	}
 	"1169045"
@@ -962,15 +962,9 @@
 		{
 			"public"
 			{
-				"gid" "7712327013005791714"
-				"size" "458357113"
-				"download" "317415376"
-			}
-			"v0.21.23"
-			{
-				"gid" "6404665697104459604"
-				"size" "398018760"
-				"download" "225766944"
+				"gid" "8860530723891050294"
+				"size" "463205096"
+				"download" "326686688"
 			}
 			"v0.21.24"
 			{
@@ -1098,6 +1092,12 @@
 				"size" "457284071"
 				"download" "321734416"
 			}
+			"v0.30.0"
+			{
+				"gid" "7712327013005791714"
+				"size" "458357113"
+				"download" "317415376"
+			}
 		}
 	}
 	"workshopdepot" "1169040"
@@ -1105,14 +1105,8 @@
 	{
 		"public"
 		{
-			"buildid" "17129871"
-			"timeupdated" "1737807967"
-		}
-		"v0.21.23"
-		{
-			"buildid" "9096788"
-			"description" "Older version"
-			"timeupdated" "1661180505"
+			"buildid" "17608966"
+			"timeupdated" "1741202446"
 		}
 		"v0.21.24"
 		{
@@ -1240,6 +1234,12 @@
 			"description" "Older version"
 			"timeupdated" "1737654457"
 		}
+		"v0.30.0"
+		{
+			"buildid" "17129871"
+			"description" "Older version"
+			"timeupdated" "1741196365"
+		}
 	}
 	"privatebranches" "1"
 }
@@ -1292,6 +1292,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27163261"
-"_sha" "8922cf3965ad84f5f82267a0a1c6d4b9bb0fc751"
-"_size" "26055"
+"_change_number" "27801509"
+"_sha" "ccdd3f26978c99b432595075fc0d084b8226a07e"
+"_size" "26084"
