@@ -283,6 +283,10 @@
 		{
 			"supported" "true"
 		}
+		"arabic"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1715097662"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/2418520/announcements/detail/4213757668847074226"
@@ -364,9 +368,9 @@
 		{
 			"public"
 			{
-				"gid" "2800711040852216949"
-				"size" "837063236"
-				"download" "459788304"
+				"gid" "1882744069027391263"
+				"size" "837063248"
+				"download" "459792512"
 			}
 		}
 	}
@@ -380,9 +384,9 @@
 		{
 			"public"
 			{
-				"gid" "9183337330862872062"
+				"gid" "6479953270707035309"
 				"size" "874970495"
-				"download" "471389888"
+				"download" "471390192"
 			}
 		}
 	}
@@ -390,8 +394,8 @@
 	{
 		"public"
 		{
-			"buildid" "17606544"
-			"timeupdated" "1741190484"
+			"buildid" "17607917"
+			"timeupdated" "1741196780"
 		}
 	}
 	"privatebranches" "1"
@@ -431,6 +435,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27797988"
-"_sha" "6b9e8473236b0aeff564c2c2bb82d1eebabad231"
-"_size" "7175"
+"_change_number" "27799765"
+"_sha" "10bc93c3664098a602145d1f5ac158bc736fa30a"
+"_size" "7221"
