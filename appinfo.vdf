@@ -76,8 +76,8 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "69.26137689614936"
-			"height_pct" "90.88102588458798"
+			"width_pct" "78.39466895109577"
+			"height_pct" "99.47342418347918"
 		}
 	}
 	"library_assets_full"
@@ -86,11 +86,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "56fe8e100d53ed651b80af1204fba51157578223/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "56fe8e100d53ed651b80af1204fba51157578223/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -113,30 +113,34 @@
 		}
 		"library_logo"
 		{
+			"image"
+			{
+				"english" "4e40a80a699198b6e3c1f2986c74bc49620410a6/logo.png"
+			}
 			"image2x"
 			{
-				"english" "f90268216119b8aed85e6bc1a0c576bd3899494a/logo_2x.png"
+				"english" "4e40a80a699198b6e3c1f2986c74bc49620410a6/logo_2x.png"
 			}
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "69.26137689614936"
-				"height_pct" "90.88102588458798"
-			}
-			"image"
-			{
-				"english" "f90268216119b8aed85e6bc1a0c576bd3899494a/logo.png"
+				"width_pct" "78.39466895109577"
+				"height_pct" "99.47342418347918"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "1f7543f8fa3f7db0f865da700514827e00678f36/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1f7543f8fa3f7db0f865da700514827e00678f36/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1740043706"
+	"store_asset_mtime" "1740135206"
 	"associations"
 	{
 		"0"
@@ -271,9 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "1112865297574658722"
-				"size" "8834204015"
-				"download" "5154396352"
+				"gid" "691281090267986710"
+				"size" "8834246535"
+				"download" "5154408352"
 			}
 		}
 	}
@@ -281,8 +285,8 @@
 	{
 		"public"
 		{
-			"buildid" "17440206"
-			"timeupdated" "1740061924"
+			"buildid" "17547347"
+			"timeupdated" "1741169517"
 		}
 	}
 	"privatebranches" "1"
@@ -302,6 +306,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27575948"
-"_sha" "dc0cdde794e3053124be168a813785dccb3cc9bd"
-"_size" "5483"
+"_change_number" "27792268"
+"_sha" "4024b15aaa8500473b624334153b8b9feb87718c"
+"_size" "5712"
