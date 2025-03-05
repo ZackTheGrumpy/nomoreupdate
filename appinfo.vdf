@@ -45,6 +45,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "47.90697674418604"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1690819128"
 	"associations"
 	{
@@ -130,7 +172,7 @@
 		"19" "122"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -163,30 +205,9 @@
 		{
 			"public"
 			{
-				"gid" "7315978636048074730"
-				"size" "805956650"
-				"download" "457699856"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"betatest"
-			{
-				"gid" "C25C1F369CFAC3F5851487ED75D64DEA"
-				"size" "4BE03CFC732478744A7D0CB5D2F38F3B"
-				"download" "D2F2A2CFFB64DD89C5293DF3F9CEF65E"
-			}
-			"reimirno"
-			{
-				"gid" "9F0E65AF627B4B6020E0807E6D244866"
-				"size" "43F818D7ED6BC1748EBD4756151D5A7D"
-				"download" "AFE6D6E6F5D1FDA55905DC88A9961B91"
-			}
-			"staging"
-			{
-				"gid" "DA5F01A4E1F2D0845DF0F6817014033D"
-				"size" "7CB5772E8C9A692D428D47DECE89B60F"
-				"download" "6999D0E0ABD25334D53E2A9B9C109C50"
+				"gid" "102661858900348476"
+				"size" "544853169"
+				"download" "263650944"
 			}
 		}
 	}
@@ -202,28 +223,11 @@
 	{
 		"public"
 		{
-			"buildid" "12102250"
-			"timeupdated" "1693808733"
-		}
-		"betatest"
-		{
-			"buildid" "12098451"
-			"pwdrequired" "1"
-			"timeupdated" "1693725814"
-		}
-		"reimirno"
-		{
-			"buildid" "11810091"
-			"pwdrequired" "1"
-			"timeupdated" "1690536962"
-		}
-		"staging"
-		{
-			"buildid" "12102250"
-			"pwdrequired" "1"
-			"timeupdated" "1693804256"
+			"buildid" "17608304"
+			"timeupdated" "1741200542"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -253,3 +257,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27800809"
+"_sha" "12a91d4311df50e02e1fae81960a368d5e9afddc"
+"_size" "4237"
