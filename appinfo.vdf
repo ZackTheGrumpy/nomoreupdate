@@ -1,0 +1,267 @@
+"appid" "1830430"
+"common"
+{
+	"name" "Grimoire Groves"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "573afd734fc52c04eb1a445de46ca16e05e0431b"
+	"logo_small" "573afd734fc52c04eb1a445de46ca16e05e0431b_thumb"
+	"icon" "bffe2c907bf4bbf5253d29576c5b6a50124b689c"
+	"clienttga" "e211f75c948e38eb84c2f58b2181f81e5c4e12f1"
+	"clienticon" "472e8efbd265b357a819937c4fc9633a278f6569"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "49.6511627906977"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "49.6511627906977"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1741107816"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stardust"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stardust"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1741106847"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1830430"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "1720"
+		"2" "97376"
+		"3" "42804"
+		"4" "30358"
+		"5" "122"
+		"6" "4057"
+		"7" "1716"
+		"8" "87918"
+		"9" "19"
+		"10" "1702"
+		"11" "6815"
+		"12" "1684"
+		"13" "4305"
+		"14" "22602"
+		"15" "4182"
+		"16" "1643"
+		"17" "4106"
+		"18" "4231"
+		"19" "3834"
+	}
+	"review_score" "7"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"developer" "Stardust"
+	"publisher" "Stardust"
+	"homepage" "http://www.stardust.ch"
+}
+"config"
+{
+	"installdir" "Grimoire Groves"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "windows_content\\grimoire_groves.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"1830431"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3025530732030991544"
+				"size" "1769299133"
+				"download" "251612144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17591220"
+			"timeupdated" "1741102990"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ch_stardust_grimoiregroves/Grimoire Groves/saves"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".steam/steam/steamapps/compatdata/1830430/pfx/dosdevices/c:/users/steamuser/AppData/LocalLow/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27783315"
+"_sha" "3f359ff9ffa2a53bde30619a5fc9934cb057d7c2"
+"_size" "4262"
