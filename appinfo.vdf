@@ -40,6 +40,9 @@
 	"steam_release_date" "1665015306"
 	"gameid" "2027190"
 	"exfgls" "6"
+	"store_tags"
+	{
+	}
 	"review_score" "7"
 	"review_percentage" "100"
 }
@@ -62,9 +65,9 @@
 		{
 			"public"
 			{
-				"gid" "7410130500659900833"
-				"size" "157552587"
-				"download" "156368016"
+				"gid" "8454652131948997625"
+				"size" "174781540"
+				"download" "173618912"
 			}
 		}
 	}
@@ -78,9 +81,9 @@
 		{
 			"public"
 			{
-				"gid" "6727272592746107328"
-				"size" "832619014"
-				"download" "842150752"
+				"gid" "6167094873724360203"
+				"size" "927538672"
+				"download" "938258240"
 			}
 		}
 	}
@@ -88,8 +91,8 @@
 	{
 		"public"
 		{
-			"buildid" "16268614"
-			"timeupdated" "1730489446"
+			"buildid" "17609592"
+			"timeupdated" "1741206462"
 		}
 	}
 	"privatebranches" "1"
@@ -131,7 +134,7 @@
 			"tchinese" ""
 			"romanian" ""
 			"finnish" ""
-			"english" "Signal-E"
+			"english" "SiGNAL-E STUDIO"
 			"dutch" ""
 			"brazilian" ""
 			"portuguese" ""
@@ -140,6 +143,7 @@
 			"vietnamese" ""
 			"arabic" ""
 			"koreana" ""
+			"indonesian" ""
 		}
 		"composer"
 		{
@@ -172,6 +176,7 @@
 			"vietnamese" ""
 			"arabic" ""
 			"koreana" ""
+			"indonesian" ""
 		}
 		"label"
 		{
@@ -204,6 +209,7 @@
 			"vietnamese" ""
 			"arabic" ""
 			"koreana" ""
+			"indonesian" ""
 		}
 		"othercredits"
 		{
@@ -236,6 +242,7 @@
 			"vietnamese" ""
 			"arabic" ""
 			"koreana" ""
+			"indonesian" ""
 		}
 	}
 	"tracks"
@@ -443,12 +450,20 @@
 		"25"
 		{
 			"discnumber" "1"
+			"tracknumber" "26"
+			"originalname" "人偶之阵"
+			"m" "2"
+			"s" "0"
+		}
+		"26"
+		{
+			"discnumber" "1"
 			"tracknumber" "27"
 			"originalname" "星落之阵"
 			"m" "2"
 			"s" "4"
 		}
-		"26"
+		"27"
 		{
 			"discnumber" "1"
 			"tracknumber" "28"
@@ -456,7 +471,7 @@
 			"m" "2"
 			"s" "14"
 		}
-		"27"
+		"28"
 		{
 			"discnumber" "1"
 			"tracknumber" "29"
@@ -464,7 +479,7 @@
 			"m" "2"
 			"s" "0"
 		}
-		"28"
+		"29"
 		{
 			"discnumber" "1"
 			"tracknumber" "30"
@@ -472,7 +487,7 @@
 			"m" "2"
 			"s" "5"
 		}
-		"29"
+		"30"
 		{
 			"discnumber" "1"
 			"tracknumber" "31"
@@ -480,7 +495,7 @@
 			"m" "2"
 			"s" "2"
 		}
-		"30"
+		"31"
 		{
 			"discnumber" "1"
 			"tracknumber" "32"
@@ -488,49 +503,81 @@
 			"m" "2"
 			"s" "1"
 		}
-		"31"
-		{
-			"discnumber" "1"
-			"tracknumber" "33"
-			"originalname" "下克上与最后对视"
-			"m" "3"
-			"s" "12"
-		}
 		"32"
 		{
 			"discnumber" "1"
-			"tracknumber" "34"
-			"originalname" "战斗胜利1"
-			"m" "0"
-			"s" "5"
+			"tracknumber" "33"
+			"originalname" "通向圆心的路"
+			"m" "2"
+			"s" "31"
 		}
 		"33"
 		{
 			"discnumber" "1"
-			"tracknumber" "35"
-			"originalname" "战斗胜利2"
-			"m" "0"
-			"s" "6"
+			"tracknumber" "34"
+			"originalname" "下克上与最后对视"
+			"m" "3"
+			"s" "12"
 		}
 		"34"
 		{
 			"discnumber" "1"
-			"tracknumber" "36"
-			"originalname" "战胜Boss1"
+			"tracknumber" "35"
+			"originalname" "战斗胜利1"
 			"m" "0"
-			"s" "20"
+			"s" "5"
 		}
 		"35"
 		{
 			"discnumber" "1"
+			"tracknumber" "36"
+			"originalname" "战斗胜利2"
+			"m" "0"
+			"s" "6"
+		}
+		"36"
+		{
+			"discnumber" "1"
 			"tracknumber" "37"
+			"originalname" "战胜Boss1"
+			"m" "0"
+			"s" "20"
+		}
+		"37"
+		{
+			"discnumber" "1"
+			"tracknumber" "38"
 			"originalname" "战胜Boss2"
 			"m" "0"
 			"s" "22"
 		}
+		"38"
+		{
+			"discnumber" "1"
+			"tracknumber" "39"
+			"originalname" "游戏胜利"
+			"m" "0"
+			"s" "35"
+		}
+		"39"
+		{
+			"discnumber" "1"
+			"tracknumber" "40"
+			"originalname" "游戏胜利 加长版"
+			"m" "1"
+			"s" "31"
+		}
+		"40"
+		{
+			"discnumber" "1"
+			"tracknumber" "41"
+			"originalname" "游戏失败"
+			"m" "0"
+			"s" "34"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27429209"
-"_sha" "d2819c3447e2e7452ab3af67926a880decc37a72"
-"_size" "8614"
+"_change_number" "27802089"
+"_sha" "c349d7581dd4d3949334f10a1cdee26838ec85fc"
+"_size" "9373"
