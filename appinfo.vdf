@@ -68,7 +68,6 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
-	"metacritic_name" "Voxelgram"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -175,6 +174,8 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_29" "1"
+		"category_15" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -316,9 +317,9 @@
 		{
 			"public"
 			{
-				"gid" "9121652953886470204"
-				"size" "82402019"
-				"download" "29083680"
+				"gid" "5420391396166514937"
+				"size" "82418731"
+				"download" "29111552"
 			}
 			"1.8.0"
 			{
@@ -351,9 +352,9 @@
 		{
 			"public"
 			{
-				"gid" "1307825894921885035"
-				"size" "125371262"
-				"download" "29667792"
+				"gid" "2933539832311579714"
+				"size" "125193078"
+				"download" "29657104"
 			}
 			"1.8.0"
 			{
@@ -379,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "17223965"
-			"timeupdated" "1738587792"
+			"buildid" "17602102"
+			"timeupdated" "1741168736"
 		}
 		"1.8.0"
 		{
@@ -465,6 +466,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27289059"
-"_sha" "5fe57c679a812b0c1fc84fd950d4acb81085f830"
-"_size" "8169"
+"_change_number" "27792040"
+"_sha" "7ebb447f2526bf025ee23de3a71f028b1b91c50d"
+"_size" "8180"
