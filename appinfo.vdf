@@ -100,7 +100,49 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1705479362"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "49.741935483870975"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1737969941"
 	"associations"
 	{
 		"0"
@@ -132,6 +174,7 @@
 		"category_23" "1"
 		"category_33" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -192,16 +235,16 @@
 	{
 		"0" "4434"
 		"1" "122"
-		"2" "4325"
-		"3" "3964"
+		"2" "3964"
+		"3" "4325"
 		"4" "10695"
 		"5" "3871"
 		"6" "3834"
 		"7" "4155"
 		"8" "1684"
 		"9" "4004"
-		"10" "4057"
-		"11" "4182"
+		"10" "4182"
+		"11" "4057"
 		"12" "21"
 		"13" "14720"
 		"14" "5708"
@@ -277,24 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "3768083714366825129"
-				"size" "375233586"
-				"download" "286477488"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "66F79C9DCC9CD65A3F54FAF758DC7861"
-				"size" "63DED8A81550C59BA0CB03EE3999A2CB"
-				"download" "C3D234BE6988A8CDF0B7CD449DE4159C"
-			}
-			"beta-product"
-			{
-				"gid" "BE352F25442F1D9442AF147116905C93"
-				"size" "3AC350E2E3F97A2869096C533D75818E"
-				"download" "E9FEAB15C1CE866FBB6E2063AC7218DB"
+				"gid" "3991341423946070369"
+				"size" "376344639"
+				"download" "286829264"
 			}
 		}
 	}
@@ -310,36 +338,16 @@
 				"download" "33614016"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta-product"
-			{
-				"gid" "BB31A5714B432085C15B8C28DBE6A222"
-				"size" "32F8B98364940DFE11F04149D415C469"
-				"download" "0C472AA9EEF8E7BF1AED35CC048785C7"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13123697"
-			"timeupdated" "1706628144"
-		}
-		"beta"
-		{
-			"buildid" "13123515"
-			"pwdrequired" "1"
-			"timeupdated" "1704777604"
-		}
-		"beta-product"
-		{
-			"buildid" "13123697"
-			"pwdrequired" "1"
-			"timeupdated" "1704780274"
+			"buildid" "17234738"
+			"timeupdated" "1741165036"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -360,6 +368,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22119520"
-"_sha" "bb532499bb4588b3500f43e6786814849100c4f7"
-"_size" "6370"
+"_change_number" "27791163"
+"_sha" "27268ecb8a2e02c6348192d7b40b2262f283aef0"
+"_size" "6226"
