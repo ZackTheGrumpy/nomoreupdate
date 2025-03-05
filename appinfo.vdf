@@ -31,7 +31,7 @@
 		"japanese" "ツーポイントミュージアム"
 		"koreana" "투 포인트 뮤지엄"
 	}
-	"releasestate" "preloadonly"
+	"releasestate" "released"
 	"clienticns" "8e47546416109589b055eb4f0250c2467b0f791a"
 	"linuxclienticon" "c3c6dc9f1b1240832fda05cb8035677ac18faf44"
 	"eulas"
@@ -175,7 +175,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1740649838"
+	"store_asset_mtime" "1741112154"
 	"associations"
 	{
 		"0"
@@ -282,8 +282,10 @@
 			"subtitles" "true"
 		}
 	}
-	"metacritic_score" "83"
+	"steam_release_date" "1741107484"
+	"metacritic_score" "84"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/two-point-museum\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2185060"
@@ -318,6 +320,8 @@
 	"developer" "Two Point Studios"
 	"publisher" "SEGA"
 	"homepage" "https://www.twopointstudios.com/"
+	"listofdlc" "2999840,2999850"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -424,15 +428,15 @@
 		{
 			"public"
 			{
-				"gid" "6503082222646725904"
-				"size" "3973962714"
-				"download" "3288665232"
+				"gid" "785861854161579941"
+				"size" "3990098165"
+				"download" "3299701152"
 			}
 			"public_beta"
 			{
-				"gid" "6503082222646725904"
-				"size" "3973962714"
-				"download" "3288665232"
+				"gid" "785861854161579941"
+				"size" "3990098165"
+				"download" "3299701152"
 			}
 		}
 	}
@@ -446,15 +450,15 @@
 		{
 			"public"
 			{
-				"gid" "7953724153361312348"
-				"size" "3957403730"
-				"download" "3205684688"
+				"gid" "8001955312888922055"
+				"size" "3957417127"
+				"download" "3205695568"
 			}
 			"public_beta"
 			{
-				"gid" "7953724153361312348"
-				"size" "3957403730"
-				"download" "3205684688"
+				"gid" "8001955312888922055"
+				"size" "3957417127"
+				"download" "3205695568"
 			}
 		}
 	}
@@ -468,15 +472,15 @@
 		{
 			"public"
 			{
-				"gid" "4803319624216354004"
-				"size" "4103546540"
-				"download" "3269919312"
+				"gid" "674574590342582698"
+				"size" "4103533603"
+				"download" "3269909040"
 			}
 			"public_beta"
 			{
-				"gid" "4803319624216354004"
-				"size" "4103546540"
-				"download" "3269919312"
+				"gid" "674574590342582698"
+				"size" "4103533603"
+				"download" "3269909040"
 			}
 		}
 	}
@@ -583,15 +587,15 @@
 		{
 			"public"
 			{
-				"gid" "2375258724226836651"
-				"size" "26290050"
-				"download" "23079952"
+				"gid" "2451058228585949136"
+				"size" "26290172"
+				"download" "23078272"
 			}
 			"public_beta"
 			{
-				"gid" "2375258724226836651"
-				"size" "26290050"
-				"download" "23079952"
+				"gid" "2451058228585949136"
+				"size" "26290172"
+				"download" "23078272"
 			}
 		}
 	}
@@ -606,14 +610,14 @@
 		{
 			"public"
 			{
-				"gid" "5115121791738906413"
-				"size" "25562158"
+				"gid" "174692626380782634"
+				"size" "25562160"
 				"download" "22438064"
 			}
 			"public_beta"
 			{
-				"gid" "5115121791738906413"
-				"size" "25562158"
+				"gid" "174692626380782634"
+				"size" "25562160"
 				"download" "22438064"
 			}
 		}
@@ -622,14 +626,14 @@
 	{
 		"public"
 		{
-			"buildid" "17568572"
-			"timeupdated" "1741028427"
+			"buildid" "17581809"
+			"timeupdated" "1741178035"
 		}
 		"public_beta"
 		{
-			"buildid" "17568572"
+			"buildid" "17581809"
 			"description" "Public beta"
-			"timeupdated" "1741002685"
+			"timeupdated" "1741085706"
 		}
 	}
 	"privatebranches" "1"
@@ -677,6 +681,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27760034"
-"_sha" "a36dd65bf385e8f3335711674b7922c460388379"
-"_size" "13995"
+"_change_number" "27795676"
+"_sha" "12ae001de9ce00ed28ee687d08e3a2da4b4fc65d"
+"_size" "14118"
