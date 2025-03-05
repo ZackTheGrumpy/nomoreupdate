@@ -14,7 +14,7 @@
 			"id" "2294660_eula_0"
 			"name" "Quinfall EULA"
 			"url" "https://store.steampowered.com//eula/2294660_eula_0"
-			"version" "5"
+			"version" "6"
 		}
 	}
 	"icon" "9caeb341d1fd256af94a3d7428d8482f36a8448f"
@@ -78,11 +78,11 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "db7e08fbcb78631cdfb48130b4d37818fc773046/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "f409bf38047232c0c9c21813d359c0e2667a580e/header.jpg"
 	}
 	"library_assets"
 	{
@@ -154,7 +154,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737681167"
+	"store_asset_mtime" "1740799176"
 	"associations"
 	{
 		"0"
@@ -267,8 +267,8 @@
 		"3" "122"
 		"4" "4747"
 		"5" "4172"
-		"6" "21"
-		"7" "3859"
+		"6" "3859"
+		"7" "21"
 		"8" "4231"
 		"9" "1775"
 		"10" "6730"
@@ -276,18 +276,18 @@
 		"12" "3920"
 		"13" "15564"
 		"14" "1643"
-		"15" "6910"
-		"16" "1702"
+		"15" "1702"
+		"16" "6910"
 		"17" "5981"
 		"18" "22602"
 		"19" "4057"
 	}
 	"review_score" "5"
-	"review_percentage" "48"
+	"review_percentage" "47"
 }
 "extended"
 {
-	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=2294660"
+	"anti_cheat_support_url" ""
 	"developer" "Vawraek Technology Inc."
 	"publisher" "Vawraek Technology Inc."
 	"homepage" "https://www.quinfall.com/"
@@ -345,9 +345,9 @@
 		{
 			"public"
 			{
-				"gid" "4542699071078192508"
-				"size" "63539072681"
-				"download" "35002775056"
+				"gid" "7028117293660343785"
+				"size" "63539354401"
+				"download" "35002803136"
 			}
 		}
 	}
@@ -356,13 +356,13 @@
 	{
 		"public"
 		{
-			"buildid" "17553981"
-			"timeupdated" "1740783118"
+			"buildid" "17599296"
+			"timeupdated" "1741153150"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27726887"
-"_sha" "89f90f1704ad288b54ea9155725b647d81e36320"
-"_size" "6789"
+"_change_number" "27788639"
+"_sha" "34d3d76aaf9f563d9c59c124bce8c50fdb8a46ee"
+"_size" "6815"
