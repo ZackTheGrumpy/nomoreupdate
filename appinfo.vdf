@@ -1,0 +1,351 @@
+"appid" "1693260"
+"common"
+{
+	"name" "Yugo Puzzle"
+	"type" "Game"
+	"logo" "5773f3d74f11853a74225b167a47c5417001918c"
+	"logo_small" "5773f3d74f11853a74225b167a47c5417001918c_thumb"
+	"name_localized"
+	{
+		"japanese" "ユウゴウパズル"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"clienticon" "d67356a6ef214cfcc64022f658459a0be5d8d32a"
+	"clienttga" "8d3132e2e5c45d3e3e96cc359c31c9072446f5e4"
+	"icon" "6ae671fc717e291d0d31af1f5612c1b80ea4a490"
+	"clienticns" "b5538227eb4587cee169f33e5aebe63ba3719095"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1663113600"
+		"tested_build_id" "8834928"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja"
+		"library_hero" "en"
+		"library_logo" "en,ja"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "62.5233644859813"
+			"height_pct" "53.47222222222217"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "62.5233644859813"
+				"height_pct" "53.47222222222217"
+			}
+		}
+	}
+	"store_asset_mtime" "1634995951"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Qrostar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Qrostar"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634195182"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1693260"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "492"
+		"2" "1654"
+		"3" "4026"
+		"4" "1730"
+		"5" "6129"
+		"6" "4094"
+		"7" "3871"
+		"8" "4400"
+		"9" "4182"
+		"10" "597"
+		"11" "4166"
+		"12" "7569"
+		"13" "11123"
+		"14" "30358"
+		"15" "3798"
+		"16" "5379"
+		"17" "4726"
+		"18" "6650"
+	}
+	"review_score" "8"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Qrostar"
+	"publisher" "Qrostar"
+	"homepage" "https://qrostar.skr.jp/en/yugo/"
+}
+"config"
+{
+	"installdir" "Yugo Puzzle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "YUGO PUZZLE.app\\Contents\\MacOS\\YUGO PUZZLE"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"1"
+		{
+			"executable" "YUGO PUZZLE.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "YUGO PUZZLE.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3336846146"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,betatest,test"
+			"use_action_block" "true"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1693261"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8784586771758775209"
+				"size" "224327612"
+				"download" "147029296"
+			}
+		}
+	}
+	"1693262"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7414493731055088212"
+				"size" "190725254"
+				"download" "136974544"
+			}
+		}
+	}
+	"1693263"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4183361191090759995"
+				"size" "199145129"
+				"download" "139574016"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15795128"
+			"timeupdated" "1727144226"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "10a60c3c77985188d83c1fa6915aed13ea51bdfd"
+"_size" "6069"
