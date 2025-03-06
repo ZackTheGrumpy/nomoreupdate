@@ -1,0 +1,318 @@
+"appid" "2883280"
+"common"
+{
+	"name" "Dog Brew"
+	"type" "Game"
+	"icon" "f547b6e2eff9515e7f6cd296b511e41b6088ebef"
+	"clienttga" "46d4bf7722ecb2fa8b0996e06d6c6778d4461e75"
+	"linuxclienticon" "14bef3e3c7e9981c90a24b39c27cc79c848661f3"
+	"clienticon" "1158cdb2a88a81fd37309df4b815d8ada3c7dd7f"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1727136000"
+		"tested_build_id" "14418691"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "107.67379468160654"
+			"height_pct" "106.79457699647214"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "107.67379468160654"
+				"height_pct" "106.79457699647214"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1713141300"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Yuliy Oneshko"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "S-Grade"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Yuliy Oneshko"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "S-Grade"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "3"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1714510850"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2883280"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "599"
+		"2" "87918"
+		"3" "4191"
+		"4" "4726"
+		"5" "1702"
+		"6" "4202"
+		"7" "3920"
+		"8" "4182"
+		"9" "16689"
+		"10" "12472"
+		"11" "1638"
+		"12" "4695"
+		"13" "1654"
+		"14" "3810"
+		"15" "10235"
+		"16" "1719"
+		"17" "8945"
+		"18" "5350"
+		"19" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Yuliy Oneshko"
+	"publisher" "Yuliy Oneshko"
+	"homepage" "https://sgradegames.com/"
+}
+"config"
+{
+	"installdir" "Dog Brew"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dog brew.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Dog Brew (Default)"
+				"russian" "Dog Brew (Обычный запуск)"
+			}
+			"description" "Dog Brew (Default)"
+		}
+		"1"
+		{
+			"executable" "dog brew linux.sh"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "dog brew.exe"
+			"arguments" "--rendering-driver opengl3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Dog Brew with OpenGL (For weak pc)"
+				"russian" "Dog Brew с OpenGL (Для слабых пк)"
+			}
+			"description" "Dog Brew with OpenGL (For weak pc)"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,russian,latam"
+	"2883281"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6371877757666265566"
+				"size" "158946632"
+				"download" "71683840"
+			}
+		}
+	}
+	"2883282"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6274938717824413247"
+				"size" "159027927"
+				"download" "71690496"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14418691"
+			"timeupdated" "1716111314"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27482886"
+"_sha" "45ca32e6145def6c95a90382db168ac512f53087"
+"_size" "5538"
