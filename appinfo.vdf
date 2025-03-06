@@ -1,0 +1,213 @@
+"appid" "1906050"
+"common"
+{
+	"name" "Dragon Map Maker"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "356e63ca0c009c96d6c9a09bc388012baa8d42a3"
+	"logo_small" "356e63ca0c009c96d6c9a09bc388012baa8d42a3_thumb"
+	"icon" "d28d00c7e54dab70fc4b8e569c8a1eb5b6f56f08"
+	"linuxclienticon" "51535f8798004edff8b1ad259a7c4a6d1bcea486"
+	"clienttga" "81f98cbb268898dd7dd007cecfa05478f80340a3"
+	"clienticon" "b2ca1e52e05f0374c8c697063ae9596392d1eace"
+	"exfgls" "0"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1906050_eula_0"
+			"name" "Dragon Map Maker EULA"
+			"url" "https://store.steampowered.com//eula/1906050_eula_0"
+			"version" "8"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1681755267"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dragon Maps Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dragon Maps Ltd"
+		}
+	}
+	"primary_genre" "53"
+	"genres"
+	{
+		"0" "51"
+		"1" "53"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1676570163"
+	"community_hub_visible" "1"
+	"gameid" "1906050"
+	"store_tags"
+	{
+		"0" "84"
+		"1" "493"
+		"2" "872"
+		"3" "14153"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Dragon Maps Ltd"
+	"publisher" "Dragon Maps Ltd"
+	"homepage" "https://www.dragonmapmaker.com"
+}
+"config"
+{
+	"installdir" "DMM"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DragonMapMaker.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1906051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2046909256644235654"
+				"size" "2632834129"
+				"download" "1873067584"
+			}
+			"beta"
+			{
+				"gid" "2046909256644235654"
+				"size" "2632834129"
+				"download" "1873067584"
+			}
+			"dmm_v0.240"
+			{
+				"gid" "1114444181590891689"
+				"size" "2424346796"
+				"download" "1780604176"
+			}
+			"previousversion"
+			{
+				"gid" "2186885017736230315"
+				"size" "2320409819"
+				"download" "1683780944"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17201252"
+			"timeupdated" "1738339789"
+		}
+		"beta"
+		{
+			"buildid" "17201252"
+			"description" "DMM Beta Test"
+			"timeupdated" "1738339558"
+		}
+		"dmm_v0.240"
+		{
+			"buildid" "14640911"
+			"description" "DMM v0.240"
+			"timeupdated" "1734018854"
+		}
+		"previousversion"
+		{
+			"buildid" "12739714"
+			"description" "The previous version of DMM"
+			"timeupdated" "1714742992"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27782544"
+"_sha" "22f20fe58c203a6a22aa13060f9f42f19d3bdd80"
+"_size" "3511"
