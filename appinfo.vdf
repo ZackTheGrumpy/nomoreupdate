@@ -1,0 +1,228 @@
+"appid" "1856670"
+"common"
+{
+	"name" "FARSIDE"
+	"type" "Game"
+	"logo" "ff1ed406edd31e85a250b695c148d8435b505f8e"
+	"logo_small" "ff1ed406edd31e85a250b695c148d8435b505f8e_thumb"
+	"icon" "bf854aa50815543b0ff246da12730ba2a8ec9b2c"
+	"clienticon" "dca77fa789b2373c3b8944674f0433fb105301a9"
+	"clienttga" "6a27de2faf68632218eecf26a05dfe488721dbf3"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "异星远端"
+	}
+	"app_retired_was_free" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "68.72093023255813"
+			"height_pct" "51.74542863927809"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "68.72093023255813"
+				"height_pct" "51.74542863927809"
+			}
+		}
+	}
+	"store_asset_mtime" "1641799555"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RaineWoo Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RaineWoo Studio"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "37"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1642598439"
+	"community_hub_visible" "1"
+	"gameid" "1856670"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "4106"
+		"3" "1774"
+		"4" "1625"
+		"5" "5379"
+		"6" "8666"
+		"7" "5537"
+		"8" "3798"
+		"9" "3871"
+		"10" "4191"
+		"11" "4295"
+		"12" "3942"
+		"13" "1644"
+		"14" "3993"
+		"15" "7481"
+		"16" "6730"
+		"17" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "RaineWoo Studio"
+	"publisher" "RaineWoo Studio"
+}
+"config"
+{
+	"installdir" "FARSIDE"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FARSIDE.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1856671"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3943047376702979644"
+				"size" "5825520143"
+				"download" "847791728"
+			}
+		}
+	}
+	"1856672"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8001832"
+			"timeupdated" "1641905442"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26375805"
+"_sha" "f53a45e3553b949f6f9caad7fe4ff7b66bbc7c01"
+"_size" "3650"
