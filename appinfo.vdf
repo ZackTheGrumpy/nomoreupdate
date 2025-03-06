@@ -1,0 +1,121 @@
+"appid" "2132500"
+"common"
+{
+	"name" "LAZ3RZ Dedicated Server"
+	"type" "Tool"
+	"parent" "2107280"
+	"oslist" "linux"
+	"osarch" ""
+	"osextended" ""
+	"icon" "e0ef9903da857031d91bc2ec3f85d00625622a8b"
+	"linuxclienticon" "7416e2a63ed7cbb18c9865104560d43f1331ce80"
+	"clienttga" "1e75ed79faae6da6ac89cb8405f3e08b92e0fbdf"
+	"clienticon" "b3d373394935db3ff6f723a8c76ebddfd3924c40"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "2132500"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "LAZ3RZ Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LAZ3RZ_ds.x86_64"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2132501"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6010601989948514388"
+				"size" "654165219"
+				"download" "522883632"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9573934"
+			"timeupdated" "1663892977"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "5d2f065bcf2c5e326786809280e3c4a5282fc361"
+"_size" "1761"
