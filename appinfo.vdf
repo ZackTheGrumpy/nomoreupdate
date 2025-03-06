@@ -56,6 +56,7 @@
 		}
 	}
 	"metacritic_name" "Bit Blaster XL"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -70,6 +71,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "UpperCenter"
@@ -118,8 +120,19 @@
 				"height_pct" "64.93055555555559"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8b39bb35731559c228b168d781d229f4832650e3/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8b39bb35731559c228b168d781d229f4832650e3/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1683074928"
+	"store_asset_mtime" "1741246244"
 	"associations"
 	{
 		"0"
@@ -196,26 +209,26 @@
 	"gameid" "433950"
 	"store_tags"
 	{
-		"0" "492"
-		"1" "1773"
-		"2" "3964"
-		"3" "597"
-		"4" "4255"
-		"5" "19"
-		"6" "1755"
-		"7" "4004"
-		"8" "3871"
-		"9" "4885"
-		"10" "1774"
-		"11" "4182"
-		"12" "1756"
-		"13" "5154"
-		"14" "3942"
+		"0" "4885"
+		"1" "4255"
+		"2" "4026"
+		"3" "1774"
+		"4" "1773"
+		"5" "3871"
+		"6" "7481"
+		"7" "19"
+		"8" "597"
+		"9" "3964"
+		"10" "4094"
+		"11" "5350"
+		"12" "3942"
+		"13" "1755"
+		"14" "5154"
 		"15" "1662"
-		"16" "4026"
-		"17" "5350"
-		"18" "4711"
-		"19" "7481"
+		"16" "4562"
+		"17" "1673"
+		"18" "3916"
+		"19" "4004"
 	}
 	"review_score" "9"
 	"review_percentage" "96"
@@ -248,41 +261,17 @@
 		"2"
 		{
 			"executable" "BitBlasterXL.x86_64"
-			"type" "none"
 			"config"
 			{
 				"oslist" "linux"
-				"osarch" "64"
 			}
 		}
 		"3"
 		{
 			"executable" "BitBlasterXL.exe"
-			"type" "none"
 			"config"
 			{
 				"oslist" "windows"
-				"osarch" "32"
-			}
-		}
-		"4"
-		{
-			"executable" "BitBlasterXL.x86"
-			"type" "none"
-			"config"
-			{
-				"oslist" "linux"
-				"osarch" "32"
-			}
-		}
-		"5"
-		{
-			"executable" "BitBlasterXL.exe"
-			"type" "none"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
 			}
 		}
 	}
@@ -301,9 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "8996709223761282602"
-				"size" "123165963"
-				"download" "77161808"
+				"gid" "8127198329556801353"
+				"size" "96727619"
+				"download" "56208064"
 			}
 		}
 	}
@@ -317,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "5198715632421418920"
-				"size" "117036730"
-				"download" "75272944"
+				"gid" "7907670445201151985"
+				"size" "89523368"
+				"download" "54429792"
 			}
 		}
 	}
@@ -334,9 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "1280943889822138146"
-				"size" "169329070"
-				"download" "80181856"
+				"gid" "9190931192762497227"
+				"size" "94369388"
+				"download" "54060320"
 			}
 		}
 	}
@@ -391,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "10538024"
-			"timeupdated" "1676275605"
+			"buildid" "17613395"
+			"timeupdated" "1741230862"
 		}
 	}
 }
@@ -405,13 +394,13 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "Nickervision Studios/Bit Blaster XL"
+			"path" "Adamvision Studios/Bit Blaster XL"
 			"pattern" "*.bbxl"
 		}
 	}
 	"rootoverrides"
 	{
-		"0"
+		"2"
 		{
 			"root" "WinAppDataLocalLow"
 			"os" "MacOS"
@@ -421,12 +410,12 @@
 			{
 				"0"
 				{
-					"find" "Nickervision Studios/Bit Blaster XL"
-					"replace" "unity.Nickervision Studios.Bit Blaster XL"
+					"find" "Adamvision Studios/Bit Blaster XL"
+					"replace" "com.Adamvision-Studios.Bit-Blaster-XL/"
 				}
 			}
 		}
-		"1"
+		"3"
 		{
 			"root" "WinAppDataLocalLow"
 			"os" "Linux"
@@ -436,14 +425,14 @@
 			{
 				"0"
 				{
-					"find" "Nickervision Studios/Bit Blaster XL"
-					"replace" ".config/unity3d/Nickervision Studios/Bit Blaster XL"
+					"find" "Adamvision Studios/Bit Blaster XL"
+					"replace" ".config/unity3d/Adamvision Studios/Bit Blaster XL"
 				}
 			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26849017"
-"_sha" "6296526141a8decbdde9450937ad8de7b7083057"
-"_size" "7304"
+"_change_number" "27809703"
+"_sha" "20f9177820ed9ebd50b5abdb346ca05ac40d7863"
+"_size" "7223"
