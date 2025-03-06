@@ -118,7 +118,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730724730"
+	"store_asset_mtime" "1741230215"
 	"associations"
 	{
 		"0"
@@ -211,7 +211,7 @@
 		"19" "4094"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -323,36 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "310962178334225408"
-				"size" "342371925"
-				"download" "82965872"
+				"gid" "4327375900339261465"
+				"size" "356049030"
+				"download" "94872800"
 			}
 			"public_beta_no_password"
 			{
-				"gid" "6245441154238430703"
-				"size" "350154261"
-				"download" "82770304"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fvs92"
-			{
-				"gid" "299F2ACBCDABAF0A28F0F2AF15792222"
-				"size" "3B7CBC0E99EF31FF2F7A3A42F85E8D69"
-				"download" "06E3D1A6BD04D2BC80CC7B730984BB36"
-			}
-			"public_beta"
-			{
-				"gid" "89B38B83A480DAE9F5AD0D5AA8652604"
-				"size" "07E943FA67C0F3AE6C56E887834B2BD1"
-				"download" "1A1C0C711D185ED013BC56B05BB0FBA4"
-			}
-			"releasecandidate"
-			{
-				"gid" "59E036200582E1D8236E2D6CF5E25AFE"
-				"size" "9DCBFD1D4C596F163EC0972C82480876"
-				"download" "62538D1D2B2067BDB8D8D0FEE2B352C1"
+				"gid" "4327375900339261465"
+				"size" "356049030"
+				"download" "94872800"
 			}
 		}
 	}
@@ -367,36 +346,15 @@
 		{
 			"public"
 			{
-				"gid" "7851306770848148482"
-				"size" "374578227"
-				"download" "84269184"
+				"gid" "2357322412906375694"
+				"size" "396655743"
+				"download" "96373056"
 			}
 			"public_beta_no_password"
 			{
-				"gid" "3216716504156213371"
-				"size" "382370947"
-				"download" "84272608"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fvs92"
-			{
-				"gid" "0385E777E179CD5F14F671D8AC41757C"
-				"size" "2ED03D8D460AB248AA196A563E3D7609"
-				"download" "C82D74BC508888CFBEA4DECBC2A39FFE"
-			}
-			"public_beta"
-			{
-				"gid" "610901F25AC8E36349150D0C21E2AF40"
-				"size" "DF972C52ACDA9DC1B435C108F60DED77"
-				"download" "9D69E10D013192DCD9CC54AD88A6A661"
-			}
-			"releasecandidate"
-			{
-				"gid" "EFA0A903D52395B5365D39B52F7357A1"
-				"size" "A9A9A49B84669DC7AADA9E5F9DA31EA5"
-				"download" "B1F5371ADBD32C284CF7DCD58B90D2D9"
+				"gid" "2357322412906375694"
+				"size" "396655743"
+				"download" "96373056"
 			}
 		}
 	}
@@ -410,36 +368,15 @@
 		{
 			"public"
 			{
-				"gid" "2152051618478038393"
-				"size" "311291704"
-				"download" "76190384"
+				"gid" "4399843001636705183"
+				"size" "316571065"
+				"download" "87879632"
 			}
 			"public_beta_no_password"
 			{
-				"gid" "1063067129598600500"
-				"size" "310674376"
-				"download" "75792688"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fvs92"
-			{
-				"gid" "81362AFC4A258C4D1C155B951225E749"
-				"size" "C5A04CB0D492F948A1A169803BED189A"
-				"download" "D4B8CFA3AFFBDF1D36AADE57103BA915"
-			}
-			"public_beta"
-			{
-				"gid" "61E38D84D1BC486E1558D62D842B893A"
-				"size" "3D2EF187F06E1E9AD69DFBFA41202DE4"
-				"download" "390C03D34BF071D9734A8F50501D37B1"
-			}
-			"releasecandidate"
-			{
-				"gid" "B6C1B35F18E3BD7FE98DD8F4D0040030"
-				"size" "67F5FFFA3225E7551AA03919E4DC2FCB"
-				"download" "A10955085A404CD578525388FF65661C"
+				"gid" "4399843001636705183"
+				"size" "316571065"
+				"download" "87879632"
 			}
 		}
 	}
@@ -447,34 +384,17 @@
 	{
 		"public"
 		{
-			"buildid" "16353227"
-			"timeupdated" "1731171422"
-		}
-		"fvs92"
-		{
-			"buildid" "16353227"
-			"pwdrequired" "1"
-			"timeupdated" "1731171170"
-		}
-		"public_beta"
-		{
-			"buildid" "16166188"
-			"pwdrequired" "1"
-			"timeupdated" "1729777889"
+			"buildid" "17559664"
+			"timeupdated" "1741223688"
 		}
 		"public_beta_no_password"
 		{
-			"buildid" "16166188"
+			"buildid" "17559664"
 			"description" "Get the latest untested builds"
-			"timeupdated" "1729777899"
-		}
-		"releasecandidate"
-		{
-			"buildid" "15262823"
-			"pwdrequired" "1"
-			"timeupdated" "1722854504"
+			"timeupdated" "1740844092"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -515,6 +435,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26123004"
-"_sha" "67dde3943281017baf4ea53b61499fb871d030d5"
-"_size" "10317"
+"_change_number" "27806926"
+"_sha" "fe8154c668229d98cb7c96c4d718251d8ccfaed0"
+"_size" "8328"
