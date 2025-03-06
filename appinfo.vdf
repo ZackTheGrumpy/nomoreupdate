@@ -239,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "4923175466408401953"
-				"size" "1321801087"
-				"download" "525363840"
+				"gid" "2308682598107724475"
+				"size" "1321849514"
+				"download" "525373152"
 			}
 			"vts_old_1_26_11"
 			{
@@ -291,11 +291,17 @@
 				"size" "1302207137"
 				"download" "519057504"
 			}
+			"vts_old_1_31_7"
+			{
+				"gid" "2308682598107724475"
+				"size" "1321849514"
+				"download" "525373152"
+			}
 			"vts_public_beta"
 			{
-				"gid" "4619425000813098986"
-				"size" "1321846945"
-				"download" "525366432"
+				"gid" "5585204185083130906"
+				"size" "1324035492"
+				"download" "525804192"
 			}
 		}
 	}
@@ -310,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "6193391613764843817"
-				"size" "1703144334"
-				"download" "520434256"
+				"gid" "3585116727034863492"
+				"size" "1703239321"
+				"download" "520446352"
 			}
 			"vts_old_1_26_11"
 			{
@@ -362,11 +368,17 @@
 				"size" "1652387269"
 				"download" "506248336"
 			}
+			"vts_old_1_31_7"
+			{
+				"gid" "3585116727034863492"
+				"size" "1703239321"
+				"download" "520446352"
+			}
 			"vts_public_beta"
 			{
-				"gid" "6193391613764843817"
-				"size" "1703144334"
-				"download" "520434256"
+				"gid" "7229597235028500113"
+				"size" "1705379281"
+				"download" "520875024"
 			}
 		}
 	}
@@ -382,9 +394,9 @@
 		{
 			"public"
 			{
-				"gid" "1084702869645272865"
-				"size" "1817796887"
-				"download" "821711952"
+				"gid" "4136820112830287005"
+				"size" "3380497285"
+				"download" "1608678720"
 			}
 			"vts_old_1_26_11"
 			{
@@ -434,6 +446,12 @@
 				"size" "1562700398"
 				"download" "801232816"
 			}
+			"vts_old_1_31_7"
+			{
+				"gid" "4136820112830287005"
+				"size" "3380497285"
+				"download" "1608678720"
+			}
 			"vts_public_beta"
 			{
 				"gid" "4136820112830287005"
@@ -446,8 +464,8 @@
 	{
 		"public"
 		{
-			"buildid" "17364515"
-			"timeupdated" "1739556938"
+			"buildid" "17445353"
+			"timeupdated" "1740090539"
 		}
 		"vts_old_1_26_11"
 		{
@@ -497,11 +515,17 @@
 			"description" "VTube Studio 1.30.17"
 			"timeupdated" "1739466970"
 		}
+		"vts_old_1_31_7"
+		{
+			"buildid" "17445353"
+			"description" "VTube Studio 1.31.7"
+			"timeupdated" "1741284945"
+		}
 		"vts_public_beta"
 		{
-			"buildid" "17409996"
+			"buildid" "17623756"
 			"description" "VTube Studio Public Beta"
-			"timeupdated" "1739895770"
+			"timeupdated" "1741283887"
 		}
 	}
 	"privatebranches" "1"
