@@ -1,0 +1,295 @@
+"appid" "1403740"
+"common"
+{
+	"name" "Space Architect"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ec7bceca894776b424a997bafb06adbd59a117e4"
+	"logo_small" "ec7bceca894776b424a997bafb06adbd59a117e4_thumb"
+	"icon" "2af836d2eecd3585c8e5a38108dd5b581598cd54"
+	"clienticon" "3836a402db27dfcea00b0838d7e2a1a8702c71c6"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.465116279069775"
+			"height_pct" "52.12538589408691"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.465116279069775"
+				"height_pct" "52.12538589408691"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732266330"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Albert Wiatr"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1732199400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1403740"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "220585"
+		"2" "7332"
+		"3" "12472"
+		"4" "4791"
+		"5" "9"
+		"6" "1662"
+		"7" "255534"
+		"8" "4195"
+		"9" "599"
+		"10" "3942"
+		"11" "1643"
+		"12" "3810"
+		"13" "8945"
+		"14" "4695"
+		"15" "5794"
+		"16" "1755"
+		"17" "493"
+		"18" "5981"
+		"19" "4182"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Albert Wiatr"
+	"publisher" "PlayWay S.A."
+}
+"config"
+{
+	"installdir" "Space Architect"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Space Architect.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1403741"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "344581783840935809"
+				"size" "622148921"
+				"download" "219700048"
+			}
+			"0.27.0"
+			{
+				"gid" "2268472682484670040"
+				"size" "198385798"
+				"download" "88969744"
+			}
+			"1.19.6"
+			{
+				"gid" "8641914317214410696"
+				"size" "175213668"
+				"download" "88325888"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16908676"
+			"timeupdated" "1736040169"
+		}
+		"0.27.0"
+		{
+			"buildid" "10180536"
+			"description" "Legacy version 0.27.0"
+			"timeupdated" "1685895980"
+		}
+		"1.19.6"
+		{
+			"buildid" "6090303"
+			"description" "Legacy version"
+			"timeupdated" "1615417212"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27045165"
+"_sha" "a5b176e228bca2b3c10d121fcc9ff6509e859e82"
+"_size" "4633"
