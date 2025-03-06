@@ -1,0 +1,200 @@
+"appid" "222840"
+"common"
+{
+	"name" "Left 4 Dead Dedicated Server"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"parent" "500"
+	"freetodownload" "1"
+	"gameid" "222840"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "ValveTestApp222840"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Left 4 Dead Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"222841"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9126639854689247050"
+				"size" "8597228768"
+				"download" "6187567648"
+			}
+			"steampipe"
+			{
+				"gid" "5117737944268051585"
+				"size" "8597227623"
+				"download" "6187568208"
+			}
+			"temptest"
+			{
+				"gid" "9047379084923066484"
+				"size" "8597229015"
+				"download" "6187568512"
+			}
+		}
+	}
+	"222843"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "507123779713571686"
+				"size" "47681535"
+				"download" "14986432"
+			}
+			"steampipe"
+			{
+				"gid" "3862318037598752733"
+				"size" "47119265"
+				"download" "14751328"
+			}
+			"temptest"
+			{
+				"gid" "3337772045572441906"
+				"size" "47677326"
+				"download" "14984816"
+			}
+		}
+	}
+	"222842"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4838678710394272257"
+				"size" "93638565"
+				"download" "35020304"
+			}
+			"steampipe"
+			{
+				"gid" "691810171923541250"
+				"size" "93650913"
+				"download" "35022672"
+			}
+			"temptest"
+			{
+				"gid" "4273577942673976970"
+				"size" "93657761"
+				"download" "35027680"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17033359"
+			"timeupdated" "1737147427"
+		}
+		"steampipe"
+		{
+			"buildid" "13242313"
+			"timeupdated" "1705962258"
+		}
+		"temptest"
+		{
+			"buildid" "14189610"
+			"description" "test for steamcmd install"
+			"timeupdated" "1714158326"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "36c17b0f89a4c487cb68549fef0ab49c5ce044f7"
+"_size" "2977"
