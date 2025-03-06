@@ -1,0 +1,568 @@
+"appid" "3376170"
+"common"
+{
+	"name" "KLETKA Soundtrack"
+	"type" "Music"
+	"parent" "1699480"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"name_localized"
+	{
+		"russian" "Музыка из КЛЕТИ"
+	}
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "eba40d34985c883ed66d6f229620d2b90befd4b8"
+	"clienticon" "14a38b622e1d38e76820552e6dc4d8d7d54da70a"
+	"icon" "d8d61945f9202269514c4a5aec2f8b49309cf44d"
+	"small_capsule"
+	{
+		"english" "2f2ccc230ea387879edf4f68ec4b9e9316859891/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"store_screenshot" "ss_7a8e8d8efdf681f9798f54c84c50738431c49acc.jpg"
+	"store_asset_mtime" "1737897012"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Callback"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Callback"
+		}
+	}
+	"primary_genre" "0"
+	"genres"
+	{
+		"0" "37"
+	}
+	"category"
+	{
+	}
+	"steam_release_date" "1734117180"
+	"gameid" "3376170"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "113"
+	}
+	"review_score" "7"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"musicalbumforappid" "1699480"
+	"developer" "Callback"
+	"publisher" "Callback"
+	"homepage" "https://youtube.com/playlist\?list=PLB3an1iIIohCgGftzGQxTMt176n_sEJM2&amp;si=lkHjn7ylrbMrqpAP"
+	"isfreeapp" "1"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "KLETKA_OST"
+}
+"depots"
+{
+	"3376171"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1850378261520941558"
+				"size" "122614030"
+				"download" "106288288"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17147286"
+			"timeupdated" "1737994985"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "40b6dde29f3b6ddd8919f99f07a4fac59858a33d"
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "houp - Life"
+			"m" "2"
+			"s" "18"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "houp - Floors"
+			"m" "1"
+			"s" "40"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "houp - Rumble"
+			"m" "1"
+			"s" "24"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "houp - Last Night 1"
+			"m" "2"
+			"s" "17"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "houp - Last Night 2"
+			"m" "2"
+			"s" "8"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "houp - Last Night 3"
+			"m" "1"
+			"s" "47"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "houp - Backrooms 1"
+			"m" "1"
+			"s" "38"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "houp - Backrooms 2"
+			"m" "0"
+			"s" "57"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "houp - Circle"
+			"m" "2"
+			"s" "3"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "houp - Dive"
+			"m" "1"
+			"s" "23"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "houp - Howl"
+			"m" "2"
+			"s" "27"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "houp - Factory Ambience 1"
+			"m" "1"
+			"s" "53"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "houp - Factory Ambience 2"
+			"m" "1"
+			"s" "56"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "houp - Utilization"
+			"m" "1"
+			"s" "25"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "houp - Welcome To Hell"
+			"m" "2"
+			"s" "14"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "houp - Curse"
+			"m" "3"
+			"s" "59"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "houp - Remains Of Flesh"
+			"m" "2"
+			"s" "36"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "houp - H B D"
+			"m" "2"
+			"s" "50"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "houp - Awful"
+			"m" "1"
+			"s" "49"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "houp - Life (Slowed + Reverb)"
+			"m" "2"
+			"s" "35"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "houp - Secret Shop"
+			"m" "0"
+			"s" "45"
+		}
+		"21"
+		{
+			"discnumber" "1"
+			"tracknumber" "22"
+			"originalname" "houp - Abandoned"
+			"m" "2"
+			"s" "16"
+		}
+		"22"
+		{
+			"discnumber" "1"
+			"tracknumber" "23"
+			"originalname" "houp - Voice In My Head"
+			"m" "1"
+			"s" "23"
+		}
+		"23"
+		{
+			"discnumber" "1"
+			"tracknumber" "24"
+			"originalname" "houp - Heart of the Gigastructure Bossfight 1"
+			"m" "0"
+			"s" "18"
+		}
+		"24"
+		{
+			"discnumber" "1"
+			"tracknumber" "25"
+			"originalname" "houp - Heart of the Gigastructure Bossfight 2"
+			"m" "0"
+			"s" "10"
+		}
+		"25"
+		{
+			"discnumber" "1"
+			"tracknumber" "26"
+			"originalname" "rofoshristo - Chilblain"
+			"m" "0"
+			"s" "51"
+		}
+		"26"
+		{
+			"discnumber" "1"
+			"tracknumber" "27"
+			"originalname" "rofoshristo - Snowfall"
+			"m" "1"
+			"s" "8"
+		}
+		"27"
+		{
+			"discnumber" "1"
+			"tracknumber" "28"
+			"originalname" "rofoshristo - Frozen"
+			"m" "0"
+			"s" "47"
+		}
+		"28"
+		{
+			"discnumber" "1"
+			"tracknumber" "29"
+			"originalname" "crystal lotus - Carbon Monoxide"
+			"m" "2"
+			"s" "8"
+		}
+		"29"
+		{
+			"discnumber" "1"
+			"tracknumber" "30"
+			"originalname" "crystal lotus - Tempered Flesh"
+			"m" "1"
+			"s" "43"
+		}
+		"30"
+		{
+			"discnumber" "1"
+			"tracknumber" "31"
+			"originalname" "crystal lotus - Bellringer"
+			"m" "1"
+			"s" "29"
+		}
+		"31"
+		{
+			"discnumber" "1"
+			"tracknumber" "32"
+			"originalname" "crystal lotus - Stench"
+			"m" "3"
+			"s" "44"
+		}
+		"32"
+		{
+			"discnumber" "1"
+			"tracknumber" "33"
+			"originalname" "crystal lotus - Velvet"
+			"m" "2"
+			"s" "6"
+		}
+		"33"
+		{
+			"discnumber" "1"
+			"tracknumber" "34"
+			"originalname" "fjordlines\? - Friends In My Head"
+			"m" "2"
+			"s" "17"
+		}
+		"34"
+		{
+			"discnumber" "1"
+			"tracknumber" "35"
+			"originalname" "fjordlines\? - Isol Ate"
+			"m" "1"
+			"s" "58"
+		}
+		"35"
+		{
+			"discnumber" "1"
+			"tracknumber" "36"
+			"originalname" "fjordlines\? - Sure"
+			"m" "1"
+			"s" "35"
+		}
+		"36"
+		{
+			"discnumber" "1"
+			"tracknumber" "37"
+			"originalname" "fjordlines\? - I Forgot Myself"
+			"m" "3"
+			"s" "24"
+		}
+		"37"
+		{
+			"discnumber" "1"
+			"tracknumber" "38"
+			"originalname" "fjordlines\? - CRQS"
+			"m" "0"
+			"s" "45"
+		}
+		"38"
+		{
+			"discnumber" "1"
+			"tracknumber" "39"
+			"originalname" "fjordlines\? - KOPOT"
+			"m" "2"
+			"s" "0"
+		}
+		"39"
+		{
+			"discnumber" "1"
+			"tracknumber" "40"
+			"originalname" "PEX - Don\'t Feel the Ground"
+			"m" "4"
+			"s" "11"
+		}
+		"40"
+		{
+			"discnumber" "1"
+			"tracknumber" "41"
+			"originalname" "PEX - STAGES"
+			"m" "2"
+			"s" "47"
+		}
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "Various Artists"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" "Various Artists"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" "houp\r\nrofoshristo\r\nfjordlines\?\r\nERTAsoN"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27274285"
+"_sha" "3406865a361456dc25dd8adcd9de4beadfd60393"
+"_size" "9679"
