@@ -1,0 +1,176 @@
+"appid" "2738040"
+"common"
+{
+	"name" "Silica Dedicated Server"
+	"type" "Tool"
+	"parent" "1494420"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "1abdd96536cecece3a9f5cc38aedaa960644577f"
+	"clienttga" "ff03c27c6da77bacd544a0185ea8fc3a88b5b781"
+	"icon" "2ba9bc7cdaea177c954cc92cd42dd8740f87b50f"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"gameid" "2738040"
+}
+"config"
+{
+	"installdir" "Silica Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Silica.exe"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Silica.x86_64"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2738041"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2412674601940913445"
+				"size" "8154890571"
+				"download" "3236896400"
+			}
+			"beta"
+			{
+				"gid" "8557223730052612845"
+				"size" "7807111541"
+				"download" "3048395216"
+			}
+		}
+	}
+	"2738042"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5353096309918974697"
+				"size" "8180603722"
+				"download" "3241976768"
+			}
+			"beta"
+			{
+				"gid" "2159574106390498191"
+				"size" "7774221806"
+				"download" "3026242480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16801601"
+			"timeupdated" "1734619647"
+		}
+		"beta"
+		{
+			"buildid" "17207018"
+			"description" "Branch for Beta playtesting"
+			"timeupdated" "1738390602"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27761093"
+"_sha" "3cc5a72a368d87b38b797a93195111f25017fdc4"
+"_size" "2547"
