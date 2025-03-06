@@ -154,7 +154,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734657790"
+	"store_asset_mtime" "1737043889"
 	"associations"
 	{
 		"0"
@@ -315,8 +315,8 @@
 		"6" "4182"
 		"7" "4166"
 		"8" "5350"
-		"9" "3810"
-		"10" "3834"
+		"9" "3834"
+		"10" "3810"
 		"11" "30358"
 		"12" "1654"
 		"13" "1695"
@@ -328,7 +328,7 @@
 		"19" "1721"
 	}
 	"review_score" "5"
-	"review_percentage" "44"
+	"review_percentage" "45"
 }
 "extended"
 {
@@ -359,7 +359,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "poitoudonkey, pottok, quarter, qa_ms_m, percheron, ms_patch_m, brumby, shire, friesian"
+				"betakey" "poitoudonkey, pottok, quarter, qa_ms_m, percheron, ms_patch_m, brumby, shire, friesian, mustang"
 			}
 			"description_loc"
 			{
@@ -388,9 +388,15 @@
 		{
 			"public"
 			{
-				"gid" "7541466308946046594"
-				"size" "11424323722"
-				"download" "8196097040"
+				"gid" "4088258797570334063"
+				"size" "9056582306"
+				"download" "6526426816"
+			}
+			"flight_sim_2024_beta"
+			{
+				"gid" "4088258797570334063"
+				"size" "9056582306"
+				"download" "6526426816"
 			}
 		}
 	}
@@ -399,8 +405,14 @@
 	{
 		"public"
 		{
-			"buildid" "16834574"
-			"timeupdated" "1736445723"
+			"buildid" "17515664"
+			"timeupdated" "1741287789"
+		}
+		"flight_sim_2024_beta"
+		{
+			"buildid" "17515664"
+			"description" "Sim Update 1"
+			"timeupdated" "1741288035"
 		}
 	}
 	"privatebranches" "1"
@@ -411,6 +423,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "26928314"
-"_sha" "cffe7399aa0409b039e0f60d3b56783114f88f5b"
-"_size" "7676"
+"_change_number" "27821406"
+"_sha" "3f1d57b80ffaae67a1925764763f603f431d224c"
+"_size" "7941"
