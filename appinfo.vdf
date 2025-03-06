@@ -1,0 +1,420 @@
+"appid" "2985840"
+"common"
+{
+	"name" "Undead Onslaught"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"icon" "95877ba6489c85bbb09ea87b228c0444c4530c37"
+	"clienticon" "3001b3fabd0e4117f1456706b1c46c7822fea5cd"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1730851200"
+		"tested_build_id" "16183463"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.521586931155184"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.521586931155184"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733387890"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wish App Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wish App Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1719043236"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2985840"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3964"
+		"2" "1716"
+		"3" "122"
+		"4" "4057"
+		"5" "4342"
+		"6" "9541"
+		"7" "3871"
+		"8" "19"
+		"9" "1684"
+		"10" "6730"
+		"11" "4885"
+		"12" "5125"
+		"13" "4604"
+		"14" "4231"
+		"15" "3959"
+		"16" "3987"
+		"17" "4975"
+		"18" "597"
+		"19" "4434"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Wish App Games"
+	"publisher" "Wish App Games"
+}
+"config"
+{
+	"installdir" "Undead Onslaught"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Undead Onslaught.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch option for Windows and SteamOS (Proton)"
+			}
+			"description" "Launch option for Windows and SteamOS (Proton)"
+		}
+		"1"
+		{
+			"executable" "Undead Onslaught.app/Contents/MacOS/Undead Onslaught"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch option for MacOS"
+			}
+			"description" "Launch option for MacOS"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
+}
+"depots"
+{
+	"2985841"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8281939064959336495"
+				"size" "639292227"
+				"download" "167638384"
+			}
+			"beta_v1.2.5"
+			{
+				"gid" "5506574615596093619"
+				"size" "285507929"
+				"download" "179337200"
+			}
+		}
+	}
+	"2985842"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3618835826651658716"
+				"size" "312776411"
+				"download" "219581136"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17577584"
+			"timeupdated" "1741022849"
+		}
+		"beta_v1.2.5"
+		{
+			"buildid" "16621057"
+			"description" "Open beta for version 1.2.5"
+			"timeupdated" "1733265153"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "4000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Wishapp Games/Undead Onslaught/{64BitSteamID}"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Wishapp Games/Undead Onslaught/{64BitSteamID}"
+					"replace" "Wishapp Games/Undead Onslaught/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Wishapp Games/Undead Onslaught/{64BitSteamID}"
+					"replace" ".config/unity3d/Wishapp Games/Undead Onslaught/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27819432"
+"_sha" "5c61be8c4cff7dd2b22ca019490080709e28e1ce"
+"_size" "7242"
