@@ -38,6 +38,55 @@
 	{
 		"0" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1740096000"
+		"tested_build_id" "17370633"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -217,8 +266,8 @@
 		"1" "6426"
 		"2" "7208"
 		"3" "6691"
-		"4" "1742"
-		"5" "5716"
+		"4" "5716"
+		"5" "1742"
 		"6" "6971"
 		"7" "4166"
 		"8" "11014"
@@ -226,9 +275,9 @@
 		"10" "1697"
 		"11" "4252"
 		"12" "4145"
-		"13" "4947"
-		"14" "30358"
-		"15" "5186"
+		"13" "5186"
+		"14" "4947"
+		"15" "30358"
 		"16" "9592"
 		"17" "21"
 		"18" "1710"
@@ -1396,7 +1445,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu2_pc"
+				"betakey" "buildsystem_ep1_tu2.2_pc"
 			}
 			"description_loc"
 			{
@@ -1411,7 +1460,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu2_pc"
+				"betakey" "buildsystem_ep1_tu2.2_pc"
 			}
 			"description_loc"
 			{
@@ -1427,7 +1476,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu2_pc"
+				"betakey" "buildsystem_ep1_tu2.2_pc"
 			}
 			"description_loc"
 			{
@@ -1443,7 +1492,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "buildsystem_ep1_tu2_pc"
+				"betakey" "buildsystem_ep1_tu2.2_pc"
 			}
 			"description_loc"
 			{
@@ -1460,7 +1509,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "buildsystem_ep1_tu2_pc_shipping"
+				"betakey" "buildsystem_ep1_tu2.2_pc_ship"
 			}
 			"description_loc"
 			{
@@ -1513,9 +1562,9 @@
 		{
 			"public"
 			{
-				"gid" "3859862536567523014"
-				"size" "46301859859"
-				"download" "42319419840"
+				"gid" "2421175954576313073"
+				"size" "46299758829"
+				"download" "42324712560"
 			}
 		}
 	}
@@ -1527,8 +1576,8 @@
 	{
 		"public"
 		{
-			"buildid" "17518988"
-			"timeupdated" "1740612387"
+			"buildid" "17583620"
+			"timeupdated" "1741283010"
 		}
 	}
 	"privatebranches" "1"
@@ -1614,6 +1663,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27685820"
-"_sha" "669072909739b0e69bdf7e6e0c9770bc03d7a861"
-"_size" "34898"
+"_change_number" "27820025"
+"_sha" "82af0014894d04f5f9ed841936741b0e68ee4ede"
+"_size" "36133"
