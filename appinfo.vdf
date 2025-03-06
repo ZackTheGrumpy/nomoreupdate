@@ -263,6 +263,7 @@
 	}
 	"metacritic_score" "77"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/command-conquer-3-kanes-wrath\?ftag=MCD-06-10aaa1f"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "24810"
 	"store_tags"
@@ -668,6 +669,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27700076"
-"_sha" "f1349507e508cddf767097e0b66b1186400bda71"
-"_size" "11815"
+"_change_number" "27703213"
+"_sha" "6de1769112e6c85a1c36a39b271b6168071862e2"
+"_size" "11841"
