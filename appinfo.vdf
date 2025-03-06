@@ -22766,15 +22766,15 @@
 		{
 			"public"
 			{
-				"gid" "3134744959742051868"
-				"size" "1703519787"
-				"download" "280564736"
+				"gid" "7566719543784128836"
+				"size" "1907206909"
+				"download" "298312592"
 			}
 			"public_beta"
 			{
-				"gid" "3134744959742051868"
-				"size" "1703519787"
-				"download" "280564736"
+				"gid" "7566719543784128836"
+				"size" "1907206909"
+				"download" "298312592"
 			}
 		}
 	}
@@ -22861,15 +22861,15 @@
 		{
 			"public"
 			{
-				"gid" "2942907188177323594"
-				"size" "636693015"
-				"download" "300697216"
+				"gid" "8038932593767127859"
+				"size" "636583561"
+				"download" "300707280"
 			}
 			"public_beta"
 			{
-				"gid" "2942907188177323594"
-				"size" "636693015"
-				"download" "300697216"
+				"gid" "8038932593767127859"
+				"size" "636583561"
+				"download" "300707280"
 			}
 		}
 	}
@@ -22899,10 +22899,40 @@
 	"3402750"
 	{
 		"dlcappid" "3402750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2347577335010072762"
+				"size" "1465209817"
+				"download" "475255744"
+			}
+			"public_beta"
+			{
+				"gid" "2347577335010072762"
+				"size" "1465209817"
+				"download" "475255744"
+			}
+		}
 	}
 	"3402760"
 	{
 		"dlcappid" "3402760"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8247892770030704055"
+				"size" "13574831"
+				"download" "8983968"
+			}
+			"public_beta"
+			{
+				"gid" "8247892770030704055"
+				"size" "13574831"
+				"download" "8983968"
+			}
+		}
 	}
 	"3402790"
 	{
@@ -23017,14 +23047,14 @@
 	{
 		"public"
 		{
-			"buildid" "17406195"
-			"timeupdated" "1739877404"
+			"buildid" "17617372"
+			"timeupdated" "1741254571"
 		}
 		"public_beta"
 		{
-			"buildid" "17406132"
+			"buildid" "17617362"
 			"description" "Public Beta branch"
-			"timeupdated" "1739877192"
+			"timeupdated" "1741254532"
 		}
 	}
 	"privatebranches" "1"
@@ -23035,6 +23065,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "27532916"
-"_sha" "1f227c61ef9785a5639f01a76e192a1d0c9bb80b"
-"_size" "358592"
+"_change_number" "27815903"
+"_sha" "b8c6fd345842af13759c8d18d470fa2e1c89e75a"
+"_size" "359100"
