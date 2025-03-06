@@ -208,7 +208,7 @@
 		"9" "4136"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -508,6 +508,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27209232"
-"_sha" "8092931cd79956318d647da8a3503ce365a77f98"
+"_change_number" "27372662"
+"_sha" "bc3ce921a39315f5d38f0daa5d8fb5eea4fe1f51"
 "_size" "8192"
