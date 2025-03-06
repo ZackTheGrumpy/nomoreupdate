@@ -1,0 +1,162 @@
+"appid" "929270"
+"common"
+{
+	"name" "ViewTracker"
+	"type" "Application"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "8e4ba9ffde13117d8e7e6dd8180844b6919ede84"
+	"logo_small" "8e4ba9ffde13117d8e7e6dd8180844b6919ede84_thumb"
+	"clienticon" "d82835af0f8828f12441bed16d334cca74266fce"
+	"clienttga" "dcfb5eee850aa716364361cf6988563d45848e98"
+	"icon" "430ace5f2c57a2187cb9148dec639ecaed289b0d"
+	"releasestate" "released"
+	"metacritic_name" "ViewTracker"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_afe12d1e6841be2961c7f32dae3f8b12b803e2ac.jpg"
+	"store_asset_mtime" "1550904186"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "John Kevin Corcoran"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "John Kevin Corcoran"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "57"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1536217200"
+	"steam_release_date" "1536868913"
+	"community_hub_visible" "1"
+	"gameid" "929270"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "87"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "John Kevin Corcoran"
+	"publisher" "John Kevin Corcoran"
+	"gamemanualurl" "https://store.steampowered.com/manual/929270/"
+}
+"config"
+{
+	"installdir" "ViewTracker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\viewtracker.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"929271"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "121084323962963065"
+				"size" "235112160"
+				"download" "74494160"
+			}
+			"beta"
+			{
+				"gid" "3251908860184609320"
+				"size" "235174624"
+				"download" "74516944"
+			}
+		}
+	}
+	"929272"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8694927375899704252"
+				"size" "43"
+				"download" "96"
+			}
+			"beta"
+			{
+				"gid" "8694927375899704252"
+				"size" "43"
+				"download" "96"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3587951"
+			"timeupdated" "1550905060"
+		}
+		"beta"
+		{
+			"buildid" "3584270"
+			"timeupdated" "1550814265"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26865523"
+"_sha" "ae74e2b8534d4e84ecc46a00f480fe1bda9b9007"
+"_size" "2591"
