@@ -1,0 +1,264 @@
+"appid" "1909800"
+"common"
+{
+	"name" "UuultraC"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "ee0aa6153ee3124c8fdec7314c02dea759fdfd0a"
+	"logo_small" "ee0aa6153ee3124c8fdec7314c02dea759fdfd0a_thumb"
+	"icon" "a5a6e14795fcb86096c67c202e40e83bccaa8ab8"
+	"clienticon" "ebc6565a0e73e7020b8431c9bb0832b0bd90f219"
+	"clienttga" "d5a295c61205c9553faa233c69bf543f37d73e61"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "3"
+		"3" "5"
+		"4" "4"
+	}
+	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1724889600"
+		"tested_build_id" "8250629"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "85.52663031474142"
+			"height_pct" "88.2932672206206"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "85.52663031474142"
+				"height_pct" "88.2932672206206"
+			}
+		}
+	}
+	"store_asset_mtime" "1725516776"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ADELTA"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MangaGamer"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "MangaGamer"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1648162839"
+	"community_hub_visible" "1"
+	"gameid" "1909800"
+	"store_tags"
+	{
+		"0" "44868"
+		"1" "597"
+		"2" "3799"
+		"3" "1671"
+		"4" "21"
+		"5" "3871"
+		"6" "4085"
+		"7" "12095"
+		"8" "9551"
+		"9" "6650"
+		"10" "5984"
+		"11" "4947"
+		"12" "5608"
+		"13" "1742"
+		"14" "1719"
+		"15" "4182"
+		"16" "492"
+		"17" "4667"
+		"18" "4345"
+		"19" "7250"
+	}
+	"review_score" "8"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "ADELTA"
+	"publisher" "MangaGamer"
+}
+"config"
+{
+	"installdir" "UuultraC"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "UUUltra C x64.exe"
+		}
+		"1"
+		{
+			"executable" "UUUltra C.exe"
+			"config"
+			{
+				"osarch" "32"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1909801"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3860511336604473800"
+				"size" "2715071356"
+				"download" "2689267072"
+			}
+		}
+	}
+	"1909802"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"1909803"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"baselanguages" "english,schinese,tchinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8250629"
+			"timeupdated" "1645525485"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "6000000"
+	"maxnumfiles" "120"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MangaGamer/uuultra c"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27194148"
+"_sha" "3979e5654563ba2a66774e12d4dcc89c2f1188f5"
+"_size" "4219"
