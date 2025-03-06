@@ -10,6 +10,10 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "干翻人类"
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -115,9 +119,10 @@
 	{
 		"0" "1"
 		"1" "25"
-		"2" "23"
-		"3" "3"
-		"4" "2"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "2"
 	}
 	"category"
 	{
@@ -137,6 +142,11 @@
 			"subtitles" "true"
 		}
 		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -207,9 +217,9 @@
 		{
 			"public"
 			{
-				"gid" "1527919793517209822"
-				"size" "413641908"
-				"download" "142239728"
+				"gid" "8004352086127961573"
+				"size" "413650158"
+				"download" "142245712"
 			}
 		}
 	}
@@ -218,12 +228,12 @@
 	{
 		"public"
 		{
-			"buildid" "17326261"
-			"timeupdated" "1739303008"
+			"buildid" "17617099"
+			"timeupdated" "1741253372"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27426575"
-"_sha" "2d0a1179be14013a2bdf38084f74053d1e6bfb13"
-"_size" "4111"
+"_change_number" "27811610"
+"_sha" "f9e5f81ca6a15bf850892d261ff0bf9319e95bc3"
+"_size" "4252"
