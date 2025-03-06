@@ -103,9 +103,9 @@
 		{
 			"public"
 			{
-				"gid" "2252949373737623480"
-				"size" "643985216"
-				"download" "473015472"
+				"gid" "1534966295677171788"
+				"size" "521244912"
+				"download" "348655120"
 			}
 		}
 		"dlcappid" "2844540"
@@ -127,13 +127,9 @@
 	{
 		"public"
 		{
-			"buildid" "17525857"
-			"timeupdated" "1740646524"
+			"buildid" "16561079"
+			"timeupdated" "1732780260"
 		}
 	}
 	"privatebranches" "1"
 }
-"_missing_token" "False"
-"_change_number" "27692352"
-"_sha" "c3e55fa4224366118139745e0e01b3cbb02c2b45"
-"_size" "2377"
