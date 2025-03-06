@@ -42,9 +42,9 @@
 		{
 			"public"
 			{
-				"gid" "2056937178513967004"
-				"size" "1339725262"
-				"download" "322633120"
+				"gid" "7499478688970250338"
+				"size" "1339837812"
+				"download" "322701408"
 			}
 			"dualsense-haptics-wip"
 			{
@@ -54,21 +54,21 @@
 			}
 			"bleeding-edge"
 			{
-				"gid" "2111281065576714509"
-				"size" "1339848826"
-				"download" "322720656"
+				"gid" "4303799722541992351"
+				"size" "1339879591"
+				"download" "322736352"
 			}
 			"bleeding-edge-debug"
 			{
-				"gid" "6207315916701283402"
-				"size" "4873909004"
-				"download" "936916864"
+				"gid" "433379597172549826"
+				"size" "4873880419"
+				"download" "936945888"
 			}
 			"debug"
 			{
-				"gid" "3837052438978944300"
-				"size" "4873100340"
-				"download" "936189600"
+				"gid" "6232977376210840802"
+				"size" "4873211945"
+				"download" "936700704"
 			}
 			"old-media-source"
 			{
@@ -88,8 +88,8 @@
 	{
 		"public"
 		{
-			"buildid" "17405578"
-			"timeupdated" "1739983976"
+			"buildid" "17593923"
+			"timeupdated" "1741291717"
 		}
 		"dualsense-haptics-wip"
 		{
@@ -99,21 +99,21 @@
 		}
 		"bleeding-edge"
 		{
-			"buildid" "17620392"
+			"buildid" "17623494"
 			"description" "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using"
-			"timeupdated" "1741268894"
+			"timeupdated" "1741282718"
 		}
 		"bleeding-edge-debug"
 		{
-			"buildid" "17620434"
+			"buildid" "17623521"
 			"description" "as dangerous as regular bleeding-edge, just with debug symbols"
-			"timeupdated" "1741269043"
+			"timeupdated" "1741282852"
 		}
 		"debug"
 		{
-			"buildid" "17405608"
+			"buildid" "17593946"
 			"description" "Unstripped"
-			"timeupdated" "1739983944"
+			"timeupdated" "1741291605"
 		}
 		"old-media-source"
 		{
@@ -131,6 +131,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27815640"
-"_sha" "3c15334ab483f5361dcebe534e707ad7c9598905"
-"_size" "2554"
+"_change_number" "27822275"
+"_sha" "a768c47e69381b82a27ec56db64b9fd539c93f8e"
+"_size" "2553"
