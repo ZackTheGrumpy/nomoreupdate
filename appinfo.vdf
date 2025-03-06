@@ -154,6 +154,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1735614023"
 	"community_visible_stats" "1"
@@ -183,7 +188,7 @@
 		"19" "4684"
 	}
 	"review_score" "8"
-	"review_percentage" "99"
+	"review_percentage" "98"
 }
 "extended"
 {
@@ -217,19 +222,19 @@
 		{
 			"public"
 			{
-				"gid" "7959844922360917958"
-				"size" "3769724494"
-				"download" "756316256"
+				"gid" "7423172035093357195"
+				"size" "3769919826"
+				"download" "756274768"
 			}
 		}
 	}
-	"baselanguages" "english,schinese"
+	"baselanguages" "english,schinese,tchinese,japanese"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17364434"
-			"timeupdated" "1739527770"
+			"buildid" "17602547"
+			"timeupdated" "1741226046"
 		}
 	}
 }
@@ -252,6 +257,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27476985"
-"_sha" "c9c04d6486a70de452f6489cd2bf5710afdf724c"
-"_size" "4363"
+"_change_number" "27806613"
+"_sha" "23072a8c941d7ef649ce4cec85f812aef7a7ddae"
+"_size" "4453"
