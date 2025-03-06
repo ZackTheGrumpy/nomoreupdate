@@ -1,0 +1,457 @@
+"appid" "1764200"
+"common"
+{
+	"name" "Astatos Original Soundtrack"
+	"type" "Music"
+	"parent" "1430970"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "26079bbb45bd52809d64bf82ddda1ff05c4f4fe9"
+	"logo" "0ea01ef83647aadcd1c76ae4ca1519d4f6885ca3"
+	"logo_small" "0ea01ef83647aadcd1c76ae4ca1519d4f6885ca3_thumb"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_114a6c47a389ce7fe699e4a9e43d390ccebae635.jpg"
+	"store_asset_mtime" "1635424890"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Studio Klondike Australia"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Studio Klondike"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_50" "1"
+	}
+	"steam_release_date" "1639710329"
+	"gameid" "1764200"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "1430970"
+	"developer" "Studio Klondike Australia"
+	"publisher" "Studio Klondike"
+	"homepage" "http://klondike.studio/astatos"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Astatos Original Soundtrack"
+}
+"depots"
+{
+	"1764201"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8869391925711736565"
+				"size" "184627677"
+				"download" "159432384"
+			}
+		}
+	}
+	"1764202"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2476436148044386776"
+				"size" "757844433"
+				"download" "765953152"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7585884"
+			"timeupdated" "1634962718"
+		}
+	}
+}
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "Esteban Tamashiro"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" "Esteban Tamashiro"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" "Studio Klondike"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" "All tracks except \"Guiding Light\" composed, and arranged by Esteban Tamashiro\r\n\r\nAll tracks except \"Guiding Light\" mastered by Mario Carnerero\r\n\r\nSoloist - Sandro Friedrich: Duduk, Bass Duduk, Kaval Flute\r\n\r\n\"Guiding Light\" composed, performed, arranged, lyrics, and mastered by Adapt 9"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Guiding Light"
+			"m" "3"
+			"s" "6"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Cohaesio"
+			"m" "2"
+			"s" "32"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Throughout the Aeons"
+			"m" "2"
+			"s" "37"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Paratus"
+			"m" "1"
+			"s" "47"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Trial of the Divines (Makari-Hari)"
+			"m" "4"
+			"s" "2"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Victorious (Makari-Hari)"
+			"m" "2"
+			"s" "8"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Apotheosis"
+			"m" "1"
+			"s" "12"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Reflections"
+			"m" "1"
+			"s" "26"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "A Flippant Journey"
+			"m" "3"
+			"s" "20"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Louder Than Words"
+			"m" "2"
+			"s" "18"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Officiis"
+			"m" "2"
+			"s" "32"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Astra"
+			"m" "3"
+			"s" "4"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Unity of Opposites"
+			"m" "2"
+			"s" "14"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "On the Edge"
+			"m" "2"
+			"s" "45"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "Ataraxia"
+			"m" "2"
+			"s" "26"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "The Gambler of Fate"
+			"m" "2"
+			"s" "5"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "With Charm and Eloquence"
+			"m" "2"
+			"s" "10"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "The Banquet"
+			"m" "1"
+			"s" "34"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Every Single Ray of Sunshine"
+			"m" "2"
+			"s" "59"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "I Knew"
+			"m" "2"
+			"s" "36"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "The Warmth of You"
+			"m" "2"
+			"s" "45"
+		}
+		"21"
+		{
+			"discnumber" "1"
+			"tracknumber" "22"
+			"originalname" "Heartbeats of Hope"
+			"m" "2"
+			"s" "39"
+		}
+		"22"
+		{
+			"discnumber" "1"
+			"tracknumber" "23"
+			"originalname" "Guiding Light (Instrumental)"
+			"m" "3"
+			"s" "6"
+		}
+		"23"
+		{
+			"discnumber" "1"
+			"tracknumber" "24"
+			"originalname" "Throughout the Aeons (Sub Mix)"
+			"m" "2"
+			"s" "25"
+		}
+		"24"
+		{
+			"discnumber" "1"
+			"tracknumber" "25"
+			"originalname" "Trial of the Divines (Mukaki)"
+			"m" "4"
+			"s" "2"
+		}
+		"25"
+		{
+			"discnumber" "1"
+			"tracknumber" "26"
+			"originalname" "Victorious (Mukaki)"
+			"m" "2"
+			"s" "8"
+		}
+		"26"
+		{
+			"discnumber" "1"
+			"tracknumber" "27"
+			"originalname" "Apotheosis (Menu Mix)"
+			"m" "2"
+			"s" "0"
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "57c9aa45d741835affb84de832b3d3f85b6c4674"
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "663644d33734272b373a9430fae0cc423363578a"
+"_size" "7917"
