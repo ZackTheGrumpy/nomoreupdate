@@ -10,6 +10,7 @@
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
+	"openxrsupport" "1"
 	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
@@ -55,7 +56,7 @@
 			"hdr_support" "0"
 		}
 	}
-	"market_presence" "1"
+	"market_presence" "0"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -413,6 +414,28 @@
 			}
 			"description" "DirectX 12"
 		}
+		"2"
+		{
+			"executable" "dollimpostor.exe"
+			"arguments" "-dx11"
+			"type" "openxr"
+			"description_loc"
+			{
+				"english" "VR"
+			}
+			"description" "VR"
+		}
+		"3"
+		{
+			"executable" "dollimpostor.exe"
+			"arguments" "-dx12"
+			"type" "openxr"
+			"description_loc"
+			{
+				"english" "DirectX 12 (VR)"
+			}
+			"description" "DirectX 12 (VR)"
+		}
 	}
 }
 "depots"
@@ -441,9 +464,9 @@
 		{
 			"public"
 			{
-				"gid" "6695074138253584480"
-				"size" "11303048003"
-				"download" "10524199968"
+				"gid" "6023871892933274328"
+				"size" "11303043907"
+				"download" "10524245504"
 			}
 			"original"
 			{
@@ -457,8 +480,8 @@
 	{
 		"public"
 		{
-			"buildid" "17588119"
-			"timeupdated" "1741087994"
+			"buildid" "17620114"
+			"timeupdated" "1741267800"
 		}
 		"original"
 		{
@@ -475,6 +498,6 @@
 	"appidredirect" "2882870"
 }
 "_missing_token" "False"
-"_change_number" "27773057"
-"_sha" "495ad0d4bbb95a7d65bfd1e8e807b9bbbfc6240e"
-"_size" "8095"
+"_change_number" "27815321"
+"_sha" "c4370167cb5677e97e9d19261a4210855f2d9947"
+"_size" "8502"
