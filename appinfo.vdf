@@ -1,0 +1,211 @@
+"appid" "2910960"
+"common"
+{
+	"name" "决胜千里：三国"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "0e5488caa25a3645016286d04678ed8b33e8d8d3"
+	"clienticon" "42085119d110fc9550fbe9dbda20e5b667ec6145"
+	"clienttga" "e47fa18bbffe2f586dad61d1388b2b234e73b6c3"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "e358fbc3e26510262f859eeeba0f15cde6f19b57/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.68833563854311"
+			"height_pct" "51.736111111111086"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "1a0ccf93f1c8e1010b414dba40429a2ad56e384b/library_600x900.jpg"
+				"schinese" "6f216504c6b5bd6bfde0b9fe56d339786a6e7169/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1a0ccf93f1c8e1010b414dba40429a2ad56e384b/library_600x900_2x.jpg"
+				"schinese" "6f216504c6b5bd6bfde0b9fe56d339786a6e7169/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.68833563854311"
+				"height_pct" "51.736111111111086"
+			}
+			"image"
+			{
+				"english" "6db45186043fa24534b6c1fd8e8cc8bfe37eff47/logo.png"
+				"schinese" "fcdee5dd9ca955b8ceaf3cb718b46d94024e2da2/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "6db45186043fa24534b6c1fd8e8cc8bfe37eff47/logo_2x.png"
+				"schinese" "fcdee5dd9ca955b8ceaf3cb718b46d94024e2da2/logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "d65db59eced6f4e7860ee3a8ff0c762034f66775/library_header.jpg"
+				"schinese" "72163803eec8f491c37f66cf91db79ee015d25a8/library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733041662"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "超自然游戏"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "超自然游戏"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1736485406"
+	"community_hub_visible" "1"
+	"gameid" "2910960"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1741"
+		"2" "14139"
+		"3" "3871"
+		"4" "3987"
+		"5" "4182"
+		"6" "492"
+	}
+	"review_score" "7"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "超自然游戏"
+	"publisher" "超自然游戏"
+}
+"config"
+{
+	"installdir" "决胜千里：三国"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Victory of Kilomiles AwayThree Kingdoms.exe"
+		}
+	}
+}
+"depots"
+{
+	"2910961"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1975753653148321878"
+				"size" "5865678448"
+				"download" "676454208"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17302469"
+			"timeupdated" "1739163159"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27810218"
+"_sha" "19ec1ff7f1f721a54a7ec3d3ce58fd0b5c921265"
+"_size" "3869"
