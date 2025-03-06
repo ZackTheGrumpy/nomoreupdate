@@ -90,7 +90,53 @@
 			"height_pct" "92.5949563313016"
 		}
 	}
-	"store_asset_mtime" "1684482317"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"japanese" "library_600x900_japanese.jpg"
+				"english" "library_600x900.jpg"
+				"french" "library_600x900_french.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"german" "library_600x900_german.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "library_hero_japanese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "79.69587002778383"
+				"height_pct" "92.5949563313016"
+			}
+		}
+	}
+	"store_asset_mtime" "1729755781"
 	"associations"
 	{
 		"0"
@@ -187,11 +233,15 @@
 		"8" "4191"
 		"9" "4158"
 		"10" "5851"
-		"11" "1756"
-		"12" "4026"
-		"13" "7782"
-		"14" "1719"
-		"15" "4085"
+		"11" "4026"
+		"12" "1719"
+		"13" "4085"
+		"14" "1773"
+		"15" "4136"
+		"16" "4182"
+		"17" "1734"
+		"18" "1685"
+		"19" "3841"
 	}
 	"review_score" "8"
 	"review_percentage" "86"
@@ -241,75 +291,6 @@
 				"download" "10275170048"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"debug_rom"
-			{
-				"gid" "5CFCA1511A8F4CE1BA74EE8CEAD287CC"
-				"size" "E55D6E522A2E81B809A53EDF8266B11C"
-				"download" "0AADEA7212FC39B448A153E0B8A01A11"
-			}
-			"debug_rom_dlc2"
-			{
-				"gid" "6B1A7A651BC5CF4F532F160A2CE277F0"
-				"size" "D26520902E61CFF74B7CC74FEEB06D82"
-				"download" "1FF827EB082556CF37CAF7EC1EE27AA2"
-			}
-			"debug_rom_l"
-			{
-				"gid" "C0921DF05218325C355E22BC0CFB1DA4"
-				"size" "42C71FD2CED76E13506E8AEC10A0A57C"
-				"download" "A0A850D55710F0F6C1EAA624EA3C3145"
-			}
-			"master_check"
-			{
-				"gid" "C8BDE58D7EE0CD2E2F369B3A7BB44CDD"
-				"size" "26D5E9BE79FDF4D620742A8037249EEC"
-				"download" "1D9C7D174339F0E8C547A193846F3D14"
-			}
-			"master_rom_l"
-			{
-				"gid" "8E6D03EDE540E98B160357250FABE72A"
-				"size" "0E27224AF72FE0E947A60ABD8B439930"
-				"download" "88C1DC29504730BE02AF6EACEE5A1838"
-			}
-			"master_rom_v_dlc2"
-			{
-				"gid" "528E21133CCC9D0F3928445525D75F76"
-				"size" "F6643B0A27677D0994A8AC1328E402BB"
-				"download" "358DB728BB988E3F965FEAC988D81F64"
-			}
-			"releace_v_rom_dlc2"
-			{
-				"gid" "0F1E0AEB41575F8715AC26A87319F9C1"
-				"size" "E0396CC31181C2853592FC6AF5368A62"
-				"download" "04BD4DD6B80EEA1E08417AD6FFCC5D6E"
-			}
-			"release_rom"
-			{
-				"gid" "3CB787777E24C1B34BFA575382327D25"
-				"size" "286E5BB2C3560D33E5779D92B717A9A7"
-				"download" "B076D08A3FF30B0F02381500E3481F22"
-			}
-			"release_rom_dlc2"
-			{
-				"gid" "2491184211D08701CEBE1D584550CEA4"
-				"size" "FC6858AA814D01265580A8811D8F5C78"
-				"download" "40D92C6C3EFE37E0A2A6BFD8940BCEEF"
-			}
-			"release_rom_l"
-			{
-				"gid" "1AD0444B367192AADFA054CF55E4528F"
-				"size" "F9B00E204DFD45C41424C8B8DFE90EF2"
-				"download" "B570DA71D3E3A1A2D103DE8186856E2A"
-			}
-			"test_dlc_1_2"
-			{
-				"gid" "67A76588475F0B2EB3F0937D164899ED"
-				"size" "2BC0D1A06695A2E022648BC491581FA5"
-				"download" "A0382D1DD85D71A723E85F26E9E60393"
-			}
-		}
 	}
 	"1521860"
 	{
@@ -325,45 +306,6 @@
 				"gid" "153676042820169991"
 				"size" "4"
 				"download" "48"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"debug_rom"
-			{
-				"gid" "B53B907A82F57DB2D9E04CC0297EC4C3"
-				"size" "C2E443623EE15365739DE37FE6A114DF"
-				"download" "5A899F44A590D9AD5BAD6271AC5E5A69"
-			}
-			"master_check"
-			{
-				"gid" "0AF50DB3B00DE6D7C71958668D9CC847"
-				"size" "E36FB02D02057D2DBA2FA61F06CA2F26"
-				"download" "D1BE53860340A19CB858DB547D310237"
-			}
-			"master_rom_l"
-			{
-				"gid" "B954C5FFB9B98D0BE76F66E65BD5E841"
-				"size" "0373E01BE919CC9D66E86F892988AFD1"
-				"download" "674A62E705BA1AB5FBAF52BB0C79B56A"
-			}
-			"release_rom"
-			{
-				"gid" "463F3AC82A780636DB08C706BD4D1A4F"
-				"size" "4E68ACEDCC125AA6FB1D9EDB1D4DC1B1"
-				"download" "6A12A9FAAA4BCB69EC021A15F2E221F7"
-			}
-			"release_rom_l"
-			{
-				"gid" "B85D3B6583126443DF2BC31ADA9FFDB0"
-				"size" "8AC831DFAFB8A3C4EA01826A790E9DB8"
-				"download" "1A722781C49310087ACD84617E41B2B3"
-			}
-			"test_dlc_1_2"
-			{
-				"gid" "AEEF21B21432B588D5296DD3DA0083AC"
-				"size" "F5BEFC9707D3FA521AE577C981AB830E"
-				"download" "0585104CB5AA8312D706129F0105979E"
 			}
 		}
 	}
@@ -383,45 +325,6 @@
 				"download" "48"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"debug_rom_dlc2"
-			{
-				"gid" "5444650253406335E6BC00D9EE065CBD"
-				"size" "B34E2EE8785B85B41EB725A946FBE0C8"
-				"download" "AB16008A1AEEFA73625BA5E1CF414B84"
-			}
-			"master_rom_l"
-			{
-				"gid" "720C94310CF3688B0759EE6A860CDD01"
-				"size" "0373E01BE919CC9D66E86F892988AFD1"
-				"download" "674A62E705BA1AB5FBAF52BB0C79B56A"
-			}
-			"releace_v_rom_dlc2"
-			{
-				"gid" "B70F722DFC296C919644FC819FF03A91"
-				"size" "D1DAD4A21E82819332900F73CAD38BAC"
-				"download" "D65D4C134B1AD241A8E19EE7FF19B771"
-			}
-			"release_rom_dlc2"
-			{
-				"gid" "3A3095041D73DA2F6808EAC27ED7E098"
-				"size" "C7361D933A72A7DAA978851929791C31"
-				"download" "6896478BC2E0604DDAFC6E559803A5F1"
-			}
-			"release_rom_l"
-			{
-				"gid" "D843F13504187C605BDD52D6BF36DE1D"
-				"size" "8AC831DFAFB8A3C4EA01826A790E9DB8"
-				"download" "1A722781C49310087ACD84617E41B2B3"
-			}
-			"test_dlc_1_2"
-			{
-				"gid" "1C7847B8C756A61F2710DD246E38CF37"
-				"size" "F5BEFC9707D3FA521AE577C981AB830E"
-				"download" "0585104CB5AA8312D706129F0105979E"
-			}
-		}
 	}
 	"2353290"
 	{
@@ -437,21 +340,6 @@
 				"gid" "24191878399686207"
 				"size" "4"
 				"download" "48"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"master_rom_l"
-			{
-				"gid" "7057600ED56C504ED4536EFA5C6D3CD5"
-				"size" "0373E01BE919CC9D66E86F892988AFD1"
-				"download" "674A62E705BA1AB5FBAF52BB0C79B56A"
-			}
-			"release_rom_l"
-			{
-				"gid" "272B1D1B3B1CFA44A7B442E2669086CB"
-				"size" "8AC831DFAFB8A3C4EA01826A790E9DB8"
-				"download" "1A722781C49310087ACD84617E41B2B3"
 			}
 		}
 	}
@@ -471,21 +359,6 @@
 				"download" "48"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"master_rom_l"
-			{
-				"gid" "23FD0DDB804DBD87350429DA345D684A"
-				"size" "0373E01BE919CC9D66E86F892988AFD1"
-				"download" "674A62E705BA1AB5FBAF52BB0C79B56A"
-			}
-			"release_rom_l"
-			{
-				"gid" "FFAB2C237AF548E9FACF5465B711FDAA"
-				"size" "8AC831DFAFB8A3C4EA01826A790E9DB8"
-				"download" "1A722781C49310087ACD84617E41B2B3"
-			}
-		}
 	}
 	"branches"
 	{
@@ -494,73 +367,8 @@
 			"buildid" "11467668"
 			"timeupdated" "1688994009"
 		}
-		"debug_rom"
-		{
-			"buildid" "6655931"
-			"pwdrequired" "1"
-			"timeupdated" "1620279788"
-		}
-		"debug_rom_dlc2"
-		{
-			"buildid" "7028705"
-			"pwdrequired" "1"
-			"timeupdated" "1626274217"
-		}
-		"debug_rom_l"
-		{
-			"buildid" "10950556"
-			"pwdrequired" "1"
-			"timeupdated" "1680819376"
-		}
-		"master_check"
-		{
-			"buildid" "6725088"
-			"pwdrequired" "1"
-			"timeupdated" "1621433750"
-		}
-		"master_rom_l"
-		{
-			"buildid" "11467668"
-			"pwdrequired" "1"
-			"timeupdated" "1686745876"
-		}
-		"master_rom_v_dlc2"
-		{
-			"buildid" "7165953"
-			"pwdrequired" "1"
-			"timeupdated" "1628645217"
-		}
-		"releace_v_rom_dlc2"
-		{
-			"buildid" "7165973"
-			"pwdrequired" "1"
-			"timeupdated" "1628590532"
-		}
-		"release_rom"
-		{
-			"buildid" "6725091"
-			"pwdrequired" "1"
-			"timeupdated" "1621433767"
-		}
-		"release_rom_dlc2"
-		{
-			"buildid" "6976535"
-			"pwdrequired" "1"
-			"timeupdated" "1625369466"
-		}
-		"release_rom_l"
-		{
-			"buildid" "11463725"
-			"pwdrequired" "1"
-			"timeupdated" "1686707933"
-		}
-		"test_dlc_1_2"
-		{
-			"buildid" "10853876"
-			"pwdrequired" "1"
-			"timeupdated" "1679720930"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -576,3 +384,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26993048"
+"_sha" "615728d58dc2c0c9f240ec5a3ccf648fd2219168"
+"_size" "7157"
