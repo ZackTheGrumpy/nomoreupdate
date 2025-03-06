@@ -1,0 +1,109 @@
+"appid" "313600"
+"common"
+{
+	"name" "NEOTOKYO Dedicated Server"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "44519c756c43eafd398214ee02b72b45d088412c"
+	"logo_small" "44519c756c43eafd398214ee02b72b45d088412c_thumb"
+	"icon" "b3aca5483864fa3f92ef1605a8ef753ff1c4f4a6"
+	"clienttga" "0c930883d408bd0af16b19c261788bd7e2f1600a"
+	"clienticon" "17f5f3de2d9eaff4470163ec98a4cba271d50a48"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "313600"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "NEOTOKYO Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"313601"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7428941888805027461"
+				"size" "1992157427"
+				"download" "15833539776930"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "357561"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26182194"
+"_sha" "44c536105d1f04c17adfebafa533e3325583efbb"
+"_size" "1623"
