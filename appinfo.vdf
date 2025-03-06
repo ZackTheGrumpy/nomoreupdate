@@ -11,12 +11,14 @@
 		"english" "hololive Treasure Mountain"
 		"schinese" "hololive 宝藏山"
 		"tchinese" "hololive 寶藏山"
+		"russian" "hololive Treasure Mountain"
 	}
 	"languages"
 	{
 		"english" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"russian" "1"
 		"japanese" "1"
 	}
 	"icon" "6b70d4594421ac2ba331642c664952d0aef38408"
@@ -274,9 +276,9 @@
 		{
 			"public"
 			{
-				"gid" "7643571431197624204"
-				"size" "1172547100"
-				"download" "869118080"
+				"gid" "39500282801201164"
+				"size" "1256407740"
+				"download" "939408528"
 			}
 		}
 	}
@@ -291,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "5783801527251081156"
-				"size" "1347301040"
-				"download" "904834912"
+				"gid" "3407603890391224478"
+				"size" "1431301348"
+				"download" "972033472"
 			}
 		}
 	}
@@ -301,8 +303,8 @@
 	{
 		"public"
 		{
-			"buildid" "17389221"
-			"timeupdated" "1740022316"
+			"buildid" "17570951"
+			"timeupdated" "1741231968"
 		}
 	}
 	"privatebranches" "1"
@@ -322,6 +324,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27566726"
-"_sha" "883ea231776b8fc0a25f9a41a5aa9d53d34cc54e"
-"_size" "5801"
+"_change_number" "27807315"
+"_sha" "82afc816630f7c0d7df16739e5bd34186c234b1c"
+"_size" "5860"
