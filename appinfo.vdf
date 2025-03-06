@@ -133,12 +133,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "银河游戏"
+			"name" "星原游戏"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "银河游戏"
+			"name" "星原游戏"
 		}
 	}
 	"primary_genre" "4"
@@ -192,8 +192,8 @@
 }
 "extended"
 {
-	"developer" "银河游戏"
-	"publisher" "银河游戏"
+	"developer" "星原游戏"
+	"publisher" "星原游戏"
 }
 "config"
 {
@@ -214,9 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "174175942995842776"
-				"size" "654547453"
-				"download" "164512432"
+				"gid" "5453382652006631503"
+				"size" "654907061"
+				"download" "164585504"
 			}
 		}
 	}
@@ -224,8 +224,8 @@
 	{
 		"public"
 		{
-			"buildid" "17603892"
-			"timeupdated" "1741177118"
+			"buildid" "17620783"
+			"timeupdated" "1741270729"
 		}
 	}
 }
@@ -244,6 +244,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27794280"
-"_sha" "bc744eca391cad41676d7c94d0451b9ca1e41e63"
-"_size" "4417"
+"_change_number" "27816122"
+"_sha" "47ed8c23981e5c2987d9e61a19e316932d45b01c"
+"_size" "4418"
