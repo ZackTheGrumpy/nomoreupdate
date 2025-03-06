@@ -23,25 +23,25 @@
 	"clienticns" "5e6cfff27dcd1ee3ee2a814704cd3b0ef2c82928"
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1740614400"
-		"tested_build_id" "17463552"
+		"category" "3"
+		"test_timestamp" "1741132800"
+		"tested_build_id" "17541792"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -61,7 +61,7 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-4RC"
@@ -241,6 +241,8 @@
 		"13" "1738"
 		"14" "7208"
 	}
+	"review_score" "7"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -292,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "6251806589969724199"
-				"size" "1331557541"
-				"download" "1165662912"
+				"gid" "6338862846220345683"
+				"size" "1331991399"
+				"download" "1166152624"
 			}
 		}
 	}
@@ -302,13 +304,13 @@
 	{
 		"public"
 		{
-			"buildid" "17463552"
-			"timeupdated" "1740459557"
+			"buildid" "17541792"
+			"timeupdated" "1741245639"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27768245"
-"_sha" "2523cd66e63e14ab368b3050e4ee92f6728e284b"
-"_size" "5455"
+"_change_number" "27809595"
+"_sha" "c9a5063fc274601311c5e0820598eabfa83d0621"
+"_size" "5502"
