@@ -27,7 +27,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "d50aa6ea24bf50f6146b4a54364a7f3b186d166e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -37,13 +37,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "49.80021274952143"
-			"height_pct" "88.19474798902928"
+			"width_pct" "26.62462180697409"
+			"height_pct" "26.391176762917922"
 		}
 	}
 	"library_assets_full"
@@ -52,22 +53,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "e38b7b904efe6b9b56a3e26773882faf4cafd63c/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "e38b7b904efe6b9b56a3e26773882faf4cafd63c/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "097a65da79a9ac17a36628d7fdb965e20e28b3b0/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "097a65da79a9ac17a36628d7fdb965e20e28b3b0/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "097a65da79a9ac17a36628d7fdb965e20e28b3b0/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -83,19 +91,23 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "49.80021274952143"
-				"height_pct" "88.19474798902928"
+				"width_pct" "26.62462180697409"
+				"height_pct" "26.391176762917922"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "45eee66bb8078c32aabeff6edbb1b970c96d8984/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "45eee66bb8078c32aabeff6edbb1b970c96d8984/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1738911092"
+	"store_asset_mtime" "1739815997"
 	"associations"
 	{
 		"0"
@@ -204,7 +216,7 @@
 		"19" "4305"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -275,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "7674571960597328098"
-				"size" "4357619273"
-				"download" "1742273952"
+				"gid" "4655577759425662566"
+				"size" "4762253075"
+				"download" "1858213104"
 			}
 		}
 	}
@@ -285,13 +297,13 @@
 	{
 		"public"
 		{
-			"buildid" "17311392"
-			"timeupdated" "1739216619"
+			"buildid" "17621335"
+			"timeupdated" "1741273315"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27407495"
-"_sha" "36e343228fa3646f497728d04082f71bf3f76ca3"
-"_size" "5197"
+"_change_number" "27816900"
+"_sha" "0cd7b50c5110437a9dd7e8e9f388ec4fb39f7306"
+"_size" "5719"
