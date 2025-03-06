@@ -1,0 +1,217 @@
+"appid" "4020"
+"common"
+{
+	"name" "Garry\'s Mod Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"parent" "4000"
+	"clienticon" "8afac0a3aa137a10d95ffff016573d7eba867de9"
+	"clienttga" "1876003cc8d454acb3cee2f2e35990599d1faf9e"
+	"freetodownload" "1"
+	"gameid" "4020"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" ""
+	"gamedir" "ValveTestApp4020"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "GarrysModDS"
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"overridescddb" "1"
+	"markdlcdepots" "0"
+	"4021"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7875986024096193408"
+				"size" "3817737514"
+				"download" "2175306960"
+			}
+			"dev"
+			{
+				"gid" "5579029082388909420"
+				"size" "3792366686"
+				"download" "2171769616"
+			}
+			"prerelease"
+			{
+				"gid" "7875986024096193408"
+				"size" "3817737514"
+				"download" "2175306960"
+			}
+			"x86-64"
+			{
+				"gid" "2309598003132948047"
+				"size" "3790189803"
+				"download" "2171501824"
+			}
+		}
+	}
+	"4022"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8547922790199332392"
+				"size" "58374432"
+				"download" "20451408"
+			}
+			"dev"
+			{
+				"gid" "4406719080376891025"
+				"size" "58752288"
+				"download" "20508496"
+			}
+			"prerelease"
+			{
+				"gid" "8547922790199332392"
+				"size" "58374432"
+				"download" "20451408"
+			}
+			"x86-64"
+			{
+				"gid" "4517753867599377516"
+				"size" "442696913"
+				"download" "152381680"
+			}
+		}
+	}
+	"4023"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6222789010703016116"
+				"size" "119975499"
+				"download" "33547488"
+			}
+			"dev"
+			{
+				"gid" "916009734571942179"
+				"size" "120246757"
+				"download" "33605664"
+			}
+			"prerelease"
+			{
+				"gid" "6222789010703016116"
+				"size" "119975499"
+				"download" "33547488"
+			}
+			"x86-64"
+			{
+				"gid" "5342148506142810193"
+				"size" "227867919"
+				"download" "66001168"
+			}
+		}
+	}
+	"workshopdepot" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16682005"
+			"timeupdated" "1733760316"
+		}
+		"dev"
+		{
+			"buildid" "17547519"
+			"description" "Development Branch"
+			"timeupdated" "1740749586"
+		}
+		"prerelease"
+		{
+			"buildid" "16682005"
+			"description" "Pre-Release Branch"
+			"timeupdated" "1733757433"
+		}
+		"x86-64"
+		{
+			"buildid" "17624926"
+			"description" "Testing 64-bit builds"
+			"timeupdated" "1741290000"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27821881"
+"_sha" "cf48812e6979f9243c9fc4f6d35ca570b95a7651"
+"_size" "3466"
