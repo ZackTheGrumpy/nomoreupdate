@@ -1,0 +1,309 @@
+"appid" "228560"
+"common"
+{
+	"name" "Teenage Mutant Ninja Turtles: Out of the Shadows"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "8b726b534a8388e29022a0a36fee27cd110e4ac7"
+	"logo_small" "8b726b534a8388e29022a0a36fee27cd110e4ac7_thumb"
+	"oslist" "windows"
+	"clienticon" "6605582d60ad092bff5f11d5659b41b791f4b6fc"
+	"clienttga" "6119adbddb6837cd4b35e89ddb5b7c5dd3944311"
+	"icon" "af7da4cc94e1264d1137b88e332aa448640a7f49"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+	}
+	"app_retired_publisher_request" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1669075200"
+		"tested_build_id" "113133"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Teenage Mutant Ninja Turtles: Out of the Shadows"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_bb6dac023a169c794f66ed952064b748502ff6e5.jpg"
+	"store_asset_mtime" "1377708411"
+	"associations"
+	{
+		"0"
+		{
+			"type" "publisher"
+			"name" "Activision"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_18" "1"
+		"category_39" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1377709200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "228560"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1688"
+		"2" "1697"
+		"3" "4158"
+		"4" "21"
+		"5" "1685"
+		"6" "3859"
+		"7" "1671"
+		"8" "4182"
+		"9" "3841"
+		"10" "1695"
+		"11" "4136"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" ""
+	"gamedir" "tmntoots"
+	"homepage" "https://www.facebook.com/TMNTOutOfTheShadows"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Activision"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "TMNT-OotS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries/Win32/TMNT-OotS.exe"
+			"description" "Launch"
+			"workingdir" "Binaries/Win32"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish"
+	"228561"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5684574726113034640"
+				"size" "20068864"
+				"download" "0"
+			}
+		}
+	}
+	"228562"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5676542262957041823"
+				"size" "2588117875"
+				"download" "0"
+			}
+		}
+	}
+	"228563"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6228084372078399963"
+				"size" "7"
+				"download" "0"
+			}
+		}
+	}
+	"228564"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3221587708594514847"
+				"size" "1360440"
+				"download" "0"
+			}
+		}
+	}
+	"228565"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4890022681800637726"
+				"size" "1341368"
+				"download" "0"
+			}
+		}
+	}
+	"228566"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5561656125491413485"
+				"size" "1352724"
+				"download" "0"
+			}
+		}
+	}
+	"228567"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3331350295405990149"
+				"size" "1340122"
+				"download" "0"
+			}
+		}
+	}
+	"markdlcdepots" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "113133"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "87cfd8542e5bcd358a532a23ad5f9d36196b8978"
+"_size" "5046"
