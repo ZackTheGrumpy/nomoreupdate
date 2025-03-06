@@ -1,0 +1,162 @@
+"appid" "2160300"
+"common"
+{
+	"name" "Re-Spawn Tournament Dedicated Server"
+	"type" "Tool"
+	"parent" "1590010"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "f131111ab8262f8548735b44620091c922678a0f"
+	"clienticon" "45205258086888c4e41cc69514b20bd68bf6acc0"
+	"clienttga" "d42f86b8f7ecc390eb0919517f4174c043fabcf4"
+	"clienticns" "de4b024867ea481106d6e0f873ce502e29a3f9df"
+	"linuxclienticon" "64e2256caa34f0238d71519775fe89e0cd2362e6"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2160300_eula_0"
+			"name" "Re-Spawn Tournament Dedicated Server EULA"
+			"url" "https://store.steampowered.com//eula/2160300_eula_0"
+			"version" "1"
+		}
+	}
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "2160300"
+}
+"extended"
+{
+	"gamedir" "ReSpawn"
+	"serverbrowsername" "Re-Spawn Tournament"
+}
+"config"
+{
+	"installdir" "ReSpawnServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ReSpawnServer.exe"
+			"arguments" "-server -log"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "ReSpawn.sh"
+			"arguments" "-server -log"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2160302"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8463572095749840722"
+				"size" "1128348928"
+				"download" "288866208"
+			}
+		}
+	}
+	"2160303"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1191498709262798502"
+				"size" "1045007228"
+				"download" "205043456"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12334033"
+			"timeupdated" "1696246058"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26392854"
+"_sha" "7372ef395bdf927cac209fa480b5e2d4ba15be85"
+"_size" "2468"
