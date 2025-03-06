@@ -27,6 +27,7 @@
 	"releasestatesteamchina" "released"
 	"osextended" ""
 	"metacritic_name" "Little Triangle"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -141,6 +142,14 @@
 		"category_44" "1"
 		"category_49" "1"
 		"category_43" "1"
+		"category_13" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -148,50 +157,62 @@
 		"english"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"schinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"french"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"italian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"german"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"spanish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"japanese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"koreana"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"polish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"portuguese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"russian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"tchinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1484970900"
@@ -262,6 +283,11 @@
 	{
 		"steam_china_enable_duration_control" "1"
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchconfigdetails" ""
+	"steamconfigurator3rdpartynative" "65533"
 }
 "depots"
 {
@@ -275,36 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "1948431160260310344"
-				"size" "2447548068"
-				"download" "391560032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "065C69AA225E2734AAF311DC8CF74051"
-				"size" "542D067F08DF4507F6C545529796A41A"
-				"download" "E126EBFBE68E4E91AC0ECCBF9C06027F"
-			}
-			"littletriangle"
-			{
-				"gid" "865435EB29D01A28907E47F2C6E3606C"
-				"size" "728B9F79FB0210BAAD42F2CBC57C848A"
-				"download" "CE4519DF16653327B1ED96E2851159A5"
-			}
-			"multiplayer"
-			{
-				"gid" "D0BA769D19DCF2D3BB41937F2CA1732F"
-				"size" "B710E435E383D8740D1FF91AB57F1EDE"
-				"download" "ACAB81A6EB6E15D44CF3E76D449ABF3D"
-			}
-			"steam_china_only"
-			{
-				"gid" "38775B9D3E239C036DFE895E06855F20"
-				"size" "0DA61A0952A2B3C233719E25BBE84C99"
-				"download" "FD05067912B377391BEFAEFE2CBF6F21"
+				"gid" "2492034037868459922"
+				"size" "2360300540"
+				"download" "331096496"
 			}
 		}
 	}
@@ -318,36 +317,9 @@
 		{
 			"public"
 			{
-				"gid" "8320879541377312115"
-				"size" "2448194230"
-				"download" "391549152"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "7C85C546E3D1305E3AF9A467EFFA41BE"
-				"size" "D75778006BB4BEE6AF805728B57E8B38"
-				"download" "303B6A551EEBA41C8AA7B10F9C540130"
-			}
-			"littletriangle"
-			{
-				"gid" "5B2A56D208753CE8242D37D86FDC4155"
-				"size" "D0882986272C09C1F4968CEA9BCAA5C9"
-				"download" "43F7D132415AFF22A6B2AF1224C1ED28"
-			}
-			"multiplayer"
-			{
-				"gid" "E06ACFD20CEAB916E92789A3814F060A"
-				"size" "5F716457B722961C5DAF3CE0CC03DB33"
-				"download" "A07CEBCF0EDF42940D079692CB086618"
-			}
-			"steam_china_only"
-			{
-				"gid" "C22509AA7E097F38006A3AD307331846"
-				"size" "A863B4EF3B4F763052EAF3DA28CC892A"
-				"download" "69EBA5918C9BDB5BCDDF6735E5211099"
+				"gid" "3297756877833958543"
+				"size" "2347880869"
+				"download" "326901328"
 			}
 		}
 	}
@@ -355,35 +327,11 @@
 	{
 		"public"
 		{
-			"buildid" "10021193"
-			"timeupdated" "1669451320"
-		}
-		"development"
-		{
-			"buildid" "10021193"
-			"pwdrequired" "1"
-			"timeupdated" "1669450309"
-		}
-		"littletriangle"
-		{
-			"buildid" "13042667"
-			"pwdrequired" "1"
-			"timeupdated" "1703498575"
-		}
-		"multiplayer"
-		{
-			"buildid" "2480290"
-			"pwdrequired" "1"
-			"timeupdated" "1517278836"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "2497522"
-			"pwdrequired" "1"
-			"timeupdated" "1664439749"
+			"buildid" "17615490"
+			"timeupdated" "1741245372"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -430,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25946659"
-"_sha" "224a5b13acde990d5fe63aac96e01bb439b070fe"
-"_size" "8021"
+"_change_number" "27809502"
+"_sha" "db5e2200c8c0a876b079ab2dbd45886b547e76a7"
+"_size" "6768"
