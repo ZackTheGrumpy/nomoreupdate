@@ -1,0 +1,273 @@
+"appid" "2852930"
+"common"
+{
+	"name" "Ethel"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "627230e7b88ac7364d68f5a78bd6929928d40061"
+	"clienttga" "68ac2ab708586432d0b0643bae4ef6fc324b219c"
+	"linuxclienticon" "2a3017867ec04be04bf7b8e45d4fd2ccf1083e14"
+	"clienticon" "c973e325aee9caed28bcc67e12de9e6ef42dd695"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "56e74fdf842aaa3d121f8441dcd6fe91e202c4bf/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.742657712937074"
+			"height_pct" "90.88102588458798"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.742657712937074"
+				"height_pct" "90.88102588458798"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726868740"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TS GAMES LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TS GAMES LLC"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1710475551"
+	"community_hub_visible" "1"
+	"gameid" "2852930"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3834"
+		"2" "6971"
+		"3" "1664"
+		"4" "4166"
+		"5" "599"
+		"6" "5716"
+		"7" "1742"
+		"8" "1738"
+		"9" "5900"
+		"10" "4191"
+		"11" "3839"
+		"12" "1721"
+		"13" "3987"
+		"14" "7250"
+		"15" "4175"
+		"16" "21"
+		"17" "5186"
+		"18" "4145"
+		"19" "13190"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "TS GAMES LLC"
+	"publisher" "TS GAMES LLC"
+}
+"config"
+{
+	"installdir" "Ethel"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ethel_Remastered.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2852931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "683346917765770628"
+				"size" "3844606230"
+				"download" "3569962864"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16715594"
+			"timeupdated" "1733970630"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26815997"
+"_sha" "42b4eb62093660065becd6591111ddd4f7dddf9e"
+"_size" "4124"
