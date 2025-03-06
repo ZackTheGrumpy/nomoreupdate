@@ -179,14 +179,14 @@
 		"18" "4004"
 		"19" "7481"
 	}
-	"review_score" "6"
-	"review_percentage" "76"
+	"review_score" "5"
+	"review_percentage" "69"
 }
 "extended"
 {
 	"developer" "Vadzim Liakhovich"
 	"publisher" "RedDeer.Games"
-	"listofdlc" "2866230"
+	"listofdlc" "2866230,3405870"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -214,18 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "4664242032396315476"
-				"size" "167706991"
-				"download" "122956464"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "205DD9EE31D2F248FC865BEB37D616CF"
-				"size" "F920ACEEA0FA5818AF1BC09F899A2BD6"
-				"download" "C819B1279678C22D6B2145FAA8342FB8"
+				"gid" "7675980550287552778"
+				"size" "172903839"
+				"download" "124137328"
 			}
 		}
 	}
@@ -234,16 +225,11 @@
 	{
 		"public"
 		{
-			"buildid" "15837577"
-			"timeupdated" "1728290502"
-		}
-		"beta"
-		{
-			"buildid" "15837577"
-			"pwdrequired" "1"
-			"timeupdated" "1727358743"
+			"buildid" "17351253"
+			"timeupdated" "1741259192"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -302,6 +288,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25627912"
-"_sha" "d640cc4d9777c6ad945f182388ad83c7a894a0ba"
-"_size" "5283"
+"_change_number" "27814034"
+"_sha" "1953cbf814f4bdc12ad4411638ec5f2b0306e886"
+"_size" "5011"
