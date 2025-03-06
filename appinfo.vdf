@@ -17,6 +17,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_5f538f5de4ef6b057eeccf3df77d8496ff48825f.jpg"
 	"store_asset_mtime" "1655969874"
 	"associations"
 	{
@@ -125,18 +126,9 @@
 		{
 			"public"
 			{
-				"gid" "7606825085755730269"
-				"size" "222010399"
-				"download" "120133312"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "E8DD0433EA45E33C25F33A3142BB66A8"
-				"size" "9FBAD741A8BEC13EB57D7783BC0050E7"
-				"download" "4745F8DB667923FF15F2B7C6EF188405"
+				"gid" "4935558198760018241"
+				"size" "221770953"
+				"download" "119894464"
 			}
 		}
 		"dlcappid" "2060270"
@@ -145,14 +137,13 @@
 	{
 		"public"
 		{
-			"buildid" "12295370"
-			"timeupdated" "1696332493"
-		}
-		"test"
-		{
-			"buildid" "12295370"
-			"pwdrequired" "1"
-			"timeupdated" "1695812729"
+			"buildid" "17619275"
+			"timeupdated" "1741282110"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27819748"
+"_sha" "6d5d5ee1daa47c351af012d8f394bccf2780b0bc"
+"_size" "2205"
