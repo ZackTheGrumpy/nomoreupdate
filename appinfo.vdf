@@ -183,14 +183,14 @@
 		"18" "4345"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "73"
 }
 "extended"
 {
 	"developer" "SUCCESS Corp."
 	"publisher" "SUCCESS Corp."
 	"homepage" "https://heavenseeker.success-corp.co.jp/"
-	"listofdlc" "3227440"
+	"listofdlc" "3227440,3508810"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -223,9 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "53137584523201255"
-				"size" "664229386"
-				"download" "387145568"
+				"gid" "365239855507968297"
+				"size" "664331362"
+				"download" "387162944"
 			}
 		}
 	}
@@ -233,8 +233,8 @@
 	{
 		"public"
 		{
-			"buildid" "17022551"
-			"timeupdated" "1737081475"
+			"buildid" "17422191"
+			"timeupdated" "1741254615"
 		}
 	}
 	"privatebranches" "1"
@@ -255,6 +255,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27075651"
-"_sha" "196e0bfb720975b7243001d465759fa5fbc0a0bd"
-"_size" "4959"
+"_change_number" "27811883"
+"_sha" "92cd155e227334865537746022d84ae95c80070b"
+"_size" "4968"
