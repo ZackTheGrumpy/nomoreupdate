@@ -1,0 +1,195 @@
+"appid" "2762610"
+"common"
+{
+	"name" "Piranha Feeding"
+	"type" "Game"
+	"icon" "e41af6677a9248ab9b64c9466d7294ebd3bc16aa"
+	"clienticon" "cf837762b35fc92905b72b1d2ddeb0eb1dc0a8ea"
+	"clienttga" "8e8435ed6ffa468dc2902010af65373e8cab621d"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1705852344"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funcraft Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcraft Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1713961030"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2762610"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "42804"
+		"2" "1667"
+		"3" "30358"
+		"4" "4885"
+		"5" "3871"
+		"6" "4195"
+		"7" "3993"
+		"8" "492"
+		"9" "493"
+		"10" "597"
+		"11" "3968"
+		"12" "4182"
+	}
+	"review_score" "7"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Funcraft Games"
+	"publisher" "Funcraft Games"
+}
+"config"
+{
+	"installdir" "Piranha Feeding"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Piranha.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Game executable"
+			}
+			"description" "Game executable"
+		}
+	}
+}
+"depots"
+{
+	"2762611"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "201976527225297261"
+				"size" "204576525"
+				"download" "70618080"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13940611"
+			"timeupdated" "1712174441"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26991110"
+"_sha" "763dd08208eedba5cdd4ed156441772f6b7f5b3a"
+"_size" "2937"
