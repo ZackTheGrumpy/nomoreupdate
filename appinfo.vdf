@@ -256,6 +256,7 @@
 	"steam_release_date" "1254812400"
 	"metacritic_score" "64"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/command-conquer-red-alert-3---uprising\?ftag=MCD-06-10aaa1f"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "24800"
 	"store_tags"
@@ -282,7 +283,7 @@
 		"19" "8122"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 	"mastersubs_granting_app" "1289670"
 }
 "extended"
@@ -603,6 +604,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27700100"
-"_sha" "218c599c60a00abb27ef6ad6b96affdbffb93d59"
-"_size" "11414"
+"_change_number" "27743836"
+"_sha" "cd612019b24ccbe94b7f6fa4f0f1a47c98065148"
+"_size" "11440"
