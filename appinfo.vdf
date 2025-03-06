@@ -1,0 +1,248 @@
+"appid" "2375780"
+"common"
+{
+	"name" "Beam Eye Tracker"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2375780_eula_0"
+			"name" "Eyeware Beam EULA"
+			"url" "https://store.steampowered.com//eula/2375780_eula_0"
+			"version" "2"
+		}
+	}
+	"icon" "e8d809bf059d239fa8a0fc2f84c9b916df1d2577"
+	"clienticon" "e1d3a92e7b7116e26a2651b91d8a3d565740a2cc"
+	"clienttga" "18a8d1fb40123e698dd577d9aac514de4db9949b"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22.526501938266648"
+			"height_pct" "78.12500000000003"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "22.526501938266648"
+				"height_pct" "78.12500000000003"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1709156318"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Eyeware Tech SA"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Eyeware Tech SA"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "28"
+		"1" "57"
+		"2" "58"
+		"3" "60"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1690981907"
+	"community_hub_visible" "1"
+	"gameid" "2375780"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "87"
+		"2" "784"
+		"3" "8013"
+		"4" "13906"
+		"5" "8075"
+		"6" "150626"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Eyeware Tech SA"
+	"publisher" "Eyeware Tech SA"
+	"homepage" "https://beam.eyeware.tech/"
+}
+"config"
+{
+	"installdir" "Beam Eye Tracker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BeamEyeTracker.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2375781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1459734009102708308"
+				"size" "461707293"
+				"download" "238559872"
+			}
+			"beta"
+			{
+				"gid" "7115153762000747778"
+				"size" "597121788"
+				"download" "256659776"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15980754"
+			"timeupdated" "1728556224"
+		}
+		"beta"
+		{
+			"buildid" "17616255"
+			"description" "Public Beta version"
+			"timeupdated" "1741250035"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27810607"
+"_sha" "cda5ae661d0c0e66c6cc3fd3fbb8e8ad5b2a36d7"
+"_size" "3830"
