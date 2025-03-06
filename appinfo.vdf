@@ -190,6 +190,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1729735807"
 	"community_visible_stats" "1"
@@ -200,8 +205,8 @@
 		"0" "122"
 		"1" "492"
 		"2" "21"
-		"3" "9"
-		"4" "4325"
+		"3" "4325"
+		"4" "9"
 		"5" "6915"
 		"6" "4182"
 		"7" "3871"
@@ -265,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "5654515394235203094"
-				"size" "2159373029"
-				"download" "1317856208"
+				"gid" "8849391909608443023"
+				"size" "2204826408"
+				"download" "1349054432"
 			}
 			"demo"
 			{
@@ -280,69 +285,6 @@
 				"gid" "5890083684420205210"
 				"size" "1008023806"
 				"download" "428216160"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpharole"
-			{
-				"gid" "D4E51A01663A9F2DD9387AC8D4F88E84"
-				"size" "804A17C12F63BFBCB369BD977FE62A5A"
-				"download" "E1B84FE7241584D80754EDF46C5322CE"
-			}
-			"betatest"
-			{
-				"gid" "B6ECB1E5FDAA54EFCE5F806D08F3A513"
-				"size" "19B44C669A4BCDB4D34B11921AE88FB9"
-				"download" "2ABDF622AEBD91C659B51BB9A3DD57A7"
-			}
-			"consoletest"
-			{
-				"gid" "AEF9357AD03DCCEFF747FB78EF1AC834"
-				"size" "D4C2D7EEF0EC9807603A97C3B2803FB3"
-				"download" "FCB784A899DAB1F62A8BF3895AFE93A7"
-			}
-			"demogo"
-			{
-				"gid" "5861799B8EF3EB0708316FB1A56C855F"
-				"size" "339006AB1DE35163D843883A2145921A"
-				"download" "361F3B810561B19EE22C54397D90D678"
-			}
-			"beta_4_biliup"
-			{
-				"gid" "E9D669ABD6744C58EF40D0F9F95DFA13"
-				"size" "11E0F29C71E688B8E6B545C27CEAF897"
-				"download" "693C421C8B4283A00BEFB03019319D40"
-			}
-			"beta_4_users"
-			{
-				"gid" "59FBDB40D71B37D8AA36370A410DECB9"
-				"size" "B192C1D1EA4025E646BD4B3F9AE6C282"
-				"download" "98FFD8C51445D4FDA3124359C5C6B08C"
-			}
-			"devtest.2407"
-			{
-				"gid" "F615CF935052B33EB2D1998949E8235D"
-				"size" "A02B3833119C83598D015283F3A84DC1"
-				"download" "30AA9CB784C69A287A799644CD204B67"
-			}
-			"steam_china_only"
-			{
-				"gid" "F81C54A867137B5D900F5817BF72613B"
-				"size" "404EC086DC97D5B9BCDDF96D0CB443A2"
-				"download" "074964B409565E24722133E912A10F73"
-			}
-			"steamdecktest4jinxing"
-			{
-				"gid" "F67C10889A9F2DAEE94328632D7F4D8C"
-				"size" "637EF8D2360A07A5844E8421079D6EBD"
-				"download" "59E496B0578BA004949F5DA1385FB043"
-			}
-			"test4jinxing"
-			{
-				"gid" "9B95E73F8032C5C960118D5A4666C397"
-				"size" "6D4C2EA604B77BBD442125786857AC9F"
-				"download" "684CAB607AA376E5AD4D0BD83DE38E2B"
 			}
 		}
 	}
@@ -362,79 +304,19 @@
 				"download" "1382030208"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"steamdecktest4jinxing"
-			{
-				"gid" "AF22103BCBBC14252326EBBD2ED94D4B"
-				"size" "779E0827D05E2A3364DEBCF1FDB37C01"
-				"download" "079E3C3D9B46647B93F63F403F1E7792"
-			}
-			"test4jinxing"
-			{
-				"gid" "C300398DB9187123237CBF7458B8A1EB"
-				"size" "0FC28FB6C0B59A92FE069C1B81CB64F9"
-				"download" "CD0F63054A30D118C6D2C4819B2DBFFC"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16641865"
-			"timeupdated" "1733395584"
-		}
-		"alpharole"
-		{
-			"buildid" "11025855"
-			"pwdrequired" "1"
-			"timeupdated" "1681787597"
-		}
-		"betatest"
-		{
-			"buildid" "10458826"
-			"pwdrequired" "1"
-			"timeupdated" "1675318195"
-		}
-		"consoletest"
-		{
-			"buildid" "10458826"
-			"pwdrequired" "1"
-			"timeupdated" "1675414044"
+			"buildid" "17602089"
+			"timeupdated" "1741226702"
 		}
 		"demo"
 		{
 			"buildid" "13761527"
 			"description" "demo version"
 			"timeupdated" "1710588904"
-		}
-		"demogo"
-		{
-			"buildid" "13761527"
-			"pwdrequired" "1"
-			"timeupdated" "1710586083"
-		}
-		"beta_4_biliup"
-		{
-			"sc_schinese" "Beta for biliup"
-			"buildid" "16106702"
-			"pwdrequired" "1"
-			"timeupdated" "1729336447"
-		}
-		"beta_4_users"
-		{
-			"sc_schinese" "Beta for steam users"
-			"buildid" "15699123"
-			"pwdrequired" "1"
-			"timeupdated" "1726290542"
-		}
-		"devtest.2407"
-		{
-			"sc_schinese" "DEV Test"
-			"buildid" "16640876"
-			"pwdrequired" "1"
-			"timeupdated" "1733390135"
 		}
 		"old_ea_version"
 		{
@@ -443,26 +325,8 @@
 			"description" "旧EA分支版本"
 			"timeupdated" "1726111298"
 		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "16149503"
-			"pwdrequired" "1"
-			"timeupdated" "1729679232"
-		}
-		"steamdecktest4jinxing"
-		{
-			"buildid" "16160791"
-			"pwdrequired" "1"
-			"timeupdated" "1729748255"
-		}
-		"test4jinxing"
-		{
-			"buildid" "16160791"
-			"pwdrequired" "1"
-			"timeupdated" "1729748702"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -493,6 +357,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26505544"
-"_sha" "0228c81c13c611797a5c8c65b87efec1cbabfc24"
-"_size" "10256"
+"_change_number" "27806269"
+"_sha" "1f8c8e18bc8174b2f1ce26e2e150e8c7709e37c5"
+"_size" "6910"
