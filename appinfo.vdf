@@ -65,9 +65,9 @@
 		{
 			"public"
 			{
-				"gid" "4476135977841529447"
-				"size" "60642124"
-				"download" "57911344"
+				"gid" "4149255111580664556"
+				"size" "75006411"
+				"download" "72123440"
 			}
 		}
 	}
@@ -77,9 +77,9 @@
 		{
 			"public"
 			{
-				"gid" "9056172864597234766"
-				"size" "31173630"
-				"download" "30943968"
+				"gid" "4703868157709671680"
+				"size" "47041183"
+				"download" "46681088"
 			}
 		}
 	}
@@ -89,9 +89,9 @@
 		{
 			"public"
 			{
-				"gid" "5093631875947929520"
-				"size" "433079596"
-				"download" "417870592"
+				"gid" "6739850347145536173"
+				"size" "652628586"
+				"download" "628037440"
 			}
 		}
 	}
@@ -99,8 +99,8 @@
 	{
 		"public"
 		{
-			"buildid" "17118951"
-			"timeupdated" "1737719762"
+			"buildid" "17619945"
+			"timeupdated" "1741267491"
 		}
 	}
 }
@@ -307,9 +307,49 @@
 			"m" "4"
 			"s" "59"
 		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Gods are with us"
+			"m" "2"
+			"s" "47"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Titanbone Monoliths"
+			"m" "2"
+			"s" "53"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "At the Edge of the World"
+			"m" "2"
+			"s" "28"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Jotun\'s Vengeance"
+			"m" "2"
+			"s" "55"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Lullaby of the Abyss"
+			"m" "1"
+			"s" "35"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27149409"
-"_sha" "00c5b9348e6866828cd82094d0f3e057e8927f02"
-"_size" "5145"
+"_change_number" "27815239"
+"_sha" "570eadc1fc006d97626c34b16abed65e70de1a61"
+"_size" "5808"
