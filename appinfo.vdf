@@ -1,0 +1,261 @@
+"appid" "3298020"
+"common"
+{
+	"name" "A Night With: Succubus"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "e70c4158d28dc52f2bc5335d9d14fb97cd2e07fd"
+	"clienticon" "cee34f9e4cb7e6b88be67e27a3e9f29aa8553a27"
+	"clienttga" "ef1eba2998887c5ce801ca8438094fd3c04cd8b3"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "0f85dc04f3fc9a90f3850bea915d27acc6a4c4af/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "50a46be1b10f61f634d612ab290e0e1711ff762e/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "50a46be1b10f61f634d612ab290e0e1711ff762e/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "24ab6392270154605bd1f896817334fcff362a2c/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "24ab6392270154605bd1f896817334fcff362a2c/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "24ab6392270154605bd1f896817334fcff362a2c/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "90c9eb9b3a912d382974fad90b71fd7cdef33051/logo.png"
+			}
+			"image2x"
+			{
+				"english" "90c9eb9b3a912d382974fad90b71fd7cdef33051/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4bb136b16bb4f49419c5ce451777a1e084e9706c/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729606789"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Naughty Narratives"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Naughty Narratives"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "A Night With:"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731070989"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3298020"
+	"store_tags"
+	{
+		"0" "9130"
+		"1" "3799"
+		"2" "9551"
+		"3" "4486"
+		"4" "7926"
+		"5" "122"
+		"6" "4747"
+		"7" "3871"
+		"8" "597"
+		"9" "6426"
+		"10" "599"
+		"11" "6971"
+		"12" "4085"
+		"13" "1684"
+		"14" "4182"
+		"15" "6650"
+		"16" "12095"
+		"17" "24904"
+		"18" "5611"
+	}
+}
+"extended"
+{
+	"developer" "Naughty Narratives"
+	"publisher" "Naughty Narratives"
+}
+"config"
+{
+	"installdir" "A Night With Succubus"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ANightWithSuccubus.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ANightWithSuccubus.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "ANightWithSuccubus.sh"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3298021"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7512953178603898320"
+				"size" "273526974"
+				"download" "134587504"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16347147"
+			"timeupdated" "1731100735"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27150715"
+"_sha" "98fe20c77f8f54846572a1365f33585c1142180d"
+"_size" "4334"
