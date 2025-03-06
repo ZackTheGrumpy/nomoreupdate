@@ -195,10 +195,10 @@
 		"16" "1708"
 		"17" "4791"
 		"18" "3854"
-		"19" "7208"
+		"19" "1084988"
 	}
-	"review_score" "7"
-	"review_percentage" "94"
+	"review_score" "6"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -264,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "2554737527435014843"
-				"size" "8730035583"
-				"download" "8211995968"
+				"gid" "5740218973921654513"
+				"size" "8751498735"
+				"download" "8231974144"
 			}
 		}
 	}
@@ -274,8 +274,8 @@
 	{
 		"public"
 		{
-			"buildid" "17549197"
-			"timeupdated" "1741007262"
+			"buildid" "17606445"
+			"timeupdated" "1741254794"
 		}
 	}
 	"privatebranches" "1"
@@ -290,7 +290,7 @@
 		{
 			"root" "gameinstall"
 			"path" "Breach/Saved/SaveGames"
-			"pattern" "Slot_*.sav"
+			"pattern" "Saveslot_*.sav"
 			"platforms"
 			{
 				"1" "Windows"
@@ -310,7 +310,7 @@
 		{
 			"root" "WinAppDataLocal"
 			"path" "Breach\\Saved\\SaveGames"
-			"pattern" "Slot_*.sav"
+			"pattern" "Saveslot_*.sav"
 			"platforms"
 			{
 				"1" "Windows"
@@ -329,6 +329,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27788202"
-"_sha" "10852b3fdab79ed40768476148b7a0aff3f5bf40"
-"_size" "5378"
+"_change_number" "27814034"
+"_sha" "d213471194fb6a0726bca9ac76613d702678fb49"
+"_size" "5389"
