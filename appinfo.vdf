@@ -1,0 +1,442 @@
+"appid" "1730540"
+"common"
+{
+	"name" "Alchemistry"
+	"type" "Game"
+	"clienttga" "8c6597f7a2fb1a6750458554031aab056d9956ba"
+	"clienticon" "2260dd20a2a913a8c54a28337734f1af0036c3e2"
+	"icon" "12a1a699560160651957fafc93c671fb1a7a8a72"
+	"logo" "f9358ba22fce3b4ed163a692a194c47c0493d896"
+	"logo_small" "f9358ba22fce3b4ed163a692a194c47c0493d896_thumb"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"russian" "1"
+		"dutch" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1698710400"
+		"tested_build_id" "11696562"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "72d1e88b5f90ec0acfdba1c9b54c65db0c121cf4/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "82.64516129032256"
+			"height_pct" "96.52777777777783"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "82.64516129032256"
+				"height_pct" "96.52777777777783"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739123688"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dysnomia"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dysnomia"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dysnomia"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1646671794"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1730540/discussions/0/3757726160336670437/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1730540"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1773"
+		"2" "3810"
+		"3" "1664"
+		"4" "5300"
+		"5" "5537"
+		"6" "5652"
+		"7" "379975"
+		"8" "3834"
+		"9" "1738"
+		"10" "3871"
+		"11" "4400"
+		"12" "4094"
+		"13" "1643"
+		"14" "1654"
+		"15" "1702"
+		"16" "5794"
+		"17" "4182"
+		"18" "492"
+		"19" "12057"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Dysnomia"
+	"publisher" "Dysnomia"
+	"homepage" "https://dysnomia.studio"
+}
+"config"
+{
+	"installdir" "Alchemistry"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "alchemistry.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "alchemistry"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "alchemistry.app/Contents/MacOS/alchemistry"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2881126463"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"1730542"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4435390971570159416"
+				"size" "329661665"
+				"download" "122457984"
+			}
+			"beta"
+			{
+				"gid" "8323615826551384373"
+				"size" "330631221"
+				"download" "122620704"
+			}
+		}
+	}
+	"1730543"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8433811418200892724"
+				"size" "300812479"
+				"download" "118206576"
+			}
+			"beta"
+			{
+				"gid" "349496532734533609"
+				"size" "301782035"
+				"download" "118369296"
+			}
+		}
+	}
+	"1730544"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8034114232747687793"
+				"size" "844138004"
+				"download" "125731904"
+			}
+			"beta"
+			{
+				"gid" "521185234661529258"
+				"size" "845107560"
+				"download" "125894624"
+			}
+		}
+	}
+	"1730545"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3182678722538661105"
+				"size" "396292742"
+				"download" "125694528"
+			}
+			"beta"
+			{
+				"gid" "3429263532454440477"
+				"size" "397262298"
+				"download" "125857248"
+			}
+		}
+	}
+	"1730546"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1552651676702978535"
+				"size" "397602065"
+				"download" "129721216"
+			}
+			"beta"
+			{
+				"gid" "2419349463466529655"
+				"size" "398571621"
+				"download" "129883936"
+			}
+		}
+	}
+	"baselanguages" "english,french"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16502779"
+			"timeupdated" "1732293586"
+		}
+		"beta"
+		{
+			"buildid" "16911512"
+			"description" "Public beta branch"
+			"timeupdated" "1736099714"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27389392"
+"_sha" "8e71b33391615868405c07240a3fef15d4279bc8"
+"_size" "7478"
