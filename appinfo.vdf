@@ -1,0 +1,246 @@
+"appid" "1416190"
+"common"
+{
+	"name" "发条"
+	"type" "Application"
+	"icon" "6c5f6e3ec7ac02d553c96388b0aac8abcf453cfc"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "c02815c95dcae54db362ce7c581394692f8e7eae"
+	"clienttga" "eb01a96153f81ea44c7210b462172ca587c038d8"
+	"logo" "363b8b93548be45192e280e6fe58d63a9f09e9b0"
+	"logo_small" "363b8b93548be45192e280e6fe58d63a9f09e9b0_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1416190_eula_0"
+			"name" "发条 EULA"
+			"url" "https://store.steampowered.com//eula/1416190_eula_0"
+			"version" "3"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "15.465116279069775"
+			"height_pct" "32.835299084408575"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "15.465116279069775"
+				"height_pct" "32.835299084408575"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1636177410"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fatiao发条"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fatiao发条"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "56"
+		"1" "57"
+	}
+	"category"
+	{
+		"category_30" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_13" "1"
+		"category_15" "1"
+		"category_44" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1601050163"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1416190"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "1445"
+		"2" "5432"
+		"3" "255534"
+		"4" "8013"
+		"5" "16689"
+		"6" "4094"
+		"7" "4791"
+		"8" "1702"
+		"9" "5125"
+		"10" "4182"
+		"11" "3859"
+		"12" "3871"
+	}
+}
+"extended"
+{
+	"remoteplaycursorscale" "2.0"
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Fatiao发条"
+	"publisher" "Fatiao发条"
+}
+"config"
+{
+	"installdir" "发条"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "发条.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"workshopdepot" "1416190"
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1416191"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "676512696648380378"
+				"size" "6156617"
+				"download" "3004144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8805755"
+			"timeupdated" "1653471503"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "10000"
+	"appidredirect" "1416190"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Generate"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "素材库"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "Command"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26287339"
+"_sha" "099da1135beb20b99170bad1ca6d57102cde9389"
+"_size" "3829"
