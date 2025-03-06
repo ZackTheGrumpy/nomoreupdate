@@ -27,6 +27,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_bf01a125cab21093756e33e860e96c51ea4f6bcb.jpg"
 	"store_asset_mtime" "1702440108"
 	"associations"
 	{
@@ -87,9 +88,15 @@
 		{
 			"public"
 			{
-				"gid" "2924556451729018991"
-				"size" "118118264"
-				"download" "61791072"
+				"gid" "3959394596146237046"
+				"size" "120846205"
+				"download" "64107504"
+			}
+			"test"
+			{
+				"gid" "3959394596146237046"
+				"size" "120846205"
+				"download" "64107504"
 			}
 		}
 		"dlcappid" "2715330"
@@ -98,8 +105,18 @@
 	{
 		"public"
 		{
-			"buildid" "12879674"
-			"timeupdated" "1701782423"
+			"buildid" "17415315"
+			"timeupdated" "1739932079"
+		}
+		"test"
+		{
+			"buildid" "17415315"
+			"description" "test用 #18056に使用"
+			"timeupdated" "1739926675"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27545957"
+"_sha" "4fb8bea8f7551157eaf88e2ab14ea5e0d7519fa7"
+"_size" "1965"
