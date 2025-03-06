@@ -59,6 +59,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"metacritic_name" "Scarlet Hollow"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -184,23 +185,25 @@
 		}
 	}
 	"steam_release_date" "1623436860"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/scarlet-hollow\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1609230"
 	"store_tags"
 	{
 		"0" "6426"
-		"1" "1721"
-		"2" "3799"
+		"1" "3799"
+		"2" "1721"
 		"3" "1742"
 		"4" "1667"
 		"5" "9551"
 		"6" "6971"
 		"7" "8461"
-		"8" "4604"
-		"9" "11014"
-		"10" "10808"
-		"11" "5716"
+		"8" "11014"
+		"9" "4604"
+		"10" "5716"
+		"11" "10808"
 		"12" "7432"
 		"13" "7702"
 		"14" "122"
@@ -261,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "2957080419689923031"
-				"size" "4514647539"
-				"download" "4053020928"
+				"gid" "7003326386503344173"
+				"size" "4514665350"
+				"download" "4053033808"
 			}
 		}
 	}
@@ -271,8 +274,8 @@
 	{
 		"public"
 		{
-			"buildid" "17593235"
-			"timeupdated" "1741112869"
+			"buildid" "17611740"
+			"timeupdated" "1741219897"
 		}
 	}
 	"privatebranches" "1"
@@ -293,6 +296,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27780321"
-"_sha" "282e5262f22c4449558c02db24b7d2f5667a2f95"
-"_size" "5273"
+"_change_number" "27804890"
+"_sha" "37d8a4148132bdde652066ed646e76eb2f9b4a53"
+"_size" "5434"
