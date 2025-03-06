@@ -130,9 +130,9 @@
 		{
 			"public"
 			{
-				"gid" "4813265265331550357"
-				"size" "57869909"
-				"download" "58661568"
+				"gid" "9066534230683392085"
+				"size" "57871028"
+				"download" "58662560"
 			}
 		}
 		"dlcappid" "3351580"
@@ -141,9 +141,13 @@
 	{
 		"public"
 		{
-			"buildid" "17363197"
-			"timeupdated" "1739518953"
+			"buildid" "17513284"
+			"timeupdated" "1740566489"
 		}
 	}
 	"appmanagesdlc" "1"
 }
+"_missing_token" "False"
+"_change_number" "27673488"
+"_sha" "6fa980df721c005c17830516be07d4d7cef0705d"
+"_size" "2386"
