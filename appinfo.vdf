@@ -186,12 +186,12 @@
 		"14" "4085"
 		"15" "492"
 		"16" "1684"
-		"17" "15172"
-		"18" "4182"
-		"19" "5577"
+		"17" "5577"
+		"18" "15172"
+		"19" "4182"
 	}
 	"review_score" "7"
-	"review_percentage" "100"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -309,6 +309,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27477451"
-"_sha" "b5c150af77e6d0248b9c1b0f8852c8afa8430dcf"
-"_size" "5995"
+"_change_number" "27748772"
+"_sha" "92a3dde865ee3aa894191bd1917012af56fac814"
+"_size" "5994"
