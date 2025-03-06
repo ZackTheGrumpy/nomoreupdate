@@ -1,0 +1,262 @@
+"appid" "2635640"
+"common"
+{
+	"name" "Infestation: Origins"
+	"type" "Game"
+	"icon" "9ec8d1e0a51948d654b341a2f472219642e43ef5"
+	"clienticon" "bb754f185fdf4391921211dcade23b21b71d313b"
+	"clienttga" "8a884462d2a63b45f66e5d07a015674126c68ddd"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "66.91948658109686"
+			"height_pct" "75.66756378796273"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "66.91948658109686"
+				"height_pct" "75.66756378796273"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731623974"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nightmare Forge Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nightmare Forge Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1731682741"
+	"community_hub_visible" "1"
+	"gameid" "2635640"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1667"
+		"2" "3843"
+		"3" "6730"
+		"4" "3839"
+		"5" "1685"
+		"6" "493"
+		"7" "4106"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Nightmare Forge Games"
+	"publisher" "Nightmare Forge Games"
+	"homepage" "https://nightmareforgegames.com/"
+}
+"config"
+{
+	"installdir" "Infestation"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Infestation.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2635641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6590403765175132161"
+				"size" "8280457949"
+				"download" "3523447776"
+			}
+			"beta"
+			{
+				"gid" "6590403765175132161"
+				"size" "8280457949"
+				"download" "3523447776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16763066"
+			"timeupdated" "1734379058"
+		}
+		"beta"
+		{
+			"buildid" "16763066"
+			"description" "beta"
+			"timeupdated" "1734379035"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Nightmare Forge Games/Infestation"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27525144"
+"_sha" "4020e907c636ccdc528499332bf812ecce145557"
+"_size" "3937"
