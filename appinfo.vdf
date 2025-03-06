@@ -354,6 +354,15 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"228990"
 	{
 		"config"
@@ -381,15 +390,15 @@
 		{
 			"public"
 			{
-				"gid" "6909253802956311164"
-				"size" "65499311118"
-				"download" "41860192496"
+				"gid" "955446072018623186"
+				"size" "65907371075"
+				"download" "42095011440"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "6909253802956311164"
-				"size" "65499311118"
-				"download" "41860192496"
+				"gid" "955446072018623186"
+				"size" "65907371075"
+				"download" "42095011440"
 			}
 		}
 	}
@@ -417,15 +426,15 @@
 		{
 			"public"
 			{
-				"gid" "5240748077428524498"
-				"size" "287052224"
-				"download" "72217264"
+				"gid" "1880604687462021965"
+				"size" "284513129"
+				"download" "70320064"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "5240748077428524498"
-				"size" "287052224"
-				"download" "72217264"
+				"gid" "1880604687462021965"
+				"size" "284513129"
+				"download" "70320064"
 			}
 		}
 	}
@@ -435,15 +444,15 @@
 		{
 			"public"
 			{
-				"gid" "5643637517204591070"
-				"size" "331310036"
-				"download" "78228608"
+				"gid" "3620674601047027023"
+				"size" "331311571"
+				"download" "78858848"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "5643637517204591070"
-				"size" "331310036"
-				"download" "78228608"
+				"gid" "3620674601047027023"
+				"size" "331311571"
+				"download" "78858848"
 			}
 		}
 	}
@@ -481,14 +490,14 @@
 	{
 		"public"
 		{
-			"buildid" "17590028"
-			"timeupdated" "1741096879"
+			"buildid" "17617497"
+			"timeupdated" "1741255088"
 		}
 		"temporary_launcher_workaround"
 		{
-			"buildid" "17590005"
+			"buildid" "17617476"
 			"description" "Bypass Launcher"
-			"timeupdated" "1741096751"
+			"timeupdated" "1741254997"
 		}
 	}
 	"privatebranches" "1"
@@ -500,6 +509,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27775438"
-"_sha" "75f742d6a6706186bfdb15b5897fbbbe0782d0a9"
-"_size" "9320"
+"_change_number" "27811987"
+"_sha" "6b2ba4b8f1915a5143f2d3326cc597a99c4041b1"
+"_size" "9435"
