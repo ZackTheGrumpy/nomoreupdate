@@ -6,9 +6,9 @@
 	"releasestate" "released"
 	"logo" "41adb8d4203bd03863157703764e0e249050b3fe"
 	"logo_small" "41adb8d4203bd03863157703764e0e249050b3fe_thumb"
-	"icon" "e345c34194be4455aa5ca268f91373bd8eb44cdb"
-	"clienttga" "01ed0e6b1b39b96fa04b847bf3e6e750e9a7ee71"
-	"clienticon" "3011effa95ceb7fd1363064f95c963a480dea2d0"
+	"icon" "ddd89c7a09fa18c0384fb8ebeaa1231d50adf284"
+	"clienttga" "0d3dbcba3ec2b0fa062717f3f88e1c258e69d7d7"
+	"clienticon" "afec2418838c5cb621f98318a2597cd7255aa04d"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
@@ -287,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "6092568841857446513"
-				"size" "18842311959"
-				"download" "15961130256"
+				"gid" "4108454348412511672"
+				"size" "18441272155"
+				"download" "15946404384"
 			}
 			"public_test"
 			{
@@ -303,8 +303,8 @@
 	{
 		"public"
 		{
-			"buildid" "17237844"
-			"timeupdated" "1738681297"
+			"buildid" "17618781"
+			"timeupdated" "1741271305"
 		}
 		"public_test"
 		{
@@ -321,6 +321,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27308834"
-"_sha" "d262e6bf4d601c97ec53cb9afc29866ac103b31f"
+"_change_number" "27816320"
+"_sha" "21af723952ff44c564b19940a0b5b3b7bef13fe4"
 "_size" "6007"
