@@ -22,6 +22,50 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1740182400"
+		"tested_build_id" "17122595"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -142,7 +186,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738258808"
+	"store_asset_mtime" "1741228528"
 	"associations"
 	{
 		"0"
@@ -175,6 +219,7 @@
 		"category_28" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -234,6 +279,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1737464700"
 	"community_hub_visible" "1"
@@ -246,8 +296,8 @@
 		"3" "4885"
 		"4" "19"
 		"5" "1716"
-		"6" "597"
-		"7" "4231"
+		"6" "4231"
+		"7" "597"
 		"8" "4182"
 		"9" "5851"
 		"10" "122"
@@ -262,7 +312,7 @@
 		"19" "1697"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -291,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "1129370799386390411"
-				"size" "11017662884"
-				"download" "3708550688"
+				"gid" "2896275713105609161"
+				"size" "13656877040"
+				"download" "4343802992"
 			}
 		}
 	}
@@ -308,9 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "8842757981618394397"
-				"size" "385403704"
-				"download" "384460256"
+				"gid" "9126667506750191622"
+				"size" "468380950"
+				"download" "467322864"
 			}
 		}
 	}
@@ -319,8 +369,8 @@
 	{
 		"public"
 		{
-			"buildid" "17349316"
-			"timeupdated" "1739438887"
+			"buildid" "17620074"
+			"timeupdated" "1741267375"
 		}
 	}
 	"privatebranches" "1"
@@ -331,6 +381,6 @@
 	"maxnumfiles" "50"
 }
 "_missing_token" "False"
-"_change_number" "27456032"
-"_sha" "c0989f203983d8e592431e5fa6c3067d8c457721"
-"_size" "8061"
+"_change_number" "27815536"
+"_sha" "39302d00ed9ec6b0562b7f6484ce797327ad0d66"
+"_size" "9255"
