@@ -1,0 +1,407 @@
+"appid" "2902050"
+"common"
+{
+	"name" "The Planet Crafter Soundtrack"
+	"type" "Music"
+	"parent" "1284190"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"clienticon" "6dab33a443f841b6ddaa74418f001fac7c1894bb"
+	"clienttga" "5ae374ca043aac3dc4edf7fd888e1f984b1f349f"
+	"clienticns" "0b4dd4aaf22881625f4d2ec7b902345b6fa0ceb4"
+	"linuxclienticon" "13f8c8debf80cec7fd4e2eab944dcf73dedc38e9"
+	"icon" "da7861bf61573b068e9afa02119d0f081803ccb4"
+	"small_capsule"
+	{
+		"english" "6c7e6fe3fce25cc540794b61eb4097ae73be8fc6/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_f918e3ea4353223b9ad1b9ac1d593b1e3fd92750.jpg"
+	"store_asset_mtime" "1728309968"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Miju Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Miju Games"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1712919566"
+	"gameid" "2902050"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "1284190"
+	"developer" "Miju Games"
+	"publisher" "Miju Games"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Planet Crafter OST"
+}
+"depots"
+{
+	"2902051"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2889742826961582352"
+				"size" "88024588"
+				"download" "85146016"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14006544"
+			"timeupdated" "1712733777"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "c2cbfecc5fc2a472c661896bb9ec816adbad2b69"
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"german" ""
+			"english" "Benjamin Young"
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"german" ""
+			"english" "Benjamin Young"
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"german" ""
+			"english" ""
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"german" ""
+			"english" ""
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Base Building"
+			"m" "2"
+			"s" "48"
+			"isrc" "FXR052400099"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Nothing but Sand"
+			"m" "2"
+			"s" "40"
+			"isrc" "FXR052400100"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Unfolding Expanse"
+			"m" "4"
+			"s" "15"
+			"isrc" "FXR052400101"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Shipwreck"
+			"m" "5"
+			"s" "6"
+			"isrc" "FXR052400102"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Lost in the Depths"
+			"m" "6"
+			"s" "3"
+			"isrc" "FXR052400103"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Echoes of the Wardens"
+			"m" "5"
+			"s" "20"
+			"isrc" "FXR052400104"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Desert Planet"
+			"m" "4"
+			"s" "50"
+			"isrc" "FXR052400105"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "The Truth"
+			"m" "4"
+			"s" "37"
+			"isrc" "FXR052400106"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Delving Deep"
+			"m" "5"
+			"s" "36"
+			"isrc" "FXR052400107"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Serenity"
+			"m" "3"
+			"s" "51"
+			"isrc" "FXR052400108"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Precursor Remnants"
+			"m" "4"
+			"s" "32"
+			"isrc" "FXR052400109"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Fields of Metal"
+			"m" "4"
+			"s" "12"
+			"isrc" "FXR052400110"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Mushroom River"
+			"m" "5"
+			"s" "33"
+			"isrc" "FXR052400111"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "The Wardens"
+			"m" "3"
+			"s" "37"
+			"isrc" "FXR052400112"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "Sulfur and Ash"
+			"m" "4"
+			"s" "34"
+			"isrc" "FXR052400113"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "Open Space"
+			"m" "4"
+			"s" "53"
+			"isrc" "FXR052400114"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "Steady Progress"
+			"m" "5"
+			"s" "15"
+			"isrc" "FXR052400115"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "New Growth"
+			"m" "4"
+			"s" "25"
+			"isrc" "FXR052400116"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Applied Robotics"
+			"m" "4"
+			"s" "45"
+			"isrc" "FXR052400117"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "Techtopia"
+			"m" "4"
+			"s" "41"
+			"isrc" "FXR052400118"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "ca653c4c63a4a75cbb1de581d34f456fb78313de"
+"_size" "7026"
