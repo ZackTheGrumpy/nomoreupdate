@@ -132,7 +132,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739239938"
+	"store_asset_mtime" "1740712111"
 	"associations"
 	{
 		"0"
@@ -269,15 +269,15 @@
 		{
 			"public"
 			{
-				"gid" "8834515486231824578"
-				"size" "10186490801"
-				"download" "3545011104"
+				"gid" "4857066430746168036"
+				"size" "10218741021"
+				"download" "3574372000"
 			}
 			"open-beta"
 			{
-				"gid" "8834515486231824578"
-				"size" "10186490801"
-				"download" "3545011104"
+				"gid" "4857066430746168036"
+				"size" "10218741021"
+				"download" "3574372000"
 			}
 			"previous"
 			{
@@ -291,14 +291,14 @@
 	{
 		"public"
 		{
-			"buildid" "17332534"
-			"timeupdated" "1739469668"
+			"buildid" "17531076"
+			"timeupdated" "1741275968"
 		}
 		"open-beta"
 		{
-			"buildid" "17332534"
+			"buildid" "17531076"
 			"description" "OPEN BETA (Opt-in for early access to patches!)"
-			"timeupdated" "1739469621"
+			"timeupdated" "1741275919"
 		}
 		"previous"
 		{
@@ -330,6 +330,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27464859"
-"_sha" "f2f470b962b9778d0446f375668cc68966388d2e"
+"_change_number" "27817892"
+"_sha" "cafe2359779d4255c32e0abd9ecf1cd44fc75a8c"
 "_size" "6636"
