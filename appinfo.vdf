@@ -1,0 +1,246 @@
+"appid" "372080"
+"common"
+{
+	"name" "Ananias Roguelike"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "5c09015d51ff91aeeff9a00e3cf7992c98999557"
+	"logo_small" "5c09015d51ff91aeeff9a00e3cf7992c98999557_thumb"
+	"clienticns" "9463e6ce36feadf0c1fe8853e1d26889edb2cbc1"
+	"clienticon" "a8ae75b1a182b212e79a417784daac48b5dc2876"
+	"clienttga" "88c35882379c82bd917676e689029551930e92d8"
+	"icon" "5856e4ed61405ddc3607afed8f6875750ff72515"
+	"releasestate" "released"
+	"metacritic_name" "Ananias Roguelike"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.40709348994063"
+			"height_pct" "46.85525014861245"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.40709348994063"
+				"height_pct" "46.85525014861245"
+			}
+		}
+	}
+	"store_asset_mtime" "1634349368"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slashware Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slashware Interactive"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1486687337"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "372080"
+	"store_tags"
+	{
+		"0" "454187"
+		"1" "122"
+		"2" "1716"
+		"3" "9"
+		"4" "492"
+		"5" "1677"
+		"6" "14139"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Slashware Interactive"
+	"publisher" "Slashware Interactive"
+	"homepage" "http://ananiasgame.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Ananias Roguelike"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ananias-roguelike.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ananias-roguelike.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "ananias-roguelike"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"372081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1508841965843148618"
+				"size" "173976537"
+				"download" "93793584"
+			}
+			"beta"
+			{
+				"gid" "3840455966202460046"
+				"size" "173976545"
+				"download" "93793376"
+			}
+		}
+	}
+	"372082"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1388794252163692459"
+				"size" "225915580"
+				"download" "99036720"
+			}
+			"beta"
+			{
+				"gid" "7617864035244624777"
+				"size" "225915575"
+				"download" "99036720"
+			}
+		}
+	}
+	"372083"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1733582999934055092"
+				"size" "220730333"
+				"download" "99171296"
+			}
+			"beta"
+			{
+				"gid" "2101356230381508526"
+				"size" "220730341"
+				"download" "99170944"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12497111"
+			"timeupdated" "1697838408"
+		}
+		"beta"
+		{
+			"buildid" "12494717"
+			"timeupdated" "1697817589"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25864388"
+"_sha" "2dd3678a1cb6fea110561fe7f2cdeafeea6d772d"
+"_size" "3896"
