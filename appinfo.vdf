@@ -1,0 +1,246 @@
+"appid" "2726460"
+"common"
+{
+	"name" "Renovation Simulator"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "fc63e772a9d7b17e9fdfed8a88040a8d291b5283"
+	"clienticon" "92696f1e633242d086a5587a28d5c3d9f3896028"
+	"clienttga" "3f7300c4203fca79870c859f60a31e0c12515a42"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2726460_eula_0"
+			"name" "Renovation Simulator EULA"
+			"url" "https://store.steampowered.com//eula/2726460_eula_0"
+			"version" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "96.49941656942826"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "96.49941656942826"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727671767"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Argon Gaming"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Argon Gaming"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1723837330"
+	"community_hub_visible" "1"
+	"gameid" "2726460"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "599"
+		"2" "9204"
+		"3" "3839"
+		"4" "4175"
+		"5" "1643"
+		"6" "5350"
+		"7" "493"
+		"8" "492"
+		"9" "1654"
+		"10" "4182"
+	}
+}
+"extended"
+{
+	"developer" "Argon Gaming"
+	"publisher" "Argon Gaming"
+}
+"config"
+{
+	"installdir" "Renovation Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RenovationSimulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "0.2.0.0"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2726461"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2923814752265004257"
+				"size" "22989166359"
+				"download" "22368726432"
+			}
+			"beta_branch"
+			{
+				"gid" "2923814752265004257"
+				"size" "22989166359"
+				"download" "22368726432"
+			}
+			"dev_branch"
+			{
+				"gid" "7328864252095397220"
+				"size" "23914668984"
+				"download" "23040659072"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17359077"
+			"timeupdated" "1739497390"
+		}
+		"beta_branch"
+		{
+			"buildid" "17359077"
+			"description" "Beta branch for testing"
+			"timeupdated" "1739489537"
+		}
+		"dev_branch"
+		{
+			"buildid" "17300710"
+			"description" "Developement branch for testing"
+			"timeupdated" "1739143649"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27470886"
+"_sha" "5d51513aa3a4662bce7f990bfa3f24c150483c80"
+"_size" "3870"
