@@ -1,0 +1,143 @@
+"appid" "2454010"
+"common"
+{
+	"name" "Semicolon Island Dedicated Server"
+	"type" "Tool"
+	"parent" "2452110"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "c285645565b3ed0a8748d9c94ea088938eb1d56e"
+	"clienticon" "329d482750364cd025b931b56122c76518b14036"
+	"icon" "940e75c319174d6f89fd33fe05bb9fafd1e4bb2a"
+	"releasestate" "released"
+	"gameid" "2454010"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "Semicolon Island Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Semicolon Island.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Semicolon Island.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2454011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7366391649450785288"
+				"size" "480983182"
+				"download" "356903632"
+			}
+		}
+	}
+	"2454012"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1253864125753376461"
+				"size" "684667799"
+				"download" "422361632"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11485557"
+			"timeupdated" "1686899267"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25064523"
+"_sha" "6d8fa4d9ea3d9f3e489b5f983fbbf0fc51f29e8c"
+"_size" "2043"
