@@ -169,13 +169,15 @@
 		"9" "122"
 		"10" "492"
 	}
-	"review_score" "6"
-	"review_percentage" "70"
+	"review_score" "5"
+	"review_percentage" "64"
 }
 "extended"
 {
 	"developer" "轻舟游戏工作室"
 	"publisher" "Gamera Games"
+	"listofdlc" "3566530,3566550,3566560"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -257,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "8489844314045871073"
-				"size" "9509704563"
-				"download" "8682950432"
+				"gid" "911659596115770762"
+				"size" "9509691783"
+				"download" "8682892080"
 			}
 		}
 	}
@@ -267,8 +269,8 @@
 	{
 		"public"
 		{
-			"buildid" "17615116"
-			"timeupdated" "1741243080"
+			"buildid" "17634301"
+			"timeupdated" "1741359816"
 		}
 	}
 	"privatebranches" "1"
@@ -288,6 +290,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27812300"
-"_sha" "aa2e4d2997663ea1d601d813841609d6c43b217b"
-"_size" "4704"
+"_change_number" "27838776"
+"_sha" "4c2c8f5636b009a8a73f5c9dc342334186396ef9"
+"_size" "4773"
