@@ -269,6 +269,8 @@
 	"developer" "Megastorm Games"
 	"publisher" "Megastorm Games"
 	"homepage" "http://www.shotgunfarmers.com"
+	"listofdlc" "991920"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -332,9 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "1051226249695127288"
-				"size" "5342686519"
-				"download" "2367421712"
+				"gid" "6116782185921568465"
+				"size" "5238582676"
+				"download" "2316459184"
 			}
 		}
 	}
@@ -368,9 +370,9 @@
 		{
 			"public"
 			{
-				"gid" "4384283979730539040"
-				"size" "5524784707"
-				"download" "2506666752"
+				"gid" "5908333691804975834"
+				"size" "5302121812"
+				"download" "2386927360"
 			}
 		}
 	}
@@ -386,9 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "5821593334892119506"
-				"size" "5778031014"
-				"download" "2678448000"
+				"gid" "5719498448750626762"
+				"size" "5424444806"
+				"download" "2466454896"
 			}
 		}
 	}
@@ -396,8 +398,8 @@
 	{
 		"public"
 		{
-			"buildid" "17284566"
-			"timeupdated" "1738961218"
+			"buildid" "17639849"
+			"timeupdated" "1741374854"
 		}
 	}
 	"privatebranches" "1"
@@ -410,6 +412,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27370826"
-"_sha" "0c0b1ededeb65f1963eefdef8b50d2161a2f3218"
-"_size" "7052"
+"_change_number" "27842241"
+"_sha" "30112991906061860a2d6ace7b0afcbba10b7b68"
+"_size" "7105"
