@@ -33,7 +33,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "297d979e4b3ce2a480e0a0b474a78770736e14fe/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -43,6 +43,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -58,22 +59,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "2d881fa5f6af27eb2a951bd1a6ce9571f8f5a063/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "2d881fa5f6af27eb2a951bd1a6ce9571f8f5a063/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image"
-			{
-				"english" "library_hero.jpg"
-			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "cdbedf377c488e4416f9ba97614e86c338529ad2/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "cdbedf377c488e4416f9ba97614e86c338529ad2/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "cdbedf377c488e4416f9ba97614e86c338529ad2/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -97,11 +105,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "4d69f6b8c1e8ba12defb889e0290d30a6fbe373f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "4d69f6b8c1e8ba12defb889e0290d30a6fbe373f/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1719670956"
+	"store_asset_mtime" "1741069973"
 	"associations"
 	{
 		"0"
@@ -186,6 +198,7 @@
 		}
 	}
 	"steam_release_date" "1721146605"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2911230"
 	"onlyvrsupport" "1"
@@ -281,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "8992411868381195017"
-				"size" "14679936214"
-				"download" "14589112880"
+				"gid" "7275399549018505661"
+				"size" "15920761723"
+				"download" "15815843296"
 			}
 		}
 	}
@@ -291,8 +304,12 @@
 	{
 		"public"
 		{
-			"buildid" "15610513"
-			"timeupdated" "1725588414"
+			"buildid" "17632020"
+			"timeupdated" "1741336500"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27831402"
+"_sha" "1f22164cbb064f1d41399bd975b1fe62205b726d"
+"_size" "5246"
