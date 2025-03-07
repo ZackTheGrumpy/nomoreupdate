@@ -34,10 +34,6 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
-	"content_descriptors"
-	{
-		"0" "5"
-	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -344,9 +340,9 @@
 		{
 			"public"
 			{
-				"gid" "4698204520988158152"
+				"gid" "492359622834166690"
 				"size" "3683237880"
-				"download" "696497296"
+				"download" "696498256"
 			}
 			"beta_pre_release"
 			{
@@ -378,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "2322048113927824141"
-				"size" "3686274479"
-				"download" "697900800"
+				"gid" "1728789340262869479"
+				"size" "3686274495"
+				"download" "697899088"
 			}
 			"beta_pre_release"
 			{
@@ -441,8 +437,8 @@
 	{
 		"public"
 		{
-			"buildid" "17627734"
-			"timeupdated" "1741306281"
+			"buildid" "17632939"
+			"timeupdated" "1741340364"
 		}
 		"beta_pre_release"
 		{
@@ -498,6 +494,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27825623"
-"_sha" "4b7484d90ceef2c63320c2060e77f717fe6921c4"
-"_size" "8647"
+"_change_number" "27832415"
+"_sha" "6cefc966d33761975ed8b1745a7e9ea1dddd4849"
+"_size" "8602"
