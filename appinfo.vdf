@@ -1,0 +1,368 @@
+"appid" "2075100"
+"common"
+{
+	"name" "Chernobylite 2: Exclusion Zone"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "7278853850c3c186821d21351d1740b7ef12c1e0"
+	"clienttga" "9b68f30463b16c8cdd7876e9cf2ff399e1248787"
+	"icon" "11d5263242fa2d7190a2d9de3b99548509f7595a"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "切尔诺贝利人2：禁区"
+		"tchinese" "車諾比人 2：禁區"
+		"japanese" "チェルノブライト2：禁区"
+		"koreana" "체르노빌라이트 2: 금지구역"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "db75e9c3a0d60f6427f1d30d2fd88f7d52e69b43/capsule_231x87_japanese.jpg"
+		"koreana" "39d0622855df8722b2365c63829efa98fa59ca48/capsule_231x87_koreana.jpg"
+		"schinese" "2a3a1c89eff9ca5513bf4436836c619b642423a8/capsule_231x87_schinese.jpg"
+		"tchinese" "fbe3ef14a65be704aaca118d334faee9193ec081/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "4ea901677d26d575ebad1ebda529d26c6c678ef6/header_japanese.jpg"
+		"koreana" "0945456eac69b700d2881bdad8f94ea10deb2f93/header_koreana.jpg"
+		"schinese" "08a74fae097b121175ac1514b80388bde0a4c9a8/header_schinese.jpg"
+		"tchinese" "4c735f4436b7a919efc45a24cdaae428f4f154e5/header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ko,zh-cn,zh-tw"
+		"library_hero" "en,ja,ko,zh-cn,zh-tw"
+		"library_hero_blur" "ja,ko,zh-cn,zh-tw"
+		"library_logo" "en,ja,ko,zh-cn,zh-tw"
+		"library_header" "en,ja,ko,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.93592677345537"
+			"height_pct" "64.05841842792685"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "d5f8b90ccff0ab70b868b519f9de7bc40ffd6d31/library_600x900_japanese.jpg"
+				"koreana" "e6afdf3fe60c1cb648d8454b20f4515739f912fe/library_600x900_koreana.jpg"
+				"schinese" "88187fe2ae3b0cc3d74bdd880f662fdf62874297/library_600x900_schinese.jpg"
+				"tchinese" "c7db5012b22de1b3d06509a9c32c4e0f00099707/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "d5f8b90ccff0ab70b868b519f9de7bc40ffd6d31/library_600x900_japanese_2x.jpg"
+				"koreana" "e6afdf3fe60c1cb648d8454b20f4515739f912fe/library_600x900_koreana_2x.jpg"
+				"schinese" "88187fe2ae3b0cc3d74bdd880f662fdf62874297/library_600x900_schinese_2x.jpg"
+				"tchinese" "c7db5012b22de1b3d06509a9c32c4e0f00099707/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_japanese.jpg"
+				"koreana" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_koreana.jpg"
+				"schinese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_schinese.jpg"
+				"tchinese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"japanese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_japanese_2x.jpg"
+				"koreana" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_koreana_2x.jpg"
+				"schinese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_schinese_2x.jpg"
+				"tchinese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"japanese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_blur_japanese.jpg"
+				"koreana" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_blur_koreana.jpg"
+				"schinese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_blur_schinese.jpg"
+				"tchinese" "b1b3f6ff279b7fcc8d464394b3e0eb2065702d5f/library_hero_blur_tchinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.93592677345537"
+				"height_pct" "64.05841842792685"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "cf59a8178a0fba31d6831a27512d20ed273a5e93/logo_japanese.png"
+				"koreana" "fabaa5cd5a2c1b126bbe791c1ac7923f71e32823/logo_koreana.png"
+				"schinese" "da0c033182cc1f40eb9a8d10af610f5b97ba430f/logo_schinese.png"
+				"tchinese" "05f401dd5a335c8d13a553eb02c2a9e51a6d6e2a/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "cf59a8178a0fba31d6831a27512d20ed273a5e93/logo_japanese_2x.png"
+				"koreana" "fabaa5cd5a2c1b126bbe791c1ac7923f71e32823/logo_koreana_2x.png"
+				"schinese" "da0c033182cc1f40eb9a8d10af610f5b97ba430f/logo_schinese_2x.png"
+				"tchinese" "05f401dd5a335c8d13a553eb02c2a9e51a6d6e2a/logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"japanese" "4ea901677d26d575ebad1ebda529d26c6c678ef6/library_header_japanese.jpg"
+				"koreana" "0945456eac69b700d2881bdad8f94ea10deb2f93/library_header_koreana.jpg"
+				"schinese" "08a74fae097b121175ac1514b80388bde0a4c9a8/library_header_schinese.jpg"
+				"tchinese" "4c735f4436b7a919efc45a24cdaae428f4f154e5/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "4ea901677d26d575ebad1ebda529d26c6c678ef6/library_header_japanese_2x.jpg"
+				"koreana" "0945456eac69b700d2881bdad8f94ea10deb2f93/library_header_koreana_2x.jpg"
+				"schinese" "08a74fae097b121175ac1514b80388bde0a4c9a8/library_header_schinese_2x.jpg"
+				"tchinese" "4c735f4436b7a919efc45a24cdaae428f4f154e5/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1741256876"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Farm 51"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Farm 51"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Chernobylite"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1741255255"
+	"community_hub_visible" "1"
+	"gameid" "2075100"
+	"store_tags"
+	{
+		"0" "3942"
+		"1" "122"
+		"2" "3834"
+		"3" "3835"
+		"4" "4182"
+		"5" "1695"
+		"6" "4166"
+		"7" "4231"
+		"8" "4155"
+		"9" "29482"
+		"10" "1685"
+		"11" "3843"
+		"12" "5765"
+		"13" "19"
+		"14" "5094"
+		"15" "9592"
+		"16" "5030"
+		"17" "7332"
+		"18" "1697"
+		"19" "3839"
+	}
+	"review_score" "5"
+	"review_percentage" "67"
+}
+"extended"
+{
+	"developer" "The Farm 51"
+	"publisher" "The Farm 51"
+	"homepage" "https://www.chernobylgame.com/"
+}
+"config"
+{
+	"installdir" "Chernobylite 2"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Chernobylite2.exe"
+			"arguments" "-DX12"
+			"type" "option2"
+			"description_loc"
+			{
+				"english" "DX12"
+			}
+			"description" "DX12"
+		}
+	}
+	"steamdecktouchscreen" "5"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2075101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4365969943988100923"
+				"size" "124197151460"
+				"download" "107429008832"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese,polish,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17612208"
+			"timeupdated" "1741253720"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "512000000"
+	"maxnumfiles" "1024"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Chernobylite2/Saved/SaveGames"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27832967"
+"_sha" "b6a7ecbdbfe75709fa96f7b9eba5215af6b8d93f"
+"_size" "9012"
