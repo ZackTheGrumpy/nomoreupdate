@@ -83,7 +83,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728466189"
+	"store_asset_mtime" "1741352763"
 	"associations"
 	{
 		"0"
@@ -149,6 +149,14 @@
 			"supported" "true"
 		}
 		"hungarian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
 		{
 			"supported" "true"
 		}
@@ -242,15 +250,15 @@
 		{
 			"public"
 			{
-				"gid" "8399861958844696884"
-				"size" "4037937357"
-				"download" "1553036432"
+				"gid" "4939041815913710342"
+				"size" "4234017298"
+				"download" "1644877824"
 			}
 			"test"
 			{
-				"gid" "8399861958844696884"
-				"size" "4037937357"
-				"download" "1553036432"
+				"gid" "4939041815913710342"
+				"size" "4234017298"
+				"download" "1644877824"
 			}
 		}
 	}
@@ -264,15 +272,15 @@
 		{
 			"public"
 			{
-				"gid" "6317912438011698577"
-				"size" "4107143437"
-				"download" "1559806784"
+				"gid" "1745700492809287873"
+				"size" "4303223970"
+				"download" "1651601824"
 			}
 			"test"
 			{
-				"gid" "6317912438011698577"
-				"size" "4107143437"
-				"download" "1559806784"
+				"gid" "1745700492809287873"
+				"size" "4303223970"
+				"download" "1651601824"
 			}
 		}
 	}
@@ -280,14 +288,14 @@
 	{
 		"public"
 		{
-			"buildid" "17251971"
-			"timeupdated" "1738764516"
+			"buildid" "17633386"
+			"timeupdated" "1741355348"
 		}
 		"test"
 		{
-			"buildid" "17251971"
+			"buildid" "17633386"
 			"description" "staging branch for builds"
-			"timeupdated" "1738761215"
+			"timeupdated" "1741342524"
 		}
 	}
 	"privatebranches" "1"
@@ -318,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27326974"
-"_sha" "e26e0e0c2d8a468f4d1e6121948bb69388ceff24"
-"_size" "5169"
+"_change_number" "27836263"
+"_sha" "b5c3e554e503d3b74350f619c9c671f30c63d1a2"
+"_size" "5265"
