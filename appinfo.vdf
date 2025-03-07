@@ -63,11 +63,11 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "7a8fd73ceebf8c24597b539792f9bba1103e4d1e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "8977db362c14bc1d99bc44c026c06492ec5bffd6/header.jpg"
 	}
 	"library_assets"
 	{
@@ -131,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1740070599"
+	"store_asset_mtime" "1740647857"
 	"associations"
 	{
 		"0"
@@ -224,6 +224,14 @@
 		{
 			"supported" "true"
 		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1709737216"
 	"community_visible_stats" "1"
@@ -254,7 +262,7 @@
 		"19" "493"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -356,9 +364,15 @@
 		{
 			"public"
 			{
-				"gid" "1438833828319798051"
-				"size" "5550444290"
-				"download" "5239404528"
+				"gid" "598322855457439259"
+				"size" "5908745118"
+				"download" "5598996656"
+			}
+			"public_testing"
+			{
+				"gid" "8989121418749343543"
+				"size" "5961540531"
+				"download" "5647632288"
 			}
 		}
 	}
@@ -367,8 +381,14 @@
 	{
 		"public"
 		{
-			"buildid" "17511588"
-			"timeupdated" "1740558766"
+			"buildid" "17636983"
+			"timeupdated" "1741359827"
+		}
+		"public_testing"
+		{
+			"buildid" "17617482"
+			"description" "This branch is for players who want to try features in development and or testing state This might contain a lot of bugs"
+			"timeupdated" "1741255144"
 		}
 	}
 	"privatebranches" "1"
@@ -379,6 +399,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27675171"
-"_sha" "87cb2c2dd3ceb887abbd005be996703af36df3f1"
-"_size" "6158"
+"_change_number" "27837577"
+"_sha" "f70880b6cb0192f50bbc49c0781f7d164ee7c4b5"
+"_size" "6686"
