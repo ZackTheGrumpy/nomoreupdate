@@ -1,0 +1,126 @@
+"appid" "1663160"
+"common"
+{
+	"name" "POW Windows Dedicated Server"
+	"type" "Tool"
+	"parent" "946850"
+	"releasestate" "released"
+	"logo" "e6ff719a791f5400d5789f0c89c3d6de58cd32a9"
+	"logo_small" "e6ff719a791f5400d5789f0c89c3d6de58cd32a9_thumb"
+	"icon" "db2a9573301d96d23fae4590581168c6928d0f1c"
+	"clienttga" "4f628bcf88bef685352716bc779363046540ba12"
+	"clienticon" "8790821fdf308fbd77b4f75870872c35ed05e9fb"
+	"associations"
+	{
+	}
+	"gameid" "1663160"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "POW Windows Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "POWServer.exe"
+			"type" "server"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1663161"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7448344229353373327"
+				"size" "362938423"
+				"download" "132923424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6836875"
+			"timeupdated" "1623209059"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23760255"
+"_sha" "196e55bc23abab6b34e6d4c8a8da321cbb29eacb"
+"_size" "1829"
