@@ -1,0 +1,180 @@
+"appid" "2181210"
+"common"
+{
+	"name" "JBMod Dedicated Server"
+	"type" "Tool"
+	"parent" "2158860"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "3aaa53b17006aacdafb51236fd9501b1a86d8de7"
+	"clienttga" "d15b36c88028675275d7b4ac71d7b00a411717a4"
+	"icon" "5767cc301311dae20283f9dd39cb3e503f78c313"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "2181210"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "JBMod Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"arguments" "-game jbmod"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "srcds_run"
+			"arguments" "-game jbmod"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2181211"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "472081192675930999"
+				"size" "736006173"
+				"download" "231211680"
+			}
+			"local"
+			{
+				"gid" "8241761630710254520"
+				"size" "735741277"
+				"download" "230964816"
+			}
+		}
+	}
+	"2181212"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4426020149334356664"
+				"size" "99785896"
+				"download" "32004096"
+			}
+			"local"
+			{
+				"gid" "297253290235479004"
+				"size" "99785896"
+				"download" "32003568"
+			}
+		}
+	}
+	"2181213"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8922622124892569028"
+				"size" "79608804"
+				"download" "19892272"
+			}
+			"local"
+			{
+				"gid" "1718218215059467337"
+				"size" "79608804"
+				"download" "19892320"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10753002"
+			"timeupdated" "1678676757"
+		}
+		"local"
+		{
+			"buildid" "10635288"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1677302260"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26392854"
+"_sha" "99ac86e1b5ff4c1c82af273470830b9190e9ae90"
+"_size" "2611"
