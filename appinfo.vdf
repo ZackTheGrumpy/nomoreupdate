@@ -86,7 +86,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734789004"
+	"store_asset_mtime" "1741353135"
 	"associations"
 	{
 		"0"
@@ -245,9 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "7598409830105309359"
-				"size" "2609037023"
-				"download" "1624555552"
+				"gid" "8340859839590208544"
+				"size" "2609037619"
+				"download" "1624555600"
 			}
 			"0.8.5"
 			{
@@ -279,9 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "2409775911940470913"
-				"size" "2561084452"
-				"download" "1592186176"
+				"gid" "2790726720746010679"
+				"size" "2561085048"
+				"download" "1592185760"
 			}
 			"0.8.5"
 			{
@@ -303,14 +303,14 @@
 			}
 		}
 	}
-	"baselanguages" "english,german,french,spanish,schinese,russian,japanese,turkish,brazilian"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,swedish,turkish,brazilian"
 	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17602913"
-			"timeupdated" "1741172423"
+			"buildid" "17636013"
+			"timeupdated" "1741360658"
 		}
 		"0.8.5"
 		{
@@ -334,7 +334,35 @@
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Lunar pug studio/Oasis Mission/cloud"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "MacDocuments"
+			"addpath" ""
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "27793901"
-"_sha" "d0849290c177f096822725cd4316be114bee03c7"
-"_size" "5643"
+"_change_number" "27837830"
+"_sha" "604c3b4cd4f2aa5709890969229b62edc916d6b2"
+"_size" "6102"
