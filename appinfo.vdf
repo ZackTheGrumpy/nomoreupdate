@@ -77,6 +77,8 @@
 			"proton_compat_config" "nomfdxgiman,"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -172,6 +174,9 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_63" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -208,8 +213,8 @@
 		"7" "4026"
 		"8" "493"
 		"9" "4085"
-		"10" "3878"
-		"11" "1773"
+		"10" "1773"
+		"11" "3878"
 		"12" "4726"
 		"13" "61357"
 		"14" "5673"
@@ -283,15 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "5518415554565399055"
-				"size" "73281223819"
-				"download" "65713394800"
-			}
-			"public_testserver"
-			{
-				"gid" "632162973800232846"
-				"size" "71517430376"
-				"download" "63353557504"
+				"gid" "5476780800361684091"
+				"size" "73353783903"
+				"download" "65764834624"
 			}
 		}
 	}
@@ -307,15 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "2290717018972308281"
-				"size" "63430959461"
-				"download" "55378102112"
-			}
-			"public_testserver"
-			{
-				"gid" "8290724850198071894"
-				"size" "60354813250"
-				"download" "52979394352"
+				"gid" "5140957280031434027"
+				"size" "63572141578"
+				"download" "55497849424"
 			}
 		}
 	}
@@ -323,14 +316,8 @@
 	{
 		"public"
 		{
-			"buildid" "17101250"
-			"timeupdated" "1737613628"
-		}
-		"public_testserver"
-		{
-			"buildid" "16894249"
-			"description" "PUBLIC TEST SERVER"
-			"timeupdated" "1735850946"
+			"buildid" "17631781"
+			"timeupdated" "1741334323"
 		}
 	}
 	"privatebranches" "1"
@@ -341,6 +328,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "27125432"
-"_sha" "ce56047efe7ea624a53611194d4428049ce30227"
-"_size" "6258"
+"_change_number" "27830884"
+"_sha" "e3da7a0edaca80b19309edd549504199ccd31ec1"
+"_size" "6001"
