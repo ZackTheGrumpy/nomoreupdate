@@ -64,15 +64,35 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "01004af565204afb920d25b1e129090d455142d3/capsule_231x87.jpg"
+		"french" "a0d735351d8cd7c8dfd02237851b5315d16918b8/capsule_231x87_french.jpg"
+		"german" "b02141308f24e09137a84038ef35230afaa6f1de/capsule_231x87_german.jpg"
+		"italian" "09d1eeaacf398d95bcaa903f60d1c68ac7cb93ba/capsule_231x87_italian.jpg"
+		"czech" "b9a0ea8d47b7ffbf6ce1a928d30b9bdbe826e377/capsule_231x87_czech.jpg"
+		"polish" "813dc8f3a909827d730aa43d9bbfb9ddc38f01f5/capsule_231x87_polish.jpg"
+		"spanish" "a820304a3c717a3f2374c777fc6ec50860971cfc/capsule_231x87_spanish.jpg"
+		"portuguese" "ac89bf34f096d6b229e3cb9b6749de783cb15a73/capsule_231x87_portuguese.jpg"
+		"russian" "b50c5d30f6dd67bff41cfcc62322e752e7b27363/capsule_231x87_russian.jpg"
+		"turkish" "29ec8a26e74ce7df30e39d09bad1979a503339e7/capsule_231x87_turkish.jpg"
+		"ukrainian" "8f2deaa69fb117ca692ae1fc2c261ca986f8958d/capsule_231x87_ukrainian.jpg"
+		"schinese" "54b5211df697ef1315c765adec7f64737b19305c/capsule_231x87_schinese.jpg"
+		"tchinese" "54b5211df697ef1315c765adec7f64737b19305c/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
-		"tchinese" "header_tchinese.jpg"
+		"english" "02e5880b4eb2a8d6224f2261c8b6979398e5dda7/header.jpg"
+		"french" "b3321a6d1544b09c8643b13891a03d9759baa167/header_french.jpg"
+		"german" "59d0b8b02d7193c5ecf8d2cc7e067130e0c93bff/header_german.jpg"
+		"italian" "02d39229eadd1c057e78978cddb742e0c928b067/header_italian.jpg"
+		"czech" "8a8d48e262dec308877ab212b3ba604d5127a0fa/header_czech.jpg"
+		"polish" "93f97c4eb8a5ffbcd00b6a1933522f66f9266bec/header_polish.jpg"
+		"spanish" "43d52537cbda218e2241c9e582cdbddcbda6706a/header_spanish.jpg"
+		"portuguese" "980363559474c0401dfb3f6aeebe18bf26673c10/header_portuguese.jpg"
+		"russian" "2ec213988e81bf59e51a6cb4d2893d80bf77290d/header_russian.jpg"
+		"turkish" "d2c5c3ecc8d4ce18178e056b2dc456cd6924e219/header_turkish.jpg"
+		"ukrainian" "4e11b47eb4d4e031362b512b692568d4d25d11dd/header_ukrainian.jpg"
+		"schinese" "aa4b50fc63058710d50ceb2f7a506bbd01957d8f/header_schinese.jpg"
+		"tchinese" "aa4b50fc63058710d50ceb2f7a506bbd01957d8f/header_tchinese.jpg"
 	}
 	"library_assets"
 	{
@@ -144,7 +164,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1741267321"
+	"store_asset_mtime" "1741352373"
 	"associations"
 	{
 		"0"
@@ -394,9 +414,9 @@
 		{
 			"public"
 			{
-				"gid" "3887762817725222600"
-				"size" "6341136083"
-				"download" "5981414784"
+				"gid" "1753385664779668027"
+				"size" "6341138131"
+				"download" "5981412128"
 			}
 		}
 	}
@@ -478,9 +498,9 @@
 		{
 			"public"
 			{
-				"gid" "8850503942286752427"
-				"size" "366529266"
-				"download" "345236544"
+				"gid" "1030029135336323209"
+				"size" "366530291"
+				"download" "345246544"
 			}
 		}
 	}
@@ -512,9 +532,9 @@
 		{
 			"public"
 			{
-				"gid" "3586076553480666403"
-				"size" "1830851727"
-				"download" "1699679760"
+				"gid" "1374029462813209681"
+				"size" "1830850432"
+				"download" "1699678800"
 			}
 		}
 	}
@@ -529,9 +549,9 @@
 		{
 			"public"
 			{
-				"gid" "1709241677661041832"
-				"size" "1646708930"
-				"download" "1583890784"
+				"gid" "680238790726546567"
+				"size" "1646715074"
+				"download" "1583892880"
 			}
 		}
 	}
@@ -563,9 +583,9 @@
 		{
 			"public"
 			{
-				"gid" "4118091163769938873"
-				"size" "2990014954"
-				"download" "2868878976"
+				"gid" "5801408145944587987"
+				"size" "2990012906"
+				"download" "2868863968"
 			}
 		}
 	}
@@ -597,9 +617,9 @@
 		{
 			"public"
 			{
-				"gid" "6561128133124824456"
-				"size" "4833975397"
-				"download" "4615010080"
+				"gid" "3184026232446336182"
+				"size" "4833975393"
+				"download" "4615037680"
 			}
 		}
 	}
@@ -622,9 +642,9 @@
 		{
 			"public"
 			{
-				"gid" "1364756601663029087"
-				"size" "1983470113"
-				"download" "1933128464"
+				"gid" "816447465738374323"
+				"size" "1983474213"
+				"download" "1933152704"
 			}
 		}
 	}
@@ -656,9 +676,9 @@
 		{
 			"public"
 			{
-				"gid" "6777631214482805655"
-				"size" "283806428"
-				"download" "277988064"
+				"gid" "8498273181846936388"
+				"size" "283804380"
+				"download" "277982400"
 			}
 		}
 	}
@@ -683,8 +703,8 @@
 	{
 		"public"
 		{
-			"buildid" "17621677"
-			"timeupdated" "1741280314"
+			"buildid" "17633563"
+			"timeupdated" "1741352289"
 		}
 	}
 	"privatebranches" "1"
@@ -722,6 +742,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27820019"
-"_sha" "2c653c5fd0bb342b5cfa43184e499eb9a3a7e909"
-"_size" "11895"
+"_change_number" "27835549"
+"_sha" "3a5751e23e31377de2311978893f776b43a6b030"
+"_size" "13739"
