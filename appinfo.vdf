@@ -20,7 +20,6 @@
 		"brazilian" "Tavern Talk: atualização para a edição de apoiador"
 		"russian" "Улучшение до версии Tavern Talk: Supporter Edition"
 		"turkish" "Tavern Talk: Supporter Edition Upgrade"
-		"german" "Tavern Talk: Supporter Edition Upgrade"
 	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -33,7 +32,7 @@
 		"english" "header.jpg"
 	}
 	"store_screenshot" "ss_ee585ed791251c9cb6b306bed2ce68d1ff51667b.jpg"
-	"store_asset_mtime" "1740567399"
+	"store_asset_mtime" "1734687175"
 	"associations"
 	{
 		"0"
@@ -116,9 +115,9 @@
 		{
 			"public"
 			{
-				"gid" "6461570684072393616"
-				"size" "2649418561"
-				"download" "1541154656"
+				"gid" "433235986664554117"
+				"size" "515174600"
+				"download" "474543120"
 			}
 		}
 		"dlcappid" "3268390"
@@ -127,12 +126,8 @@
 	{
 		"public"
 		{
-			"buildid" "17481815"
-			"timeupdated" "1740395936"
+			"buildid" "16696900"
+			"timeupdated" "1734510141"
 		}
 	}
 }
-"_missing_token" "False"
-"_change_number" "27677675"
-"_sha" "91ca1727b09fd86a02086c85d2d9e7e0d8d45c3f"
-"_size" "2801"
