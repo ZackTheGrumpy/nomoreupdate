@@ -176,7 +176,7 @@
 		"16" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -259,15 +259,15 @@
 		{
 			"public"
 			{
-				"gid" "8727457251095352621"
-				"size" "16565318988"
-				"download" "15333095536"
+				"gid" "3312106095881593582"
+				"size" "16565848817"
+				"download" "15333608528"
 			}
 			"beta"
 			{
-				"gid" "8727457251095352621"
-				"size" "16565318988"
-				"download" "15333095536"
+				"gid" "3312106095881593582"
+				"size" "16565848817"
+				"download" "15333608528"
 			}
 		}
 	}
@@ -275,14 +275,14 @@
 	{
 		"public"
 		{
-			"buildid" "17597837"
-			"timeupdated" "1741156835"
+			"buildid" "17629570"
+			"timeupdated" "1741318380"
 		}
 		"beta"
 		{
-			"buildid" "17597837"
+			"buildid" "17629570"
 			"description" "用于测试"
-			"timeupdated" "1741146553"
+			"timeupdated" "1741318368"
 		}
 	}
 }
@@ -309,6 +309,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27789276"
-"_sha" "ae079f2314fa69b0f543e5b4c0c5481c0bfb87c2"
+"_change_number" "27828210"
+"_sha" "f9a979d593448fcbdc306c4ca3598d2107585b81"
 "_size" "5370"
