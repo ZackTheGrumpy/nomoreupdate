@@ -95,7 +95,61 @@
 			"height_pct" "61.37069449692177"
 		}
 	}
-	"store_asset_mtime" "1719505516"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.84905660377359"
+				"height_pct" "61.37069449692177"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1733486132"
 	"associations"
 	{
 		"0"
@@ -154,31 +208,37 @@
 			"subtitles" "true"
 			"full_audio" "true"
 		}
-		"brazilian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-			"full_audio" "true"
-		}
-		"russian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-			"full_audio" "true"
-		}
 		"schinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
 			"full_audio" "true"
 		}
-		"latam"
+		"japanese"
 		{
 			"supported" "true"
-			"subtitles" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
-		"japanese"
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
 		{
 			"supported" "true"
 			"full_audio" "true"
@@ -192,13 +252,13 @@
 	"store_tags"
 	{
 		"0" "32322"
-		"1" "1773"
-		"2" "1645"
-		"3" "19"
-		"4" "9"
-		"5" "1666"
-		"6" "3871"
-		"7" "1091588"
+		"1" "1645"
+		"2" "1773"
+		"3" "9"
+		"4" "1666"
+		"5" "19"
+		"6" "1091588"
+		"7" "3871"
 		"8" "4885"
 		"9" "1708"
 		"10" "3959"
@@ -207,8 +267,8 @@
 		"13" "1716"
 		"14" "1759"
 		"15" "3964"
-		"16" "5547"
-		"17" "9541"
+		"16" "9541"
+		"17" "5547"
 		"18" "1084988"
 		"19" "597"
 	}
@@ -248,9 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "3358935401497964463"
-				"size" "1483133365"
-				"download" "1438327856"
+				"gid" "4712449262012551164"
+				"size" "1504376835"
+				"download" "1464204352"
 			}
 			"demo"
 			{
@@ -260,24 +320,9 @@
 			}
 			"beta"
 			{
-				"gid" "3358935401497964463"
-				"size" "1483133365"
-				"download" "1438327856"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devmode"
-			{
-				"gid" "250608D90DAC37ADF1873652064ABFF1"
-				"size" "D757AAA1F47CD22C32B44DA5F8D2D496"
-				"download" "36936101550CDF64FC57DCE650118B8D"
-			}
-			"alpha"
-			{
-				"gid" "5E908F8E4C99D5CEC8A4AC5ED8EBB0DC"
-				"size" "3629DCE863202D0D26A38F0E6F33FE44"
-				"download" "76A9F0BA536D2FF5E24CF1B945E07C61"
+				"gid" "4712449262012551164"
+				"size" "1504376835"
+				"download" "1464204352"
 			}
 		}
 	}
@@ -285,8 +330,8 @@
 	{
 		"public"
 		{
-			"buildid" "15227117"
-			"timeupdated" "1722524535"
+			"buildid" "17481516"
+			"timeupdated" "1741352778"
 		}
 		"demo"
 		{
@@ -294,25 +339,14 @@
 			"description" "Demo version of HF"
 			"timeupdated" "1692180528"
 		}
-		"devmode"
-		{
-			"buildid" "12169356"
-			"pwdrequired" "1"
-			"timeupdated" "1694526299"
-		}
-		"alpha"
-		{
-			"buildid" "14855798"
-			"pwdrequired" "1"
-			"timeupdated" "1719476964"
-		}
 		"beta"
 		{
-			"buildid" "15227117"
+			"buildid" "17481516"
 			"description" "Open Beta"
-			"timeupdated" "1722518190"
+			"timeupdated" "1740391677"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -333,20 +367,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#rp_score" "Current score"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24608030"
-"_sha" "bf1d7ea3879ed18ca315b0e3b690876776a43cdb"
-"_size" "6463"
+"_change_number" "27835642"
+"_sha" "271a9e71b9f798def371ec4fd589e8098a4c6b7c"
+"_size" "7037"
