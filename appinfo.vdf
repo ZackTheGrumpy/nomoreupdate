@@ -1,0 +1,113 @@
+"appid" "2454130"
+"common"
+{
+	"name" "Undead Outpost Dedicated Server"
+	"type" "Tool"
+	"parent" "1274010"
+	"icon" "c2467b7f1994cb081f4d695eaed04ff60f94648e"
+	"clienttga" "b11b10e7d47d75b7777a798bbb030fffd65de670"
+	"clienticns" "bb7d3c2cd8c3f5c795e5bb410dcf40a7178d0a0c"
+	"linuxclienticon" "bb7d3c2cd8c3f5c795e5bb410dcf40a7178d0a0c"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "05e631f0b2e8273e4f00176c5afeeabdc2df68a2"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "2454130"
+	"exfgls" "9"
+}
+"extended"
+{
+	"gamedir" "Cellulose"
+	"serverbrowsername" "Cellulose Dedicated Server"
+}
+"config"
+{
+	"installdir" "CelluloseDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CelluloseDedicatedServer.exe"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2454131"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13011657"
+			"timeupdated" "1703085799"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25911060"
+"_sha" "1460a5e835fb16d47474704f7761455d4a6cd584"
+"_size" "1740"
