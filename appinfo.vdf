@@ -1,0 +1,146 @@
+"appid" "1769020"
+"common"
+{
+	"name" "Afterinfection Dedicated Server"
+	"type" "Tool"
+	"parent" "1341210"
+	"releasestate" "released"
+	"logo" "57755a1c6140ab8bd357ef71089f3b5f6e030bac"
+	"logo_small" "57755a1c6140ab8bd357ef71089f3b5f6e030bac_thumb"
+	"icon" "2bb987cc2709cd63229fd775978623315c522fc1"
+	"clienttga" "4eb26b2e2a99eed49f4ef7782d4912231b9346fc"
+	"clienticon" "1563df23d84743412028b0d91b3d8b89987943f2"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"associations"
+	{
+	}
+	"gameid" "1769020"
+}
+"config"
+{
+	"installdir" "AfterinfectionDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ServerManagement.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1769021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4598390935409393483"
+				"size" "656720571"
+				"download" "477130112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8259279"
+			"timeupdated" "1645625203"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23760255"
+"_sha" "65870faa608df5d46161cf7284c0cc95936bf3b9"
+"_size" "2114"
