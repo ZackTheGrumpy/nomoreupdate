@@ -216,13 +216,33 @@
 		"0"
 		{
 			"executable" "GoldHunter.exe"
-			"arguments" "-dx11"
-			"type" "default"
+			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "Directx 12 (experimental)"
+			}
+			"description" "Directx 12 (experimental)"
+		}
+		"1"
+		{
+			"executable" "GoldHunter.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Directx 11"
+			}
+			"description" "Directx 11"
 		}
 	}
 }
@@ -260,9 +280,9 @@
 		{
 			"public"
 			{
-				"gid" "7570134345074250953"
-				"size" "8073564573"
-				"download" "7590081456"
+				"gid" "8863666408808667075"
+				"size" "8073112056"
+				"download" "7591836784"
 			}
 		}
 	}
@@ -270,8 +290,8 @@
 	{
 		"public"
 		{
-			"buildid" "17576584"
-			"timeupdated" "1741019441"
+			"buildid" "17638601"
+			"timeupdated" "1741368986"
 		}
 	}
 	"privatebranches" "1"
@@ -296,6 +316,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27796727"
-"_sha" "ceed92045ff6534fbb2f1a4730714010f1ca0df6"
-"_size" "4829"
+"_change_number" "27840459"
+"_sha" "cb43f030970ad8878240f2f82f3e129433d180da"
+"_size" "5193"
