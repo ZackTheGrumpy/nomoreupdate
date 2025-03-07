@@ -1,0 +1,133 @@
+"appid" "1541640"
+"common"
+{
+	"name" "Cartels Dedicated Server"
+	"type" "Tool"
+	"parent" "1539760"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "270703409479ada8d25777f9aa9427d1d25a8aa1"
+	"logo_small" "270703409479ada8d25777f9aa9427d1d25a8aa1_thumb"
+	"icon" "05954f10f323f196ab507fdbeab8ce7fc2662519"
+	"clienttga" "86ee5263f11623e8c560d88c736de63af32873a3"
+	"clienticon" "aa78329a1e1c427ab6e69949974be38d3bf8eaa1"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1541640"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "CartelsDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CartelsServer_Core.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1541641"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3014235038372628292"
+				"size" "2023386147"
+				"download" "541796208"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11574644"
+			"timeupdated" "1687922058"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "064271e8b935525487de1fcca56ca70d210a8076"
+"_size" "1988"
