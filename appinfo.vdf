@@ -104,6 +104,14 @@
 		{
 			"supported" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1671494934"
 	"community_visible_stats" "1"
@@ -173,9 +181,9 @@
 		{
 			"public"
 			{
-				"gid" "637652434647917128"
-				"size" "2591598968"
-				"download" "2329128160"
+				"gid" "9133950186451308585"
+				"size" "2598020494"
+				"download" "2335658944"
 			}
 		}
 	}
@@ -183,8 +191,8 @@
 	{
 		"public"
 		{
-			"buildid" "13180062"
-			"timeupdated" "1705364056"
+			"buildid" "17638824"
+			"timeupdated" "1741369091"
 		}
 	}
 }
@@ -208,6 +216,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25575786"
-"_sha" "9c5dac34b8d4404c7373ede5c4f6d0e4903d4579"
-"_size" "3110"
+"_change_number" "27841129"
+"_sha" "1b851373e0a762f91c66b80c374fd2ccce2b4911"
+"_size" "3203"
