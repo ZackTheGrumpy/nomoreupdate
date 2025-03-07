@@ -13,13 +13,13 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"schinese" "2fc5d3dea5e7d6701ed0c3f605f88f6b64c4d479/capsule_231x87_schinese.jpg"
-		"english" "8dd168ee09fa6254a5cf3898af084b9836f3e763/capsule_231x87.jpg"
+		"english" "0477059bef09b7163048abf8e9bbd26f9005e997/capsule_231x87.jpg"
+		"schinese" "0477059bef09b7163048abf8e9bbd26f9005e997/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
+		"english" "e04060f6a35341098304a2ac72f4e7f758c3db6b/header.jpg"
+		"schinese" "e04060f6a35341098304a2ac72f4e7f758c3db6b/header_schinese.jpg"
 	}
 	"library_assets"
 	{
@@ -42,12 +42,12 @@
 			"image"
 			{
 				"schinese" "8449d7068c08350df164f396b30d43ce79fbf6c1/library_600x900_schinese.jpg"
-				"english" "c794f32c98d9185061e3f33b4423267a5c5bd951/library_600x900.jpg"
+				"english" "8449d7068c08350df164f396b30d43ce79fbf6c1/library_600x900.jpg"
 			}
 			"image2x"
 			{
 				"schinese" "8449d7068c08350df164f396b30d43ce79fbf6c1/library_600x900_schinese_2x.jpg"
-				"english" "c794f32c98d9185061e3f33b4423267a5c5bd951/library_600x900_2x.jpg"
+				"english" "8449d7068c08350df164f396b30d43ce79fbf6c1/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -94,17 +94,17 @@
 		{
 			"image"
 			{
-				"english" "15494048ecfe3ea864e1852fdd3be95eff2b2867/library_header.jpg"
-				"schinese" "15494048ecfe3ea864e1852fdd3be95eff2b2867/library_header_schinese.jpg"
+				"english" "e04060f6a35341098304a2ac72f4e7f758c3db6b/library_header.jpg"
+				"schinese" "e04060f6a35341098304a2ac72f4e7f758c3db6b/library_header_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "15494048ecfe3ea864e1852fdd3be95eff2b2867/library_header_2x.jpg"
-				"schinese" "15494048ecfe3ea864e1852fdd3be95eff2b2867/library_header_schinese_2x.jpg"
+				"english" "e04060f6a35341098304a2ac72f4e7f758c3db6b/library_header_2x.jpg"
+				"schinese" "e04060f6a35341098304a2ac72f4e7f758c3db6b/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1740462777"
+	"store_asset_mtime" "1741191779"
 	"associations"
 	{
 		"0"
@@ -161,11 +161,12 @@
 		"14" "5984"
 		"15" "3987"
 		"16" "5608"
-		"17" "6426"
-		"18" "4182"
+		"17" "4182"
+		"18" "6426"
+		"19" "12095"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -191,9 +192,9 @@
 		{
 			"public"
 			{
-				"gid" "7400581346504925463"
-				"size" "33233961910"
-				"download" "33141738592"
+				"gid" "776112886557978184"
+				"size" "35792085054"
+				"download" "35699292400"
 			}
 		}
 	}
@@ -201,8 +202,8 @@
 	{
 		"public"
 		{
-			"buildid" "17532614"
-			"timeupdated" "1740668512"
+			"buildid" "17632870"
+			"timeupdated" "1741342082"
 		}
 	}
 	"privatebranches" "1"
@@ -222,6 +223,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27731276"
-"_sha" "5124a180c52448c90836fcfaebc4e056872a0ccd"
-"_size" "4671"
+"_change_number" "27832889"
+"_sha" "a3067e3f1be5b088e880bd420e027ecdce763472"
+"_size" "4769"
