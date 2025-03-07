@@ -76,7 +76,7 @@
 	}
 	"header_image"
 	{
-		"english" "186eb4e5354df541a0ddc39b9fd3fe6770901659/header.jpg"
+		"english" "7482b98150617d7d036cb3b9e25e0e751d067357/header.jpg"
 	}
 	"library_assets"
 	{
@@ -148,7 +148,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1741111029"
+	"store_asset_mtime" "1741112716"
 	"associations"
 	{
 		"0"
@@ -286,9 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "1568384211921813942"
-				"size" "5145718327"
-				"download" "4199144928"
+				"gid" "2284931916211337796"
+				"size" "9763168433"
+				"download" "4058709744"
 			}
 			"chapter2_wargression"
 			{
@@ -316,8 +316,8 @@
 	{
 		"public"
 		{
-			"buildid" "17590511"
-			"timeupdated" "1741109107"
+			"buildid" "17636742"
+			"timeupdated" "1741365942"
 		}
 		"chapter2_wargression"
 		{
@@ -348,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27779776"
-"_sha" "132c55b3888cd4080e5415d434f889641546f635"
+"_change_number" "27839608"
+"_sha" "26e78db8d246610bdbea5bb687b8c9740619edbf"
 "_size" "6337"
