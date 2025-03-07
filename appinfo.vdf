@@ -232,9 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "6525252284629704421"
-				"size" "12272192337"
-				"download" "10212069808"
+				"gid" "2552984015545049758"
+				"size" "12267841986"
+				"download" "10209167328"
 			}
 			"1.0.11"
 			{
@@ -280,15 +280,15 @@
 			}
 			"compatible_version"
 			{
-				"gid" "9030757964619382068"
-				"size" "12234673873"
-				"download" "10205952400"
+				"gid" "764973613781187309"
+				"size" "12230319334"
+				"download" "10203053312"
 			}
 			"open_beta"
 			{
-				"gid" "6525252284629704421"
-				"size" "12272192337"
-				"download" "10212069808"
+				"gid" "2552984015545049758"
+				"size" "12267841986"
+				"download" "10209167328"
 			}
 		}
 	}
@@ -299,8 +299,8 @@
 	{
 		"public"
 		{
-			"buildid" "17610152"
-			"timeupdated" "1741209803"
+			"buildid" "17629900"
+			"timeupdated" "1741320900"
 		}
 		"1.0.11"
 		{
@@ -346,18 +346,17 @@
 		}
 		"compatible_version"
 		{
-			"buildid" "17610198"
+			"buildid" "17629942"
 			"description" "To run on Mac using compatible software"
-			"timeupdated" "1741210127"
+			"timeupdated" "1741321272"
 		}
 		"open_beta"
 		{
-			"buildid" "17610152"
+			"buildid" "17629900"
 			"description" "Open beta"
-			"timeupdated" "1741209823"
+			"timeupdated" "1741320987"
 		}
 	}
-	"privatebranches" "1"
 }
 "ufs"
 {
@@ -367,6 +366,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "27802835"
-"_sha" "e7d582fb54b6868d286695d666b7a5e518a39018"
-"_size" "6893"
+"_change_number" "27828608"
+"_sha" "42522e54717a40c4f899287a08623c9ccadf52db"
+"_size" "6867"
