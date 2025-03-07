@@ -37,9 +37,9 @@
 		{
 			"public"
 			{
-				"gid" "4820013769415775331"
-				"size" "168778973"
-				"download" "73107968"
+				"gid" "7722071494202177687"
+				"size" "170419596"
+				"download" "73537600"
 			}
 			"legacy"
 			{
@@ -49,18 +49,9 @@
 			}
 			"last_stable"
 			{
-				"gid" "4972475359464658661"
-				"size" "168767197"
-				"download" "73095408"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"experimental_testing"
-			{
-				"gid" "4DF35485B36FFD482D0E25DCF604B7BA"
-				"size" "191DA5A80EDDEC07C503B1A8BBB25DA8"
-				"download" "FB32DB8E4759C24410B9C009E62FA180"
+				"gid" "4820013769415775331"
+				"size" "168778973"
+				"download" "73107968"
 			}
 		}
 	}
@@ -68,8 +59,8 @@
 	{
 		"public"
 		{
-			"buildid" "14451471"
-			"timeupdated" "1716452290"
+			"buildid" "17632149"
+			"timeupdated" "1741339021"
 		}
 		"legacy"
 		{
@@ -77,21 +68,16 @@
 			"description" "Old default branch. Will be forever frozen in its current version."
 			"timeupdated" "1680078879"
 		}
-		"experimental_testing"
-		{
-			"buildid" "14451471"
-			"pwdrequired" "1"
-			"timeupdated" "1716367867"
-		}
 		"last_stable"
 		{
-			"buildid" "14006500"
+			"buildid" "16289257"
 			"description" "Mod SDK from the previous patch (including bugfixes)."
-			"timeupdated" "1716452253"
+			"timeupdated" "1741338983"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "24483107"
-"_sha" "6266767394744fc144ad88dcfad7c21acffc8579"
-"_size" "1831"
+"_change_number" "27832044"
+"_sha" "f5fcd89a57edb145af4d773feb456872b1ba6608"
+"_size" "1519"
