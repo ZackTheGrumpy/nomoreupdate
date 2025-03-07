@@ -173,7 +173,7 @@
 		"19" "3871"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -315,6 +315,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27829703"
-"_sha" "16f16b6ae57acc0a111e134b7ad52aee861047d4"
+"_change_number" "27832905"
+"_sha" "3817b5c53d12d119bce5eecfc6be23e065b44ede"
 "_size" "6064"
