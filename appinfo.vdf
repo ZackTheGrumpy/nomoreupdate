@@ -57,11 +57,11 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "e85754ef2395643743d7ee09af969069f716773f/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "ef7e1e5b766a71a6ab5fd2dd971f555a79859d73/header.jpg"
 	}
 	"library_assets"
 	{
@@ -117,7 +117,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1679567193"
+	"store_asset_mtime" "1741348805"
 	"associations"
 	{
 		"0"
@@ -199,7 +199,7 @@
 		"14" "1654"
 	}
 	"review_score" "5"
-	"review_percentage" "52"
+	"review_percentage" "51"
 }
 "extended"
 {
@@ -254,15 +254,15 @@
 		{
 			"public"
 			{
-				"gid" "7115096254638622360"
-				"size" "5030452024"
-				"download" "1709897072"
+				"gid" "6897241381329812855"
+				"size" "5051784005"
+				"download" "1722401312"
 			}
 			"development"
 			{
-				"gid" "7115096254638622360"
-				"size" "5030452024"
-				"download" "1709897072"
+				"gid" "6897241381329812855"
+				"size" "5051784005"
+				"download" "1722401312"
 			}
 		}
 	}
@@ -288,18 +288,18 @@
 	{
 		"public"
 		{
-			"buildid" "17101757"
-			"timeupdated" "1737617054"
+			"buildid" "17634306"
+			"timeupdated" "1741346944"
 		}
 		"development"
 		{
-			"buildid" "17101757"
+			"buildid" "17634306"
 			"description" "Development version"
-			"timeupdated" "1737617021"
+			"timeupdated" "1741346897"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27125992"
-"_sha" "231f915268c020c27142a3e0f27ed5630106815f"
-"_size" "5114"
+"_change_number" "27834584"
+"_sha" "2f87cc02a206c0f9c4afb53679625ab569055e99"
+"_size" "5196"
