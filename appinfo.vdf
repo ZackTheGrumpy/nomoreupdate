@@ -273,8 +273,8 @@
 		"1" "1084988"
 		"2" "12472"
 		"3" "122"
-		"4" "17305"
-		"5" "1708"
+		"4" "1708"
+		"5" "17305"
 		"6" "1643"
 		"7" "4172"
 		"8" "3959"
@@ -291,7 +291,7 @@
 		"19" "8945"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -344,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "4558847284190587572"
-				"size" "3642462671"
-				"download" "660041872"
+				"gid" "4698204520988158152"
+				"size" "3683237880"
+				"download" "696497296"
 			}
 			"beta_pre_release"
 			{
@@ -367,15 +367,6 @@
 				"download" "628334752"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"release_test_1_0"
-			{
-				"gid" "73A5FD4383044554E59F33856BB304DB"
-				"size" "EFB702AC6D49006C7205228FC357811C"
-				"download" "4DAAB3E6AB4F63E0B5CA2965C1782A99"
-			}
-		}
 	}
 	"1043262"
 	{
@@ -387,9 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "2275128494913537974"
-				"size" "3645499254"
-				"download" "661280848"
+				"gid" "2322048113927824141"
+				"size" "3686274479"
+				"download" "697900800"
 			}
 			"beta_pre_release"
 			{
@@ -408,15 +399,6 @@
 				"gid" "2653950258066560486"
 				"size" "3501576299"
 				"download" "629501344"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"release_test_1_0"
-			{
-				"gid" "38BDB7251D50CB8CBA90585B9FF103BA"
-				"size" "61553F347770BF0CA0460F54E442962E"
-				"download" "1F25BA991BA8760C5AD9D92A42D7A130"
 			}
 		}
 	}
@@ -454,22 +436,13 @@
 				"download" "628478624"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"release_test_1_0"
-			{
-				"gid" "972932F16D40879091F214F6850FCA3F"
-				"size" "399F47C97DC5CB2B459F4F0BA7377E28"
-				"download" "04E7B964DEA6F74ADD55987599BA3522"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15804715"
-			"timeupdated" "1727160897"
+			"buildid" "17627734"
+			"timeupdated" "1741306281"
 		}
 		"beta_pre_release"
 		{
@@ -489,13 +462,8 @@
 			"description" "Early Access v0.942"
 			"timeupdated" "1718982120"
 		}
-		"release_test_1_0"
-		{
-			"buildid" "14805406"
-			"pwdrequired" "1"
-			"timeupdated" "1719075312"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -530,6 +498,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26855539"
-"_sha" "b801ebc12bcba1a1d83856648291bbb7ddd51087"
-"_size" "9383"
+"_change_number" "27825623"
+"_sha" "4b7484d90ceef2c63320c2060e77f717fe6921c4"
+"_size" "8647"
