@@ -187,8 +187,8 @@
 		"18" "3993"
 		"19" "3968"
 	}
-	"review_score" "6"
-	"review_percentage" "79"
+	"review_score" "8"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -206,7 +206,7 @@
 	{
 		"1"
 		{
-			"executable" "Strayed.exe"
+			"executable" "start_protected_game.exe"
 			"type" "vr"
 			"config"
 			{
@@ -224,15 +224,15 @@
 		{
 			"public"
 			{
-				"gid" "5362487075194847876"
-				"size" "2617753047"
-				"download" "2242578864"
+				"gid" "1785342755854722431"
+				"size" "2680573805"
+				"download" "2280741392"
 			}
 			"public-staging"
 			{
-				"gid" "5362487075194847876"
-				"size" "2617753047"
-				"download" "2242578864"
+				"gid" "1785342755854722431"
+				"size" "2680573805"
+				"download" "2280741392"
 			}
 		}
 	}
@@ -248,19 +248,19 @@
 	{
 		"public"
 		{
-			"buildid" "17287621"
-			"timeupdated" "1738977326"
+			"buildid" "17642391"
+			"timeupdated" "1741391828"
 		}
 		"public-staging"
 		{
-			"buildid" "17287621"
+			"buildid" "17642391"
 			"description" "Public staging branch"
-			"timeupdated" "1738977309"
+			"timeupdated" "1741391698"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27609879"
-"_sha" "f815a1cfaf6537ebdc3b0b04750e4191c5e4fd73"
-"_size" "4624"
+"_change_number" "27845507"
+"_sha" "3e8660a78a281586a798322e31d24921186045f5"
+"_size" "4637"
