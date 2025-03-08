@@ -70,6 +70,7 @@
 		}
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "1f02833dc61929b6a1a1a662d9ebfd3ace0c152d/capsule_231x87.jpg"
@@ -172,6 +173,11 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_15" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -286,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "7310553321976468308"
-				"size" "1369495225"
-				"download" "411612592"
+				"gid" "840985961029084931"
+				"size" "1373114585"
+				"download" "426546128"
 			}
 			"beta"
 			{
@@ -298,9 +304,9 @@
 			}
 			"beta_controller"
 			{
-				"gid" "7298184776698515070"
-				"size" "1367402217"
-				"download" "423173584"
+				"gid" "7696980059315280342"
+				"size" "1374267141"
+				"download" "426592352"
 			}
 		}
 	}
@@ -308,8 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "17150780"
-			"timeupdated" "1738017248"
+			"buildid" "17648422"
+			"timeupdated" "1741463246"
 		}
 		"beta"
 		{
@@ -319,9 +325,9 @@
 		}
 		"beta_controller"
 		{
-			"buildid" "17462817"
+			"buildid" "17642189"
 			"description" "Beta branch for controller support testing. CAUTION: You run the risk of save file corruption on beta branches!"
-			"timeupdated" "1740184733"
+			"timeupdated" "1741389238"
 		}
 	}
 }
@@ -344,6 +350,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27605467"
-"_sha" "30094b9c96e166603806a39c66080993e2659703"
-"_size" "6032"
+"_change_number" "27853358"
+"_sha" "8a4a31c94eb7f5422ccfefefbd7e8606789fd6d0"
+"_size" "6172"
