@@ -170,7 +170,7 @@
 		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -219,15 +219,15 @@
 		{
 			"public"
 			{
-				"gid" "4102195626009166861"
-				"size" "591942101"
-				"download" "341652464"
+				"gid" "2756014328766015823"
+				"size" "591944706"
+				"download" "341652192"
 			}
 			"beta"
 			{
-				"gid" "4102195626009166861"
-				"size" "591942101"
-				"download" "341652464"
+				"gid" "2756014328766015823"
+				"size" "591944706"
+				"download" "341652192"
 			}
 			"foodfire"
 			{
@@ -254,15 +254,15 @@
 		{
 			"public"
 			{
-				"gid" "4653162526829180542"
-				"size" "597577657"
-				"download" "343149552"
+				"gid" "5472654269500218837"
+				"size" "597783012"
+				"download" "343149136"
 			}
 			"beta"
 			{
-				"gid" "4653162526829180542"
-				"size" "597577657"
-				"download" "343149552"
+				"gid" "5472654269500218837"
+				"size" "597783012"
+				"download" "343149136"
 			}
 			"foodfire"
 			{
@@ -289,15 +289,15 @@
 		{
 			"public"
 			{
-				"gid" "393409086700814794"
-				"size" "612470933"
-				"download" "351901328"
+				"gid" "1312379907350778657"
+				"size" "612473538"
+				"download" "351901472"
 			}
 			"beta"
 			{
-				"gid" "393409086700814794"
-				"size" "612470933"
-				"download" "351901328"
+				"gid" "1312379907350778657"
+				"size" "612473538"
+				"download" "351901472"
 			}
 			"foodfire"
 			{
@@ -317,14 +317,14 @@
 	{
 		"public"
 		{
-			"buildid" "17563637"
-			"timeupdated" "1740899152"
+			"buildid" "17646254"
+			"timeupdated" "1741433117"
 		}
 		"beta"
 		{
-			"buildid" "17563637"
+			"buildid" "17646254"
 			"description" "Experimental build for the new Scary & Sexy update"
-			"timeupdated" "1740899179"
+			"timeupdated" "1741433096"
 		}
 		"foodfire"
 		{
@@ -373,6 +373,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27739746"
-"_sha" "547e02b046c266b8ea194eff9a21459c628b31f1"
-"_size" "6580"
+"_change_number" "27850261"
+"_sha" "ec3cac5e9874c142844f1fa03c1ad46ca0f79d82"
+"_size" "6582"
