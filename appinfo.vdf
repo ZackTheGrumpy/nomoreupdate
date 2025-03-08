@@ -10,6 +10,7 @@
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
+	"aicontenttype" "1"
 	"controller_support" "partial"
 	"small_capsule"
 	{
@@ -31,7 +32,45 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1707870496"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "44.65116279069767"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732017450"
 	"associations"
 	{
 		"0"
@@ -186,18 +225,9 @@
 		{
 			"public"
 			{
-				"gid" "4839404648939742703"
-				"size" "6831886588"
-				"download" "1624661616"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"china_version"
-			{
-				"gid" "7BB5AECA69ED957A1BB8BB4548F79480"
-				"size" "2C5C40ECB3D462B68A3AAE86FCC24392"
-				"download" "8345655C09FB874825ECFBB0AC6BD121"
+				"gid" "3682989604665346961"
+				"size" "7811249620"
+				"download" "1760258384"
 			}
 		}
 	}
@@ -212,14 +242,13 @@
 	{
 		"public"
 		{
-			"buildid" "14925285"
-			"timeupdated" "1720092946"
-		}
-		"china_version"
-		{
-			"buildid" "12859045"
-			"pwdrequired" "1"
-			"timeupdated" "1701534715"
+			"buildid" "17611686"
+			"timeupdated" "1741440674"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27850947"
+"_sha" "95c73b13187d75624c04fe5819799c5a2c974c68"
+"_size" "3810"
