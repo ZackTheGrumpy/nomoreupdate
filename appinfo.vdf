@@ -192,6 +192,8 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_30" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -263,7 +265,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1712854313"
+	"steam_release_date" "1712854260"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -277,8 +279,8 @@
 		"4" "1659"
 		"5" "12472"
 		"6" "599"
-		"7" "1100686"
-		"8" "1676"
+		"7" "1676"
+		"8" "1100686"
 		"9" "1662"
 		"10" "220585"
 		"11" "3810"
@@ -292,7 +294,7 @@
 		"19" "5030"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -385,6 +387,16 @@
 				"betakey" "experimental"
 			}
 		}
+		"6"
+		{
+			"executable" "launcher/Launcher.exe"
+			"arguments" "Play Launcher"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "development"
+			}
+		}
 	}
 }
 "depots"
@@ -399,78 +411,27 @@
 		{
 			"public"
 			{
-				"gid" "5590431928020180764"
-				"size" "5922852434"
-				"download" "3582115360"
-			}
-			"open_beta"
-			{
-				"gid" "5590431928020180764"
-				"size" "5922852434"
-				"download" "3582115360"
-			}
-			"previous"
-			{
-				"gid" "6782854309526472815"
-				"size" "6958338438"
-				"download" "3776335072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"last_with_fps_ok"
-			{
-				"gid" "9863FB92118D7F038B96E1C13D804465"
-				"size" "F6B1B677BFCB9B44C685D4D2AFEAB410"
-				"download" "C8FA9D1EF237C52F8CD1B83C8EB937F0"
-			}
-			"pga_2022"
-			{
-				"gid" "9BDE13CA4B962328A24D11FD416EDC33"
-				"size" "A2F230940B92EB0728DFF963196E0306"
-				"download" "9CB1C730C46F7E746F03EF312BA57236"
-			}
-			"pga_2022_offline"
-			{
-				"gid" "E79E6B7235A62559FD2FB2D80270C942"
-				"size" "A9D68F5F92CF660651DD99EACB97EA26"
-				"download" "7219E5EBF3A254A0D968B77F42664EE0"
-			}
-			"development"
-			{
-				"gid" "99ADC34944024DD63B22F6A9B38C247F"
-				"size" "6CFF7D7AA69EC7B8CAFFB7AA5BE1423F"
-				"download" "45A3B855EC0C620F567F93104E9916DD"
+				"gid" "1433950074820801613"
+				"size" "6213636796"
+				"download" "3734384256"
 			}
 			"experimental"
 			{
-				"gid" "F0BA1DEFF40A409DCB3A781A76B734F2"
-				"size" "35BBE64F3CFDE2C01F60EDB02690B767"
-				"download" "6547C6446ED9470C79120926FC1CA41F"
+				"gid" "7524154937813655317"
+				"size" "6130679472"
+				"download" "3671826384"
 			}
-			"future_candidate"
+			"open_beta"
 			{
-				"gid" "9FF9ACC7B956D73C3FFABD77EC8F2FC0"
-				"size" "8D2DC704C73DDE7A58F828B6DAD71194"
-				"download" "54DFBC2B64D98C94E1B36FD4D21223EB"
+				"gid" "1433950074820801613"
+				"size" "6213636796"
+				"download" "3734384256"
 			}
-			"internal"
+			"previous"
 			{
-				"gid" "B23076B4CBDBE35500E360DA392AEB53"
-				"size" "A11D525CE921DD7B176FCBE7A0671F8A"
-				"download" "93CBB2857FA01E30B9AF7586BD992676"
-			}
-			"launcher"
-			{
-				"gid" "7B47CA15E4C1E163274DDD69235774F3"
-				"size" "7386283E7C67CB2D14AFA614196E7224"
-				"download" "6606A92C13A6680A1FDD6EB4B8A4C4EE"
-			}
-			"testing"
-			{
-				"gid" "B7CB6F54FD0377B58AC6D7046DF2CDDD"
-				"size" "5E82662E691B43CEF9609CA4D8BDE112"
-				"download" "A6F542F15F2E3C345BBECA9633E69A89"
+				"gid" "5590431928020180764"
+				"size" "5922852434"
+				"download" "3582115360"
 			}
 		}
 	}
@@ -479,76 +440,29 @@
 	{
 		"public"
 		{
-			"buildid" "16683742"
-			"timeupdated" "1734358953"
-		}
-		"last_with_fps_ok"
-		{
-			"buildid" "11463853"
-			"pwdrequired" "1"
-			"timeupdated" "1688395829"
-		}
-		"pga_2022"
-		{
-			"buildid" "9668568"
-			"pwdrequired" "1"
-			"timeupdated" "1665071781"
-		}
-		"pga_2022_offline"
-		{
-			"buildid" "9677328"
-			"pwdrequired" "1"
-			"timeupdated" "1665399574"
-		}
-		"development"
-		{
-			"buildid" "16683742"
-			"pwdrequired" "1"
-			"timeupdated" "1733767074"
+			"buildid" "17633843"
+			"timeupdated" "1741436173"
 		}
 		"experimental"
 		{
-			"buildid" "14782653"
-			"pwdrequired" "1"
-			"timeupdated" "1718894674"
-		}
-		"future_candidate"
-		{
-			"buildid" "16300897"
-			"pwdrequired" "1"
-			"timeupdated" "1730907244"
-		}
-		"internal"
-		{
-			"buildid" "16758440"
-			"pwdrequired" "1"
-			"timeupdated" "1734349607"
-		}
-		"launcher"
-		{
-			"buildid" "16461151"
-			"pwdrequired" "1"
-			"timeupdated" "1732034156"
+			"buildid" "17547376"
+			"description" "For experimental builds - highly unstable"
+			"timeupdated" "1740760608"
 		}
 		"open_beta"
 		{
-			"buildid" "16683742"
+			"buildid" "17633843"
 			"description" "New builds still in testing"
-			"timeupdated" "1733846263"
+			"timeupdated" "1741360681"
 		}
 		"previous"
 		{
-			"buildid" "16564248"
-			"description" "previous default build"
-			"timeupdated" "1734358910"
-		}
-		"testing"
-		{
 			"buildid" "16683742"
-			"pwdrequired" "1"
-			"timeupdated" "1733767532"
+			"description" "previous default build"
+			"timeupdated" "1741436028"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -574,19 +488,9 @@
 			}
 			"recursive" "1"
 		}
-		"2"
-		{
-			"root" "WinAppDataLocalLow"
-			"path" "JutsuGames/Infection Free Zone/TileStats/"
-			"pattern" "*.*"
-			"platforms"
-			{
-				"1" "Windows"
-			}
-		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26661937"
-"_sha" "115a3cbf42ecb5eebcc11226e7a5791cdf4d0153"
-"_size" "11192"
+"_change_number" "27850531"
+"_sha" "b01c4ad8297c9a1d6eb22aafff8005bc61fecb30"
+"_size" "8925"
