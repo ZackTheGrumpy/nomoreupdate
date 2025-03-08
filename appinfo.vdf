@@ -178,15 +178,15 @@
 		{
 			"public"
 			{
-				"gid" "1399112433982729106"
-				"size" "417055809"
-				"download" "191661328"
+				"gid" "3708418815746267643"
+				"size" "417073919"
+				"download" "191662368"
 			}
 			"old-version"
 			{
-				"gid" "8444922358181903477"
-				"size" "411626208"
-				"download" "188989856"
+				"gid" "1685795540959321512"
+				"size" "416759394"
+				"download" "191406464"
 			}
 		}
 	}
@@ -194,14 +194,14 @@
 	{
 		"public"
 		{
-			"buildid" "17433488"
-			"timeupdated" "1740024688"
+			"buildid" "17644247"
+			"timeupdated" "1741435389"
 		}
 		"old-version"
 		{
-			"buildid" "15442778"
+			"buildid" "17136046"
 			"description" "老版本，如果无法读取存档请在这个版本转生之后再更新"
-			"timeupdated" "1724813087"
+			"timeupdated" "1740649961"
 		}
 	}
 	"privatebranches" "1"
@@ -225,6 +225,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27567114"
-"_sha" "567e435378ec22d634290011679e3e44264636a3"
+"_change_number" "27850450"
+"_sha" "fcd962812d415208d69b0e2b0bd4596cbab00f08"
 "_size" "3732"
