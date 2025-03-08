@@ -1,0 +1,289 @@
+"appid" "2711030"
+"common"
+{
+	"name" "Sugardew Island - Your cozy farm shop"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "139b64b76bd5a03dfd9d27f13af3ceffb137a431"
+	"clienttga" "aecf1eb1cdea90ce63ccc7b0254293c7e8733b7c"
+	"icon" "49d4c1849109391b7c79b14ab62189efb9c78981"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "甘露岛 - 温馨的农场商店"
+		"japanese" "Sugardew Island - 島の生活と農園のお店"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "b8b5b2fb575aa01b50da7aa7cafcb5ac1b1c8c5c/capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja"
+		"library_hero" "en,ja"
+		"library_hero_blur" "ja"
+		"library_logo" "en,ja"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "53.033838973162176"
+			"height_pct" "58.739016860603165"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "22710b1a256e8d0d17e229111abb2aa1f20137af/library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "22710b1a256e8d0d17e229111abb2aa1f20137af/library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "909c41e994d9594031ad91e7454f0448448e27ba/library_hero_japanese.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"japanese" "909c41e994d9594031ad91e7454f0448448e27ba/library_hero_blur_japanese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "cf804d7eb5aba1a7809a94c4faf0150b57ca5bce/logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "cf804d7eb5aba1a7809a94c4faf0150b57ca5bce/logo_japanese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "53.033838973162176"
+				"height_pct" "58.739016860603165"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1741271881"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "rokaplay"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "rokaplay"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "rokaplay"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1741356027"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2711030"
+	"store_tags"
+	{
+		"0" "97376"
+		"1" "597"
+		"2" "87918"
+		"3" "91114"
+		"4" "4726"
+		"5" "1654"
+		"6" "4305"
+		"7" "30358"
+		"8" "4191"
+		"9" "552282"
+		"10" "599"
+		"11" "5350"
+		"12" "12472"
+		"13" "5851"
+		"14" "4520"
+		"15" "4695"
+		"16" "7481"
+		"17" "4182"
+		"18" "22602"
+		"19" "1684"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "rokaplay"
+	"publisher" "rokaplay"
+	"homepage" "https://linktr.ee/sugardew_Island"
+	"listofdlc" "3494110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Sugardew Island"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sugardew Island.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2711031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5099737772550805081"
+				"size" "4612334790"
+				"download" "610262480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17638646"
+			"timeupdated" "1741367788"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "rokaplay GmbH/Sugardew Island"
+			"pattern" "*.sdi"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "rokaplay GmbH/Sugardew Island"
+			"pattern" "*.xta"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27850834"
+"_sha" "4c53c793acd5e58787a8845e9662f572858ec651"
+"_size" "5095"
