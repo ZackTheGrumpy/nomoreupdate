@@ -104,7 +104,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734697859"
+	"store_asset_mtime" "1741190431"
 	"associations"
 	{
 		"0"
@@ -229,7 +229,7 @@
 "config"
 {
 	"installdir" "Cat God Ranch"
-	"steamcontrollertemplateindex" "6"
+	"steamcontrollertemplateindex" "4"
 	"steamcontrollertouchtemplateindex" "8"
 	"steamdecktouchscreen" "1"
 	"launch"
@@ -267,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "6557520466184588390"
-				"size" "292064582"
-				"download" "129171712"
+				"gid" "1969072056052763215"
+				"size" "292367564"
+				"download" "129180752"
 			}
 			"beta"
 			{
@@ -295,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "5070125966017309120"
-				"size" "407661558"
-				"download" "151976272"
+				"gid" "6597233479295706516"
+				"size" "408072211"
+				"download" "152091664"
 			}
 			"beta"
 			{
@@ -311,8 +311,8 @@
 	{
 		"public"
 		{
-			"buildid" "17159834"
-			"timeupdated" "1738081043"
+			"buildid" "17645692"
+			"timeupdated" "1741448823"
 		}
 		"beta"
 		{
@@ -363,6 +363,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27203753"
-"_sha" "4adeed9150eeda5c6226dc6f83f6ab40b8230756"
+"_change_number" "27851899"
+"_sha" "95a4d4137983893d4a8151ea4831ea971f8a709f"
 "_size" "6502"
