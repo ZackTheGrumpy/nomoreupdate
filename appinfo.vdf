@@ -407,9 +407,15 @@
 		{
 			"public"
 			{
-				"gid" "4809750988184523807"
-				"size" "2259950991"
-				"download" "439376384"
+				"gid" "955122036045472884"
+				"size" "2260033323"
+				"download" "439427936"
+			}
+			"hotfix"
+			{
+				"gid" "955122036045472884"
+				"size" "2260033323"
+				"download" "439427936"
 			}
 		}
 	}
@@ -423,9 +429,15 @@
 		{
 			"public"
 			{
-				"gid" "2972424356075528523"
-				"size" "2373358738"
-				"download" "479302192"
+				"gid" "3504814841653903564"
+				"size" "2373523702"
+				"download" "479337568"
+			}
+			"hotfix"
+			{
+				"gid" "3504814841653903564"
+				"size" "2373523702"
+				"download" "479337568"
 			}
 		}
 	}
@@ -433,8 +445,14 @@
 	{
 		"public"
 		{
-			"buildid" "17636498"
-			"timeupdated" "1741357903"
+			"buildid" "17647374"
+			"timeupdated" "1741449288"
+		}
+		"hotfix"
+		{
+			"buildid" "17647374"
+			"description" "Lost progression hotfix"
+			"timeupdated" "1741448683"
 		}
 	}
 	"privatebranches" "1"
@@ -478,6 +496,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27836962"
-"_sha" "0799a50b1cd0d121f89fb306171b17a99136ccc1"
-"_size" "10054"
+"_change_number" "27851877"
+"_sha" "17b2361781d18e59547c54c0b580ee94ea3387a3"
+"_size" "10405"
