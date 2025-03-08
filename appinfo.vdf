@@ -13,7 +13,7 @@
 	"name_localized"
 	{
 		"schinese" "卡牌生存：奇幻森林"
-		"koreana" "카드 서바이벌 : 몽환의 숲"
+		"koreana" "카드 서바이벌: 몽환의 숲"
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -132,6 +132,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1740749360"
 	"community_hub_visible" "1"
@@ -160,7 +165,7 @@
 		"19" "3920"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -202,9 +207,9 @@
 		{
 			"public"
 			{
-				"gid" "9193862934619573643"
-				"size" "618684771"
-				"download" "144758064"
+				"gid" "4026271255686527450"
+				"size" "618767263"
+				"download" "144852928"
 			}
 		}
 	}
@@ -228,8 +233,8 @@
 	{
 		"public"
 		{
-			"buildid" "17629460"
-			"timeupdated" "1741317598"
+			"buildid" "17645368"
+			"timeupdated" "1741422526"
 		}
 	}
 	"privatebranches" "1"
@@ -287,6 +292,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27828069"
-"_sha" "fe5d4b34f1801aedd574a64912e6ec04c42d385b"
-"_size" "4764"
+"_change_number" "27849337"
+"_sha" "b0acab31fef070fb21e9a6b5119e1413f773843f"
+"_size" "4835"
