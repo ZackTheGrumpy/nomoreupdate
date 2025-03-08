@@ -192,12 +192,12 @@
 		"9" "4474"
 		"10" "3964"
 		"11" "4172"
-		"12" "5984"
-		"13" "4182"
-		"14" "5577"
+		"12" "5577"
+		"13" "5984"
+		"14" "4182"
 		"15" "4057"
 	}
-	"review_score" "8"
+	"review_score" "9"
 	"review_percentage" "98"
 }
 "extended"
@@ -248,15 +248,15 @@
 		{
 			"public"
 			{
-				"gid" "6216807176309458089"
-				"size" "962845950"
-				"download" "717269440"
+				"gid" "657879873953685074"
+				"size" "962847135"
+				"download" "717269920"
 			}
 			"alphatest"
 			{
-				"gid" "6216807176309458089"
-				"size" "962845950"
-				"download" "717269440"
+				"gid" "657879873953685074"
+				"size" "962847135"
+				"download" "717269920"
 			}
 		}
 	}
@@ -425,14 +425,14 @@
 	{
 		"public"
 		{
-			"buildid" "14889838"
-			"timeupdated" "1719799356"
+			"buildid" "17646711"
+			"timeupdated" "1741439257"
 		}
 		"alphatest"
 		{
-			"buildid" "14889803"
+			"buildid" "17646691"
 			"description" "Steam Deck Test Branch"
-			"timeupdated" "1719799242"
+			"timeupdated" "1741438974"
 		}
 	}
 }
@@ -454,3 +454,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27850824"
+"_sha" "69374dc06bcaa4ef7fd80a730b6b7e4a935cae50"
+"_size" "7615"
