@@ -1,0 +1,431 @@
+"appid" "1178400"
+"common"
+{
+	"name" "Pro Cycling Manager 2020"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "d016c59c859b547330c6e3a0f4738e4e25bf39eb"
+	"clienttga" "48b60de95035fda1968f007f22f1e5bcbe1ba26e"
+	"icon" "5fbf857646ead27aa966ab216c4893b6b070b7b8"
+	"logo" "830e4972331cae5d594772f9b6a7fc24f3450f8f"
+	"logo_small" "830e4972331cae5d594772f9b6a7fc24f3450f8f_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"portuguese" "1"
+		"danish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1672963200"
+		"tested_build_id" "6080990"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "69.74718259981488"
+			"height_pct" "70.13888888888889"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "69.74718259981488"
+				"height_pct" "70.13888888888889"
+			}
+		}
+	}
+	"store_asset_mtime" "1583765116"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cyanide Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Pro Cycling Manager"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "28"
+		"1" "18"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1591257663"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1178400"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3859"
+		"2" "4182"
+		"3" "701"
+		"4" "12472"
+		"5" "4175"
+		"6" "9"
+		"7" "5350"
+		"8" "699"
+		"9" "3878"
+		"10" "123332"
+		"11" "19568"
+		"12" "5711"
+		"13" "1685"
+		"14" "1654"
+		"15" "4166"
+		"16" "4711"
+		"17" "4695"
+		"18" "597"
+		"19" "5154"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Cyanide Studio"
+	"publisher" "Nacon"
+}
+"config"
+{
+	"installdir" "Pro Cycling Manager 2020"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PCM64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "LaunchBot.bat"
+			"description" "bot"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cyanide-stable,bigben-qa,delivery"
+			}
+		}
+		"2"
+		{
+			"executable" "LaunchMulti.bat"
+			"description" "multiplayer"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cyanide-stable,bigben-qa,delivery"
+			}
+		}
+		"3"
+		{
+			"executable" "PCM64.exe"
+			"arguments" "-noassert -debug_Screenshot"
+			"description" "Screenshot"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cyanide-stable,bigben-qa,delivery"
+			}
+		}
+		"4"
+		{
+			"executable" "LaunchMultiRes.bat"
+			"description" "multires"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cyanide-stable,bigben-qa,delivery"
+			}
+		}
+		"5"
+		{
+			"executable" "PCM64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "master-candidate,aigcp,agerating,review,localization-portuguese"
+			}
+		}
+		"6"
+		{
+			"executable" "PCM64Beta_protect.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta1-candidate,pcm20_closedbeta,beta1,beta2"
+			}
+		}
+		"7"
+		{
+			"executable" "PCM64.exe"
+			"arguments" "-noassert"
+			"description" "noassert"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cyanide-stable,bigben-qa,delivery"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,portuguese,danish,dutch,norwegian"
+	"workshopdepot" "1178400"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1178401"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1744556503933323961"
+				"size" "13553290451"
+				"download" "7225198048"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6080990"
+			"timeupdated" "1611046934"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "21474836480"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "/Pro Cycling Manager 2020/Cloud"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "/Pro Cycling Manager 2020/Users"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "/Pro Cycling Manager 2020/"
+			"pattern" "Users.cdb"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "bbf50bd5c7e81c04bf5f7c656c17daf49e916ff5"
+"_size" "7518"
