@@ -248,15 +248,15 @@
 		{
 			"public"
 			{
-				"gid" "657879873953685074"
+				"gid" "8605834868709629386"
 				"size" "962847135"
-				"download" "717269920"
+				"download" "717269904"
 			}
 			"alphatest"
 			{
-				"gid" "657879873953685074"
+				"gid" "8605834868709629386"
 				"size" "962847135"
-				"download" "717269920"
+				"download" "717269904"
 			}
 		}
 	}
@@ -425,14 +425,14 @@
 	{
 		"public"
 		{
-			"buildid" "17646711"
-			"timeupdated" "1741439257"
+			"buildid" "17652064"
+			"timeupdated" "1741516389"
 		}
 		"alphatest"
 		{
-			"buildid" "17646691"
+			"buildid" "17652019"
 			"description" "Steam Deck Test Branch"
-			"timeupdated" "1741438974"
+			"timeupdated" "1741515602"
 		}
 	}
 }
@@ -455,6 +455,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27850824"
-"_sha" "69374dc06bcaa4ef7fd80a730b6b7e4a935cae50"
-"_size" "7615"
+"_change_number" "27858014"
+"_sha" "669f60f973cfc9458ebce39c7bddcb289c160ee3"
+"_size" "7617"
