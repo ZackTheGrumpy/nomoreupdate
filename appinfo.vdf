@@ -25,6 +25,55 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738800000"
+		"tested_build_id" "17183155"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -101,7 +150,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737391398"
+	"store_asset_mtime" "1741539482"
 	"associations"
 	{
 		"0"
@@ -178,8 +227,8 @@
 		"1" "1774"
 		"2" "3843"
 		"3" "3834"
-		"4" "5547"
-		"5" "19"
+		"4" "19"
+		"5" "5547"
 		"6" "3839"
 		"7" "4191"
 		"8" "21"
@@ -320,9 +369,15 @@
 		{
 			"public"
 			{
-				"gid" "8200306891366164144"
-				"size" "3059893725"
-				"download" "2832512880"
+				"gid" "8360378640232143064"
+				"size" "3335621260"
+				"download" "2902846224"
+			}
+			"decktest"
+			{
+				"gid" "372220488810528734"
+				"size" "3648540403"
+				"download" "2956316656"
 			}
 		}
 	}
@@ -331,8 +386,14 @@
 	{
 		"public"
 		{
-			"buildid" "17183155"
-			"timeupdated" "1738234337"
+			"buildid" "17653407"
+			"timeupdated" "1741537047"
+		}
+		"decktest"
+		{
+			"buildid" "17642498"
+			"description" "testing Deck UI"
+			"timeupdated" "1741391967"
 		}
 	}
 	"privatebranches" "1"
@@ -352,6 +413,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27233277"
-"_sha" "8814aa04b0b6b402448dd591f9fba24d2cb60208"
-"_size" "5778"
+"_change_number" "27860264"
+"_sha" "65a49ceb4ab56868c3fe6bd0b7fab73d39ac7192"
+"_size" "7245"
