@@ -1,0 +1,218 @@
+"appid" "3114140"
+"common"
+{
+	"name" "都市女友的私密约会"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "d3d21ab793e6a8271dc7c3e2b451d8084f846a96"
+	"clienticon" "3b88f1e5bdbbcf350f917bf220f1548100161fd6"
+	"clienttga" "95a866ed406be09e4df5c0bcc5ca4567b57d3b65"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "60e61ac22650c80aaf4217e983b6826c95dc6e23/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.72320403167572"
+			"height_pct" "51.12740512864738"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "74a32ac8c7c497f2a3a8cefed01d89b3e2be4544/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "74a32ac8c7c497f2a3a8cefed01d89b3e2be4544/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "f2a58d4b7acdc2b5bdbe0ee6020fc82db12217e8/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "f2a58d4b7acdc2b5bdbe0ee6020fc82db12217e8/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f2a58d4b7acdc2b5bdbe0ee6020fc82db12217e8/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.72320403167572"
+				"height_pct" "51.12740512864738"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1741242943"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "R.Y.Love"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "R.Y.Love"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1727615574"
+	"community_hub_visible" "1"
+	"gameid" "3114140"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "4747"
+		"2" "122"
+		"3" "5611"
+		"4" "9130"
+		"5" "1654"
+		"6" "4085"
+		"7" "4182"
+		"8" "6650"
+		"9" "21"
+		"10" "492"
+		"11" "597"
+		"12" "599"
+		"13" "12095"
+	}
+}
+"extended"
+{
+	"developer" "R.Y.Love"
+	"publisher" "R.Y.Love"
+}
+"config"
+{
+	"installdir" "都市女友的私密约会"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "girlsdate.exe"
+		}
+	}
+}
+"depots"
+{
+	"3114141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1534561188523327035"
+				"size" "2200283655"
+				"download" "411231120"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17614963"
+			"timeupdated" "1741242142"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27809038"
+"_sha" "edba4bda561a526767603f5e4e8a317eb4cb1854"
+"_size" "3605"
