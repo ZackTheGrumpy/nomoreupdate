@@ -212,14 +212,16 @@
 		"18" "113"
 		"19" "615955"
 	}
-	"review_score" "5"
-	"review_percentage" "69"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
 	"developer" "Multicast"
 	"publisher" "MulticastGames"
 	"isfreeapp" "1"
+	"listofdlc" "3453550"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -240,9 +242,9 @@
 		{
 			"public"
 			{
-				"gid" "1834025347480851986"
-				"size" "167480123"
-				"download" "70296704"
+				"gid" "5070052391280594344"
+				"size" "167490368"
+				"download" "70278976"
 			}
 		}
 	}
@@ -250,13 +252,13 @@
 	{
 		"public"
 		{
-			"buildid" "16570607"
-			"timeupdated" "1732821409"
+			"buildid" "17002902"
+			"timeupdated" "1741516147"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27653721"
-"_sha" "631464570955eeeb43905a52fd534c290266c87e"
-"_size" "4403"
+"_change_number" "27857995"
+"_sha" "f9782d02989ceecc3358fe8e2cbd7f34316eed21"
+"_size" "4457"
