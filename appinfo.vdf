@@ -115,11 +115,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"english"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"tchinese"
 		{
 			"supported" "true"
@@ -199,9 +194,9 @@
 		{
 			"public"
 			{
-				"gid" "8239106545001945492"
-				"size" "1795022652"
-				"download" "516840320"
+				"gid" "8067624821475394144"
+				"size" "1795027845"
+				"download" "516855984"
 			}
 		}
 	}
@@ -209,12 +204,12 @@
 	{
 		"public"
 		{
-			"buildid" "17604615"
-			"timeupdated" "1741219641"
+			"buildid" "17652912"
+			"timeupdated" "1741530033"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27804841"
-"_sha" "030c4784b7016e37c7339aa6eec1b4c96562e1f9"
-"_size" "3523"
+"_change_number" "27859300"
+"_sha" "f0a6baa299904f2dd072eeb52573a2529c8b0f63"
+"_size" "3452"
