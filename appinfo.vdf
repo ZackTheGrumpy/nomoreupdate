@@ -1,0 +1,255 @@
+"appid" "1986310"
+"common"
+{
+	"name" "猎魔战纪"
+	"type" "Game"
+	"icon" "6ae7cc901d5bf474137025cbf9538e2276090614"
+	"clienticon" "bdc57860600e27ed9516e2ca439b6de8f864eabc"
+	"clienttga" "ef193b09b7c36ccc5234caf2da0f360b11646a37"
+	"clienticns" "4209e59129fdf28329a9a4fd8cba5ed043e36909"
+	"linuxclienticon" "4209e59129fdf28329a9a4fd8cba5ed043e36909"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"releasestate" "released"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "97.91666666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "97.91666666666666"
+			}
+		}
+	}
+	"store_asset_mtime" "1653368847"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "水狗工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "水狗工作室"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1653463471"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1986310"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "1677"
+		"1" "122"
+		"2" "113"
+		"3" "5577"
+		"4" "21"
+		"5" "4182"
+		"6" "1742"
+		"7" "1741"
+		"8" "3871"
+		"9" "4434"
+		"10" "4085"
+		"11" "1684"
+		"12" "492"
+		"13" "4325"
+		"14" "7250"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "水狗工作室"
+	"publisher" "水狗工作室"
+	"isfreeapp" "1"
+	"listofdlc" "1997140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "猎魔战纪"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Game.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"hasdepotsindlc" "1"
+	"1986311"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5412720010496595570"
+				"size" "634561035"
+				"download" "495770400"
+			}
+		}
+	}
+	"1986312"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4726973625533304179"
+				"size" "979234835"
+				"download" "502986816"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9191648"
+			"timeupdated" "1658830763"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.rpgsave"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "www/"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "Game.app/Contents/Resources/app.nw/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27751766"
+"_sha" "e5220fe91d6c6182bc5fb79ff795e241058aa177"
+"_size" "3986"
