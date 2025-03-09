@@ -278,6 +278,22 @@
 			"type" "option1"
 			"config"
 			{
+				"oslist" "windows"
+				"ownsdlc" "3373350"
+			}
+			"description_loc"
+			{
+				"english" "Artbook"
+			}
+			"description" "Artbook"
+		}
+		"3"
+		{
+			"executable" "open_artbook.sh"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
 				"ownsdlc" "3373350"
 			}
 			"description_loc"
@@ -304,9 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "2472338855340476931"
-				"size" "2265567268"
-				"download" "400280064"
+				"gid" "1665892091097995342"
+				"size" "2265570470"
+				"download" "400268832"
 			}
 		}
 	}
@@ -337,9 +353,9 @@
 		{
 			"public"
 			{
-				"gid" "3289920593863545875"
-				"size" "2291251675"
-				"download" "408545328"
+				"gid" "6206522198528443397"
+				"size" "2291254908"
+				"download" "408538032"
 			}
 		}
 	}
@@ -347,8 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "17545856"
-			"timeupdated" "1740781242"
+			"buildid" "17644889"
+			"timeupdated" "1741483925"
 		}
 	}
 	"privatebranches" "1"
@@ -393,6 +409,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27726509"
-"_sha" "6ff16d7969d046d1e1facd821bd7f6be7d644acb"
-"_size" "6727"
+"_change_number" "27855386"
+"_sha" "8b00233c94ba13b0592d873cca2e924268043dcb"
+"_size" "6990"
