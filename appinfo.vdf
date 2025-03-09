@@ -1,0 +1,273 @@
+"appid" "2697520"
+"common"
+{
+	"name" "Fuel Station Simulator: Drive & Pumping"
+	"type" "Game"
+	"icon" "beece12cce90277bd642202f48206cb2c1a8550a"
+	"clienttga" "790c6d9b3dcefbb1ea515e3990922a1387f51f7c"
+	"clienticon" "c4a99c8361e6d0e51afa4966bd98a982ac0d7fdf"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"aicontenttype" "2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "465d49e7b36f8fc912bc7e8c40aeb08640f81d9b/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "d0fe3f518f04afbb888a77cf2c78dbb173df8078/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.38742406245585"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "b4c6f1edc3831f19cac412c3ca6337050ba70285/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "b4c6f1edc3831f19cac412c3ca6337050ba70285/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "e3aca0e659542a1b7389e438c0ff16a6176033c7/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "e3aca0e659542a1b7389e438c0ff16a6176033c7/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "e3aca0e659542a1b7389e438c0ff16a6176033c7/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44.38742406245585"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "e8cdcefa532eb10ffc9de123b0a167b8f8cb1a72/logo.png"
+			}
+			"image2x"
+			{
+				"english" "e8cdcefa532eb10ffc9de123b0a167b8f8cb1a72/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "540e762d418a2694f6a5372d958063ec079a9049/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "540e762d418a2694f6a5372d958063ec079a9049/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1741339657"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "QuantumPlay Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "QuantumPlay Studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_59" "1"
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731603684"
+	"community_hub_visible" "1"
+	"gameid" "2697520"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4695"
+		"2" "1643"
+		"3" "4182"
+		"4" "492"
+		"5" "10235"
+		"6" "7332"
+		"7" "3839"
+		"8" "4175"
+		"9" "12472"
+		"10" "1654"
+		"11" "1695"
+		"12" "1702"
+		"13" "597"
+		"14" "4136"
+		"15" "5350"
+		"16" "1647"
+		"17" "3934"
+		"18" "6426"
+		"19" "16689"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "QuantumPlay Studios"
+	"publisher" "QuantumPlay Studios"
+}
+"config"
+{
+	"installdir" "Gas Station Simulator Drive & Pumping"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FuelStationSimulator.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2697521"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3214739666097716420"
+				"size" "1583848378"
+				"download" "1342277232"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17249622"
+			"timeupdated" "1739260258"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27832226"
+"_sha" "322263e1c7dbeb8c96c9e511c3f9f669131391df"
+"_size" "4681"
