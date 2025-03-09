@@ -1,0 +1,303 @@
+"appid" "652360"
+"common"
+{
+	"name" "BFF or Die"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "f92abccda96e949c11eb0af18bc95469e3ff4323"
+	"logo_small" "f92abccda96e949c11eb0af18bc95469e3ff4323_thumb"
+	"icon" "0d867bed249b950a20e5a97ed63a852fd7ca6d98"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"clienttga" "9a38815d5ca168136e4e96720b004073d9e04ada"
+	"clienticon" "1788a6d356ae5ff86f07aed103c24451466aed3a"
+	"restricted_countries" "DE"
+	"metacritic_name" "BFF or Die"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "16.436056203858143"
+			"height_pct" "47.56944444444445"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "16.436056203858143"
+				"height_pct" "47.56944444444445"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1561729496"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ASA Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ASA Studio"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1536822000"
+	"steam_release_date" "1536825596"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "652360"
+	"store_tags"
+	{
+		"0" "3841"
+		"1" "1664"
+		"2" "19"
+		"3" "4026"
+		"4" "4234"
+		"5" "3942"
+		"6" "4726"
+		"7" "5350"
+		"8" "5125"
+		"9" "5711"
+		"10" "4136"
+		"11" "4182"
+		"12" "4840"
+		"13" "7368"
+		"14" "10679"
+		"15" "1685"
+		"16" "4508"
+		"17" "1673"
+		"18" "1697"
+		"19" "1773"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "ASA Studio"
+	"publisher" "ASA Studio"
+	"homepage" "http://www.bffordie.com"
+}
+"config"
+{
+	"installdir" "BFF or Die"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BffOrDie.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "BffOrDie.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "BffOrDie.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "BffOrDie.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "BffOrDie.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"652361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5602219791150405052"
+				"size" "757492536"
+				"download" "143530288"
+			}
+		}
+	}
+	"652362"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3764946477021863571"
+				"size" "752045368"
+				"download" "141874176"
+			}
+		}
+	}
+	"652363"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7057065068937964859"
+				"size" "804453109"
+				"download" "161782080"
+			}
+		}
+	}
+	"652364"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6915462752786785106"
+				"size" "796235337"
+				"download" "155193392"
+			}
+		}
+	}
+	"652365"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5105461"
+			"timeupdated" "1591026052"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27805561"
+"_sha" "346e660b8e7c93f2e4682d11e15f984c635beba0"
+"_size" "4634"
