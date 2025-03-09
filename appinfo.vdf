@@ -1,0 +1,279 @@
+"appid" "337490"
+"common"
+{
+	"name" "Four Sided Fantasy"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ff16261081b1d048d3069547b6afdac42e011eba"
+	"logo_small" "ff16261081b1d048d3069547b6afdac42e011eba_thumb"
+	"icon" "ea883b06b81c73704febf4384077c9997b3e9cf0"
+	"clienttga" "3c21c8b42bede890a706012a0bcb00eb739c4365"
+	"clienticon" "397ccf433a5b16d77ca2a94fca1a7efa05a2d3e6"
+	"oslist" "windows,macos"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1671580800"
+		"tested_build_id" "1340716"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Four Sided Fantasy"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_caa53f531b9727ff98570c8f5deb0aa3f67bb0b3.jpg"
+	"store_asset_mtime" "1580431963"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ludo Land"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Serenity Forge"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Serenity Forge"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1472572504"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "337490"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "5537"
+		"2" "1625"
+		"3" "1664"
+		"4" "3871"
+		"5" "1710"
+		"6" "4094"
+		"7" "3968"
+		"8" "4026"
+		"9" "4166"
+		"10" "4182"
+		"11" "1756"
+		"12" "21"
+		"13" "7481"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Ludo Land"
+	"publisher" "Serenity Forge"
+	"homepage" "https://serenityforge.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "FourSidedFantasy"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FourSidedFantasy.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "FourSidedFantasy.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"337491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3339957222558122714"
+				"size" "664824595"
+				"download" "178169744"
+			}
+			"alpha"
+			{
+				"gid" "1362170292565435410"
+				"size" "377413043"
+				"download" "171985270520"
+			}
+			"mactest"
+			{
+				"gid" "1962129103746138991"
+				"size" "964099322"
+				"download" "174178032"
+			}
+			"qa01"
+			{
+				"gid" "8605725078834689696"
+				"size" "467024157"
+				"download" "149121136"
+			}
+		}
+	}
+	"337493"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7527573193458717193"
+				"size" "672102477"
+				"download" "181895728"
+			}
+			"mactest"
+			{
+				"gid" "912217938343734240"
+				"size" "484139897"
+				"download" "152528960"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1340716"
+			"timeupdated" "1474072689"
+		}
+		"alpha"
+		{
+			"buildid" "466667"
+		}
+		"mactest"
+		{
+			"buildid" "1159123"
+			"timeupdated" "1464824806"
+		}
+		"qa01"
+		{
+			"buildid" "1139065"
+			"timeupdated" "1463794881"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27175550"
+"_sha" "f656fec577bae42bdfdd813dc5e2c83fa6bac4c4"
+"_size" "4964"
