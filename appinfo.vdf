@@ -1,0 +1,261 @@
+"appid" "2740280"
+"common"
+{
+	"name" "Tactic Boxing"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "71e616da7e142f04c7641b9356b86d4e3ae56998"
+	"clienttga" "bd264d3445b1e76cffbff36e9ca730f7dea694a7"
+	"linuxclienticon" "c0714bb299eb2668b4a11840999c61ed94fd6e50"
+	"clienticns" "c0714bb299eb2668b4a11840999c61ed94fd6e50"
+	"clienticon" "c0714bb299eb2668b4a11840999c61ed94fd6e50"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.36522753792307"
+			"height_pct" "57.06483020660181"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.36522753792307"
+				"height_pct" "57.06483020660181"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737911054"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stately Eagle Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stately Eagle Games"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_49" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_55" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1711299614"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2740280"
+	"store_tags"
+	{
+		"0" "12190"
+		"1" "3968"
+		"2" "4175"
+		"3" "599"
+		"4" "6506"
+		"5" "701"
+		"6" "1697"
+		"7" "19"
+		"8" "3813"
+		"9" "4231"
+		"10" "4747"
+		"11" "3798"
+		"12" "4777"
+		"13" "3993"
+		"14" "4191"
+		"15" "6915"
+		"16" "1708"
+		"17" "4158"
+		"18" "4182"
+		"19" "6730"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "demo"
+	"developer" "Stately Eagle Games"
+	"publisher" "Stately Eagle Games"
+}
+"config"
+{
+	"installdir" "Tactic Boxing"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TacticBoxing.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2740281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8530632304218067398"
+				"size" "7983680379"
+				"download" "2138902848"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17137892"
+			"timeupdated" "1737916974"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27818196"
+"_sha" "f9efbac39ca8b99ab2fc02d79e90b0d76e238659"
+"_size" "4082"
