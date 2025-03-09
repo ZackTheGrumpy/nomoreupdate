@@ -3,7 +3,7 @@
 {
 	"name" "Cabin Crew Life Simulator"
 	"type" "Game"
-	"icon" "3e8ea144df8975036aef6ae0accb3be623a3abc0"
+	"icon" "e9fdb0ce83fabe464b5c39847123328a50603236"
 	"clienticon" "51184dbe4f75d3ea68ddfd01e32418afe0b23c86"
 	"clienttga" "79c28b1b1336e423d76324788d664515821d2d35"
 	"releasestate" "released"
@@ -11,6 +11,55 @@
 	"osarch" "64"
 	"osextended" ""
 	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1741392000"
+		"tested_build_id" "17528964"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -241,7 +290,7 @@
 		"19" "4695"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -278,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "4334362770749950956"
-				"size" "2477087470"
-				"download" "1650982448"
+				"gid" "2450182142467703692"
+				"size" "2478082334"
+				"download" "1651080096"
 			}
 		}
 	}
@@ -288,8 +337,8 @@
 	{
 		"public"
 		{
-			"buildid" "17622591"
-			"timeupdated" "1741278615"
+			"buildid" "17653452"
+			"timeupdated" "1741537897"
 		}
 	}
 	"privatebranches" "1"
@@ -334,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27818628"
-"_sha" "3d6a2206efb59683c3f41a04075e60a2179947f8"
-"_size" "5460"
+"_change_number" "27860120"
+"_sha" "e416223a131d83218882eab47dfc3c52e7a90305"
+"_size" "6700"
