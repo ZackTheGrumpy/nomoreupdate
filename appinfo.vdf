@@ -1,0 +1,68 @@
+"appid" "3481440"
+"common"
+{
+	"name" "Puck Dedicated Server"
+	"type" "Tool"
+	"parent" "2994020"
+	"clienticon" "5f6677368876ded4b92f9357a6289b16af5cdc48"
+	"clienttga" "b3a926d7704c3e1e20575f77ed03fdba2af78e2d"
+	"icon" "a41908e104d645dce461bd84b3d94e83c1d32ec8"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"freetodownload" "1"
+	"community_hub_visible" "1"
+	"gameid" "3481440"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "Puck Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Puck.x86_64"
+		}
+	}
+}
+"depots"
+{
+	"3481441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6522030106081173417"
+				"size" "196190849"
+				"download" "62112464"
+			}
+			"pre-release"
+			{
+				"gid" "7976184162424333551"
+				"size" "196419517"
+				"download" "62147200"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17460476"
+			"timeupdated" "1740169457"
+		}
+		"pre-release"
+		{
+			"buildid" "17621034"
+			"description" "Pre-release branch"
+			"timeupdated" "1741278948"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27818734"
+"_sha" "df117e83892702502368229f6ebc144174d27e35"
+"_size" "1118"
