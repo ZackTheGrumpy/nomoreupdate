@@ -36,15 +36,15 @@
 	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1729555200"
-		"tested_build_id" "16092123"
+		"category" "3"
+		"test_timestamp" "1736985600"
+		"tested_build_id" "16983183"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
@@ -81,7 +81,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "94cc3efffb1a94f99a5be6a1f10eff72e6ffba10/capsule_231x87.jpg"
+		"english" "7f1f1f7153ed05bd08afb030925f80803f503c0d/capsule_231x87.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 		"tchinese" "capsule_231x87_tchinese.jpg"
 		"japanese" "capsule_231x87_japanese.jpg"
@@ -89,7 +89,7 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "7fcbaff6b075af81fb43272f89ba2edf71c68902/header.jpg"
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 		"japanese" "header_japanese.jpg"
@@ -114,7 +114,7 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "b5d4f63c530eba50441f7c433964f04f5f7d4448/library_600x900.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 				"tchinese" "library_600x900_tchinese.jpg"
 				"japanese" "library_600x900_japanese.jpg"
@@ -122,7 +122,7 @@
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "b5d4f63c530eba50441f7c433964f04f5f7d4448/library_600x900_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 				"tchinese" "library_600x900_tchinese_2x.jpg"
 				"japanese" "library_600x900_japanese_2x.jpg"
@@ -177,11 +177,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "7fcbaff6b075af81fb43272f89ba2edf71c68902/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "7fcbaff6b075af81fb43272f89ba2edf71c68902/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1728370966"
+	"store_asset_mtime" "1741411266"
 	"associations"
 	{
 		"0"
@@ -319,8 +323,8 @@
 	{
 		"0" "791774"
 		"1" "1720"
-		"2" "1091588"
-		"3" "4325"
+		"2" "4325"
+		"3" "1091588"
 		"4" "32322"
 		"5" "1716"
 		"6" "7556"
@@ -389,15 +393,15 @@
 		{
 			"public"
 			{
-				"gid" "2030170902967222386"
-				"size" "1070342624"
-				"download" "225480880"
+				"gid" "88158908984507167"
+				"size" "1087091728"
+				"download" "226874320"
 			}
 			"beta"
 			{
-				"gid" "2030170902967222386"
-				"size" "1070342624"
-				"download" "225480880"
+				"gid" "88158908984507167"
+				"size" "1087091728"
+				"download" "226874320"
 			}
 		}
 	}
@@ -411,15 +415,15 @@
 		{
 			"public"
 			{
-				"gid" "8373901495241074854"
-				"size" "1095347303"
-				"download" "233031808"
+				"gid" "517434641102114708"
+				"size" "1112096407"
+				"download" "234429680"
 			}
 			"beta"
 			{
-				"gid" "8373901495241074854"
-				"size" "1095347303"
-				"download" "233031808"
+				"gid" "517434641102114708"
+				"size" "1112096407"
+				"download" "234429680"
 			}
 		}
 	}
@@ -433,15 +437,15 @@
 		{
 			"public"
 			{
-				"gid" "5826825855456543513"
-				"size" "1071604065"
-				"download" "225356176"
+				"gid" "2785031462877535555"
+				"size" "1088353169"
+				"download" "226755280"
 			}
 			"beta"
 			{
-				"gid" "5826825855456543513"
-				"size" "1071604065"
-				"download" "225356176"
+				"gid" "2785031462877535555"
+				"size" "1088353169"
+				"download" "226755280"
 			}
 		}
 	}
@@ -450,14 +454,14 @@
 	{
 		"public"
 		{
-			"buildid" "16983183"
-			"timeupdated" "1736736671"
+			"buildid" "17651759"
+			"timeupdated" "1741512686"
 		}
 		"beta"
 		{
-			"buildid" "16983183"
+			"buildid" "17651759"
 			"description" "Staging branch of Dice & Fold, usually full of bugs"
-			"timeupdated" "1736736653"
+			"timeupdated" "1741512681"
 		}
 	}
 }
@@ -511,6 +515,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26966900"
-"_sha" "9f98dd931ec32fe8abe7c6a8e44df922182d2943"
-"_size" "9989"
+"_change_number" "27857731"
+"_sha" "f659afc57171f7bc9054ad2fb7ea0cef06b69a80"
+"_size" "10251"
