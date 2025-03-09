@@ -16,6 +16,55 @@
 		"1" "2"
 		"2" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1741392000"
+		"tested_build_id" "15847162"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -87,7 +136,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727599621"
+	"store_asset_mtime" "1741383189"
 	"associations"
 	{
 		"0"
@@ -188,9 +237,9 @@
 		{
 			"public"
 			{
-				"gid" "3341905627700076785"
-				"size" "1790838086"
-				"download" "974051120"
+				"gid" "400611930127961896"
+				"size" "1795232603"
+				"download" "977512976"
 			}
 			"beta"
 			{
@@ -204,6 +253,12 @@
 				"size" "1267466178"
 				"download" "431069600"
 			}
+			"old_stable_2"
+			{
+				"gid" "864384752533469672"
+				"size" "1794950707"
+				"download" "978305024"
+			}
 		}
 	}
 	"workshopdepot" "2595540"
@@ -211,8 +266,8 @@
 	{
 		"public"
 		{
-			"buildid" "17548106"
-			"timeupdated" "1740752335"
+			"buildid" "17653770"
+			"timeupdated" "1741541976"
 		}
 		"beta"
 		{
@@ -226,6 +281,12 @@
 			"description" "If main dont work get this"
 			"timeupdated" "1727423483"
 		}
+		"old_stable_2"
+		{
+			"buildid" "15847162"
+			"description" "if main dont work get this (new)"
+			"timeupdated" "1740753449"
+		}
 	}
 	"privatebranches" "1"
 }
@@ -237,6 +298,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "27718853"
-"_sha" "44549f9a6cca17b6f213ddbd0fc32b5a966d7a2b"
-"_size" "3791"
+"_change_number" "27860536"
+"_sha" "cabfee8588a031051d092ebb11d2187591360aea"
+"_size" "5289"
