@@ -20,6 +20,13 @@
 			"version" "3"
 		}
 	}
+	"name_localized"
+	{
+		"german" "Zug um Zug®"
+		"french" "Les Aventuriers du Rail®"
+		"spanish" "Aventureros al Tren®"
+		"latam" "Aventureros al Tren®"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -312,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "9139539727767158281"
-				"size" "2230969466"
-				"download" "822511760"
+				"gid" "337481080060479732"
+				"size" "2230971122"
+				"download" "822524512"
 			}
 		}
 	}
@@ -328,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "5234758378941143900"
-				"size" "1589722359"
-				"download" "774262256"
+				"gid" "8915746981473067138"
+				"size" "1589722973"
+				"download" "774285664"
 			}
 		}
 	}
@@ -338,8 +345,8 @@
 	{
 		"public"
 		{
-			"buildid" "17422338"
-			"timeupdated" "1740668096"
+			"buildid" "17621916"
+			"timeupdated" "1741603082"
 		}
 	}
 	"privatebranches" "1"
@@ -371,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27700153"
-"_sha" "81f7cec8a9d0dcd14705d9038d82fa1518f21531"
-"_size" "7623"
+"_change_number" "27869367"
+"_sha" "4e8a706f853ac4765fc5b6ff5ee1424e19919e7c"
+"_size" "7792"
