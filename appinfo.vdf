@@ -207,13 +207,13 @@
 		"19" "21"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
 	"developer" "KARMAGAME HK LIMITED"
 	"publisher" "EpicDream Games"
-	"listofdlc" "3241590"
+	"listofdlc" "3241590,3357830"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -267,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "4751066434090484656"
-				"size" "67351824909"
-				"download" "67926888480"
+				"gid" "1859953344480413599"
+				"size" "67351801501"
+				"download" "67927063824"
 			}
 		}
 	}
@@ -283,9 +283,9 @@
 		{
 			"public"
 			{
-				"gid" "2055927374493243860"
-				"size" "66252220830"
-				"download" "66774051888"
+				"gid" "6719566035718920170"
+				"size" "67401523945"
+				"download" "67938038640"
 			}
 		}
 	}
@@ -309,8 +309,8 @@
 	{
 		"public"
 		{
-			"buildid" "17345931"
-			"timeupdated" "1739416885"
+			"buildid" "17660764"
+			"timeupdated" "1741606329"
 		}
 	}
 }
@@ -321,6 +321,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27451800"
-"_sha" "7cf7162b4aa32b78fb030e9833e27b7712c0122f"
-"_size" "6309"
+"_change_number" "27870143"
+"_sha" "30d88ccff481f80195e6a19aeafd011d34f12b11"
+"_size" "6317"
