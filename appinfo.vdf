@@ -202,7 +202,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -255,167 +255,22 @@
 		{
 			"public"
 			{
-				"gid" "7014461830322349492"
-				"size" "75251858721"
-				"download" "70677968096"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"concept_approval"
-			{
-				"gid" "7B339F0D50B717ED46EE947878B2B679"
-				"size" "6C7F91124413632B594088395283F0B2"
-				"download" "73E558B9F62271FC2DF12D07C06BD160"
-			}
-			"press"
-			{
-				"gid" "B6B175CFE6E9B60D3D7862CC4D5D27A7"
-				"size" "F0B71B9C6F3F2C5C84B153315E1D74A9"
-				"download" "92AE0550E80698D05C396D65EC1569E9"
-			}
-			"ship"
-			{
-				"gid" "72CDBE9EF4A4A724F7FB0A5465C10FEB"
-				"size" "79B66E67A78D55AA2A6B169731C2B341"
-				"download" "B35413A3D003E8E449F2ADBFD294FA59"
-			}
-			"alpha"
-			{
-				"gid" "F2112AB099339D14992BCF535219E775"
-				"size" "0D8BDF7DBFEA75C93FC9DFD2893D6F77"
-				"download" "440B131AC9F99994A9FD7F5EBD9F0C3E"
-			}
-			"daily"
-			{
-				"gid" "5EBB9DAD80132FCA71247B958A81200A"
-				"size" "5810CE8B4D84E15A2ED51E1E7CA6F03B"
-				"download" "01C5350D5310155DA7687FE426E0ED11"
-			}
-			"development"
-			{
-				"gid" "A5EB4847FA2A8BA4D07EDBCC12F5B6D2"
-				"size" "E38F7C9B41B3A11AE4241C651A12E2A6"
-				"download" "FF2320793103EC762778130531D23EA9"
-			}
-			"preview"
-			{
-				"gid" "04E1AA51C9A8AE7EBE309C83551B74B5"
-				"size" "C8B09166D37DDA847C4387B4E4CBF041"
-				"download" "A0F72DACC061C94138231715150E481E"
-			}
-			"release"
-			{
-				"gid" "9589AA3D5F222D99C5E03B9FFAF1D28F"
-				"size" "BC7C870E79A077794B67BB4D08350107"
-				"download" "8E2909185391FD2B227FABB761F71431"
-			}
-			"review"
-			{
-				"gid" "3067767BB6A6854ED842749850036AA8"
-				"size" "E8A33801401DC51A21C275FF928C6ECE"
-				"download" "2E0DBFB5E72B02B4B44E1E5186B72271"
-			}
-			"rollback"
-			{
-				"gid" "B7630C81F881AFDDCEA9893A384F3862"
-				"size" "1B96DDD97A84E8030DC4E6864A765E7B"
-				"download" "9232E9296972D49A1C5B3818A9AA6F60"
-			}
-			"steamdeck"
-			{
-				"gid" "0D140A9D139AC5A356A695050110D08E"
-				"size" "C5E28FE2EADD4A19E8B71A1663CC4EE9"
-				"download" "90791A0AA60732969C8226C6E947C0E1"
-			}
-			"test"
-			{
-				"gid" "D58E99F3622CA0983F727C3D21662072"
-				"size" "2D6766FC77A3CFCD590E52EF01021B2E"
-				"download" "8A53DACEF02978BDA08AAEE47E27F9D9"
+				"gid" "7779612892583623000"
+				"size" "75247179444"
+				"download" "70694247760"
 			}
 		}
 	}
+	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16628033"
-			"timeupdated" "1733508603"
-		}
-		"concept_approval"
-		{
-			"buildid" "9323365"
-			"pwdrequired" "1"
-			"timeupdated" "1660668150"
-		}
-		"press"
-		{
-			"buildid" "13760267"
-			"pwdrequired" "1"
-			"timeupdated" "1710569468"
-		}
-		"ship"
-		{
-			"buildid" "14041543"
-			"pwdrequired" "1"
-			"timeupdated" "1713049095"
-		}
-		"alpha"
-		{
-			"buildid" "15620630"
-			"pwdrequired" "1"
-			"timeupdated" "1725662615"
-		}
-		"daily"
-		{
-			"buildid" "16629326"
-			"pwdrequired" "1"
-			"timeupdated" "1733317447"
-		}
-		"development"
-		{
-			"buildid" "15619147"
-			"pwdrequired" "1"
-			"timeupdated" "1725643818"
-		}
-		"preview"
-		{
-			"buildid" "15702921"
-			"pwdrequired" "1"
-			"timeupdated" "1727657990"
-		}
-		"release"
-		{
-			"buildid" "16628033"
-			"pwdrequired" "1"
-			"timeupdated" "1733310930"
-		}
-		"review"
-		{
-			"buildid" "16665734"
-			"pwdrequired" "1"
-			"timeupdated" "1733558962"
-		}
-		"rollback"
-		{
-			"buildid" "16090744"
-			"pwdrequired" "1"
-			"timeupdated" "1729451049"
-		}
-		"steamdeck"
-		{
-			"buildid" "15305982"
-			"pwdrequired" "1"
-			"timeupdated" "1723143702"
-		}
-		"test"
-		{
-			"buildid" "15702921"
-			"pwdrequired" "1"
-			"timeupdated" "1726337237"
+			"buildid" "17593771"
+			"timeupdated" "1741640430"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -433,6 +288,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26537797"
-"_sha" "19bb47c0c02baab00fbb904b777808589ed1f8ce"
-"_size" "7984"
+"_change_number" "27879231"
+"_sha" "b2d5e4aa70bc0226d93212fda90fab41b2778ff5"
+"_size" "4670"
