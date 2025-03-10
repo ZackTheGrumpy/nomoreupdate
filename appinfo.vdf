@@ -18,6 +18,11 @@
 	{
 		"schinese" "军团战争2 / Legion TD 2"
 	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -281,9 +286,9 @@
 		"12" "1684"
 		"13" "3942"
 		"14" "4057"
-		"15" "4191"
-		"16" "4821"
-		"17" "1662"
+		"15" "1662"
+		"16" "4191"
+		"17" "4821"
 		"18" "3871"
 		"19" "4172"
 	}
@@ -374,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "874638137070517721"
-				"size" "2397959533"
-				"download" "1516526304"
+				"gid" "1903385282314132497"
+				"size" "2401916487"
+				"download" "1520211504"
 			}
 			"mactest"
 			{
@@ -392,9 +397,9 @@
 			}
 			"public_test_realm"
 			{
-				"gid" "9095481395836838377"
-				"size" "2397955880"
-				"download" "1516527216"
+				"gid" "5257170656065753714"
+				"size" "2401916326"
+				"download" "1520213120"
 			}
 		}
 	}
@@ -443,9 +448,9 @@
 		{
 			"public"
 			{
-				"gid" "8195665494689831970"
-				"size" "2518039955"
-				"download" "1534475248"
+				"gid" "5215469098409775428"
+				"size" "2521997421"
+				"download" "1538156560"
 			}
 			"mactest"
 			{
@@ -461,9 +466,9 @@
 			}
 			"public_test_realm"
 			{
-				"gid" "7137290299839713682"
-				"size" "2518036302"
-				"download" "1534473536"
+				"gid" "3129225583046240992"
+				"size" "2521997260"
+				"download" "1538157248"
 			}
 		}
 	}
@@ -472,8 +477,8 @@
 	{
 		"public"
 		{
-			"buildid" "17405690"
-			"timeupdated" "1739876215"
+			"buildid" "17663563"
+			"timeupdated" "1741620838"
 		}
 		"mactest"
 		{
@@ -489,14 +494,14 @@
 		}
 		"public_test_realm"
 		{
-			"buildid" "17250778"
+			"buildid" "17636425"
 			"description" "Public beta testing"
-			"timeupdated" "1738754472"
+			"timeupdated" "1741357304"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27532587"
-"_sha" "23625a97d30ea92ea9b89f69cb6daa601f883d86"
-"_size" "8278"
+"_change_number" "27874063"
+"_sha" "90c5f6b7a013ad1dddd0bafabe37d17400e15a4d"
+"_size" "8338"
