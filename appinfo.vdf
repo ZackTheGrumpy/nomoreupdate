@@ -109,7 +109,6 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
@@ -134,7 +133,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1726498620"
+	"steam_release_date" "1741624518"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2738940"
@@ -201,9 +200,9 @@
 		{
 			"public"
 			{
-				"gid" "377004069192133908"
+				"gid" "299352139102934322"
 				"size" "121042619"
-				"download" "106470496"
+				"download" "106467968"
 			}
 			"version_6"
 			{
@@ -217,8 +216,8 @@
 	{
 		"public"
 		{
-			"buildid" "17664163"
-			"timeupdated" "1741623099"
+			"buildid" "17664789"
+			"timeupdated" "1741625928"
 		}
 		"version_6"
 		{
@@ -234,12 +233,6 @@
 	"maxnumfiles" "15"
 	"savefiles"
 	{
-		"0"
-		{
-			"root" "WinAppDataLocal"
-			"path" "Voids_Vigil"
-			"pattern" "settings.ini"
-		}
 		"1"
 		{
 			"root" "WinAppDataLocal"
@@ -249,6 +242,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27874827"
-"_sha" "bac0d95203e21b310475bf10c219781b5fb4d320"
-"_size" "4109"
+"_change_number" "27875605"
+"_sha" "0d109b9c1c4a631ee073f77c3e030c7304813be7"
+"_size" "3993"
