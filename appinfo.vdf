@@ -223,6 +223,7 @@
 		"1" "87"
 		"2" "8013"
 		"3" "4191"
+		"4" "113"
 	}
 	"review_score" "8"
 	"review_percentage" "93"
@@ -774,9 +775,9 @@
 		{
 			"public"
 			{
-				"gid" "491521445259725846"
-				"size" "3408684"
-				"download" "2893552"
+				"gid" "5768794163906660458"
+				"size" "3416876"
+				"download" "2903184"
 			}
 		}
 	}
@@ -1040,8 +1041,8 @@
 	{
 		"public"
 		{
-			"buildid" "17445447"
-			"timeupdated" "1740134847"
+			"buildid" "17588708"
+			"timeupdated" "1741596241"
 		}
 		"previous_version"
 		{
@@ -1054,6 +1055,6 @@
 	"appmanagesdlc" "1"
 }
 "_missing_token" "False"
-"_change_number" "27592796"
-"_sha" "3e9508a1240442bace001a015f04a11677a9f977"
-"_size" "16338"
+"_change_number" "27867593"
+"_sha" "7d575dc37b57842f139ff1940d52a88e1ff7c348"
+"_size" "16353"
