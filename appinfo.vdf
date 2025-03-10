@@ -438,11 +438,11 @@
 		{
 			"public"
 			{
-				"gid" "5110681155891923974"
-				"size" "2865608525"
-				"download" "1454834016"
+				"gid" "5694566962590876781"
+				"size" "2868683833"
+				"download" "1457503600"
 			}
-			"update-34.1.1-vr"
+			"update-34.1.1"
 			{
 				"gid" "8403049013177121841"
 				"size" "2621855620"
@@ -569,11 +569,11 @@
 		{
 			"public"
 			{
-				"gid" "6061412592935530794"
-				"size" "2843575582"
-				"download" "1443465248"
+				"gid" "4936355061103992070"
+				"size" "2846809883"
+				"download" "1446160176"
 			}
-			"update-34.1.1-vr"
+			"update-34.1.1"
 			{
 				"gid" "5440130934594855393"
 				"size" "2616825617"
@@ -693,14 +693,14 @@
 	{
 		"public"
 		{
-			"buildid" "17611214"
-			"timeupdated" "1741219808"
+			"buildid" "17666512"
+			"timeupdated" "1741637968"
 		}
-		"update-34.1.1-vr"
+		"update-34.1.1"
 		{
 			"buildid" "13730482"
-			"description" "Update 34.1.1 | VR, Windows 7 SP1+, 8, older versions of Windows 10, & Intel Macs"
-			"timeupdated" "1740006264"
+			"description" "Update 34.1.1 | Old Graphics Engine, Windows 7 SP1+, 8, older versions of Windows 10, Intel Macs, & VR Supported"
+			"timeupdated" "1741635277"
 		}
 		"*update-24.1.2-directx10"
 		{
@@ -848,6 +848,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27804876"
-"_sha" "040b3fb37fa46e6abd173d3a93e49b8344e4fc49"
-"_size" "15199"
+"_change_number" "27878672"
+"_sha" "fcc686ad26bddb14acd122fc179c5464e49658cb"
+"_size" "15221"
