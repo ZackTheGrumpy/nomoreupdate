@@ -28,6 +28,55 @@
 	{
 		"0" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1736208000"
+		"tested_build_id" "16804785"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -241,8 +290,8 @@
 		"13" "3978"
 		"14" "4342"
 		"15" "4182"
-		"16" "7208"
-		"17" "492"
+		"16" "492"
+		"17" "7208"
 		"18" "3859"
 	}
 	"review_score" "8"
@@ -253,6 +302,8 @@
 	"developer" "International Cat Studios"
 	"publisher" "Future Friends Games"
 	"homepage" "https://www.internationalcatstudios.com/"
+	"listofdlc" "3530930"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -291,9 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "297980234749217343"
-				"size" "3641939169"
-				"download" "3403491872"
+				"gid" "642766317901715798"
+				"size" "3687107139"
+				"download" "3448637872"
 			}
 		}
 	}
@@ -302,8 +353,8 @@
 	{
 		"public"
 		{
-			"buildid" "16903816"
-			"timeupdated" "1735998174"
+			"buildid" "17651366"
+			"timeupdated" "1741608689"
 		}
 	}
 	"privatebranches" "1"
@@ -334,6 +385,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26861264"
-"_sha" "02b29763d4ef0ae0ade350efeb8e920a27772cb1"
-"_size" "5901"
+"_change_number" "27870727"
+"_sha" "064f492c3a370b2bc299570b7612ddbb2e4219bd"
+"_size" "7184"
