@@ -425,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "3597893752256831499"
-				"size" "17220038706"
-				"download" "7589033344"
+				"gid" "3628129456457995896"
+				"size" "17220040928"
+				"download" "7589029648"
 			}
 			"console_crossplay"
 			{
@@ -437,15 +437,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "3597893752256831499"
-				"size" "17220038706"
-				"download" "7589033344"
-			}
-			"xbox_crossplay"
-			{
-				"gid" "1711009088562328584"
-				"size" "16192187892"
-				"download" "7145804992"
+				"gid" "3628129456457995896"
+				"size" "17220040928"
+				"download" "7589029648"
 			}
 		}
 	}
@@ -460,9 +454,9 @@
 		{
 			"public"
 			{
-				"gid" "6874063007239127406"
-				"size" "17256275369"
-				"download" "7609662672"
+				"gid" "444009369936761693"
+				"size" "17256279670"
+				"download" "7609688688"
 			}
 			"console_crossplay"
 			{
@@ -472,15 +466,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "6874063007239127406"
-				"size" "17256275369"
-				"download" "7609662672"
-			}
-			"xbox_crossplay"
-			{
-				"gid" "6394313490116327435"
-				"size" "16227492138"
-				"download" "7168354736"
+				"gid" "444009369936761693"
+				"size" "17256279670"
+				"download" "7609688688"
 			}
 		}
 	}
@@ -495,9 +483,9 @@
 		{
 			"public"
 			{
-				"gid" "3816339626815715215"
+				"gid" "928883591252194555"
 				"size" "17177808511"
-				"download" "7587586432"
+				"download" "7587587696"
 			}
 			"console_crossplay"
 			{
@@ -507,15 +495,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "3816339626815715215"
+				"gid" "928883591252194555"
 				"size" "17177808511"
-				"download" "7587586432"
-			}
-			"xbox_crossplay"
-			{
-				"gid" "551306570137536481"
-				"size" "16151947796"
-				"download" "7142966336"
+				"download" "7587587696"
 			}
 		}
 	}
@@ -525,8 +507,8 @@
 	{
 		"public"
 		{
-			"buildid" "17664140"
-			"timeupdated" "1741622767"
+			"buildid" "17667904"
+			"timeupdated" "1741642202"
 		}
 		"console_crossplay"
 		{
@@ -536,15 +518,9 @@
 		}
 		"publicbeta"
 		{
-			"buildid" "17664140"
+			"buildid" "17667904"
 			"description" "Public beta for easy red 2 - expect some bugs"
-			"timeupdated" "1741622784"
-		}
-		"xbox_crossplay"
-		{
-			"buildid" "17223191"
-			"description" "Xbox Crossplay Compatibility"
-			"timeupdated" "1740476815"
+			"timeupdated" "1741642135"
 		}
 	}
 	"privatebranches" "1"
@@ -619,6 +595,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27874727"
-"_sha" "73cb35e00dbfd8fd19c7a67dbe3ad7c89b308eee"
-"_size" "11662"
+"_change_number" "27879597"
+"_sha" "26d2556c5fec110f17b4dc96897fcf1a1faae03b"
+"_size" "11149"
