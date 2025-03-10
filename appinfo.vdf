@@ -17,17 +17,17 @@
 			"id" "1133870_eula_1"
 			"name" "Space Engineers 2 EULA"
 			"url" "https://store.steampowered.com//eula/1133870_eula_1"
-			"version" "2"
+			"version" "3"
 		}
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "e548e9d4a53f242c59a817da1c79ead855c3b311/capsule_231x87.jpg"
+		"english" "5af40034bcdab540a67d51f0335698ae1b632203/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "0b78eb84f8ab157e3293755f8810e18d63dc9901/header.jpg"
 	}
 	"library_assets"
 	{
@@ -103,7 +103,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737974697"
+	"store_asset_mtime" "1741531441"
 	"associations"
 	{
 		"0"
@@ -147,6 +147,7 @@
 		}
 	}
 	"steam_release_date" "1738002042"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1133870"
 	"store_tags"
@@ -218,9 +219,9 @@
 		{
 			"public"
 			{
-				"gid" "6346637551443809979"
-				"size" "23244257767"
-				"download" "11696238048"
+				"gid" "1558294914528387790"
+				"size" "23724280042"
+				"download" "11887168128"
 			}
 		}
 	}
@@ -228,8 +229,8 @@
 	{
 		"public"
 		{
-			"buildid" "17321680"
-			"timeupdated" "1739286588"
+			"buildid" "17638100"
+			"timeupdated" "1741631233"
 		}
 	}
 	"privatebranches" "1"
@@ -259,6 +260,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27657598"
-"_sha" "30f6518acf6ac042e9389e73f512a94eec4a0085"
-"_size" "4618"
+"_change_number" "27877190"
+"_sha" "53f9a6765518939ddf5d4e9c12959b5ef1b5b96a"
+"_size" "4685"
