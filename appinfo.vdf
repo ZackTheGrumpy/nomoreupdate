@@ -192,9 +192,9 @@
 		{
 			"public"
 			{
-				"gid" "808021462748200687"
-				"size" "313288121"
-				"download" "96038704"
+				"gid" "6669389061941308280"
+				"size" "313356082"
+				"download" "96068672"
 			}
 			"1.0.0-preview.5"
 			{
@@ -207,6 +207,12 @@
 				"gid" "8207380261049340477"
 				"size" "477295176"
 				"download" "144874960"
+			}
+			"patch"
+			{
+				"gid" "6669389061941308280"
+				"size" "313356082"
+				"download" "96068672"
 			}
 		}
 	}
@@ -221,9 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "7129178779466827326"
-				"size" "281012146"
-				"download" "90954960"
+				"gid" "1510093438988348919"
+				"size" "280856875"
+				"download" "90854560"
 			}
 			"1.0.0-preview.5"
 			{
@@ -237,14 +243,20 @@
 				"size" "427650237"
 				"download" "138083408"
 			}
+			"patch"
+			{
+				"gid" "1510093438988348919"
+				"size" "280856875"
+				"download" "90854560"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17534096"
-			"timeupdated" "1740675776"
+			"buildid" "17653519"
+			"timeupdated" "1741560059"
 		}
 		"1.0.0-preview.5"
 		{
@@ -258,6 +270,12 @@
 			"description" "This branch contains the version 1.0.0-preview.4 and 0.3.2. Use only for existing bot compatibility reasons."
 			"timeupdated" "1727549121"
 		}
+		"patch"
+		{
+			"buildid" "17653519"
+			"description" "1.0.0-preview.6 patch"
+			"timeupdated" "1741538688"
+		}
 	}
 	"privatebranches" "1"
 }
@@ -269,6 +287,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27701038"
-"_sha" "7e45e9836244411eed1e3cfed4af3cadbb2f37d0"
-"_size" "4649"
+"_change_number" "27862498"
+"_sha" "fab7c881d2ebf25b438ad90560153ff2a64523d1"
+"_size" "4994"
