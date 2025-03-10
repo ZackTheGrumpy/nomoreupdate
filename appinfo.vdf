@@ -13,6 +13,7 @@
 	"languages"
 	{
 		"english" "1"
+		"schinese" "1"
 		"russian" "1"
 	}
 	"content_descriptors"
@@ -125,6 +126,7 @@
 		"category_38" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -140,6 +142,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1733741971"
 	"community_visible_stats" "1"
@@ -148,8 +155,8 @@
 	"store_tags"
 	{
 		"0" "19"
-		"1" "3859"
-		"2" "3843"
+		"1" "3843"
+		"2" "3859"
 		"3" "6730"
 		"4" "3814"
 		"5" "1774"
@@ -163,8 +170,8 @@
 		"13" "5923"
 		"14" "1659"
 		"15" "4166"
-		"16" "5125"
-		"17" "4004"
+		"16" "4004"
+		"17" "5125"
 		"18" "1702"
 		"19" "7926"
 	}
@@ -195,9 +202,9 @@
 		{
 			"public"
 			{
-				"gid" "9084271210612619573"
-				"size" "2279920208"
-				"download" "641141920"
+				"gid" "9065221330166904674"
+				"size" "2376182541"
+				"download" "670943584"
 			}
 		}
 	}
@@ -205,13 +212,45 @@
 	{
 		"public"
 		{
-			"buildid" "17500284"
-			"timeupdated" "1740492055"
+			"buildid" "17660441"
+			"timeupdated" "1741607564"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Ascension Studio/CAST"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Ascension Studio/CAST/"
+					"replace" ".config/unity3d/Ascension Studio/CAST"
+				}
+			}
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "27656882"
-"_sha" "a1e3e408608e24c3906add55f5a4f87419c3cfda"
-"_size" "3344"
+"_change_number" "27870495"
+"_sha" "f0f3d327db5c58bfe39ab32075d45c2ad7cfeede"
+"_size" "3941"
