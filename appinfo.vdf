@@ -206,10 +206,15 @@
 		}
 		"2"
 		{
+			"type" "publisher"
+			"name" "Gamersky"
+		}
+		"3"
+		{
 			"type" "franchise"
 			"name" "Top Indie Developers"
 		}
-		"3"
+		"4"
 		{
 			"type" "franchise"
 			"name" "Clever Trickster"
@@ -302,8 +307,8 @@
 		"5" "4328"
 		"6" "4018"
 		"7" "10235"
-		"8" "1654"
-		"9" "3810"
+		"8" "3810"
+		"9" "1654"
 		"10" "4562"
 		"11" "5923"
 		"12" "7332"
@@ -316,7 +321,7 @@
 		"19" "4711"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -351,15 +356,15 @@
 		{
 			"public"
 			{
-				"gid" "9046455072593041808"
-				"size" "3035981237"
-				"download" "1987895920"
+				"gid" "5614212371790356058"
+				"size" "3087460318"
+				"download" "2040505808"
 			}
 			"beta"
 			{
-				"gid" "9046455072593041808"
-				"size" "3035981237"
-				"download" "1987895920"
+				"gid" "5614212371790356058"
+				"size" "3087460318"
+				"download" "2040505808"
 			}
 		}
 	}
@@ -371,14 +376,14 @@
 	{
 		"public"
 		{
-			"buildid" "17532694"
-			"timeupdated" "1740668478"
+			"buildid" "17663334"
+			"timeupdated" "1741620021"
 		}
 		"beta"
 		{
-			"buildid" "17532694"
+			"buildid" "17663334"
 			"description" "Public testing branch"
-			"timeupdated" "1740668471"
+			"timeupdated" "1741619997"
 		}
 	}
 	"privatebranches" "1"
@@ -403,6 +408,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27698763"
-"_sha" "25c148d6d812e6228161bccb87134512b23d2655"
-"_size" "9151"
+"_change_number" "27873809"
+"_sha" "6430d945881a993a41fedfb2575ce19aa9e2670f"
+"_size" "9215"
