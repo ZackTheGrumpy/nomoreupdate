@@ -104,6 +104,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.619611017769145"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1655916741"
 	"associations"
 	{
@@ -115,12 +153,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "505 Games"
-		}
-		"2"
-		{
-			"type" "franchise"
-			"name" "505 Games Official"
+			"name" "Remedy Entertainment"
 		}
 	}
 	"primary_genre" "1"
@@ -231,8 +264,8 @@
 		"5" "1697"
 		"6" "4166"
 		"7" "3942"
-		"8" "1667"
-		"9" "4182"
+		"8" "4182"
+		"9" "1667"
 		"10" "3814"
 		"11" "1710"
 		"12" "1721"
@@ -250,7 +283,7 @@
 "extended"
 {
 	"developer" "Remedy Entertainment"
-	"publisher" "505 Games"
+	"publisher" "Remedy Entertainment"
 	"homepage" "https://controlgame.com"
 	"listofdlc" "1538740,1538741"
 	"dlcavailableonstore" "1"
@@ -294,24 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "8430668485897533117"
-				"size" "45986935143"
-				"download" "24137687568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "E42424AE0CD574F04F197DCB01EFC4FD"
-				"size" "38FF89F8BBA721841CD81B4A21D271A3"
-				"download" "ADFCCA5A11B34CBB44AA758F5EA107EB"
-			}
-			"utg_test"
-			{
-				"gid" "02D971B3D951556D4B7042A10CDC5B78"
-				"size" "67DF12A92622CEA066DFD1BE7E2BA937"
-				"download" "21919ED0A570703657E83E17657C45ED"
+				"gid" "2010851699385668579"
+				"size" "45003066571"
+				"download" "24047681888"
 			}
 		}
 	}
@@ -328,15 +346,6 @@
 				"gid" "8361276401184920724"
 				"size" "53238988982"
 				"download" "25738964016"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"utg_test"
-			{
-				"gid" "02EC7B300A1E2D3CE50C68DB44813BCE"
-				"size" "1A2E79246A5EE74FEBBAAC611EBEB6A3"
-				"download" "21DA03EB1C61E1C03506C8CB42C6C442"
 			}
 		}
 	}
@@ -356,15 +365,6 @@
 				"download" "64"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"utg_test"
-			{
-				"gid" "E684D28CACEE495B8FDEC3738D2C43BA"
-				"size" "D6EBFA9C390B8F796120DFC56F26C110"
-				"download" "A213A9A29AF78888C106BF8AD7463B10"
-			}
-		}
 	}
 	"1538741"
 	{
@@ -382,270 +382,24 @@
 				"download" "48"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"utg_test"
-			{
-				"gid" "C3537063312C0C0A48C464FDAD3AF12A"
-				"size" "D82ED49E708E2C33E51CAC6017B997F3"
-				"download" "977C42A4A7D8A8D9F4974F8F7253C60D"
-			}
-		}
 	}
+	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "6825214"
-			"timeupdated" "1623764555"
-		}
-		"test"
-		{
-			"buildid" "5589866"
-			"pwdrequired" "1"
-			"timeupdated" "1600954323"
-		}
-		"utg_test"
-		{
-			"buildid" "6825214"
-			"pwdrequired" "1"
-			"timeupdated" "1623073619"
+			"buildid" "17661193"
+			"timeupdated" "1741611901"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "8388608"
 	"maxnumfiles" "300"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default" "The Oldest House"
-				"#statusingame_research" "Research Sector"
-				"#statusingame_maintainance" "Maintenance Sector"
-				"#statusingame_containment" "Containment Sector"
-				"#statusingame_executive" "Executive Sector"
-				"#statusingame_expedition" "Expeditions"
-				"#statusingame_unknown" "Extradimensional Space"
-				"#statusingame_foundation" "The Foundation"
-				"#statusingame_investigations" "Investigations Sector"
-				"#statusingame_arcade" "Arcade Mode"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "Das Älteste Haus"
-				"#statusingame_research" "Forschungssektor"
-				"#statusingame_maintainance " "Wartungssektor"
-				"#statusingame_containment " "Isolationssektor"
-				"#statusingame_executive" "Geschäftsleitungssektor"
-				"#statusingame_expedition" "Expeditionen"
-				"#statusingame_unknown" "Extradimensionaler Raum"
-				"#statusingame_foundation" "Das Fundament"
-				"#statusingame_investigations" "Untersuchungssektor"
-				"#statusingame_arcade" "Arcade-Modus"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "L’Ancienne Maison"
-				"#statusingame_research" "Secteur de recherche"
-				"#statusingame_maintainance " "Secteur de maintenance"
-				"#statusingame_containment " "Secteur de confinement"
-				"#statusingame_executive" "Secteur exécutif"
-				"#statusingame_expedition" "Expéditions"
-				"#statusingame_unknown" "Espace extradimensionnel"
-				"#statusingame_foundation" "La Fondation"
-				"#statusingame_investigations" "Secteur des enquêtes"
-				"#statusingame_arcade" "Mode arcade"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "La Oldest House"
-				"#statusingame_research" "Settore ricerche"
-				"#statusingame_maintainance " "Settore manutenzione"
-				"#statusingame_containment " "Settore di contenimento"
-				"#statusingame_executive" "Settore esecutivo"
-				"#statusingame_expedition" "Spedizioni"
-				"#statusingame_unknown" "Spazio extradimensionale"
-				"#statusingame_foundation" "Le Fondamenta"
-				"#statusingame_investigations" "Settore investigativo"
-				"#statusingame_arcade" "Modalità Arcade"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "La Casa Inmemorial"
-				"#statusingame_research" "Sector de investigación"
-				"#statusingame_maintainance " "Sector de mantenimiento"
-				"#statusingame_containment " "Sector de contención"
-				"#statusingame_executive" "Sector ejecutivo"
-				"#statusingame_expedition" "Expediciones"
-				"#statusingame_unknown" "Espacio extradimensional"
-				"#statusingame_foundation" "La Fundación"
-				"#statusingame_investigations" "Sector de Investigaciones"
-				"#statusingame_arcade" "Modo Arcade"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "太古屋"
-				"#statusingame_research" "研究部"
-				"#statusingame_maintainance " "维修部"
-				"#statusingame_containment " "收容部"
-				"#statusingame_executive" "行政部"
-				"#statusingame_expedition" "探险"
-				"#statusingame_unknown" "超次元空间"
-				"#statusingame_foundation" "地基"
-				"#statusingame_investigations" "调查部"
-				"#statusingame_arcade" "街机模式"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "亙古之屋"
-				"#statusingame_research" "研究區"
-				"#statusingame_maintainance " "維修區"
-				"#statusingame_containment " "隔離區"
-				"#statusingame_executive" "行政區"
-				"#statusingame_expedition" "考察"
-				"#statusingame_unknown" "異次元空間"
-				"#statusingame_foundation" "構成區"
-				"#statusingame_investigations" "調查區"
-				"#statusingame_arcade" "街機模式"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "Старейший дом"
-				"#statusingame_research" "Сектор исследований"
-				"#statusingame_maintainance " "Сектор обслуживания"
-				"#statusingame_containment " "Сектор содержания"
-				"#statusingame_executive" "Сектор управления"
-				"#statusingame_expedition" "Экспедиции"
-				"#statusingame_unknown" "Экстрамерное пространство"
-				"#statusingame_foundation" "Основание"
-				"#statusingame_investigations" "Сектор расследований"
-				"#statusingame_arcade" "Аркада"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "オールデスト・ハウス"
-				"#statusingame_research" "研究セクター"
-				"#statusingame_maintainance " "メンテナンス・セクター"
-				"#statusingame_containment " "収容セクター"
-				"#statusingame_executive" "エグゼクティブ・セクター"
-				"#statusingame_expedition" "調査"
-				"#statusingame_unknown" "余剰次元空間"
-				"#statusingame_foundation" "基盤"
-				"#statusingame_investigations" "捜査セクター"
-				"#statusingame_arcade" "アーケードモード"
-			}
-		}
-		"polish"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "Najstarsza siedziba"
-				"#statusingame_research" "Sektor badawczy"
-				"#statusingame_maintainance " "Sektor techniczny"
-				"#statusingame_containment " "Sektor zamknięty"
-				"#statusingame_executive" "Sektor kierowniczy"
-				"#statusingame_expedition" "Ekspedycje"
-				"#statusingame_unknown" "Przestrzeń międzywymiarowa"
-				"#statusingame_foundation" "Fundament"
-				"#statusingame_investigations" "Sektor śledczy"
-				"#statusingame_arcade" "Tryb arkadowy"
-			}
-		}
-		"arabic"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "المنشأة القديمة"
-				"#statusingame_research" "قطاع الأبحاث"
-				"#statusingame_maintainance " "قطاع الصيانة"
-				"#statusingame_containment " "قطاع الاحتواء"
-				"#statusingame_executive" "القطاع التنفيذي"
-				"#statusingame_expedition" "البعثات"
-				"#statusingame_unknown" "فضاء الأبعاد الخارجية"
-				"#statusingame_foundation" "المؤسسة"
-				"#statusingame_investigations" "قطاع التحقيقات"
-				"#statusingame_arcade" "وضع الأركيد"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "A Antiga Casa"
-				"#statusingame_research" "Setor De Pesquisa"
-				"#statusingame_maintainance " "Setor de Manutenção"
-				"#statusingame_containment " "Setor de Contenção"
-				"#statusingame_executive" "Setor Executivo"
-				"#statusingame_expedition" "Expedições"
-				"#statusingame_unknown" "Espaço Extra-Dimensional"
-				"#statusingame_foundation" "A Fundação"
-				"#statusingame_investigations" "Setor de Investigações"
-				"#statusingame_arcade" "Modo Arcade"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#statusingame" "{#StatusInGame_%sector%}"
-				"#statusingame_default " "올디스트 하우스"
-				"#statusingame_research" "연구 구역"
-				"#statusingame_maintainance " "유지관리 구역"
-				"#statusingame_containment " "격리 구역"
-				"#statusingame_executive" "임원 구역"
-				"#statusingame_expedition" "탐사"
-				"#statusingame_unknown" "다른 차원의 공간"
-				"#statusingame_foundation" "파운데이션"
-				"#statusingame_investigations" "조사 구역"
-				"#statusingame_arcade" "아케이드 모드"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23611576"
-"_sha" "d5706c2c13bdf21251f28bf9e92a2fc5d51374ad"
-"_size" "15882"
+"_change_number" "27871515"
+"_sha" "1d60b51cc05404ff04670b4cedc8d18366c25682"
+"_size" "6970"
