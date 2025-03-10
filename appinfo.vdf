@@ -258,20 +258,20 @@
 		"2" "21"
 		"3" "4325"
 		"4" "3871"
-		"5" "4191"
-		"6" "1684"
-		"7" "4182"
+		"5" "1684"
+		"6" "4182"
+		"7" "4191"
 		"8" "4434"
 		"9" "3839"
 		"10" "4085"
-		"11" "4726"
-		"12" "7569"
-		"13" "10695"
+		"11" "7569"
+		"12" "10695"
+		"13" "4726"
 		"14" "1756"
 		"15" "4136"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -308,78 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "1183762333350076885"
-				"size" "1136892497"
-				"download" "629486096"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"debug_01"
-			{
-				"gid" "9300E7239BB7A255A353035D93661F53"
-				"size" "CA5AE6932F23016C11276339179DBAC4"
-				"download" "3AEA10536D763A1DE627C287BB57E69B"
-			}
-			"debug_03"
-			{
-				"gid" "4213FC4FEE334254D3EDC1C4D52CA62E"
-				"size" "B0DB39EFE98F3C93FB7348824593B58E"
-				"download" "53C09EB75527BE36779AB217ECC07624"
-			}
-			"debug_asia"
-			{
-				"gid" "78C94A9491D374FFBAD4114670E0D013"
-				"size" "EBF413E7B7B02960D4BEACAC880C75C2"
-				"download" "09648DCC469F083CEF684267B9D6657A"
-			}
-			"debug_menu"
-			{
-				"gid" "5526E20D9C014E3602AC810DA3A29614"
-				"size" "94BCDEA8754E9A6B9BFA7CAA39DB246E"
-				"download" "02DAEEBC60FBC470A4833CDAD54C84BC"
-			}
-			"debug_v103"
-			{
-				"gid" "5B249E2FFBD7F48B0AB091D34F7A2C97"
-				"size" "3198736C04E69BD8C326FE6552486BFE"
-				"download" "8E898BE56F13FD268403D13A685783FC"
-			}
-			"development"
-			{
-				"gid" "7672D2D45A95FB6ABBBC8F763CFFAA59"
-				"size" "9761DF8779F644721C26FC4F398E9843"
-				"download" "E0DF4BF24C06707097A3115A07F3E430"
-			}
-			"master_v103"
-			{
-				"gid" "3D784033338DB731A704DA023037412A"
-				"size" "2AA22E3E085AA00130B04277953885BC"
-				"download" "174DD1AAC7AA401CC84B4A564AFDC370"
-			}
-			"mutan_test"
-			{
-				"gid" "C7270EB308903F9F85048361F7184B77"
-				"size" "44EB4AEC81685640794C1D666BB1DED2"
-				"download" "C11A032185BD294B3C5A6C1CCD7D75C6"
-			}
-			"qa_01"
-			{
-				"gid" "ED1A09B727CE264E56076327CD27BC23"
-				"size" "9DA2C543EC8BDFB0DEC70098FB562ADE"
-				"download" "B3DAF8B2AF243CC56745FC6EB832212B"
-			}
-			"qa_03"
-			{
-				"gid" "DAC83C2EE49A4C5E617627952B9322A7"
-				"size" "FEDDF817A4A2975BBD7CEAFB3FCCCB1B"
-				"download" "F551B7EE513F3168AA740629E8C36111"
-			}
-			"qa_asia"
-			{
-				"gid" "2AB3508FD0891F1104409B61E05BCD14"
-				"size" "D1706EDF4DB6E5887224A16302BE631F"
-				"download" "01E223CF6F90B391A96F9681DA911BC3"
+				"gid" "3055011510066904543"
+				"size" "1130159201"
+				"download" "623311360"
 			}
 		}
 	}
@@ -395,151 +326,17 @@
 				"download" "1856"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"debug_01"
-			{
-				"gid" "DD79D215978211D48891A36BA5FBED90"
-				"size" "92506D6DB259F61950B719E60458C754"
-				"download" "04913F1717F0DD21301B84D04F5D2BC0"
-			}
-			"debug_03"
-			{
-				"gid" "EEAB72C4179C926688698124CFABF020"
-				"size" "018677ED99A8688E7BF541E1A9EA2481"
-				"download" "DA71D00DE81DDC456EF6B528672F546F"
-			}
-			"debug_asia"
-			{
-				"gid" "16061A41B9418A68FBAA730DD1753D04"
-				"size" "C05879EE9649EA681597F8C2794F7368"
-				"download" "1E62FAA35CC02BDE7936DE04EB2DE941"
-			}
-			"debug_menu"
-			{
-				"gid" "4C1E22D24D6084F824910958F210479B"
-				"size" "6A7A6DC2900147471C6320CCF5EA550D"
-				"download" "A801205E9C3BEE2D1895D773C5A0C3EC"
-			}
-			"debug_v103"
-			{
-				"gid" "7215A7FD8E92CE2E3993C4832DCDE3D7"
-				"size" "082DC9C4E5C6BC5A51F1DDB24940DC53"
-				"download" "3EE0B6E9AC4BAD1DCE3C0997CB7235FF"
-			}
-			"development"
-			{
-				"gid" "1BD94F659652C286AAB7138F28A3FE8A"
-				"size" "DAED76090CEB015C5D8DAE51126E1811"
-				"download" "D74E80A09EC826B49013CF8EE7A179E5"
-			}
-			"master_v103"
-			{
-				"gid" "CCA5CC3BB03F0C70E33765816EC8CCF3"
-				"size" "C4FA8058E5F1F4B2FC5E6E4E4DCAA5D0"
-				"download" "872DCE7DB4E6AE62FE0D79B339ED4B06"
-			}
-			"mutan_test"
-			{
-				"gid" "00F369BA4598D0C1294937FF75FBCCC6"
-				"size" "2323C8921C73B6EBB076DDF1D1947B51"
-				"download" "6705476570AFE115CC998BE282A155C1"
-			}
-			"qa_01"
-			{
-				"gid" "24A8D3D1539D514EE21D2A2C37501A08"
-				"size" "C5D8D544266AC896E2CC31FE2224D43E"
-				"download" "FB7CE58337B573E55CACD3A002F9D997"
-			}
-			"qa_03"
-			{
-				"gid" "F03DE0D14234B106AEAFFAB22311821D"
-				"size" "F764E6E757834BF42C0EFFF9DDA34559"
-				"download" "EA882101B8CA081C17C35F405ADE629D"
-			}
-			"qa_asia"
-			{
-				"gid" "78921B2C0CABC475B531A527DF84211A"
-				"size" "264EA7B71F4B61D3521960723A544B09"
-				"download" "A459492A564C621B5F5554844779D6D6"
-			}
-		}
 	}
 	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11680483"
-			"timeupdated" "1689616824"
-		}
-		"debug_01"
-		{
-			"buildid" "11533748"
-			"pwdrequired" "1"
-			"timeupdated" "1687426490"
-		}
-		"debug_03"
-		{
-			"buildid" "11533748"
-			"pwdrequired" "1"
-			"timeupdated" "1687426497"
-		}
-		"debug_asia"
-		{
-			"buildid" "11533748"
-			"pwdrequired" "1"
-			"timeupdated" "1687426505"
-		}
-		"debug_menu"
-		{
-			"buildid" "11533748"
-			"pwdrequired" "1"
-			"timeupdated" "1687426513"
-		}
-		"debug_v103"
-		{
-			"buildid" "11663331"
-			"pwdrequired" "1"
-			"timeupdated" "1688977242"
-		}
-		"development"
-		{
-			"buildid" "11541405"
-			"pwdrequired" "1"
-			"timeupdated" "1687495550"
-		}
-		"master_v103"
-		{
-			"buildid" "11680483"
-			"pwdrequired" "1"
-			"timeupdated" "1689133045"
-		}
-		"mutan_test"
-		{
-			"buildid" "11680483"
-			"pwdrequired" "1"
-			"timeupdated" "1689132832"
-		}
-		"qa_01"
-		{
-			"buildid" "11541405"
-			"pwdrequired" "1"
-			"timeupdated" "1687495558"
-		}
-		"qa_03"
-		{
-			"buildid" "11541405"
-			"pwdrequired" "1"
-			"timeupdated" "1687495565"
-		}
-		"qa_asia"
-		{
-			"buildid" "11541405"
-			"pwdrequired" "1"
-			"timeupdated" "1687495572"
+			"buildid" "17449860"
+			"timeupdated" "1741644076"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -555,3 +352,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27879972"
+"_sha" "9bc97004df4d3f753775a56d040cec41122dcced"
+"_size" "6709"
