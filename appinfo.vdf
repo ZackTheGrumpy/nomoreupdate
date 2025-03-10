@@ -91,13 +91,14 @@
 	{
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en,zh-cn"
+		"library_hero_blur" "en"
 		"library_logo" "en,zh-cn"
 		"library_header" "en,zh-cn"
 		"logo_position"
 		{
-			"pinned_position" "CenterCenter"
-			"width_pct" "37.249822676500344"
-			"height_pct" "85.74363704416638"
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.840752235650115"
+			"height_pct" "100"
 		}
 	}
 	"library_assets_full"
@@ -106,12 +107,12 @@
 		{
 			"image"
 			{
-				"english" "1a53cd7f84c7d82b68b36992ea557d5066015e69/library_600x900.jpg"
+				"english" "d89944c727d1c07b1fc6836fff02c58adcaf960f/library_600x900.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "1a53cd7f84c7d82b68b36992ea557d5066015e69/library_600x900_2x.jpg"
+				"english" "d89944c727d1c07b1fc6836fff02c58adcaf960f/library_600x900_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 			}
 		}
@@ -119,49 +120,56 @@
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "f7fd06bab47cc9a8efa4b2eef14d71d989a7047a/library_hero.jpg"
 				"schinese" "library_hero_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "f7fd06bab47cc9a8efa4b2eef14d71d989a7047a/library_hero_2x.jpg"
 				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f7fd06bab47cc9a8efa4b2eef14d71d989a7047a/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "97c202f46c857dd36b50872b4a6907188b74fffe/logo.png"
 				"schinese" "logo_schinese.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "97c202f46c857dd36b50872b4a6907188b74fffe/logo_2x.png"
 				"schinese" "logo_schinese_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "CenterCenter"
-				"width_pct" "37.249822676500344"
-				"height_pct" "85.74363704416638"
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.840752235650115"
+				"height_pct" "100"
 			}
 		}
 		"library_header"
 		{
 			"image2x"
 			{
-				"english" "b91b904116479e46ae1ae0457dcab0e2386a6300/library_header_2x.jpg"
+				"english" "704cecc4cce49f4f3d9aacc0be3988effbf1a5a3/library_header_2x.jpg"
 				"schinese" "library_header_schinese_2x.jpg"
 			}
 			"image"
 			{
-				"english" "b91b904116479e46ae1ae0457dcab0e2386a6300/library_header.jpg"
+				"english" "704cecc4cce49f4f3d9aacc0be3988effbf1a5a3/library_header.jpg"
 				"schinese" "library_header_schinese.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1733756992"
+	"store_asset_mtime" "1741601191"
 	"associations"
 	{
 		"0"
@@ -289,8 +297,8 @@
 		"13" "87918"
 		"14" "1654"
 		"15" "3920"
-		"16" "4166"
-		"17" "599"
+		"16" "599"
+		"17" "4166"
 		"18" "5716"
 		"19" "597"
 	}
@@ -414,9 +422,9 @@
 		{
 			"public"
 			{
-				"gid" "7223580701734711696"
-				"size" "665466944"
-				"download" "362320192"
+				"gid" "780573816564745429"
+				"size" "680458778"
+				"download" "370938576"
 			}
 			"1.0.0.14"
 			{
@@ -456,9 +464,9 @@
 			}
 			"moddebug"
 			{
-				"gid" "6482619417689516500"
-				"size" "665466939"
-				"download" "362320608"
+				"gid" "8577556235047969075"
+				"size" "680458783"
+				"download" "370937488"
 			}
 		}
 	}
@@ -472,9 +480,9 @@
 		{
 			"public"
 			{
-				"gid" "8431002782037031884"
-				"size" "780429034"
-				"download" "371264192"
+				"gid" "4259904312680520826"
+				"size" "798578725"
+				"download" "380258656"
 			}
 			"1.0.0.14"
 			{
@@ -514,9 +522,9 @@
 			}
 			"moddebug"
 			{
-				"gid" "6118226470367388827"
-				"size" "780429037"
-				"download" "371263968"
+				"gid" "7099133287814132546"
+				"size" "798578724"
+				"download" "380258704"
 			}
 		}
 	}
@@ -524,8 +532,8 @@
 	{
 		"public"
 		{
-			"buildid" "17107281"
-			"timeupdated" "1738318940"
+			"buildid" "17528257"
+			"timeupdated" "1741601120"
 		}
 		"1.0.0.14"
 		{
@@ -565,9 +573,9 @@
 		}
 		"moddebug"
 		{
-			"buildid" "17107338"
+			"buildid" "17528255"
 			"description" "For mod debugging"
-			"timeupdated" "1738318767"
+			"timeupdated" "1741601042"
 		}
 	}
 	"privatebranches" "1"
@@ -578,6 +586,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27251099"
-"_sha" "1f49b1174ea548ecfa0a404e0cdd121009acf221"
-"_size" "11045"
+"_change_number" "27868926"
+"_sha" "92d03ab27b07fe0fec9983b79b020d17c7069019"
+"_size" "11343"
