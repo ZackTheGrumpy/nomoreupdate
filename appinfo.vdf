@@ -10,6 +10,11 @@
 	"osarch" ""
 	"osextended" ""
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
 	"aicontenttype" "1"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -120,6 +125,7 @@
 		}
 	}
 	"steam_release_date" "1727572901"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "3141500"
 	"store_tags"
@@ -171,9 +177,9 @@
 		{
 			"public"
 			{
-				"gid" "5903674183549422815"
-				"size" "293209493"
-				"download" "84383328"
+				"gid" "809740104440976605"
+				"size" "293211517"
+				"download" "84384240"
 			}
 		}
 	}
@@ -181,12 +187,12 @@
 	{
 		"public"
 		{
-			"buildid" "17038469"
-			"timeupdated" "1737111887"
+			"buildid" "17658942"
+			"timeupdated" "1741596719"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27041105"
-"_sha" "f6900fe684d3986efa1d95332fd1b82e4460f6f6"
-"_size" "3107"
+"_change_number" "27867730"
+"_sha" "ad1f50d22f71c5f064bc5a07c8fab11093744cf6"
+"_size" "3198"
