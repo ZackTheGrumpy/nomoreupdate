@@ -25,13 +25,15 @@
 		"0" "2"
 		"1" "5"
 	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "1641ef2316275d02f37a96f40a2613a037e9ac26/capsule_231x87.jpg"
+		"english" "c2a66b1ac781580e470840a6d94af094614c9745/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "c2ce8d4229554644d88db87b5dbb5af5c0a97b85/header.jpg"
 	}
 	"library_assets"
 	{
@@ -99,11 +101,15 @@
 		{
 			"image"
 			{
-				"english" "132a31999ee8568bee87440b7c3fe29e69a5178f/library_header.jpg"
+				"english" "c2ce8d4229554644d88db87b5dbb5af5c0a97b85/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c2ce8d4229554644d88db87b5dbb5af5c0a97b85/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1732625241"
+	"store_asset_mtime" "1741622690"
 	"associations"
 	{
 		"0"
@@ -128,6 +134,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -197,7 +204,7 @@
 		"19" "492"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -252,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "802642721057781792"
-				"size" "7707065252"
-				"download" "7628697632"
+				"gid" "3280113439892095687"
+				"size" "7948607885"
+				"download" "7872287824"
 			}
 			"ue4-v.1.2.3"
 			{
@@ -268,8 +275,8 @@
 	{
 		"public"
 		{
-			"buildid" "16603163"
-			"timeupdated" "1733166221"
+			"buildid" "17665019"
+			"timeupdated" "1741636142"
 		}
 		"ue4-v.1.2.3"
 		{
@@ -300,6 +307,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26577388"
-"_sha" "166323959569efb6b3053420ff362465b281d1f0"
-"_size" "5052"
+"_change_number" "27878287"
+"_sha" "5699c2e9370d0988f069cea3d8593dfd88c01d49"
+"_size" "5286"
