@@ -99,7 +99,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725523551"
+	"store_asset_mtime" "1740758094"
 	"associations"
 	{
 		"0"
@@ -200,14 +200,14 @@
 		"19" "492"
 	}
 	"review_score" "7"
-	"review_percentage" "92"
+	"review_percentage" "89"
 }
 "extended"
 {
 	"developer" "Towndarktales"
 	"publisher" "Towndarktales"
 	"homepage" "http://towndarktales.com/"
-	"listofdlc" "3205510,3407440"
+	"listofdlc" "3205510,3407440,3534180"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -277,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "3675087929670875672"
-				"size" "4384426491"
-				"download" "4115814496"
+				"gid" "7125932579372577361"
+				"size" "4670825587"
+				"download" "4392583568"
 			}
 		}
 	}
@@ -307,9 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "5976076764839560628"
-				"size" "4586592677"
-				"download" "4139751248"
+				"gid" "5637008979328615289"
+				"size" "4872991773"
+				"download" "4416520320"
 			}
 		}
 	}
@@ -324,9 +324,9 @@
 		{
 			"public"
 			{
-				"gid" "4457492997209538507"
-				"size" "4586609442"
-				"download" "4139751248"
+				"gid" "6868860122798818994"
+				"size" "4873008538"
+				"download" "4416520320"
 			}
 		}
 	}
@@ -337,9 +337,22 @@
 		{
 			"public"
 			{
-				"gid" "7439628913016331717"
-				"size" "405044618"
-				"download" "395177568"
+				"gid" "2935031244512859120"
+				"size" "405171356"
+				"download" "395210464"
+			}
+		}
+	}
+	"3534180"
+	{
+		"dlcappid" "3534180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2142084950272027927"
+				"size" "967301134"
+				"download" "935983760"
 			}
 		}
 	}
@@ -347,8 +360,8 @@
 	{
 		"public"
 		{
-			"buildid" "16860043"
-			"timeupdated" "1735296095"
+			"buildid" "17655342"
+			"timeupdated" "1741561771"
 		}
 	}
 }
@@ -368,6 +381,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26796143"
-"_sha" "d5fdc051f8f8917993b0cac77184b93d158927ab"
-"_size" "5706"
+"_change_number" "27862697"
+"_sha" "ae2b37012d9f2bb50c96cf44710e4a1390557542"
+"_size" "5897"
