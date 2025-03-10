@@ -425,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "5005411317009756111"
-				"size" "17191028756"
-				"download" "7579870368"
+				"gid" "3597893752256831499"
+				"size" "17220038706"
+				"download" "7589033344"
 			}
 			"console_crossplay"
 			{
@@ -437,9 +437,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "5005411317009756111"
-				"size" "17191028756"
-				"download" "7579870368"
+				"gid" "3597893752256831499"
+				"size" "17220038706"
+				"download" "7589033344"
 			}
 			"xbox_crossplay"
 			{
@@ -460,9 +460,9 @@
 		{
 			"public"
 			{
-				"gid" "1472109544333207404"
-				"size" "17227256498"
-				"download" "7601798736"
+				"gid" "6874063007239127406"
+				"size" "17256275369"
+				"download" "7609662672"
 			}
 			"console_crossplay"
 			{
@@ -472,9 +472,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "1472109544333207404"
-				"size" "17227256498"
-				"download" "7601798736"
+				"gid" "6874063007239127406"
+				"size" "17256275369"
+				"download" "7609662672"
 			}
 			"xbox_crossplay"
 			{
@@ -495,9 +495,9 @@
 		{
 			"public"
 			{
-				"gid" "7337723611260218397"
-				"size" "17148850433"
-				"download" "7578764112"
+				"gid" "3816339626815715215"
+				"size" "17177808511"
+				"download" "7587586432"
 			}
 			"console_crossplay"
 			{
@@ -507,9 +507,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "7337723611260218397"
-				"size" "17148850433"
-				"download" "7578764112"
+				"gid" "3816339626815715215"
+				"size" "17177808511"
+				"download" "7587586432"
 			}
 			"xbox_crossplay"
 			{
@@ -525,8 +525,8 @@
 	{
 		"public"
 		{
-			"buildid" "17646786"
-			"timeupdated" "1741444175"
+			"buildid" "17664140"
+			"timeupdated" "1741622767"
 		}
 		"console_crossplay"
 		{
@@ -536,9 +536,9 @@
 		}
 		"publicbeta"
 		{
-			"buildid" "17646786"
+			"buildid" "17664140"
 			"description" "Public beta for easy red 2 - expect some bugs"
-			"timeupdated" "1741440603"
+			"timeupdated" "1741622784"
 		}
 		"xbox_crossplay"
 		{
@@ -619,6 +619,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27851328"
-"_sha" "48df109bc91750079914aef84673a5a9102de130"
+"_change_number" "27874727"
+"_sha" "73cb35e00dbfd8fd19c7a67dbe3ad7c89b308eee"
 "_size" "11662"
