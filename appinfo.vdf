@@ -232,9 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "2552984015545049758"
-				"size" "12267841986"
-				"download" "10209167328"
+				"gid" "1871401375554086487"
+				"size" "12267730950"
+				"download" "10209098592"
 			}
 			"1.0.11"
 			{
@@ -286,9 +286,9 @@
 			}
 			"open_beta"
 			{
-				"gid" "2552984015545049758"
-				"size" "12267841986"
-				"download" "10209167328"
+				"gid" "1871401375554086487"
+				"size" "12267730950"
+				"download" "10209098592"
 			}
 		}
 	}
@@ -299,8 +299,8 @@
 	{
 		"public"
 		{
-			"buildid" "17629900"
-			"timeupdated" "1741320900"
+			"buildid" "17655541"
+			"timeupdated" "1741564405"
 		}
 		"1.0.11"
 		{
@@ -352,9 +352,9 @@
 		}
 		"open_beta"
 		{
-			"buildid" "17629900"
+			"buildid" "17655541"
 			"description" "Open beta"
-			"timeupdated" "1741320987"
+			"timeupdated" "1741564416"
 		}
 	}
 }
@@ -366,6 +366,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "27828608"
-"_sha" "42522e54717a40c4f899287a08623c9ccadf52db"
+"_change_number" "27862993"
+"_sha" "2687116d911dfecf71d8490847216d228ae00a5e"
 "_size" "6867"
