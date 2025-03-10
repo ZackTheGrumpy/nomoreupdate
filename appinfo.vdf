@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "4752792742715822323"
-				"size" "458345607"
-				"download" "215303856"
+				"gid" "5288614009521539417"
+				"size" "510018593"
+				"download" "258865936"
 			}
 			"previous_version"
 			{
@@ -1041,8 +1041,8 @@
 	{
 		"public"
 		{
-			"buildid" "17588708"
-			"timeupdated" "1741596241"
+			"buildid" "17621600"
+			"timeupdated" "1741606831"
 		}
 		"previous_version"
 		{
@@ -1055,6 +1055,6 @@
 	"appmanagesdlc" "1"
 }
 "_missing_token" "False"
-"_change_number" "27867593"
-"_sha" "7d575dc37b57842f139ff1940d52a88e1ff7c348"
+"_change_number" "27870270"
+"_sha" "7f70c4b8774749576742b5e22d11e19841ddd715"
 "_size" "16353"
