@@ -87,6 +87,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1719676111"
 	"associations"
 	{
@@ -139,8 +181,8 @@
 		"4" "17389"
 		"5" "4145"
 		"6" "15172"
-		"7" "5613"
-		"8" "122"
+		"7" "122"
+		"8" "5613"
 		"9" "11014"
 		"10" "4486"
 		"11" "3871"
@@ -154,7 +196,7 @@
 		"19" "4711"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -208,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "6701930395197568983"
-				"size" "801283848"
-				"download" "471534416"
+				"gid" "4572733530515560362"
+				"size" "857327680"
+				"download" "519983424"
 			}
 			"sacredfire252"
 			{
@@ -273,27 +315,6 @@
 				"download" "423064768"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "52C09A097D23D883CCC038BE906ABAC0"
-				"size" "CEDA1D18FEEDA9515383B4B4B4A10395"
-				"download" "08E60CB5BC468C91F4B93E11C3270C2F"
-			}
-			"testing3"
-			{
-				"gid" "04669636D97EE2A21585BAD34A84B125"
-				"size" "B21D35C456AF48A4F518662868139FCD"
-				"download" "39B12F4B8AA315CE1EF324F5634786FD"
-			}
-			"testing2"
-			{
-				"gid" "CB4636E4A1B7FEDDCD814466618F190C"
-				"size" "BA3035D583102DB8AA412EA043510095"
-				"download" "92FED09E90B89DF462F8DFBEDBF3CEE9"
-			}
-		}
 	}
 	"900402"
 	{
@@ -305,9 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "78310292881854947"
-				"size" "795165043"
-				"download" "470051824"
+				"gid" "4567179491400730566"
+				"size" "851208875"
+				"download" "518391328"
 			}
 			"sacredfire252"
 			{
@@ -370,27 +391,6 @@
 				"download" "422033200"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "AD0F534EBA6426613D352B12B2F3E592"
-				"size" "0106C81CA4158437A77AD1472683CC99"
-				"download" "ECE67DA99438A2482B6E3C5E668928F9"
-			}
-			"testing3"
-			{
-				"gid" "AC68B024C95978F2FB2603049F35FA06"
-				"size" "69DE9F2248B0D024DCC6893FA0B5550F"
-				"download" "92CCEEE27C63903F8DB93F6466292B54"
-			}
-			"testing2"
-			{
-				"gid" "3BEE2D7259270FBB0BF41B4CD97FD8B0"
-				"size" "DA6F5F7F0C6A3C5C06E42D31508246D7"
-				"download" "36444B1AC03B4796D58F3B31DCAEF66F"
-			}
-		}
 	}
 	"900403"
 	{
@@ -402,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "1783982282769748474"
-				"size" "803781535"
-				"download" "471265984"
+				"gid" "2062185322783928472"
+				"size" "859825879"
+				"download" "519713600"
 			}
 			"sacredfire252"
 			{
@@ -467,34 +467,13 @@
 				"download" "424566304"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "48280025EC70E54165937818B8F7D6CA"
-				"size" "70512B75098C1FEE99E9DFC3921E1D3D"
-				"download" "9BE5E0725715B14B33A47A6931E88087"
-			}
-			"testing3"
-			{
-				"gid" "D3C564881F5A3F5E5C1DE44B7E71C822"
-				"size" "2FFCFB82B09D975FF3ABCD231437B9EF"
-				"download" "1418EAB5B9ACBE291494E18C6DB9BBDA"
-			}
-			"testing2"
-			{
-				"gid" "DF70ECCBE324C49806B4B8D58EF4807C"
-				"size" "C7C38BFD0E985D087D05446046E25E00"
-				"download" "B759939AB909D97ACF16384E027FF20C"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11506256"
-			"timeupdated" "1687183166"
+			"buildid" "17645379"
+			"timeupdated" "1741702358"
 		}
 		"sacredfire252"
 		{
@@ -556,23 +535,10 @@
 			"description" "Sacred Fire version 2.6.2"
 			"timeupdated" "1665149786"
 		}
-		"testing"
-		{
-			"buildid" "11506256"
-			"pwdrequired" "1"
-			"timeupdated" "1687183212"
-		}
-		"testing3"
-		{
-			"buildid" "11444782"
-			"pwdrequired" "1"
-			"timeupdated" "1686518243"
-		}
-		"testing2"
-		{
-			"buildid" "14881859"
-			"pwdrequired" "1"
-			"timeupdated" "1719673717"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27892240"
+"_sha" "fc483e7ecc30c33b8b9ec7299ab9f957267e2f3a"
+"_size" "10181"
