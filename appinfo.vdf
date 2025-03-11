@@ -15,6 +15,9 @@
 	"name_localized"
 	{
 		"schinese" "铁路调度模拟器"
+		"tchinese" "鐵道調度模擬器"
+		"japanese" "鉄道運行管理シミュレーター"
+		"koreana" "철도관제 시뮬레이터"
 	}
 	"languages"
 	{
@@ -81,12 +84,18 @@
 	"small_capsule"
 	{
 		"english" "1b082b046c9fa62e99615a61430d9349a9623704/capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"schinese" "7de8f1b252ced5f9bc6010476287f2087fcc6c10/capsule_231x87_schinese.jpg"
+		"tchinese" "3e60516cba75ddb73b9da5fed65c71e7ee767f13/capsule_231x87_tchinese.jpg"
+		"japanese" "5f6b3ce639c065703cb4105b958ff30e913f07cc/capsule_231x87_japanese.jpg"
+		"koreana" "2638a23cf285b22803afd8d2bea1ca18fb372305/capsule_231x87_koreana.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
+		"schinese" "3850294d6617dbef52e85557e58326eaba1ce345/header_schinese.jpg"
+		"tchinese" "0a79a04392f6d0207567cc3d714a0867fa3737b8/header_tchinese.jpg"
+		"japanese" "f2508c0f57fc6e8d4faec580faa735e551caac7b/header_japanese.jpg"
+		"koreana" "c022669d3a9227e47a94b3df489af12097f4f4d3/header_koreana.jpg"
 	}
 	"library_assets"
 	{
@@ -155,7 +164,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726650297"
+	"store_asset_mtime" "1741689781"
 	"associations"
 	{
 		"0"
@@ -191,6 +200,10 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_29" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_1" "1"
+		"category_9" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -265,25 +278,25 @@
 	"store_tags"
 	{
 		"0" "1643"
-		"1" "12472"
-		"2" "3810"
-		"3" "7332"
-		"4" "4695"
-		"5" "4328"
-		"6" "1616"
-		"7" "6129"
-		"8" "255534"
-		"9" "1664"
-		"10" "599"
-		"11" "16689"
-		"12" "3813"
-		"13" "10383"
-		"14" "4182"
-		"15" "1654"
-		"16" "9"
-		"17" "3871"
+		"1" "3810"
+		"2" "12472"
+		"3" "4695"
+		"4" "6129"
+		"5" "1664"
+		"6" "4328"
+		"7" "16689"
+		"8" "7332"
+		"9" "255534"
+		"10" "1616"
+		"11" "599"
+		"12" "8945"
+		"13" "9204"
+		"14" "3813"
+		"15" "9"
+		"16" "10383"
+		"17" "1654"
 		"18" "4094"
-		"19" "1036"
+		"19" "4182"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -293,7 +306,7 @@
 	"developer" "Bitrich.info"
 	"publisher" "Bitrich.info"
 	"homepage" "https://railroute.eu"
-	"listofdlc" "2943430"
+	"listofdlc" "2943430,3570380"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -346,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "2327350083628704701"
-				"size" "693582473"
-				"download" "357358176"
+				"gid" "1958273358319901346"
+				"size" "717104717"
+				"download" "365970368"
 			}
 			"backwards"
 			{
@@ -447,9 +460,9 @@
 		{
 			"public"
 			{
-				"gid" "5489317056376778553"
-				"size" "744722620"
-				"download" "369399648"
+				"gid" "6139306681964349758"
+				"size" "768234696"
+				"download" "378005296"
 			}
 			"backwards"
 			{
@@ -548,9 +561,9 @@
 		{
 			"public"
 			{
-				"gid" "8841884563631138986"
-				"size" "722983343"
-				"download" "354671664"
+				"gid" "288811992066169492"
+				"size" "746494393"
+				"download" "363274832"
 			}
 			"backwards"
 			{
@@ -643,8 +656,8 @@
 	{
 		"public"
 		{
-			"buildid" "17170812"
-			"timeupdated" "1738159846"
+			"buildid" "17660100"
+			"timeupdated" "1741710555"
 		}
 		"backwards"
 		{
@@ -810,6 +823,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27218609"
-"_sha" "e267147f61ec26271069a389caa280bfe4030d14"
-"_size" "14788"
+"_change_number" "27896251"
+"_sha" "a11dad7670dfcbc030dff3be7a11d72ceefb0b62"
+"_size" "15592"
