@@ -18,7 +18,7 @@
 			"id" "1072040_eula_0"
 			"name" "Panzer Corps 2 EULA"
 			"url" "https://store.steampowered.com//eula/1072040_eula_0"
-			"version" "1"
+			"version" "2"
 		}
 	}
 	"languages"
@@ -236,7 +236,7 @@
 	"publisher" "Slitherine Ltd."
 	"homepage" "http://slitherine.com/products/product.asp\?gid=684"
 	"gamemanualurl" "https://store.steampowered.com/manual/1072040/"
-	"listofdlc" "1233360,1275430,1351260,1351261,1438150,1526010,1652450,1688110,1938820,2130950,2393020,2393021,2711250,3023770"
+	"listofdlc" "1233360,1275430,1351260,1351261,1438150,1526010,1652450,1688110,1938820,2130950,2393020,2393021,2711250,3023770,3167270"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -250,6 +250,8 @@
 			"type" "default"
 		}
 	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -290,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "8736305454370146968"
-				"size" "17589759747"
-				"download" "4920026768"
+				"gid" "1912819675102497582"
+				"size" "18207759087"
+				"download" "5094449472"
 			}
 			"1.01.14"
 			{
@@ -313,33 +315,6 @@
 				"download" "4141648256"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"petbranch"
-			{
-				"gid" "CE1166AA7069E9B3366B08966F146900"
-				"size" "FC6AC31C9BA55610F5B64DE31C48C33E"
-				"download" "767E0F9E26F306926E11486577E84508"
-			}
-			"devtest"
-			{
-				"gid" "313942F2EAF56A7176605074AFB9CD02"
-				"size" "2231F08B7432415DF0E51E0E58286562"
-				"download" "DE5FCAC665BF67B8EE7C139592542F90"
-			}
-			"marketing"
-			{
-				"gid" "26A47BF531D4143B6A200FE932B70A6D"
-				"size" "94EF39CDAA4C9A6D35DBDDB36EDE5058"
-				"download" "B4FD931DA740578E09BB2B46C536DC74"
-			}
-			"press"
-			{
-				"gid" "7985447194A7A60F0104BFE5B53A3A50"
-				"size" "0E6A6E60304DBB4712597FADE7C0DE5D"
-				"download" "78E0EEC003AA32419EE8EE24D81F80D5"
-			}
-		}
 	}
 	"1072042"
 	{
@@ -351,9 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "2441619212758140351"
-				"size" "14412261"
-				"download" "9959840"
+				"gid" "1022119184409908778"
+				"size" "14407170"
+				"download" "9976256"
 			}
 			"1.01.14"
 			{
@@ -372,33 +347,6 @@
 				"gid" "1311172884747867110"
 				"size" "11456815"
 				"download" "7934736"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"petbranch"
-			{
-				"gid" "DC1F33F7267788C2B9BC7FA1A9FA0DA3"
-				"size" "6F02D07FFBF99CDCA4D6C883E47B16CF"
-				"download" "2EBA567B02B4BEE656575629FE0DAA7D"
-			}
-			"devtest"
-			{
-				"gid" "641D6DE26B88E6B3EF6EC4C31AFA8783"
-				"size" "D0EC5EC7B775F19A8B9B1E6E9DE9EC02"
-				"download" "EA6B06EA07665D6DCCB4434B51976EAE"
-			}
-			"marketing"
-			{
-				"gid" "C1DA97BE925E93C77C5587124791D4A0"
-				"size" "628098909AEB3BC8A1D10470A85B38CF"
-				"download" "FDF56471F6C6C5A953FD5584F1D122C9"
-			}
-			"press"
-			{
-				"gid" "137244979A7F5E093EC4ADBE8648374C"
-				"size" "40DF3A2489C8AE74E0D36ECC3C95FBEA"
-				"download" "42F71DB20D862C2C63383B86A41EEC57"
 			}
 		}
 	}
@@ -436,41 +384,14 @@
 				"download" "1359145712"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"petbranch"
-			{
-				"gid" "843AD5361370ABAF3769D0B1D3F768C1"
-				"size" "91CF0254D6AEBF7EAFC9BC347A597E40"
-				"download" "92201F3D5A0342A4003B034255E9622D"
-			}
-			"devtest"
-			{
-				"gid" "7409FA25924D6256BA25A6E58C7CADCF"
-				"size" "F2558542AFB9483540F567B2F9139924"
-				"download" "E308B0940A381CD55259B73E1377A2E4"
-			}
-			"marketing"
-			{
-				"gid" "25475E1DFDD87BEF0F2F20801A6744B1"
-				"size" "9C65120A6B9FB19A35A75EE884E5039B"
-				"download" "3C5111167BABD084EB27CC4A4E9301BB"
-			}
-			"press"
-			{
-				"gid" "4EFE2727A0B4DCF6F18820A85FE8B3E8"
-				"size" "0D8BE7D65DCAA6540F55252E0CD73908"
-				"download" "F2E8E849E51F35ADA56B8209A1EA4161"
-			}
-		}
 	}
 	"workshopdepot" "1072040"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16568301"
-			"timeupdated" "1733234343"
+			"buildid" "17548206"
+			"timeupdated" "1741705129"
 		}
 		"1.01.14"
 		{
@@ -490,31 +411,8 @@
 			"description" "Legacy v1.02.01"
 			"timeupdated" "1637684080"
 		}
-		"petbranch"
-		{
-			"buildid" "11254756"
-			"pwdrequired" "1"
-			"timeupdated" "1688381384"
-		}
-		"devtest"
-		{
-			"buildid" "16568301"
-			"pwdrequired" "1"
-			"timeupdated" "1732807895"
-		}
-		"marketing"
-		{
-			"buildid" "15277482"
-			"pwdrequired" "1"
-			"timeupdated" "1722952784"
-		}
-		"press"
-		{
-			"buildid" "15458196"
-			"pwdrequired" "1"
-			"timeupdated" "1724860762"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -531,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26471181"
-"_sha" "9b42775e9c57a2282ceba168ee519ebb02f054c5"
-"_size" "9993"
+"_change_number" "27893067"
+"_sha" "218ef15bec6b4430c3038e4efc5f15eb3227edb9"
+"_size" "7492"
