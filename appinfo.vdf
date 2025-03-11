@@ -81,41 +81,42 @@
 	"metacritic_name" "Gremlins, Inc."
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"brazilian" "capsule_231x87_brazilian.jpg"
-		"czech" "capsule_231x87_czech.jpg"
-		"german" "capsule_231x87_german.jpg"
-		"spanish" "capsule_231x87_spanish.jpg"
-		"french" "capsule_231x87_french.jpg"
-		"italian" "capsule_231x87_italian.jpg"
-		"japanese" "capsule_231x87_japanese.jpg"
-		"koreana" "capsule_231x87_koreana.jpg"
-		"polish" "capsule_231x87_polish.jpg"
-		"russian" "capsule_231x87_russian.jpg"
-		"ukrainian" "capsule_231x87_ukrainian.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "56bac25b33ce9abae8db9f8f9ff60c2a931acd24/capsule_231x87.jpg"
+		"brazilian" "d9e52b26247c97b2d6fc497c0e50711616ae1a8d/capsule_231x87_brazilian.jpg"
+		"czech" "c16eb517d587c57a0621e42078d4dd2fb67ebf8a/capsule_231x87_czech.jpg"
+		"german" "f9eede715b1141ae60b20600105a0a8309dbc9ea/capsule_231x87_german.jpg"
+		"spanish" "0aa5ebca44d5dcb1ec32c4b5bfd371a439b5ae41/capsule_231x87_spanish.jpg"
+		"french" "629a94e8f95ca2f52d0dfe0d40c0e3bbf02cc443/capsule_231x87_french.jpg"
+		"italian" "0401f958bba0414035245100e762cdd8ed3d970b/capsule_231x87_italian.jpg"
+		"japanese" "978a932c39dfc0eb07b1c6697bc658fd4c9431c7/capsule_231x87_japanese.jpg"
+		"koreana" "00b3da1c47e35f42022f19758e62541ef369845a/capsule_231x87_koreana.jpg"
+		"polish" "f87755c358da10616eb2b22caa970cb32e59187e/capsule_231x87_polish.jpg"
+		"russian" "4b0303133a8ef0444d7aabbc796bdb0eab09e0f0/capsule_231x87_russian.jpg"
+		"ukrainian" "315c76e185a5b76fdc78413331ac1509a609690a/capsule_231x87_ukrainian.jpg"
+		"schinese" "ca5fa5dfd4b6a1ee7979959402fb93d1a63fc0cf/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"german" "header_german.jpg"
-		"spanish" "header_spanish.jpg"
-		"french" "header_french.jpg"
-		"polish" "header_polish.jpg"
-		"russian" "header_russian.jpg"
-		"ukrainian" "header_ukrainian.jpg"
-		"brazilian" "header_brazilian.jpg"
-		"schinese" "header_schinese.jpg"
-		"japanese" "header_japanese.jpg"
-		"koreana" "header_koreana.jpg"
-		"czech" "header_czech.jpg"
-		"italian" "header_italian.jpg"
+		"english" "5352068a37787027f2c269d6e65c2bbc7675984d/header.jpg"
+		"german" "7789a47b8881c68ac51695148b02879137d33204/header_german.jpg"
+		"spanish" "10d0837a0122279d22790ad889b6d9528bbaa43e/header_spanish.jpg"
+		"french" "81e926cfdc09cff4079cbe350bd456e28ef06bfd/header_french.jpg"
+		"polish" "a1a7d425e52d26a20b4e06ba9b487a1e37fff88e/header_polish.jpg"
+		"russian" "216331042f3a79afebf7dd4747ad98279df26d6a/header_russian.jpg"
+		"ukrainian" "5bd7e815358d0d740fd3128ba7e1a41eabc7dbae/header_ukrainian.jpg"
+		"brazilian" "c455d00d2b6db1948f742969edb0f6212dc6ce7d/header_brazilian.jpg"
+		"schinese" "2bfe406dbb657b3de7ff29e7ddf15fda998f13a3/header_schinese.jpg"
+		"japanese" "d3bea1ef8534cc6cdfd7fc7e8eac974ec7493f0d/header_japanese.jpg"
+		"koreana" "1ba024773555192024e9608966e100ef949bcb7c/header_koreana.jpg"
+		"czech" "9852c2d79015a90c375fafb82aa93e3c96e9d2a2/header_czech.jpg"
+		"italian" "18df2b7c3c7e2e33bb562efbc84e69cdfd351392/header_italian.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -156,8 +157,19 @@
 				"height_pct" "77.73687960104488"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "5352068a37787027f2c269d6e65c2bbc7675984d/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "5352068a37787027f2c269d6e65c2bbc7675984d/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1643379856"
+	"store_asset_mtime" "1741686033"
 	"associations"
 	{
 		"0"
@@ -349,9 +361,9 @@
 		{
 			"public"
 			{
-				"gid" "7611706537783780828"
-				"size" "3583816498"
-				"download" "833382400"
+				"gid" "7222892934908568432"
+				"size" "3585389742"
+				"download" "834511056"
 			}
 		}
 	}
@@ -365,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "8151655127421009638"
-				"size" "3585951222"
-				"download" "834457104"
+				"gid" "757446582615199900"
+				"size" "3587524466"
+				"download" "835578976"
 			}
 		}
 	}
@@ -381,9 +393,9 @@
 		{
 			"public"
 			{
-				"gid" "5031688940225126791"
-				"size" "3593528986"
-				"download" "834216992"
+				"gid" "139175146593258922"
+				"size" "3595102230"
+				"download" "835362016"
 			}
 		}
 	}
@@ -457,9 +469,9 @@
 		{
 			"public"
 			{
-				"gid" "269106538217545663"
-				"size" "3576507642"
-				"download" "832437552"
+				"gid" "7146757338230484149"
+				"size" "3578080886"
+				"download" "833570880"
 			}
 		}
 	}
@@ -467,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "17533095"
-			"timeupdated" "1740744319"
+			"buildid" "17672889"
+			"timeupdated" "1741685236"
 		}
 	}
 	"privatebranches" "1"
@@ -481,6 +493,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27716669"
-"_sha" "993752835958298fd99da7f8801f0a407d0e8cbf"
-"_size" "8613"
+"_change_number" "27887781"
+"_sha" "897b4b50a7d56ec1027d1ee5c54465b9e37faf59"
+"_size" "9943"
