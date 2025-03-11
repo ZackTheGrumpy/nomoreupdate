@@ -157,7 +157,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737014226"
+	"store_asset_mtime" "1741364165"
 	"associations"
 	{
 		"0"
@@ -316,6 +316,18 @@
 		{
 			"public"
 			{
+				"gid" "6592162781968299658"
+				"size" "3135036369"
+				"download" "664385840"
+			}
+			"experimental"
+			{
+				"gid" "6592162781968299658"
+				"size" "3135036369"
+				"download" "664385840"
+			}
+			"v1.5"
+			{
 				"gid" "5595917679743044397"
 				"size" "6353697604"
 				"download" "962484640"
@@ -332,6 +344,18 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "2806716913449128766"
+				"size" "3161640582"
+				"download" "672582256"
+			}
+			"experimental"
+			{
+				"gid" "2806716913449128766"
+				"size" "3161640582"
+				"download" "672582256"
+			}
+			"v1.5"
 			{
 				"gid" "8131679422765366420"
 				"size" "6379695471"
@@ -350,14 +374,38 @@
 				"size" "1736868590"
 				"download" "1554107456"
 			}
+			"experimental"
+			{
+				"gid" "3896516526556556967"
+				"size" "1736868590"
+				"download" "1554107456"
+			}
+			"v1.5"
+			{
+				"gid" "3896516526556556967"
+				"size" "1736868590"
+				"download" "1554107456"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
+			"buildid" "17663352"
+			"timeupdated" "1741711995"
+		}
+		"experimental"
+		{
+			"buildid" "17663352"
+			"description" "Unstable preview build for testing out upcoming updates."
+			"timeupdated" "1741619749"
+		}
+		"v1.5"
+		{
 			"buildid" "17094140"
-			"timeupdated" "1737565677"
+			"description" "Fallback to Cataclysm update"
+			"timeupdated" "1741619949"
 		}
 	}
 	"privatebranches" "1"
@@ -422,6 +470,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27115915"
-"_sha" "96f11ceeaae3dc8423ec8b81bc581a4371b907ff"
-"_size" "7764"
+"_change_number" "27895373"
+"_sha" "a91fd69b98a759c67298bafe82bc93bac6f9ffef"
+"_size" "8754"
