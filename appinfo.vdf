@@ -317,22 +317,7 @@
 }
 "depots"
 {
-	"870781"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "2010851699385668579"
-				"size" "45003066571"
-				"download" "24047681888"
-			}
-		}
-	}
+	"hasdepotsindlc" "0"
 	"870782"
 	{
 		"config"
@@ -343,9 +328,25 @@
 		{
 			"public"
 			{
-				"gid" "8361276401184920724"
-				"size" "53238988982"
-				"download" "25738964016"
+				"gid" "3966011182230819577"
+				"size" "45003066163"
+				"download" "24038327232"
+			}
+		}
+	}
+	"870781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3769874412580112740"
+				"size" "45003066163"
+				"download" "24047681488"
 			}
 		}
 	}
@@ -383,13 +384,12 @@
 			}
 		}
 	}
-	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17661193"
-			"timeupdated" "1741611901"
+			"buildid" "17677094"
+			"timeupdated" "1741696509"
 		}
 	}
 	"privatebranches" "1"
@@ -400,6 +400,6 @@
 	"maxnumfiles" "300"
 }
 "_missing_token" "False"
-"_change_number" "27871515"
-"_sha" "1d60b51cc05404ff04670b4cedc8d18366c25682"
+"_change_number" "27890608"
+"_sha" "fa97acc923b7e32f9d9dfef5a911fd06b98dd8b9"
 "_size" "6970"
