@@ -65,6 +65,52 @@
 			"height_pct" "88.98123961054381"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"latam" "library_600x900_latam.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"latam" "library_600x900_latam_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"latam" "logo_latam.png"
+				"spanish" "logo_spanish.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "88.98123961054381"
+			}
+		}
+	}
 	"store_asset_mtime" "1615994936"
 	"associations"
 	{
@@ -133,10 +179,10 @@
 		"1" "12095"
 		"2" "6650"
 		"3" "4085"
-		"4" "597"
-		"5" "9130"
-		"6" "1684"
-		"7" "24904"
+		"4" "9130"
+		"5" "597"
+		"6" "24904"
+		"7" "1684"
 		"8" "4057"
 		"9" "5611"
 		"10" "3871"
@@ -151,7 +197,7 @@
 		"19" "9551"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -220,18 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "1809319972589463463"
-				"size" "1470250674"
-				"download" "1311385568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "83F2EF4E12CFA01B5ADCA0A7134C73CC"
-				"size" "262DAF4B36BDD9E39A893E27A2FC8124"
-				"download" "7CFF083F4D4B3C0D8DF6236BF7EE59C0"
+				"gid" "7109168640738235232"
+				"size" "1473074150"
+				"download" "1314817232"
 			}
 		}
 	}
@@ -251,28 +288,18 @@
 				"download" "1304287120"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "E061B2E480068FA8E4C367BFCF309D5F"
-				"size" "958E7C953174EB83849977BDB5594C01"
-				"download" "A84C7BB24BDFA8EA6ABB44C8CB2A1C13"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15385267"
-			"timeupdated" "1723840694"
-		}
-		"testing"
-		{
-			"buildid" "15385267"
-			"pwdrequired" "1"
-			"timeupdated" "1723746148"
+			"buildid" "17667061"
+			"timeupdated" "1741703108"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27892449"
+"_sha" "457a57620d417cff801a6272a04f87844156e7b8"
+"_size" "5408"
