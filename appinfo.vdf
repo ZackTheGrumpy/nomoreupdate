@@ -149,7 +149,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727624820"
+	"store_asset_mtime" "1741674437"
 	"associations"
 	{
 		"0"
@@ -225,25 +225,25 @@
 	"store_tags"
 	{
 		"0" "220585"
-		"1" "7332"
-		"2" "1662"
-		"3" "4172"
-		"4" "12472"
-		"5" "4191"
-		"6" "1697"
-		"7" "3810"
-		"8" "4791"
-		"9" "9"
-		"10" "599"
-		"11" "5981"
-		"12" "1702"
-		"13" "4182"
-		"14" "5125"
-		"15" "4202"
-		"16" "1684"
-		"17" "1759"
-		"18" "4236"
-		"19" "7918"
+		"1" "3810"
+		"2" "1702"
+		"3" "12472"
+		"4" "4172"
+		"5" "5981"
+		"6" "1662"
+		"7" "7332"
+		"8" "1759"
+		"9" "4202"
+		"10" "122"
+		"11" "9"
+		"12" "4191"
+		"13" "1697"
+		"14" "4791"
+		"15" "5125"
+		"16" "19"
+		"17" "599"
+		"18" "1684"
+		"19" "4236"
 	}
 	"review_score" "8"
 	"review_percentage" "83"
@@ -277,9 +277,27 @@
 		{
 			"public"
 			{
-				"gid" "9086377576734414349"
-				"size" "1134163052"
-				"download" "509067520"
+				"gid" "3561997860645168435"
+				"size" "1351382586"
+				"download" "528334512"
+			}
+			"development"
+			{
+				"gid" "337594942732883473"
+				"size" "1382674261"
+				"download" "535263376"
+			}
+			"experimental"
+			{
+				"gid" "3561997860645168435"
+				"size" "1351382586"
+				"download" "528334512"
+			}
+			"experimental_development"
+			{
+				"gid" "337594942732883473"
+				"size" "1382674261"
+				"download" "535263376"
 			}
 			"retired_0_23"
 			{
@@ -353,38 +371,17 @@
 				"size" "833059521"
 				"download" "418695632"
 			}
-			"development"
-			{
-				"gid" "6855600532621175379"
-				"size" "1165115243"
-				"download" "515898208"
-			}
-			"experimental"
+			"retired_0_29"
 			{
 				"gid" "9086377576734414349"
 				"size" "1134163052"
 				"download" "509067520"
 			}
-			"experimental_development"
+			"retired_0_29_development"
 			{
 				"gid" "6855600532621175379"
 				"size" "1165115243"
 				"download" "515898208"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"secrets"
-			{
-				"gid" "70F3AA3A60924DA096675AD9E685A119"
-				"size" "34AF9E11CC0F33B2753DBF8D93BCA413"
-				"download" "24AB263E3CB4284919AAF5DE331A7496"
-			}
-			"capture"
-			{
-				"gid" "9DA223F612BAB7B7632E9571A29401B7"
-				"size" "B367B46D7CDC8AFA3E70EF7F60739FA5"
-				"download" "3B9547DD0CA87DD6015F8B4FC073002E"
 			}
 		}
 	}
@@ -393,112 +390,113 @@
 	{
 		"public"
 		{
-			"buildid" "16635525"
-			"timeupdated" "1733351275"
+			"buildid" "17680037"
+			"timeupdated" "1741711872"
+		}
+		"development"
+		{
+			"buildid" "17679820"
+			"description" "Mod Development, Unstable"
+			"timeupdated" "1741711847"
+		}
+		"experimental"
+		{
+			"buildid" "17680037"
+			"description" "Try out the next update"
+			"timeupdated" "1741710266"
+		}
+		"experimental_development"
+		{
+			"buildid" "17679820"
+			"description" "Try out the next update, Mod Development, Unstable"
+			"timeupdated" "1741710257"
 		}
 		"retired_0_23"
 		{
 			"buildid" "8152080"
-			"description" "Retired 0.23 (Launch) Build"
+			"description" "v0.23: Launch"
 			"timeupdated" "1644109141"
 		}
 		"retired_0_23_development"
 		{
 			"buildid" "8152051"
-			"description" "Retired 0.23 (Launch) Development Build"
+			"description" "v0.23: Launch Development"
 			"timeupdated" "1644109194"
 		}
 		"retired_0_24"
 		{
 			"buildid" "8467952"
-			"description" "Retired 0.24 (Hospitality) Build"
+			"description" "v0.24: Hospitality"
 			"timeupdated" "1649018051"
 		}
 		"retired_0_24_development"
 		{
 			"buildid" "8467925"
-			"description" "Retired 0.24 (Hospitality) Development Build"
+			"description" "v0.24: Hospitality Development"
 			"timeupdated" "1649018061"
 		}
 		"retired_0_25"
 		{
 			"buildid" "8772775"
-			"description" "Retired 0.25 (Bandits) Build"
+			"description" "v0.25: Bandits"
 			"timeupdated" "1655063389"
 		}
 		"retired_0_25_development"
 		{
 			"buildid" "8772678"
-			"description" "Retired 0.25 (Bandits) Development Build"
+			"description" "v0.25: Bandits Development"
 			"timeupdated" "1655063399"
 		}
 		"retired_0_26"
 		{
 			"buildid" "10033157"
-			"description" "Retired 0.25 (Love & Elves) Build"
+			"description" "v0.25: Love & Elves"
 			"timeupdated" "1670890384"
 		}
 		"retired_0_26_development"
 		{
 			"buildid" "10032980"
-			"description" "Retired 0.26 (Love & Elves) Development Build"
+			"description" "v0.26: Love & Elves Development"
 			"timeupdated" "1670890402"
 		}
 		"retired_0_27"
 		{
 			"buildid" "10798847"
-			"description" "Retired 0.27 (Adventures) Build"
+			"description" "v0.27: Adventures"
 			"timeupdated" "1687656363"
 		}
 		"retired_0_27_development"
 		{
 			"buildid" "10798828"
-			"description" "Retired 0.27 (Adventures) Development Build"
+			"description" "v0.27: Adventures Development"
 			"timeupdated" "1687656375"
 		}
 		"retired_0_28"
 		{
 			"buildid" "13201744"
-			"description" "Retired 0.28 (Dwarven Domain) Build"
+			"description" "v0.28: Dwarven Domain"
 			"timeupdated" "1710194804"
 		}
 		"retired_0_28_development"
 		{
 			"buildid" "13201657"
-			"description" "Retired 0.28 (Dwarven Domain) Development Build"
+			"description" "v0.28: Dwarven Domain Development"
 			"timeupdated" "1710194813"
 		}
-		"secrets"
-		{
-			"buildid" "14149795"
-			"pwdrequired" "1"
-			"timeupdated" "1713900837"
-		}
-		"capture"
-		{
-			"buildid" "14850525"
-			"pwdrequired" "1"
-			"timeupdated" "1719437214"
-		}
-		"development"
-		{
-			"buildid" "16635467"
-			"description" "Development - Mod Development, Unstable"
-			"timeupdated" "1733351215"
-		}
-		"experimental"
+		"retired_0_29"
 		{
 			"buildid" "16635525"
-			"description" "Experimental - Try out the next update"
-			"timeupdated" "1733351254"
+			"description" "v0.29: Choose Your Fate"
+			"timeupdated" "1741710367"
 		}
-		"experimental_development"
+		"retired_0_29_development"
 		{
 			"buildid" "16635467"
-			"description" "Experimental Development - Mod Development, Unstable"
-			"timeupdated" "1733351205"
+			"description" "v0.29: Choose Your Fate Development"
+			"timeupdated" "1741710382"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -519,6 +517,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26497367"
-"_sha" "e47fc6628e4ad77c71bd43072d63b954407118d8"
-"_size" "10174"
+"_change_number" "27896189"
+"_sha" "aaa65997ee99c1630011cd3e1be014ab828813aa"
+"_size" "9945"
