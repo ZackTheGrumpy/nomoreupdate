@@ -179,6 +179,8 @@
 	"remoteplaytogethertestingbranches" "default"
 	"developer" "Synetic GmbH"
 	"publisher" "UniqueGames Publishing GmbH"
+	"listofdlc" "3463480"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -239,9 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "6551850687365522869"
-				"size" "2595383147"
-				"download" "1518562000"
+				"gid" "1523973172621476447"
+				"size" "2715925359"
+				"download" "1524242192"
 			}
 		}
 	}
@@ -250,14 +252,20 @@
 		"dlcappid" "3463480"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "368347105648774791"
+				"size" "40847319"
+				"download" "23293552"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12653922"
-			"timeupdated" "1699551904"
+			"buildid" "17638260"
+			"timeupdated" "1741703648"
 		}
 	}
 	"privatebranches" "1"
@@ -292,6 +300,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27331437"
-"_sha" "99eb959c1b90b8966cfbc44e339b69c7d41a1b04"
-"_size" "4717"
+"_change_number" "27893082"
+"_sha" "1877f6c7a6b2e9bd3a2aad77c8cf7d4b6fd8a26c"
+"_size" "4881"
