@@ -279,8 +279,6 @@
 }
 "depots"
 {
-	"baselanguages" "tchinese"
-	"hasdepotsindlc" "0"
 	"228989"
 	{
 		"config"
@@ -299,15 +297,17 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"baselanguages" "tchinese"
+	"hasdepotsindlc" "0"
 	"1425001"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "5064882650746665835"
-				"size" "5785046954"
-				"download" "5437203440"
+				"gid" "5943191842808176457"
+				"size" "7051871166"
+				"download" "6692372912"
 			}
 			"alice_beta"
 			{
@@ -321,8 +321,8 @@
 	{
 		"public"
 		{
-			"buildid" "17401612"
-			"timeupdated" "1739850288"
+			"buildid" "17674484"
+			"timeupdated" "1741686559"
 		}
 		"alice_beta"
 		{
@@ -361,6 +361,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27573648"
-"_sha" "5eafa4bcec9112383b455dd1b4ac768c727c589d"
+"_change_number" "27887899"
+"_sha" "00dc73246247bf6f9b899d3ec0c49373ef2049f0"
 "_size" "6837"
