@@ -231,8 +231,8 @@
 	"gameid" "2882440"
 	"store_tags"
 	{
-		"0" "19"
-		"1" "4255"
+		"0" "4255"
+		"1" "19"
 		"2" "1774"
 		"3" "3964"
 		"4" "6691"
@@ -253,7 +253,7 @@
 		"19" "1693"
 	}
 	"review_score" "9"
-	"review_percentage" "98"
+	"review_percentage" "99"
 }
 "extended"
 {
@@ -304,15 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "5797251535322744560"
-				"size" "275507161"
-				"download" "229991120"
-			}
-			"ver.1.0.6"
-			{
-				"gid" "7476340473509205070"
-				"size" "275298222"
-				"download" "229903024"
+				"gid" "4576584014401815139"
+				"size" "213652429"
+				"download" "167570848"
 			}
 		}
 	}
@@ -320,14 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "16283869"
-			"timeupdated" "1730699006"
-		}
-		"ver.1.0.6"
-		{
-			"buildid" "14802956"
-			"description" "ver.1.0.6"
-			"timeupdated" "1719412494"
+			"buildid" "17676879"
+			"timeupdated" "1741695494"
 		}
 	}
 }
@@ -346,6 +334,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26032329"
-"_sha" "ec313c011c03f0ac9bfc004c312020f9692b2990"
-"_size" "5864"
+"_change_number" "27890316"
+"_sha" "309dcbce5db69ff8070c3dd820230a9fc0ecb780"
+"_size" "5634"
