@@ -15,6 +15,50 @@
 		"english" "1"
 		"russian" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1740700800"
+		"tested_build_id" "17482594"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -98,7 +142,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738251742"
+	"store_asset_mtime" "1741679858"
 	"associations"
 	{
 		"0"
@@ -164,7 +208,7 @@
 		"19" "4711"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -213,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "396893241378720051"
-				"size" "2617765795"
-				"download" "2403286768"
+				"gid" "1022818628205860896"
+				"size" "2690191464"
+				"download" "2475211984"
 			}
 		}
 	}
@@ -223,12 +267,12 @@
 	{
 		"public"
 		{
-			"buildid" "17590324"
-			"timeupdated" "1741098483"
+			"buildid" "17673029"
+			"timeupdated" "1741676365"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27776056"
-"_sha" "6bfeea431536a461b0c331cfa19136b7ce2e314c"
-"_size" "3834"
+"_change_number" "27886228"
+"_sha" "5c50d009f001c663dfc36a66126ba80921882298"
+"_size" "4947"
