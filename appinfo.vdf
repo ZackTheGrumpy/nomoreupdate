@@ -110,7 +110,7 @@
 		"3" "492"
 	}
 	"review_score" "5"
-	"review_percentage" "42"
+	"review_percentage" "43"
 }
 "extended"
 {
@@ -180,51 +180,6 @@
 				"download" "722213664"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alternate_test"
-			{
-				"gid" "9D04AFBD7CBB00035FD372114038B2D3"
-				"size" "5EBA25253B06E15EF5D5C907C6C4F41A"
-				"download" "1C1536D988CA4573B50DCBA904FB512B"
-			}
-			"mod-dev"
-			{
-				"gid" "E691217A8010A123AF5E34BEA740C004"
-				"size" "98ECA044AE72A48A706FDD55088B9AAD"
-				"download" "17AD22C00789C84C0F2AA0FAE86EBDD9"
-			}
-			"media"
-			{
-				"gid" "19BCBA591B1E9CDE6127377A74963E39"
-				"size" "4E130F75C7AE82564E3420114A9E6088"
-				"download" "8EA32C61F6486FBE3150212B6EED7CBC"
-			}
-			"mods"
-			{
-				"gid" "2EA6FC6876D4263F07840956F37BD792"
-				"size" "0DD300F13539EC670F2961DE5200B22D"
-				"download" "3B8EB0F390E2A9D89B8E0CE8C763B4C7"
-			}
-			"owlcat-next-debug"
-			{
-				"gid" "4DAE7D13646EBCF3CBAA295BD83FA999"
-				"size" "F29F0A592D80A45334001A8A10DA7D65"
-				"download" "9A054173A4498E585A4B0849DFF28EA5"
-			}
-			"owlcat-next-test"
-			{
-				"gid" "BC6881928FB349F0F82AEC65C766B1DB"
-				"size" "F74AE1B3283095B310ADFED7A783EA5B"
-				"download" "4080BEEAE86E3BC70AD8943F2B9C335D"
-			}
-			"owlcat-test"
-			{
-				"gid" "7A4A99B3A14F7F5704EF7E305810AC79"
-				"size" "202BF40C29BE5EA2EB5EFBC7FF4C18FC"
-				"download" "50529032CA69D4F16024802B6ACA38FB"
-			}
-		}
 		"dlcappid" "1889980"
 	}
 	"1889983"
@@ -237,7 +192,7 @@
 		{
 			"public"
 			{
-				"gid" "2201331992041359342"
+				"gid" "874999282107751"
 				"size" "961482952"
 				"download" "722237440"
 			}
@@ -284,51 +239,6 @@
 				"download" "722235184"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alternate_test"
-			{
-				"gid" "92CE8E94FF07928DEA7CB83758105554"
-				"size" "B923E5CAD1DE4F89667360EC94CBD49F"
-				"download" "A6108F1566E129E50C800A95EAAAFC41"
-			}
-			"mod-dev"
-			{
-				"gid" "E841FA319F5793C8BFB09DDC35B11936"
-				"size" "CB5632BDC102728228A58F009A4D65F5"
-				"download" "9179F5E3D2AC3707E1B07348A6972602"
-			}
-			"media"
-			{
-				"gid" "A683F3012078D1616B4F8C1D6DFD2196"
-				"size" "9BBB14DFC2231F8239CDE7DD3C559FA9"
-				"download" "FA6294FE35420F20212609E0ECD77646"
-			}
-			"mods"
-			{
-				"gid" "A9DE1683446297F4D934436BE333078C"
-				"size" "CE5904589BEC015305EAF9D05A1DA922"
-				"download" "D0313E6B126B40CB1D5A5E38ECC4E5A8"
-			}
-			"owlcat-next-debug"
-			{
-				"gid" "58A7BE3C91CFDF6579F0AB60318D049B"
-				"size" "08D636B1602601B399A0D4CB5F849FE5"
-				"download" "9AC961B388BC7A5D50E6E52860620EDA"
-			}
-			"owlcat-next-test"
-			{
-				"gid" "C1453E65A04FC9A493AEFC13640526EE"
-				"size" "85C4301217D0D6198E1D392A6FBEE1A2"
-				"download" "AB0EDD0155ACEB82B7CA76CE582315B7"
-			}
-			"owlcat-test"
-			{
-				"gid" "604C2C18E85EDC415C10EC2F169E581E"
-				"size" "B204894B43B08CF4A756B09F5AD957AD"
-				"download" "B76A7775692EDAAEE5B61CA8F1BB29DF"
-			}
-		}
 		"dlcappid" "1889980"
 	}
 	"1889984"
@@ -371,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "16759032"
-			"timeupdated" "1734353320"
+			"buildid" "17412080"
+			"timeupdated" "1741697355"
 		}
 		"1.3.7d"
 		{
@@ -392,23 +302,11 @@
 			"description" "old version 2.0"
 			"timeupdated" "1678182354"
 		}
-		"alternate_test"
-		{
-			"buildid" "12718064"
-			"pwdrequired" "1"
-			"timeupdated" "1700121911"
-		}
 		"betatest"
 		{
 			"buildid" "10620339"
 			"description" "Betatest version"
 			"timeupdated" "1677159268"
-		}
-		"mod-dev"
-		{
-			"buildid" "8582766"
-			"pwdrequired" "1"
-			"timeupdated" "1650375742"
 		}
 		"2.2.4p"
 		{
@@ -428,39 +326,10 @@
 			"description" "old version 2.4"
 			"timeupdated" "1731942557"
 		}
-		"media"
-		{
-			"buildid" "16390005"
-			"pwdrequired" "1"
-			"timeupdated" "1731490853"
-		}
-		"mods"
-		{
-			"buildid" "14560575"
-			"pwdrequired" "1"
-			"timeupdated" "1717158401"
-		}
-		"owlcat-next-debug"
-		{
-			"buildid" "15956897"
-			"pwdrequired" "1"
-			"timeupdated" "1728323779"
-		}
-		"owlcat-next-test"
-		{
-			"buildid" "16612028"
-			"pwdrequired" "1"
-			"timeupdated" "1733216557"
-		}
-		"owlcat-test"
-		{
-			"buildid" "15713518"
-			"pwdrequired" "1"
-			"timeupdated" "1726481303"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26660702"
-"_sha" "1a7bdb693615b0bb0dc20315082dd7064f445438"
-"_size" "8794"
+"_change_number" "27890798"
+"_sha" "6ba4342fbde48f0e4ae2045e9902d3d724542ac8"
+"_size" "5523"
