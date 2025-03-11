@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "8030222547990448755"
-				"size" "18435513053"
-				"download" "14363564784"
+				"gid" "5905805147528149667"
+				"size" "18435514077"
+				"download" "14363565952"
 			}
 			"liftoff_1.2.11"
 			{
@@ -361,33 +361,6 @@
 				"download" "11113359616"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"iudro"
-			{
-				"gid" "40BCE024D6CEDF62E6EB9A0966356048"
-				"size" "2A8258949DB9D722B6857DB6F791A4A2"
-				"download" "109380A8EEA5706694B2E6FBB1282834"
-			}
-			"liftoff_research"
-			{
-				"gid" "9336CC17F027A35CAA7EC9F1464C70BC"
-				"size" "134DAFB6DAAA26ECE794D124B661F1EE"
-				"download" "B284F5A7C9CC473B85476CCCB596D91D"
-			}
-			"liftoff_research_2"
-			{
-				"gid" "A80404B5CE218DE946FAA5CE51348923"
-				"size" "9DA82ECAFA05AC0CC9880D9276AC2F52"
-				"download" "9A0B0D430BDB5E1A70C7305909C25FB9"
-			}
-			"alphatesting"
-			{
-				"gid" "E2BA9BE468A18A665A76D305643AE4A9"
-				"size" "4DCC60E0E79A2C2368D7BFEE93A5E52B"
-				"download" "2FC3F48EB6AC9968BD2BF200DA9B9955"
-			}
-		}
 	}
 	"410342"
 	{
@@ -399,9 +372,9 @@
 		{
 			"public"
 			{
-				"gid" "2259905417960422304"
-				"size" "18058929610"
-				"download" "14128848608"
+				"gid" "8991142404625798020"
+				"size" "18058931146"
+				"download" "14128828544"
 			}
 			"liftoff_1.2.11"
 			{
@@ -422,33 +395,6 @@
 				"download" "10805340944"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"iudro"
-			{
-				"gid" "0C3FC6B56C3A5DFCE247F50E719C418D"
-				"size" "3009B1C201E94A279DC8C61263690520"
-				"download" "7257B71A611B122449392FEBF3262600"
-			}
-			"liftoff_research"
-			{
-				"gid" "83D899CF3050B2FF2C215F2F32937BB5"
-				"size" "56F73A72039A1D0B144B0B01D6BD8988"
-				"download" "7933714BE1141AF70138BC74D179EFF2"
-			}
-			"liftoff_research_2"
-			{
-				"gid" "2E8ACD18C1D5345136CA62B7C73E05C4"
-				"size" "CCE943C0C6D082DB68A8056FC63D063E"
-				"download" "D94A7DD2C30606683427726C54B5F108"
-			}
-			"alphatesting"
-			{
-				"gid" "897466717D89302FD2BAE2C298EF8962"
-				"size" "DCACDD994418935E800B5991E4A0C605"
-				"download" "508F9572CFFB58B4BD66B41A91AC6E27"
-			}
-		}
 	}
 	"410343"
 	{
@@ -460,9 +406,9 @@
 		{
 			"public"
 			{
-				"gid" "8301072041831666580"
-				"size" "18368425667"
-				"download" "14322823040"
+				"gid" "1499882914296198662"
+				"size" "18368422595"
+				"download" "14322829424"
 			}
 			"liftoff_1.2.11"
 			{
@@ -481,33 +427,6 @@
 				"gid" "5451204186075747601"
 				"size" "15503201857"
 				"download" "11067812432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"iudro"
-			{
-				"gid" "84840B93C68E515D32355FA2B96C2008"
-				"size" "E139BF767F867D66B1E12941643C3F02"
-				"download" "7F7E80A6599C07A4CDC5D3E71F1A26AD"
-			}
-			"liftoff_research"
-			{
-				"gid" "18BA2C3780B9DB91F430BCFE0934A41D"
-				"size" "620D4E28B0E701E7DD13C82DB8DF7175"
-				"download" "D4B710A06374BFA301454A7C9B7B81A0"
-			}
-			"liftoff_research_2"
-			{
-				"gid" "A35075E61F1E1D029AD0AB1DB528BBCC"
-				"size" "17BF83A073EEB812C62D9C65C2689FE3"
-				"download" "78B0402826B11881BB34799C67206240"
-			}
-			"alphatesting"
-			{
-				"gid" "784270F688EDC3DAFEA9F7BFF5AB4DFB"
-				"size" "62190D72E5576071B77C80A74DB2ECE5"
-				"download" "73E6287C94893656341F79D253CC3538"
 			}
 		}
 	}
@@ -545,46 +464,13 @@
 				"download" "10298183296"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"iudro"
-			{
-				"gid" "33D30BA42B3570056905E012A0E5CB40"
-				"size" "9A3DF78C8F90AF670672F662D3AEF969"
-				"download" "36080374FEEE136D094F683941A0007D"
-			}
-			"liftoff_research"
-			{
-				"gid" "1D85C3AA6291D970ECBBA77BB98F232F"
-				"size" "841F29738FC4FC311738DECBC19518DB"
-				"download" "B22072F04195598BBD50F113E84957BA"
-			}
-			"liftoff_research_2"
-			{
-				"gid" "656ECC368B6DBE5BFA5F6C2C195CF457"
-				"size" "E70A8C637A0DE1E283C0C72AF2FD4AA1"
-				"download" "2B72C29C4203899110492132E1B2C43E"
-			}
-			"alphatesting"
-			{
-				"gid" "A152F5A17DC8218E559928929D304BFA"
-				"size" "1BF399A56DBE24A671B2C0C570DA8F40"
-				"download" "B4AAA21C1827A5E955D5E17F70267D69"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17059155"
-			"timeupdated" "1737332543"
-		}
-		"iudro"
-		{
-			"buildid" "5296077"
-			"pwdrequired" "1"
-			"timeupdated" "1594899544"
+			"buildid" "17674291"
+			"timeupdated" "1741683328"
 		}
 		"liftoff_1.2.11"
 		{
@@ -604,25 +490,8 @@
 			"description" "Liftoff Legacy v1.4"
 			"timeupdated" "1674033728"
 		}
-		"liftoff_research"
-		{
-			"buildid" "5838284"
-			"pwdrequired" "1"
-			"timeupdated" "1605607668"
-		}
-		"liftoff_research_2"
-		{
-			"buildid" "11579195"
-			"pwdrequired" "1"
-			"timeupdated" "1687962493"
-		}
-		"alphatesting"
-		{
-			"buildid" "17059155"
-			"pwdrequired" "1"
-			"timeupdated" "1737332083"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -630,6 +499,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27068043"
-"_sha" "2cb91f86227f32b0cb83f3e656230d7bc329e683"
-"_size" "12596"
+"_change_number" "27887012"
+"_sha" "b7f0acd66d836bcb894fd88859ffcc9a9fc313b3"
+"_size" "9188"
