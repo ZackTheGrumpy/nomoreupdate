@@ -285,7 +285,7 @@
 	"developer" "Ink Stains Games"
 	"publisher" "HypeTrain Digital"
 	"homepage" "http://stoneshard.com/"
-	"listofdlc" "1230230"
+	"listofdlc" "1230230,3423690"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "237375311903929588"
-				"size" "546553840"
-				"download" "287707664"
+				"gid" "1831719397627290984"
+				"size" "580481649"
+				"download" "314140192"
 			}
 			"0.5.7.8"
 			{
@@ -415,9 +415,9 @@
 		{
 			"public"
 			{
-				"gid" "115715783342124391"
-				"size" "248085081"
-				"download" "197341120"
+				"gid" "3268240615885863868"
+				"size" "185207851"
+				"download" "148546320"
 			}
 			"0.5.7.8"
 			{
@@ -492,9 +492,9 @@
 		{
 			"public"
 			{
-				"gid" "7706562624918726524"
-				"size" "442054872"
-				"download" "270053616"
+				"gid" "5216233845176809096"
+				"size" "472654674"
+				"download" "295978496"
 			}
 			"0.5.7.8.18"
 			{
@@ -556,8 +556,8 @@
 	{
 		"public"
 		{
-			"buildid" "17371314"
-			"timeupdated" "1739561563"
+			"buildid" "17678027"
+			"timeupdated" "1741701342"
 		}
 		"0.5.7.8"
 		{
@@ -624,7 +624,7 @@
 }
 "ufs"
 {
-	"quota" "100000000"
+	"quota" "524288000"
 	"maxnumfiles" "500"
 	"savefiles"
 	{
@@ -663,6 +663,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27486003"
-"_sha" "cccd2646a50e7fb7ae2f02e0fba55de660454035"
-"_size" "11870"
+"_change_number" "27891956"
+"_sha" "117f998252645d4898ce649a8d54a7eb63cf197e"
+"_size" "11880"
