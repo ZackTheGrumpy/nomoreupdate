@@ -126,7 +126,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737986186"
+	"store_asset_mtime" "1741268580"
 	"associations"
 	{
 		"0"
@@ -390,15 +390,15 @@
 		{
 			"public"
 			{
-				"gid" "955446072018623186"
-				"size" "65907371075"
-				"download" "42095011440"
+				"gid" "8185970953853135329"
+				"size" "65912056732"
+				"download" "42099683584"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "955446072018623186"
-				"size" "65907371075"
-				"download" "42095011440"
+				"gid" "8185970953853135329"
+				"size" "65912056732"
+				"download" "42099683584"
 			}
 		}
 	}
@@ -426,15 +426,15 @@
 		{
 			"public"
 			{
-				"gid" "1880604687462021965"
-				"size" "284513129"
-				"download" "70320064"
+				"gid" "3143158896282277452"
+				"size" "284516453"
+				"download" "70320240"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "1880604687462021965"
-				"size" "284513129"
-				"download" "70320064"
+				"gid" "3143158896282277452"
+				"size" "284516453"
+				"download" "70320240"
 			}
 		}
 	}
@@ -444,15 +444,15 @@
 		{
 			"public"
 			{
-				"gid" "3620674601047027023"
+				"gid" "7354470609686156716"
 				"size" "331311571"
-				"download" "78858848"
+				"download" "78852528"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "3620674601047027023"
+				"gid" "7354470609686156716"
 				"size" "331311571"
-				"download" "78858848"
+				"download" "78852528"
 			}
 		}
 	}
@@ -490,14 +490,14 @@
 	{
 		"public"
 		{
-			"buildid" "17617497"
-			"timeupdated" "1741255088"
+			"buildid" "17676848"
+			"timeupdated" "1741695233"
 		}
 		"temporary_launcher_workaround"
 		{
-			"buildid" "17617476"
+			"buildid" "17676844"
 			"description" "Bypass Launcher"
-			"timeupdated" "1741254997"
+			"timeupdated" "1741695179"
 		}
 	}
 	"privatebranches" "1"
@@ -509,6 +509,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27811987"
-"_sha" "6b2ba4b8f1915a5143f2d3326cc597a99c4041b1"
-"_size" "9435"
+"_change_number" "27890245"
+"_sha" "f65fe7a82c54593037641efc99676d93711f4e38"
+"_size" "9437"
