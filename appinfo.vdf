@@ -22,8 +22,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1741132800"
-		"tested_build_id" "17436093"
+		"test_timestamp" "1741651200"
+		"tested_build_id" "17645453"
 		"tests"
 		{
 			"0"
@@ -33,20 +33,15 @@
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
-			}
-			"4"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -58,8 +53,8 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
@@ -217,7 +212,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -262,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "3692286019279001288"
-				"size" "389022776"
-				"download" "276711008"
+				"gid" "148577199124595936"
+				"size" "389023064"
+				"download" "276711072"
 			}
 		}
 	}
@@ -272,8 +267,8 @@
 	{
 		"public"
 		{
-			"buildid" "17645453"
-			"timeupdated" "1741423368"
+			"buildid" "17674810"
+			"timeupdated" "1741685536"
 		}
 	}
 }
@@ -311,6 +306,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27849130"
-"_sha" "d3808e303e38f32e95994a1db76dc52ce73498ce"
-"_size" "5496"
+"_change_number" "27887635"
+"_sha" "4bc780eadd6262f46af812177e967e3ba9fe895d"
+"_size" "5369"
