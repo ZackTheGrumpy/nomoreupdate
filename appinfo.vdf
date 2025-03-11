@@ -90,17 +90,17 @@
 	"header_image"
 	{
 		"english" "7fcbaff6b075af81fb43272f89ba2edf71c68902/header.jpg"
-		"schinese" "header_schinese.jpg"
-		"tchinese" "header_tchinese.jpg"
-		"japanese" "header_japanese.jpg"
-		"koreana" "header_koreana.jpg"
+		"schinese" "0e6543231013746788be21a653eb638bf2b2467e/header_schinese.jpg"
+		"tchinese" "de6837374326a850c739d5dc0beddeaa5959b513/header_tchinese.jpg"
+		"japanese" "58beae326c896d3351ba53a40184b31fc4a25708/header_japanese.jpg"
+		"koreana" "153dc383948666b53cb0e87d5226c6075dae4a3e/header_koreana.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
 		"library_hero" "en,zh-cn,zh-tw,ja,ko"
-		"library_logo" "en,zh-cn,zh-tw,ja,ko"
-		"library_header" "en"
+		"library_logo" "en,zh-cn,zh-tw,ja,ko,zh-xc"
+		"library_header" "en,zh-tw,ja,ko,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -152,19 +152,21 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
-				"schinese" "logo_schinese.png"
-				"tchinese" "logo_tchinese.png"
-				"japanese" "logo_japanese.png"
-				"koreana" "logo_koreana.png"
+				"english" "ceec253939d7bda33c9010beff0f4b4f47e0c85b/logo.png"
+				"schinese" "9c57b7d044400469fa1c23bf09c2317f32625be9/logo_schinese.png"
+				"tchinese" "9c57b7d044400469fa1c23bf09c2317f32625be9/logo_tchinese.png"
+				"japanese" "69602b469ac90eab8177bc77d5e74e5433f9f339/logo_japanese.png"
+				"koreana" "6f8dfe8e723406db93802bb538d80b6416a368d2/logo_koreana.png"
+				"sc_schinese" "9c57b7d044400469fa1c23bf09c2317f32625be9/logo_sc_schinese.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
-				"schinese" "logo_schinese_2x.png"
-				"tchinese" "logo_tchinese_2x.png"
-				"japanese" "logo_japanese_2x.png"
-				"koreana" "logo_koreana_2x.png"
+				"english" "ceec253939d7bda33c9010beff0f4b4f47e0c85b/logo_2x.png"
+				"schinese" "9c57b7d044400469fa1c23bf09c2317f32625be9/logo_schinese_2x.png"
+				"tchinese" "9c57b7d044400469fa1c23bf09c2317f32625be9/logo_tchinese_2x.png"
+				"japanese" "69602b469ac90eab8177bc77d5e74e5433f9f339/logo_japanese_2x.png"
+				"koreana" "6f8dfe8e723406db93802bb538d80b6416a368d2/logo_koreana_2x.png"
+				"sc_schinese" "9c57b7d044400469fa1c23bf09c2317f32625be9/logo_sc_schinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -178,14 +180,22 @@
 			"image"
 			{
 				"english" "7fcbaff6b075af81fb43272f89ba2edf71c68902/library_header.jpg"
+				"tchinese" "de6837374326a850c739d5dc0beddeaa5959b513/library_header_tchinese.jpg"
+				"japanese" "58beae326c896d3351ba53a40184b31fc4a25708/library_header_japanese.jpg"
+				"koreana" "153dc383948666b53cb0e87d5226c6075dae4a3e/library_header_koreana.jpg"
+				"schinese" "0e6543231013746788be21a653eb638bf2b2467e/library_header_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "7fcbaff6b075af81fb43272f89ba2edf71c68902/library_header_2x.jpg"
+				"tchinese" "de6837374326a850c739d5dc0beddeaa5959b513/library_header_tchinese_2x.jpg"
+				"japanese" "58beae326c896d3351ba53a40184b31fc4a25708/library_header_japanese_2x.jpg"
+				"koreana" "153dc383948666b53cb0e87d5226c6075dae4a3e/library_header_koreana_2x.jpg"
+				"schinese" "0e6543231013746788be21a653eb638bf2b2467e/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1741411266"
+	"store_asset_mtime" "1741550350"
 	"associations"
 	{
 		"0"
@@ -343,7 +353,7 @@
 		"19" "122"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -393,15 +403,15 @@
 		{
 			"public"
 			{
-				"gid" "88158908984507167"
+				"gid" "4075307005545555007"
 				"size" "1087091728"
-				"download" "226874320"
+				"download" "226874384"
 			}
 			"beta"
 			{
-				"gid" "88158908984507167"
+				"gid" "4075307005545555007"
 				"size" "1087091728"
-				"download" "226874320"
+				"download" "226874384"
 			}
 		}
 	}
@@ -415,15 +425,15 @@
 		{
 			"public"
 			{
-				"gid" "517434641102114708"
+				"gid" "6880440590619245055"
 				"size" "1112096407"
-				"download" "234429680"
+				"download" "234429600"
 			}
 			"beta"
 			{
-				"gid" "517434641102114708"
+				"gid" "6880440590619245055"
 				"size" "1112096407"
-				"download" "234429680"
+				"download" "234429600"
 			}
 		}
 	}
@@ -437,15 +447,15 @@
 		{
 			"public"
 			{
-				"gid" "2785031462877535555"
+				"gid" "406672362870653277"
 				"size" "1088353169"
-				"download" "226755280"
+				"download" "226755248"
 			}
 			"beta"
 			{
-				"gid" "2785031462877535555"
+				"gid" "406672362870653277"
 				"size" "1088353169"
-				"download" "226755280"
+				"download" "226755248"
 			}
 		}
 	}
@@ -454,14 +464,14 @@
 	{
 		"public"
 		{
-			"buildid" "17651759"
-			"timeupdated" "1741512686"
+			"buildid" "17673995"
+			"timeupdated" "1741681397"
 		}
 		"beta"
 		{
-			"buildid" "17651759"
+			"buildid" "17673995"
 			"description" "Staging branch of Dice & Fold, usually full of bugs"
-			"timeupdated" "1741512681"
+			"timeupdated" "1741681350"
 		}
 	}
 }
@@ -515,6 +525,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27857731"
-"_sha" "f659afc57171f7bc9054ad2fb7ea0cef06b69a80"
-"_size" "10251"
+"_change_number" "27886568"
+"_sha" "5c6b77b8a261b50a76413c3becdbfedd2a3a5b6f"
+"_size" "11736"
