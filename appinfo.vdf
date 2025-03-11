@@ -1,0 +1,355 @@
+"appid" "2174500"
+"common"
+{
+	"name" "Parasite Black"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "eeebf2d2116e42721a2d828f4d17d75ef463e6c3"
+	"clienttga" "321c2f1898748294272722fe4f50e9009a4f0f7a"
+	"clienticns" "be21fd813e83d2fcc4bf5b9af5ba636f78a63960"
+	"linuxclienticon" "be21fd813e83d2fcc4bf5b9af5ba636f78a63960"
+	"clienticon" "be21fd813e83d2fcc4bf5b9af5ba636f78a63960"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "3"
+		"3" "4"
+		"4" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "f2312e966489cc31f279154d0ec28c2fb9ec7b17/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.103850641773633"
+			"height_pct" "99.24008549038234"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "669b60bca243cf0e9c2cdeb76e3f759507664d06/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "669b60bca243cf0e9c2cdeb76e3f759507664d06/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "87dca9d017ee6304a0fc926dd09558ca0830e00a/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "87dca9d017ee6304a0fc926dd09558ca0830e00a/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "87dca9d017ee6304a0fc926dd09558ca0830e00a/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "23.103850641773633"
+				"height_pct" "99.24008549038234"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "18f986fdd9ac57a2a8200f6a47c60d8df056db9a/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "18f986fdd9ac57a2a8200f6a47c60d8df056db9a/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729083947"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Damned Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Satyr Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Satyr Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733751095"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2174500"
+	"store_tags"
+	{
+		"0" "11014"
+		"1" "12095"
+		"2" "3871"
+		"3" "4604"
+		"4" "24904"
+		"5" "44868"
+		"6" "4325"
+		"7" "9551"
+		"8" "6426"
+		"9" "4486"
+		"10" "122"
+		"11" "5611"
+		"12" "3854"
+		"13" "4172"
+		"14" "4182"
+		"15" "21"
+		"16" "14139"
+		"17" "1741"
+		"18" "3799"
+		"19" "6650"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Damned Studios"
+	"publisher" "Satyr Games"
+	"listofdlc" "3404970"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Parasite Black"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ParasiteBlack.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "ParasiteBlack.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "ParasiteBlack.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"2174502"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3169834791310108226"
+				"size" "2047101086"
+				"download" "1892979872"
+			}
+			"beta_test"
+			{
+				"gid" "9139851941375887642"
+				"size" "2047087334"
+				"download" "1892966912"
+			}
+			"pre-production"
+			{
+				"gid" "3169834791310108226"
+				"size" "2047101086"
+				"download" "1892979872"
+			}
+		}
+	}
+	"2174501"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2976900130542241038"
+				"size" "2047101086"
+				"download" "1893197360"
+			}
+			"beta_test"
+			{
+				"gid" "3665575222598509976"
+				"size" "2047087334"
+				"download" "1893185520"
+			}
+			"pre-production"
+			{
+				"gid" "2976900130542241038"
+				"size" "2047101086"
+				"download" "1893197360"
+			}
+		}
+	}
+	"2174503"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3456658539585110668"
+				"size" "2047382098"
+				"download" "1893466112"
+			}
+			"pre-production"
+			{
+				"gid" "3456658539585110668"
+				"size" "2047382098"
+				"download" "1893466112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16915271"
+			"timeupdated" "1736177127"
+		}
+		"beta_test"
+		{
+			"buildid" "16646488"
+			"description" "Nondev testing"
+			"timeupdated" "1733418941"
+		}
+		"pre-production"
+		{
+			"buildid" "16915271"
+			"description" "Before going to production"
+			"timeupdated" "1736147760"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "persistent"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "persistent.*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27860702"
+"_sha" "0b7ab5de8702490b3ac49b39c9cb8f380730603e"
+"_size" "5966"
