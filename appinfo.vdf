@@ -76,6 +76,44 @@
 			"height_pct" "73.86391949543332"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "93.52451424717108"
+				"height_pct" "73.86391949543332"
+			}
+		}
+	}
 	"store_asset_mtime" "1645643557"
 	"associations"
 	{
@@ -152,9 +190,9 @@
 		"6" "3878"
 		"7" "1625"
 		"8" "5310"
-		"9" "1756"
+		"9" "1669"
 		"10" "3871"
-		"11" "1669"
+		"11" "1756"
 		"12" "4840"
 		"13" "19"
 		"14" "7481"
@@ -225,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "3692810219764141729"
-				"size" "365171723"
-				"download" "189712784"
+				"gid" "8523388961009583973"
+				"size" "365266183"
+				"download" "189732800"
 			}
 			"1_0_1_branch"
 			{
@@ -326,46 +364,13 @@
 				"download" "187227392"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "1EBC2AB95EC68F1FE0323EBE5FF12F5C"
-				"size" "F4B4C06C0390DDE9F1F9E04203F759A7"
-				"download" "B9B971EFAD8AFC23C9A2F5A0DE75025B"
-			}
-			"ranked_fix_build"
-			{
-				"gid" "B1FF4015B98DC8EB860E48AADB12CF46"
-				"size" "F165CADC93ECF8B69D576C686BE6B205"
-				"download" "207D9BE1B6C1753166F7E664B672BF79"
-			}
-			"show_build"
-			{
-				"gid" "918BEDE7A9CBD32AF5043E3F466F94BB"
-				"size" "1308DDFD8D4089296B3EA23ACAE8A5F4"
-				"download" "956E647D1DD808FB8F56D6345C49B933"
-			}
-			"workshop_beta"
-			{
-				"gid" "07A36F0C59551E839FC6EE4A288E5CD6"
-				"size" "01AAA8F3FE5745D14C0194F14B78C4BF"
-				"download" "ADC1548514CCF7B01BC82FEED0137E01"
-			}
-			"beta"
-			{
-				"gid" "7517699688104237410F93B172E47648"
-				"size" "2F42DB589B4639D19AC9E9CBEECBEF4F"
-				"download" "D414761B96F5219A5EE2CB5D005A3A85"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15053450"
-			"timeupdated" "1721160240"
+			"buildid" "17579480"
+			"timeupdated" "1741712070"
 		}
 		"1_0_1_branch"
 		{
@@ -433,12 +438,6 @@
 			"description" "April Fools Branch"
 			"timeupdated" "1522630940"
 		}
-		"developer"
-		{
-			"buildid" "13252992"
-			"pwdrequired" "1"
-			"timeupdated" "1706044931"
-		}
 		"early_access_launch"
 		{
 			"buildid" "2167817"
@@ -457,30 +456,6 @@
 			"description" "For Public Testing"
 			"timeupdated" "1671734757"
 		}
-		"ranked_fix_build"
-		{
-			"buildid" "10789891"
-			"pwdrequired" "1"
-			"timeupdated" "1679011427"
-		}
-		"show_build"
-		{
-			"buildid" "9443407"
-			"pwdrequired" "1"
-			"timeupdated" "1662154834"
-		}
-		"workshop_beta"
-		{
-			"buildid" "10092007"
-			"pwdrequired" "1"
-			"timeupdated" "1671228231"
-		}
-		"beta"
-		{
-			"buildid" "15053450"
-			"pwdrequired" "1"
-			"timeupdated" "1721157461"
-		}
 		"previous_live_branch"
 		{
 			"buildid" "15042209"
@@ -494,6 +469,7 @@
 			"timeupdated" "1721160459"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -535,3 +511,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27895542"
+"_sha" "7a53efac6bc073559b7f2bf81511317d9ea4bb2a"
+"_size" "9953"
